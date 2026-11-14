@@ -13,15 +13,22 @@ const STOP_WORDS = new Set(
   ).split(/\s+/),
 )
 
-/** Reduce an English word to a rough stem so "vaccines", "vaccinated" and "vaccine" meet. */
+/**
+ * Reduce an English word to a rough stem so singular/plural and simple verb forms meet:
+ * "vaccines"/"vaccine" -> "vaccin", "glasses"/"glass" -> "glass", "allergies"/"allergy" -> "allergi",
+ * "cracking"/"crack" -> "crack". Words of 3 letters or fewer are left alone.
+ */
 function stem(word: string): string {
   let w = word
-  for (const suffix of ['ations', 'ation', 'ings', 'ing', 'edly', 'ed', 'ies', 'es', 's', 'ly']) {
+  for (const suffix of ['ations', 'ation', 'ings', 'ing', 'edly', 'ed', 'ly']) {
     if (w.length > suffix.length + 3 && w.endsWith(suffix)) {
       w = w.slice(0, -suffix.length)
       break
     }
   }
+  if (w.length > 3 && w.endsWith('s') && !w.endsWith('ss')) w = w.slice(0, -1)
+  if (w.length > 3 && w.endsWith('e')) w = w.slice(0, -1)
+  if (w.length > 3 && w.endsWith('y')) w = w.slice(0, -1) + 'i'
   return w
 }
 
@@ -31,6 +38,7 @@ export function tokens(text: string): string[] {
     .toLowerCase()
     .normalize('NFKD')
     .replace(/[̀-ͯ]/g, '')
+    .replace(/['’]/g, '') // "can't" -> "cant", so it is one word either way it is typed
     .replace(/[^a-z0-9\s-]/g, ' ')
     .split(/[\s-]+/)
     .filter((t) => t.length > 1 && !STOP_WORDS.has(t))
@@ -44,7 +52,12 @@ export type Field = { text: string; weight: number; phrase?: boolean }
  * Each field contributes weight * (share of its words found in the query) for multi-word phrases,
  * or weight per query word it contains. A whole phrase appearing verbatim in the query gets a bonus.
  */
-export function score(queryText: string, fields: Field[]): number {
+//
+// mode 'sum' (fact checker): field scores add up, so a claim matching several distinct keywords wins.
+// mode 'best' (names + aliases of one thing, e.g. a symptom): only the best single field counts, scaled
+// by the share of the query's words it covers. Otherwise a record with many similar aliases ("cough",
+// "coughing", "chesty cough") would outrank the record that matches the whole query ("coughing up blood").
+export function score(queryText: string, fields: Field[], mode: 'sum' | 'best' = 'sum'): number {
   const q = tokens(queryText)
   if (q.length === 0) return 0
   const qSet = new Set(q)
@@ -57,23 +70,38 @@ export function score(queryText: string, fields: Field[]): number {
       // Keyword / alias phrase: reward if all of its words are in the query, partial credit otherwise.
       const hit = ft.filter((t) => qSet.has(t)).length
       if (hit === 0) continue
-      const share = hit / ft.length
-      total += f.weight * (share === 1 ? 1 : share * 0.4)
-      if (ft.length > 1 && qJoined.includes(' ' + ft.join(' ') + ' ')) total += f.weight * 0.5
+      const share = hit / ft.length // share of the field's words found in the query
+      const bonus = ft.length > 1 && qJoined.includes(' ' + ft.join(' ') + ' ') ? f.weight * 0.5 : 0
+      if (mode === 'best') {
+        // coverage: share of the query's words found in the field. "chest pain" fully covered by the
+        // name "Chest pain or tightness" (coverage 1, share 2/3) scores 0.83 * weight.
+        const fSet = new Set(ft)
+        const coverage = q.filter((t) => fSet.has(t)).length / q.length
+        total = Math.max(total, f.weight * coverage * (0.5 + 0.5 * share) + bonus)
+      } else {
+        total += f.weight * (share === 1 ? 1 : share * 0.4) + bonus
+      }
     } else {
       // Free text (e.g. the myth sentence): fraction of query words it covers.
       const fSet = new Set(ft)
       const hit = q.filter((t) => fSet.has(t)).length
-      total += f.weight * (hit / q.length)
+      const s = f.weight * (hit / q.length)
+      total = mode === 'best' ? Math.max(total, s) : total + s
     }
   }
   return total
 }
 
 /** Rank records by score, best first, dropping those under minScore. */
-export function rank<T>(queryText: string, records: T[], fieldsOf: (r: T) => Field[], minScore: number): { item: T; score: number }[] {
+export function rank<T>(
+  queryText: string,
+  records: T[],
+  fieldsOf: (r: T) => Field[],
+  minScore: number,
+  mode: 'sum' | 'best' = 'sum',
+): { item: T; score: number }[] {
   return records
-    .map((item) => ({ item, score: score(queryText, fieldsOf(item)) }))
+    .map((item) => ({ item, score: score(queryText, fieldsOf(item), mode) }))
     .filter((r) => r.score >= minScore)
     .sort((a, b) => b.score - a.score)
 }

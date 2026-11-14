@@ -1,5 +1,34 @@
 [
  {
+  "id": "leaky-gut-causes-everything",
+  "category": "Digestion",
+  "myth": "'Leaky gut syndrome' is behind most chronic illnesses and special supplements or diets can heal it.",
+  "rating": "misleading",
+  "fact": "The gut lining does become more permeable in some diagnosed conditions, such as coeliac disease and inflammatory bowel disease. 'Leaky gut syndrome' as a cause of fatigue, autism, skin problems or most chronic illness is not a recognised diagnosis, and there is no reliable test or proven supplement to 'heal' it.",
+  "explanation": "Researchers are studying gut permeability, but it is not yet clear whether it causes disease or is a result of it. Products marketed for leaky gut can be expensive and may delay proper diagnosis. Ongoing gut symptoms such as diarrhoea, weight loss or blood in your poo should be checked by a doctor.",
+  "keywords": [
+   "leaky gut",
+   "leaky gut syndrome",
+   "gut permeability",
+   "heal your gut",
+   "gut healing supplements",
+   "leaky gut cure",
+   "l-glutamine",
+   "gut lining"
+  ],
+  "sources": [
+   {
+    "label": "Harvard Health Publishing — Leaky gut: what is it, and what does it mean for you?",
+    "url": "https://www.health.harvard.edu/blog/leaky-gut-what-is-it-and-what-does-it-mean-for-you-2017092212451"
+   },
+   {
+    "label": "Cleveland Clinic — Leaky gut syndrome",
+    "url": "https://my.clevelandclinic.org/health/diseases/22724-leaky-gut-syndrome"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "5g-spreads-covid",
   "category": "Infections & colds",
   "myth": "5G mobile networks spread COVID-19 or cause its symptoms.",
@@ -197,6 +226,89 @@
    {
     "label": "NHS — Heart attack",
     "url": "https://www.nhs.uk/conditions/heart-attack/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "juice-cleanse-kickstarts-weight-loss",
+  "category": "Weight",
+  "myth": "A juice cleanse is a healthy way to detox and kick-start weight loss.",
+  "rating": "false",
+  "fact": "There is no good evidence that juice cleanses or 'detox' programmes remove toxins or lead to lasting weight loss. Any quick drop on the scales is mostly water and food in the gut, and it usually comes back once normal eating resumes.",
+  "explanation": "Your liver, kidneys and gut already clear waste products from the body. Juice-only plans are low in protein and fibre, can be high in sugar, and may cause problems for people with kidney disease or diabetes. A steady, balanced eating pattern does more for weight and health than a few days of juice.",
+  "keywords": [
+   "juice cleanse",
+   "juice detox",
+   "juice fast",
+   "detox diet",
+   "cleanse weight loss",
+   "kickstart weight loss",
+   "juicing",
+   "green juice"
+  ],
+  "sources": [
+   {
+    "label": "NCCIH — \"Detoxes\" and \"cleanses\": what you need to know",
+    "url": "https://www.nccih.nih.gov/health/detoxes-and-cleanses-what-you-need-to-know"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "liver-gallbladder-flush-passes-stones",
+  "category": "Digestion",
+  "myth": "A liver or gallbladder 'flush' with olive oil and lemon juice makes you pass your gallstones.",
+  "rating": "false",
+  "fact": "There is no good evidence that 'flushes' remove gallstones. The green 'stones' people pass afterwards are thought to be lumps formed from the oil and digestive juices in the gut, not real gallstones.",
+  "explanation": "Gallstones that cause no symptoms often need no treatment. Gallstones that cause repeated pain are usually treated with keyhole surgery to remove the gallbladder. Severe tummy pain with a high temperature or yellowing skin or eyes needs urgent medical help.",
+  "keywords": [
+   "liver flush",
+   "gallbladder flush",
+   "gallstone flush",
+   "olive oil lemon juice",
+   "pass gallstones",
+   "gallstones natural",
+   "liver cleanse"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Gallstones",
+    "url": "https://www.nhs.uk/conditions/gallstones/"
+   },
+   {
+    "label": "NCCIH — \"Detoxes\" and \"cleanses\": what you need to know",
+    "url": "https://www.nccih.nih.gov/health/detoxes-and-cleanses-what-you-need-to-know"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "cortisol-face-and-belly",
+  "category": "Weight",
+  "myth": "A puffy 'cortisol face' or belly fat means your cortisol is too high and you need a cortisol detox or supplements.",
+  "rating": "false",
+  "fact": "A rounder face or fat around the middle is very common and is usually down to weight gain, genes, age, fluid, sleep or alcohol, not a hormone problem. Truly high cortisol (Cushing's syndrome) is uncommon, has other signs as well, and is diagnosed with medical tests, not by looking in a mirror.",
+  "explanation": "Social media trends that label normal faces and bodies as 'cortisol face' often lead on to selling supplements or 'cortisol cocktails' that have not been shown to lower cortisol. Cushing's syndrome is most often caused by long-term steroid medicines; other signs can include purple stretch marks, thin skin that bruises easily, and muscle weakness. If you are worried, a GP can arrange proper tests. Day-to-day stress management, sleep and activity are good for health, but no product 'flushes out' cortisol.",
+  "keywords": [
+   "cortisol face",
+   "cortisol belly",
+   "high cortisol",
+   "cortisol detox",
+   "moon face",
+   "puffy face",
+   "cortisol cocktail",
+   "adrenal",
+   "stress belly"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Cushing's syndrome",
+    "url": "https://www.nhs.uk/conditions/cushings-syndrome/"
+   },
+   {
+    "label": "MedlinePlus — Cushing's syndrome",
+    "url": "https://medlineplus.gov/cushingsyndrome.html"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -1039,6 +1151,63 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "obesity-just-lack-of-willpower",
+  "category": "Weight",
+  "myth": "Being overweight is simply a lack of willpower.",
+  "rating": "false",
+  "fact": "Body weight is shaped by many things at once, including genes, hormones, medicines, sleep, stress, income, the food environment and how active daily life allows people to be. The World Health Organization describes obesity as a complex, chronic disease, not a personal failing.",
+  "explanation": "Individual choices matter, but they are made in an environment full of cheap, high-calorie food and little need to move. Some medicines and medical conditions also cause weight gain. Blame and stigma tend to make things worse, for example by putting people off seeing a doctor, while practical support and treatment can help.",
+  "keywords": [
+   "willpower",
+   "lazy",
+   "obesity causes",
+   "fat shaming",
+   "weight stigma",
+   "overweight lazy",
+   "lack of discipline",
+   "why am i overweight"
+  ],
+  "sources": [
+   {
+    "label": "WHO — Obesity and overweight",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight"
+   },
+   {
+    "label": "NIDDK — Factors affecting weight & health",
+    "url": "https://www.niddk.nih.gov/health-information/weight-management/adult-overweight-obesity/factors-affecting-weight-health"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "berberine-natures-ozempic",
+  "category": "Weight",
+  "myth": "Berberine is 'nature's Ozempic' and works just as well as weight-loss injections.",
+  "rating": "false",
+  "fact": "Berberine is a plant compound sold as a supplement. Small studies suggest it may have modest effects on blood sugar and weight, but it has not been shown to work anything like prescription weight-loss medicines, and supplements are not tested the way medicines are.",
+  "explanation": "Berberine can cause stomach upset and may interact with other medicines, including diabetes medicines. Supplement products can vary in what they actually contain. Anyone considering it, especially if pregnant, breastfeeding or taking other medicines, should check with a doctor or pharmacist.",
+  "keywords": [
+   "berberine",
+   "natures ozempic",
+   "nature's ozempic",
+   "natural ozempic",
+   "berberine weight loss",
+   "supplement ozempic",
+   "natural glp-1"
+  ],
+  "sources": [
+   {
+    "label": "NCCIH — Using dietary supplements wisely",
+    "url": "https://www.nccih.nih.gov/health/using-dietary-supplements-wisely"
+   },
+   {
+    "label": "NIDDK — Prescription medications to treat overweight & obesity",
+    "url": "https://www.niddk.nih.gov/health-information/weight-management/prescription-medications-treat-overweight-obesity"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "bipolar-just-mood-swings",
   "category": "Mental health",
   "myth": "Bipolar disorder is just having mood swings like everyone does.",
@@ -1062,6 +1231,35 @@
    {
     "label": "NHS — Mental health",
     "url": "https://www.nhs.uk/mental-health/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "blood-in-poo-just-piles",
+  "category": "Digestion",
+  "myth": "Blood in your poo is just piles, so there's no need to see a doctor.",
+  "rating": "false",
+  "fact": "Piles are a common cause of bright red blood after going to the toilet, but blood in your poo can also be a sign of other conditions, including bowel cancer. Health services advise seeing a GP if you have blood in your poo, especially if it keeps happening or comes with other changes.",
+  "explanation": "Warning signs that make a check more important include a lasting change in bowel habits, tummy pain, unexplained weight loss, tiredness, or dark or black poo. Most people with these symptoms do not have cancer, but when bowel cancer is found early it is much more treatable. Doctors are used to these questions, so there is no need to feel embarrassed.",
+  "keywords": [
+   "blood in poo",
+   "blood in stool",
+   "rectal bleeding",
+   "piles",
+   "haemorrhoids",
+   "bleeding bum",
+   "bowel cancer symptoms",
+   "blood toilet paper"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Symptoms of bowel cancer",
+    "url": "https://www.nhs.uk/conditions/bowel-cancer/symptoms/"
+   },
+   {
+    "label": "NHS — Piles (haemorrhoids)",
+    "url": "https://www.nhs.uk/conditions/piles-haemorrhoids/"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -1379,6 +1577,34 @@
    {
     "label": "American Academy of Ophthalmology — Eye health",
     "url": "https://www.aao.org/eye-health"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "negative-calorie-foods",
+  "category": "Weight",
+  "myth": "Celery and other 'negative-calorie' foods burn more calories to digest than they contain.",
+  "rating": "false",
+  "fact": "Digesting food uses only a small share of the energy it provides, roughly a tenth on average. No ordinary food takes more energy to digest than it supplies, so 'negative-calorie' foods do not exist.",
+  "explanation": "Celery, cucumber and leafy greens are very low in calories and high in water and fibre, so they are a filling, healthy part of a diet. They simply do not cause weight loss on their own. Diets built only around such foods can leave people short of protein and other nutrients.",
+  "keywords": [
+   "negative calorie",
+   "negative calorie foods",
+   "celery burns calories",
+   "celery diet",
+   "cucumber",
+   "zero calorie food",
+   "foods that burn fat"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Understanding calories",
+    "url": "https://www.nhs.uk/live-well/healthy-weight/managing-your-weight/understanding-calories/"
+   },
+   {
+    "label": "Harvard Health Publishing — The truth about metabolism",
+    "url": "https://www.health.harvard.edu/staying-healthy/the-truth-about-metabolism"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -1986,6 +2212,35 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "apple-cider-vinegar-cures-reflux",
+  "category": "Digestion",
+  "myth": "Drinking apple cider vinegar cures heartburn and acid reflux.",
+  "rating": "false",
+  "fact": "There is no good scientific evidence that apple cider vinegar treats heartburn or acid reflux, and its acidity may make symptoms worse for some people. Proven measures include eating smaller meals, avoiding trigger foods, losing excess weight, raising the head of the bed and pharmacy remedies.",
+  "explanation": "The idea comes from the theory that reflux is caused by too little stomach acid, which is not true for most people with reflux. Undiluted vinegar can also damage tooth enamel and irritate the throat. Heartburn that happens most days, or comes with difficulty swallowing, weight loss or vomiting, should be checked by a doctor.",
+  "keywords": [
+   "apple cider vinegar",
+   "acv",
+   "heartburn",
+   "acid reflux",
+   "gerd",
+   "indigestion remedy",
+   "vinegar reflux",
+   "low stomach acid"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Heartburn and acid reflux",
+    "url": "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/"
+   },
+   {
+    "label": "NIDDK — Acid reflux (GER & GERD) in adults",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/acid-reflux-ger-gerd-adults"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "apple-cider-vinegar-weight-loss",
   "category": "Weight",
   "myth": "Drinking apple cider vinegar melts away fat.",
@@ -2005,6 +2260,54 @@
    {
     "label": "NIH ODS — Dietary supplements for weight loss",
     "url": "https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "cold-water-after-meals-solidifies-fat",
+  "category": "Digestion",
+  "myth": "Drinking cold water after a meal turns the oil in your food solid, which builds up in your gut and causes heart attacks or cancer.",
+  "rating": "false",
+  "fact": "Your stomach and intestines are kept at body temperature, so a cold drink warms up quickly and cannot set fats into solid lumps. Fats are broken down by bile and enzymes and absorbed regardless of what you drink.",
+  "explanation": "This claim has circulated widely in chain messages, often alongside advice to drink only warm water. Choosing warm drinks because you like them is fine, but cold water does not cause heart attacks, cancer or blocked intestines. Heart disease risk depends on factors such as smoking, blood pressure, cholesterol, diabetes and overall diet.",
+  "keywords": [
+   "cold water after meal",
+   "cold water fat",
+   "cold drink oil solidify",
+   "warm water after eating",
+   "cold water cancer",
+   "cold water heart attack",
+   "whatsapp cold water"
+  ],
+  "sources": [
+   {
+    "label": "NIDDK — Your digestive system & how it works",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "green-tea-burns-fat",
+  "category": "Weight",
+  "myth": "Drinking green tea or taking green tea extract burns belly fat.",
+  "rating": "misleading",
+  "fact": "Research suggests green tea and green tea extract have, at most, a very small effect on weight that is unlikely to matter in practice. Concentrated green tea extract supplements have been linked to rare cases of liver injury.",
+  "explanation": "Plain green tea is a fine drink and a better choice than sugary drinks, which can help indirectly. Pills sold as 'fat burners' often contain concentrated extracts and caffeine, which can cause side effects. Weight change still depends mainly on overall diet and activity.",
+  "keywords": [
+   "green tea",
+   "green tea extract",
+   "green tea weight loss",
+   "matcha fat burner",
+   "green tea belly fat",
+   "egcg",
+   "tea burns fat"
+  ],
+  "sources": [
+   {
+    "label": "NCCIH — Green tea",
+    "url": "https://www.nccih.nih.gov/health/green-tea"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -2111,6 +2414,57 @@
    {
     "label": "NHS — Healthy weight",
     "url": "https://www.nhs.uk/live-well/healthy-weight/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "water-with-meals-dilutes-stomach-acid",
+  "category": "Digestion",
+  "myth": "Drinking water with meals dilutes your stomach acid and ruins digestion.",
+  "rating": "false",
+  "fact": "Drinking water with food does not stop you digesting it. The stomach adjusts the acid and enzymes it releases, and fluids actually help break down food and move it through the gut.",
+  "explanation": "Water also helps soften stools and prevent constipation. If large drinks with meals make you feel uncomfortably full or worsen reflux, it is fine to sip more slowly, but there is no need to avoid water at mealtimes.",
+  "keywords": [
+   "water with meals",
+   "drinking while eating",
+   "dilute stomach acid",
+   "water digestion",
+   "drink water after eating",
+   "water during meals"
+  ],
+  "sources": [
+   {
+    "label": "NIDDK — Your digestive system & how it works",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "eating-before-bed-worsens-reflux",
+  "category": "Digestion",
+  "myth": "Eating a big meal shortly before bed can make heartburn worse.",
+  "rating": "mostly-true",
+  "fact": "Lying down with a full stomach makes it easier for stomach acid to flow back up into the food pipe. Health services advise avoiding eating for a few hours before going to bed if you get heartburn or acid reflux.",
+  "explanation": "Other helpful steps include eating smaller meals, raising the head end of your bed, keeping to a healthy weight and noticing which foods or drinks, such as alcohol, coffee or fatty foods, trigger your symptoms. This advice is about reflux; late eating does not cause heartburn in everyone.",
+  "keywords": [
+   "eating before bed",
+   "late night eating heartburn",
+   "reflux at night",
+   "acid reflux",
+   "heartburn bed",
+   "night time heartburn",
+   "gerd night"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Heartburn and acid reflux",
+    "url": "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/"
+   },
+   {
+    "label": "NIDDK — Acid reflux (GER & GERD) in adults",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/acid-reflux-ger-gerd-adults"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -2358,6 +2712,35 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "small-frequent-meals-boost-metabolism",
+  "category": "Weight",
+  "myth": "Eating six small meals a day 'stokes your metabolism' and helps you burn more fat.",
+  "rating": "false",
+  "fact": "The energy your body uses to digest food depends mainly on how much you eat in total, not on how many meals you split it into. Studies comparing frequent small meals with fewer larger meals at the same calorie intake find no meaningful difference in weight loss.",
+  "explanation": "Some people find smaller, regular meals help them manage hunger, and that is a perfectly good reason to eat that way. Others do better with three meals and fewer snacks. What matters most for weight is the overall amount and quality of food across the day.",
+  "keywords": [
+   "small meals",
+   "six meals a day",
+   "eat every 3 hours",
+   "stoke metabolism",
+   "boost metabolism",
+   "meal frequency",
+   "grazing",
+   "snacking metabolism"
+  ],
+  "sources": [
+   {
+    "label": "Harvard Health Publishing — The truth about metabolism",
+    "url": "https://www.health.harvard.edu/staying-healthy/the-truth-about-metabolism"
+   },
+   {
+    "label": "NHS — Understanding calories",
+    "url": "https://www.nhs.uk/live-well/healthy-weight/managing-your-weight/understanding-calories/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "sugar-feeds-cancer",
   "category": "Cancer",
   "myth": "Eating sugar makes cancer grow faster, so cutting out sugar cures cancer.",
@@ -2570,6 +2953,35 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "everyone-needs-parasite-cleanse",
+  "category": "Digestion",
+  "myth": "Everyone has hidden parasites and should do a parasite cleanse.",
+  "rating": "false",
+  "fact": "Most people in countries with clean water and sanitation do not have intestinal parasites. Real parasite infections are diagnosed with tests, such as stool samples, and treated with specific medicines, not general 'cleanse' kits.",
+  "explanation": "Social media videos often show strands of gut lining, mucus or undigested food passed after a cleanse and claim they are worms. Herbal parasite cleanses are not proven to work and some can cause side effects or interact with medicines. If you think you or your child has worms, such as itching around the bottom at night, a pharmacist or doctor can advise on proper treatment.",
+  "keywords": [
+   "parasite cleanse",
+   "parasites",
+   "worms",
+   "detox parasites",
+   "everyone has parasites",
+   "deworming",
+   "rope worms",
+   "parasite detox"
+  ],
+  "sources": [
+   {
+    "label": "MedlinePlus — Parasitic diseases",
+    "url": "https://medlineplus.gov/parasiticdiseases.html"
+   },
+   {
+    "label": "NHS — Threadworms",
+    "url": "https://www.nhs.uk/conditions/threadworms/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "must-drink-eight-glasses-of-water",
   "category": "Nutrition",
   "myth": "Everyone must drink exactly eight glasses of water a day.",
@@ -2673,6 +3085,35 @@
    {
     "label": "National Eye Institute",
     "url": "https://www.nei.nih.gov/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "belly-fat-more-harmful",
+  "category": "Weight",
+  "myth": "Fat around your waist is more harmful to health than fat elsewhere on your body.",
+  "rating": "true",
+  "fact": "Fat stored deep around the abdominal organs (visceral fat) is more strongly linked to type 2 diabetes, heart disease and some other conditions than fat on the hips or thighs. That is why waist size is used alongside BMI to judge health risk.",
+  "explanation": "You can carry extra visceral fat even if your weight is in the 'healthy' BMI range. A simple check is your waist measurement: as a general guide, your waist should be less than half your height. Regular activity, a balanced diet, enough sleep and limiting alcohol all help reduce visceral fat; sit-ups alone do not target it.",
+  "keywords": [
+   "belly fat",
+   "visceral fat",
+   "waist size",
+   "apple shape",
+   "waist measurement",
+   "tummy fat dangerous",
+   "abdominal fat",
+   "central obesity"
+  ],
+  "sources": [
+   {
+    "label": "Harvard Health Publishing — Taking aim at belly fat",
+    "url": "https://www.health.harvard.edu/staying-healthy/taking-aim-at-belly-fat"
+   },
+   {
+    "label": "NHS — Overweight and obesity",
+    "url": "https://www.nhs.uk/conditions/overweight-and-obesity/"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -3117,6 +3558,30 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "ginger-helps-nausea",
+  "category": "Digestion",
+  "myth": "Ginger can help settle nausea.",
+  "rating": "mostly-true",
+  "fact": "Research suggests ginger may help ease some types of nausea, including pregnancy-related nausea, though results are mixed and effects are usually modest. It is generally considered safe in food amounts.",
+  "explanation": "Ginger tea, biscuits or sweets are a reasonable thing to try for mild nausea. High-dose ginger supplements may interact with blood-thinning medicines, so check with a pharmacist if you take other medicines. Vomiting that won't stop, or signs of dehydration, needs medical advice.",
+  "keywords": [
+   "ginger",
+   "ginger nausea",
+   "ginger tea",
+   "morning sickness ginger",
+   "feeling sick remedy",
+   "travel sickness",
+   "ginger vomiting"
+  ],
+  "sources": [
+   {
+    "label": "NCCIH — Ginger",
+    "url": "https://www.nccih.nih.gov/health/ginger"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "early-peanut-introduction-prevents-allergy",
   "category": "Allergies & asthma",
   "myth": "Giving babies peanut foods early can lower their chance of developing peanut allergy.",
@@ -3304,6 +3769,30 @@
    {
     "label": "National Cancer Institute — Common cancer myths and misconceptions",
     "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "hcg-diet-works",
+  "category": "Weight",
+  "myth": "HCG drops or injections with a very low-calorie diet melt fat without hunger.",
+  "rating": "false",
+  "fact": "hCG is a pregnancy hormone that is not approved for weight loss. The US Food and Drug Administration warns that over-the-counter hCG diet products are illegal and that there is no substantial evidence they help, and people on these plans lose weight because they eat very little.",
+  "explanation": "HCG diets typically pair the product with around 500 calories a day, which can cause gallstones, nutrient shortfalls and an irregular heartbeat. Products sold as 'homeopathic' hCG drops contain little or none of the hormone. Safer, effective support for weight loss is available through health services.",
+  "keywords": [
+   "hcg diet",
+   "hcg drops",
+   "hcg injections",
+   "500 calorie diet",
+   "hcg weight loss",
+   "pregnancy hormone diet",
+   "hcg"
+  ],
+  "sources": [
+   {
+    "label": "US FDA — Avoid dangerous hCG diet products",
+    "url": "https://www.fda.gov/consumers/consumer-updates/avoid-dangerous-hcg-diet-products"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -3644,6 +4133,34 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "obesity-genes-nothing-you-can-do",
+  "category": "Weight",
+  "myth": "If obesity runs in your family, there is nothing you can do about your weight.",
+  "rating": "false",
+  "fact": "Genes influence appetite, where fat is stored and how easily weight is gained, but for most people they do not decide weight on their own. Eating patterns, activity, sleep and, where appropriate, medical treatment can still make a real difference.",
+  "explanation": "Families share not only genes but also habits, food and routines, which can be changed. Rare genetic conditions do cause severe obesity from childhood, and these need specialist care. For everyone else, a higher genetic risk means healthy habits matter more, not less.",
+  "keywords": [
+   "genetic obesity",
+   "fat genes",
+   "runs in family",
+   "inherited weight",
+   "big boned",
+   "genetics weight",
+   "family obesity"
+  ],
+  "sources": [
+   {
+    "label": "NIDDK — Factors affecting weight & health",
+    "url": "https://www.niddk.nih.gov/health-information/weight-management/adult-overweight-obesity/factors-affecting-weight-health"
+   },
+   {
+    "label": "WHO — Obesity and overweight",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "make-them-vomit-after-poisoning",
   "category": "First aid",
   "myth": "If someone swallows poison, make them vomit.",
@@ -3835,6 +4352,59 @@
    {
     "label": "National Cancer Institute — Prostate cancer",
     "url": "https://www.cancer.gov/types/prostate"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "coeliac-small-amount-gluten-fine",
+  "category": "Digestion",
+  "myth": "If you have coeliac disease, a little bit of gluten now and then won't hurt.",
+  "rating": "false",
+  "fact": "In coeliac disease, even small amounts of gluten trigger the immune system to damage the lining of the small intestine, whether or not you notice symptoms. The only treatment is a lifelong, strict gluten-free diet.",
+  "explanation": "Repeated gluten exposure can lead to problems such as anaemia, weakened bones and, rarely, some cancers of the gut. Coeliac disease is an autoimmune condition, not a food preference or an intolerance you can 'train' away. A dietitian can help with hidden sources of gluten.",
+  "keywords": [
+   "coeliac",
+   "celiac",
+   "coeliac disease",
+   "gluten",
+   "small amount of gluten",
+   "cheat day gluten",
+   "gluten free",
+   "celiac disease"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Coeliac disease",
+    "url": "https://www.nhs.uk/conditions/coeliac-disease/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "diverticular-disease-avoid-nuts-seeds",
+  "category": "Digestion",
+  "myth": "If you have diverticular disease, you must avoid nuts, seeds and popcorn.",
+  "rating": "false",
+  "fact": "Older advice told people with diverticula to avoid nuts, seeds and popcorn, but research has not shown that these foods cause flare-ups. A high-fibre diet is generally recommended to help prevent symptoms.",
+  "explanation": "During a flare of diverticulitis, a doctor may advise a temporary change in diet. Otherwise, fibre from fruit, vegetables, wholegrains, nuts and seeds helps keep stools soft. Tummy pain with fever or bleeding from the bottom needs medical attention.",
+  "keywords": [
+   "diverticulitis",
+   "diverticular disease",
+   "diverticulosis",
+   "nuts and seeds",
+   "popcorn",
+   "diverticulitis diet",
+   "seeds stuck"
+  ],
+  "sources": [
+   {
+    "label": "NIDDK — Diverticular disease",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/diverticulosis-diverticulitis"
+   },
+   {
+    "label": "NHS — Diverticular disease and diverticulitis",
+    "url": "https://www.nhs.uk/conditions/diverticular-disease-and-diverticulitis/"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -4165,6 +4735,35 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "intermittent-fasting-burns-more-fat",
+  "category": "Weight",
+  "myth": "Intermittent fasting melts fat much faster than any normal diet, even if you eat the same amount.",
+  "rating": "misleading",
+  "fact": "Intermittent fasting, such as 16:8 or the 5:2 diet, can help some people lose weight because it often reduces how much they eat overall. In trials that compare it with ordinary daily calorie cutting, weight loss is generally similar.",
+  "explanation": "Fasting is not a special switch that burns fat regardless of what you eat in the eating window. Some people find time limits make eating less easier; others become very hungry and overeat later. Fasting is not suitable for everyone, including people with a history of eating disorders, people who are pregnant, and people taking some diabetes medicines, who should talk to a doctor first.",
+  "keywords": [
+   "intermittent fasting",
+   "16:8",
+   "5:2 diet",
+   "time restricted eating",
+   "fasting weight loss",
+   "fasting burns fat",
+   "omad",
+   "one meal a day"
+  ],
+  "sources": [
+   {
+    "label": "Harvard Health Publishing — Should you try intermittent fasting for weight loss?",
+    "url": "https://www.health.harvard.edu/blog/intermittent-fasting-surprising-update-2018062914156"
+   },
+   {
+    "label": "NHS — Managing your weight",
+    "url": "https://www.nhs.uk/live-well/healthy-weight/managing-your-weight/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "ibs-is-all-in-your-head",
   "category": "Digestion",
   "myth": "Irritable bowel syndrome (IBS) is all in your head.",
@@ -4356,6 +4955,34 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "lactose-intolerance-is-milk-allergy",
+  "category": "Digestion",
+  "myth": "Lactose intolerance is the same thing as a milk allergy.",
+  "rating": "false",
+  "fact": "Lactose intolerance is a digestive problem where the body does not make enough of the enzyme needed to digest milk sugar, causing wind, bloating and diarrhoea. A milk allergy is a reaction of the immune system to milk proteins and can cause rashes, swelling and, rarely, life-threatening anaphylaxis.",
+  "explanation": "The difference matters because many people with lactose intolerance can manage small amounts of dairy or lactose-free products, while people with a milk allergy usually need to avoid milk protein entirely. Milk allergy is more common in babies and young children. A doctor can help work out which one is responsible for symptoms.",
+  "keywords": [
+   "lactose intolerance",
+   "milk allergy",
+   "dairy allergy",
+   "cows milk allergy",
+   "lactose vs allergy",
+   "dairy intolerance",
+   "lactase"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Lactose intolerance",
+    "url": "https://www.nhs.uk/conditions/lactose-intolerance/"
+   },
+   {
+    "label": "NHS — Food allergy",
+    "url": "https://www.nhs.uk/conditions/food-allergy/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "prediabetes-can-be-prevented",
   "category": "Diabetes",
   "myth": "Lifestyle changes can stop prediabetes from turning into type 2 diabetes.",
@@ -4413,6 +5040,34 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "liver-detox-supplements",
+  "category": "Digestion",
+  "myth": "Liver detox supplements and teas cleanse your liver after drinking or unhealthy eating.",
+  "rating": "false",
+  "fact": "A healthy liver clears waste and alcohol by itself, and no supplement has been shown to 'detox' it. Some herbal and dietary supplements can actually damage the liver.",
+  "explanation": "The best ways to protect your liver are to drink less alcohol, keep to a healthy weight and get vaccinated against hepatitis B if advised. Liver disease often causes no symptoms until it is advanced, so people with heavy drinking or other risk factors may need blood tests rather than detox products.",
+  "keywords": [
+   "liver detox",
+   "liver cleanse",
+   "milk thistle",
+   "detox liver",
+   "liver supplement",
+   "hangover detox",
+   "cleanse liver"
+  ],
+  "sources": [
+   {
+    "label": "NCCIH — \"Detoxes\" and \"cleanses\": what you need to know",
+    "url": "https://www.nccih.nih.gov/health/detoxes-and-cleanses-what-you-need-to-know"
+   },
+   {
+    "label": "NHS — Liver disease",
+    "url": "https://www.nhs.uk/conditions/liver-disease/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "small-weight-loss-improves-health",
   "category": "Weight",
   "myth": "Losing even a small amount of weight can improve your health.",
@@ -4435,6 +5090,30 @@
    {
     "label": "NHS — Obesity",
     "url": "https://www.nhs.uk/conditions/obesity/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "gradual-weight-loss-more-sustainable",
+  "category": "Weight",
+  "myth": "Losing weight slowly and steadily is more likely to last than losing it fast.",
+  "rating": "mostly-true",
+  "fact": "Health services generally advise aiming to lose about 0.5 to 1 kg (1 to 2 lb) a week through lasting changes to eating and activity. Habits you can keep up are the key to keeping weight off.",
+  "explanation": "Very rapid weight loss from extreme diets tends to include water and muscle, can cause gallstones, and is often regained. That said, some medically supervised low-calorie programmes produce faster early loss and can work well for some people with support. The overall message is to choose a plan you can maintain.",
+  "keywords": [
+   "lose weight slowly",
+   "slow weight loss",
+   "how fast to lose weight",
+   "safe weight loss",
+   "1kg a week",
+   "2 pounds a week",
+   "sustainable weight loss"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Managing your weight",
+    "url": "https://www.nhs.uk/live-well/healthy-weight/managing-your-weight/"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -4463,6 +5142,35 @@
    {
     "label": "MedlinePlus — Dietary fats",
     "url": "https://medlineplus.gov/dietaryfats.html"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "lymphatic-drainage-weight-loss",
+  "category": "Weight",
+  "myth": "Lymphatic drainage massage flushes out toxins, de-bloats you and helps you lose weight.",
+  "rating": "false",
+  "fact": "Manual lymphatic drainage is a specialised massage used, with compression and exercise, to help manage lymphoedema, a condition where fluid builds up because the lymphatic system is damaged. There is no good evidence that it removes 'toxins' or reduces body fat in healthy people.",
+  "explanation": "Any slimmer look after a session is temporary fluid movement. Massage can feel relaxing, which is a perfectly good reason to have one, but it is not a weight-loss treatment. Swelling in one limb or that does not go away should be checked by a doctor rather than treated with home massage.",
+  "keywords": [
+   "lymphatic drainage",
+   "lymphatic massage",
+   "lymph drainage",
+   "de-bloat",
+   "drain toxins",
+   "lymphatic detox",
+   "dry brushing",
+   "puffiness"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Lymphoedema: treatment",
+    "url": "https://www.nhs.uk/conditions/lymphoedema/treatment/"
+   },
+   {
+    "label": "NCCIH — Massage therapy: what you need to know",
+    "url": "https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -4935,6 +5643,30 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "poor-sleep-affects-weight",
+  "category": "Weight",
+  "myth": "Not getting enough sleep can make it harder to manage your weight.",
+  "rating": "mostly-true",
+  "fact": "Regularly sleeping too little is linked to a higher risk of weight gain and obesity. Short sleep can affect hormones that control hunger and fullness and tends to increase snacking and cravings for high-calorie food.",
+  "explanation": "Most of the evidence comes from observational studies and short experiments, so sleep is one factor among many rather than the main cause of weight gain. Still, aiming for enough regular sleep is a useful part of any plan to manage weight. Ongoing sleep problems, such as loud snoring with pauses in breathing, are worth discussing with a doctor.",
+  "keywords": [
+   "sleep and weight",
+   "lack of sleep weight gain",
+   "sleep deprivation",
+   "tired hungry",
+   "sleep obesity",
+   "cravings tired",
+   "short sleep"
+  ],
+  "sources": [
+   {
+    "label": "NHLBI — Sleep deprivation and deficiency: health effects",
+    "url": "https://www.nhlbi.nih.gov/health/sleep-deprivation/health-effects"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "ocd-means-tidy",
   "category": "Mental health",
   "myth": "OCD just means being very neat and tidy.",
@@ -5079,6 +5811,37 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "weight-loss-injections-weight-stays-off",
+  "category": "Weight",
+  "myth": "Once you've lost weight on injections like Wegovy or Ozempic, you can stop them and the weight will stay off.",
+  "rating": "misleading",
+  "fact": "Medicines such as semaglutide can help people with obesity lose a meaningful amount of weight when used alongside changes to diet and activity. In studies, many people regained much of the lost weight within a year of stopping the medicine.",
+  "explanation": "These medicines work by reducing appetite, and appetite tends to return when they are stopped. They can also cause side effects such as nausea, vomiting and constipation, and should only be used under medical supervision, not bought from unregulated online sellers. Building eating and activity habits during treatment gives the best chance of keeping weight off.",
+  "keywords": [
+   "ozempic",
+   "wegovy",
+   "mounjaro",
+   "semaglutide",
+   "tirzepatide",
+   "weight loss injection",
+   "weight loss jab",
+   "glp-1",
+   "stop ozempic",
+   "regain weight"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Semaglutide",
+    "url": "https://www.nhs.uk/medicines/semaglutide/"
+   },
+   {
+    "label": "NIDDK — Prescription medications to treat overweight & obesity",
+    "url": "https://www.niddk.nih.gov/health-information/weight-management/prescription-medications-treat-overweight-obesity"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "stop-blood-pressure-pills-when-normal",
   "category": "Heart & blood pressure",
   "myth": "Once your blood pressure is normal, you can stop taking your tablets.",
@@ -5130,6 +5893,30 @@
    {
     "label": "WHO — Dementia (fact sheet)",
     "url": "https://www.who.int/news-room/fact-sheets/detail/dementia"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "fatty-liver-only-heavy-drinkers",
+  "category": "Digestion",
+  "myth": "Only heavy drinkers get fatty liver disease.",
+  "rating": "false",
+  "fact": "Fatty liver disease that is not caused by alcohol is very common and is mainly linked to being overweight, type 2 diabetes, high blood pressure and high cholesterol. It often causes no symptoms in its early stages.",
+  "explanation": "This condition is now often called metabolic dysfunction-associated steatotic liver disease (MASLD), previously non-alcoholic fatty liver disease (NAFLD). Early stages can improve with weight loss, regular activity and a healthy diet. Without changes, it can progress to scarring of the liver in some people.",
+  "keywords": [
+   "fatty liver",
+   "nafld",
+   "masld",
+   "non alcoholic fatty liver",
+   "liver disease without alcohol",
+   "fatty liver cause",
+   "liver fat"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Non-alcoholic fatty liver disease (NAFLD)",
+    "url": "https://www.nhs.uk/conditions/non-alcoholic-fatty-liver-disease/"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -5379,6 +6166,35 @@
    {
     "label": "MedlinePlus — Acetaminophen",
     "url": "https://medlineplus.gov/druginfo/meds/a681004.html"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "frequent-wind-means-bad-digestion",
+  "category": "Digestion",
+  "myth": "Passing wind many times a day means something is wrong with your digestion.",
+  "rating": "false",
+  "fact": "Passing gas is a normal part of digestion, and most people pass wind several times or more each day. Gas comes from swallowed air and from gut bacteria breaking down food, especially fibre-rich foods such as beans and vegetables.",
+  "explanation": "More wind after eating healthy, high-fibre food is common and usually harmless. It is worth seeing a doctor if gas comes with tummy pain, ongoing diarrhoea or constipation, weight loss or blood in your poo. Eating more slowly and adjusting trigger foods can help if wind is bothersome.",
+  "keywords": [
+   "farting",
+   "passing wind",
+   "flatulence",
+   "gas",
+   "too much gas",
+   "how many farts normal",
+   "wind digestion",
+   "bloating gas"
+  ],
+  "sources": [
+   {
+    "label": "NIDDK — Gas in the digestive tract",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/gas-digestive-tract"
+   },
+   {
+    "label": "NHS — Flatulence",
+    "url": "https://www.nhs.uk/symptoms/flatulence/"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -5681,6 +6497,34 @@
    {
     "label": "NHS — Mental health",
     "url": "https://www.nhs.uk/mental-health/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "peppermint-oil-eases-ibs",
+  "category": "Digestion",
+  "myth": "Peppermint oil capsules can ease the symptoms of irritable bowel syndrome.",
+  "rating": "mostly-true",
+  "fact": "Studies suggest enteric-coated peppermint oil capsules can help relieve tummy pain and bloating in some people with IBS. It is one of the options health services suggest trying.",
+  "explanation": "Peppermint oil can cause heartburn in some people, which is why coated capsules are used. It does not work for everyone, and IBS symptoms such as unexplained weight loss or bleeding should be checked by a doctor before assuming it is IBS. Other helpful steps include adjusting fibre, regular meals and managing stress.",
+  "keywords": [
+   "peppermint oil",
+   "ibs",
+   "irritable bowel",
+   "peppermint capsules",
+   "bloating remedy",
+   "tummy cramps",
+   "colpermin"
+  ],
+  "sources": [
+   {
+    "label": "NCCIH — Peppermint oil",
+    "url": "https://www.nccih.nih.gov/health/peppermint-oil"
+   },
+   {
+    "label": "NHS — Irritable bowel syndrome (IBS)",
+    "url": "https://www.nhs.uk/conditions/irritable-bowel-syndrome-ibs/"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -6192,6 +7036,31 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "sitting-on-cold-surfaces-causes-piles",
+  "category": "Digestion",
+  "myth": "Sitting on cold ground, stone steps or concrete gives you piles.",
+  "rating": "false",
+  "fact": "Piles (haemorrhoids) are linked to constipation and straining on the toilet, pregnancy, heavy lifting, long-lasting coughs and getting older. Sitting on something cold is not a recognised cause.",
+  "explanation": "This warning is common in many countries, often from parents and grandparents. Sitting on a cold surface may be uncomfortable, but it does not damage the blood vessels in the back passage. Eating enough fibre, drinking fluids and not straining are the best ways to prevent piles.",
+  "keywords": [
+   "piles",
+   "haemorrhoids",
+   "hemorrhoids",
+   "sitting on cold",
+   "cold floor",
+   "cold concrete",
+   "stone steps",
+   "cause of piles"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Piles (haemorrhoids)",
+    "url": "https://www.nhs.uk/conditions/piles-haemorrhoids/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "sitting-close-to-tv-damages-eyes",
   "category": "Eyes & vision",
   "myth": "Sitting too close to the TV damages children's eyes.",
@@ -6473,6 +7342,35 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "stress-causes-stomach-ulcers",
+  "category": "Digestion",
+  "myth": "Stomach ulcers are caused by stress.",
+  "rating": "misleading",
+  "fact": "Most stomach ulcers are caused by an infection with Helicobacter pylori bacteria or by long-term use of anti-inflammatory painkillers such as ibuprofen or aspirin. Stress may worsen symptoms but is not usually the cause.",
+  "explanation": "Very severe physical stress, such as major burns or critical illness in hospital, can cause a type of ulcer, which may be where the idea started. For everyday ulcers, testing for H. pylori and reviewing painkiller use is the important step, and the infection can be treated with antibiotics. Black, tarry poo or vomiting blood are emergency signs.",
+  "keywords": [
+   "stomach ulcer",
+   "stress ulcer",
+   "peptic ulcer",
+   "ulcer cause",
+   "h pylori",
+   "helicobacter",
+   "ibuprofen ulcer",
+   "worry ulcer"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Stomach ulcer",
+    "url": "https://www.nhs.uk/conditions/stomach-ulcer/"
+   },
+   {
+    "label": "NIDDK — Peptic ulcers (stomach and duodenal ulcers)",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/peptic-ulcers-stomach-ulcers"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "strength-training-for-older-adults",
   "category": "Exercise & fitness",
   "myth": "Strength training is good for older adults.",
@@ -6639,6 +7537,30 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "swallowed-seeds-cause-appendicitis",
+  "category": "Digestion",
+  "myth": "Swallowing fruit seeds, like watermelon or grape seeds, gives you appendicitis or makes a plant grow in your stomach.",
+  "rating": "false",
+  "fact": "Swallowed seeds normally pass through the gut and out in your poo. Nothing can grow in the stomach, and seeds are not a recognised cause of appendicitis; the exact cause of appendicitis is often unclear.",
+  "explanation": "Appendicitis is thought to happen when the appendix becomes blocked or infected. Its typical sign is tummy pain that starts around the belly button and moves to the lower right side, getting worse over time. That kind of pain needs urgent medical help, whatever someone has eaten.",
+  "keywords": [
+   "swallow seeds",
+   "watermelon seeds",
+   "seeds appendicitis",
+   "plant grow in stomach",
+   "grape seeds",
+   "appendicitis cause",
+   "swallowed pips"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Appendicitis",
+    "url": "https://www.nhs.uk/conditions/appendicitis/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "sweating-burns-fat",
   "category": "Weight",
   "myth": "Sweating a lot in saunas or sweat suits burns fat.",
@@ -6714,6 +7636,35 @@
    {
     "label": "NHS — Ibuprofen for adults",
     "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "laxatives-cause-weight-loss",
+  "category": "Weight",
+  "myth": "Taking laxatives is a good way to lose weight or get rid of calories.",
+  "rating": "false",
+  "fact": "Laxatives act on the large bowel, after most calories have already been absorbed, so they do not stop the body taking in food energy. Any weight lost is water, which returns, and misusing laxatives can cause dehydration, dangerous changes in body salts and long-term bowel problems.",
+  "explanation": "Using laxatives to control weight can be a sign of an eating disorder. If you, or someone you know, feel you need to use laxatives, vomiting or extreme dieting to manage weight, please talk to a GP or an eating disorder support service; help is available and recovery is possible.",
+  "keywords": [
+   "laxatives",
+   "laxatives weight loss",
+   "lose weight laxatives",
+   "laxative abuse",
+   "senna",
+   "flat tummy tea",
+   "purging",
+   "bulimia"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Laxatives",
+    "url": "https://www.nhs.uk/medicines/laxatives/"
+   },
+   {
+    "label": "NHS — Eating disorders",
+    "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/eating-disorders/overview/"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -7021,6 +7972,35 @@
    {
     "label": "NHS — HPV vaccine",
     "url": "https://www.nhs.uk/vaccinations/hpv-vaccine/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "keto-diet-best-for-weight-loss",
+  "category": "Weight",
+  "myth": "The keto diet is the best and only diet that really works for weight loss.",
+  "rating": "misleading",
+  "fact": "A very low-carbohydrate (ketogenic) diet can lead to weight loss, mainly because it reduces how much people eat. Over the longer term, studies find it does not beat other approaches that cut calories by a similar amount, and many people find it hard to stick to.",
+  "explanation": "Early weight loss on keto is partly water, because the body's carbohydrate stores hold water. Strict keto cuts out many fruits, whole grains and pulses that provide fibre, and it can cause side effects such as constipation; it may not be suitable for people with some medical conditions or on certain medicines. The diet that works best for any one person is usually the one they can keep up while still eating a balanced range of foods.",
+  "keywords": [
+   "keto",
+   "ketogenic diet",
+   "keto diet",
+   "ketosis",
+   "low carb diet",
+   "best diet",
+   "keto weight loss",
+   "no carbs"
+  ],
+  "sources": [
+   {
+    "label": "Harvard Health Publishing — Should you try the keto diet?",
+    "url": "https://www.health.harvard.edu/staying-healthy/should-you-try-the-keto-diet"
+   },
+   {
+    "label": "NHS — Managing your weight",
+    "url": "https://www.nhs.uk/live-well/healthy-weight/managing-your-weight/"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -7885,6 +8865,35 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "weight-loss-surgery-easy-way-out",
+  "category": "Weight",
+  "myth": "Weight loss surgery is the easy way out.",
+  "rating": "false",
+  "fact": "Weight loss (bariatric) surgery is a major treatment offered to people with severe obesity, usually after other approaches have been tried. It requires lifelong changes to eating, regular follow-up and often vitamin supplements.",
+  "explanation": "Surgery can lead to large, lasting weight loss and can improve or even put conditions such as type 2 diabetes into remission. It also carries risks, and people need to adjust how much and how they eat for the rest of their lives. Calling it 'easy' adds stigma and can put people off a treatment that might help them.",
+  "keywords": [
+   "weight loss surgery",
+   "bariatric surgery",
+   "gastric bypass",
+   "gastric sleeve",
+   "gastric band",
+   "easy way out",
+   "cheating",
+   "obesity surgery"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Weight loss surgery",
+    "url": "https://www.nhs.uk/tests-and-treatments/weight-loss-surgery/"
+   },
+   {
+    "label": "NIDDK — Bariatric surgery",
+    "url": "https://www.niddk.nih.gov/health-information/weight-management/bariatric-surgery"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "weight-bearing-exercise-strengthens-bones",
   "category": "Bones & joints",
   "myth": "Weight-bearing exercise helps keep your bones strong.",
@@ -7908,6 +8917,31 @@
    {
     "label": "NIAMS — Osteoporosis",
     "url": "https://www.niams.nih.gov/health-topics/osteoporosis"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "stop-eating-with-diarrhoea",
+  "category": "Digestion",
+  "myth": "When you have diarrhoea you should stop eating, or eat only plain toast and bananas.",
+  "rating": "false",
+  "fact": "The most important thing with diarrhoea is to keep drinking fluids to avoid dehydration. You can eat as soon as you feel able to, and there is no need to stick to a special bland diet.",
+  "explanation": "Starving yourself does not make diarrhoea stop sooner. Oral rehydration sachets from a pharmacy can help people at risk of dehydration, such as older people and young children. Babies should keep breastfeeding or having formula. Signs of severe dehydration, blood in diarrhoea, or symptoms lasting more than a week need medical advice.",
+  "keywords": [
+   "diarrhoea",
+   "diarrhea",
+   "brat diet",
+   "bananas rice toast",
+   "stomach bug food",
+   "starve diarrhoea",
+   "what to eat diarrhoea",
+   "upset stomach"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Diarrhoea and vomiting",
+    "url": "https://www.nhs.uk/symptoms/diarrhoea-and-vomiting/"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -8126,6 +9160,34 @@
    {
     "label": "WHO — Diabetes",
     "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "out-exercise-a-bad-diet",
+  "category": "Weight",
+  "myth": "You can eat whatever you want as long as you exercise enough.",
+  "rating": "misleading",
+  "fact": "Physical activity has huge health benefits, but on its own it usually leads to only modest weight loss, because it is easy to eat back the calories burned. Lasting weight loss generally needs changes to eating as well as activity.",
+  "explanation": "For example, it can take a long brisk walk to burn off the energy in a single large sugary snack or drink. Diet quality also matters for health independently of weight. Exercise is still very important for keeping weight off and for the heart, mood and bones, so the two work best together.",
+  "keywords": [
+   "out exercise bad diet",
+   "exercise to lose weight",
+   "burn it off",
+   "eat what i want exercise",
+   "workout cheat meal",
+   "exercise weight loss",
+   "calories burned"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Managing your weight",
+    "url": "https://www.nhs.uk/live-well/healthy-weight/managing-your-weight/"
+   },
+   {
+    "label": "WHO — Physical activity",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -8647,6 +9709,30 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "eat-gluten-before-coeliac-test",
+  "category": "Digestion",
+  "myth": "You need to keep eating gluten before being tested for coeliac disease.",
+  "rating": "true",
+  "fact": "Tests for coeliac disease look for the body's reaction to gluten. If you have already cut gluten out, the tests can come back falsely normal, so health services advise eating gluten in more than one meal a day for at least 6 weeks before testing.",
+  "explanation": "Many people try a gluten-free diet first and then find it hard to get a clear diagnosis. If you suspect coeliac disease, speak to a doctor before changing your diet. If gluten makes you very unwell, a doctor can advise on the safest way to be tested.",
+  "keywords": [
+   "coeliac test",
+   "celiac test",
+   "gluten challenge",
+   "blood test gluten",
+   "eat gluten before test",
+   "coeliac diagnosis",
+   "gluten free before test"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Coeliac disease",
+    "url": "https://www.nhs.uk/conditions/coeliac-disease/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "breast-cancer-only-family-history",
   "category": "Women's health",
   "myth": "You only get breast cancer if it runs in your family.",
@@ -8813,6 +9899,30 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "food-combining-protein-and-carbs",
+  "category": "Digestion",
+  "myth": "You shouldn't eat protein and carbohydrates together because your stomach can't digest them at the same time.",
+  "rating": "false",
+  "fact": "The digestive system is built to handle mixed meals. Different enzymes for protein, fat and carbohydrate work at the same time, and most natural foods, such as beans, milk and grains, contain all three anyway.",
+  "explanation": "'Food combining' diets, such as the Hay diet, may help some people lose weight simply because they restrict what and how much people eat. There is no evidence that separating food groups improves digestion or health.",
+  "keywords": [
+   "food combining",
+   "hay diet",
+   "protein and carbs together",
+   "food combinations",
+   "dont mix protein carbs",
+   "digest separately",
+   "fruit alone"
+  ],
+  "sources": [
+   {
+    "label": "NIDDK — Your digestive system & how it works",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "no-exercise-swimming-on-period",
   "category": "Women's health",
   "myth": "You shouldn't exercise or swim during your period.",
@@ -8922,6 +10032,35 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "bmi-tells-you-if-healthy",
+  "category": "Weight",
+  "myth": "Your BMI tells you exactly whether you are healthy or not.",
+  "rating": "misleading",
+  "fact": "Body mass index (BMI) is a quick screening tool based on height and weight. It is useful across populations but cannot tell the difference between muscle and fat or show where fat is stored, so it does not give a full picture of an individual's health.",
+  "explanation": "Very muscular people can have a high BMI without excess fat, and some people with a 'healthy' BMI carry harmful fat around their middle. BMI thresholds can also differ by ethnic background; for example, people of South Asian, Chinese, Black African or Caribbean background may have higher risk at lower BMI. Doctors combine BMI with waist size, blood pressure, blood tests and other factors.",
+  "keywords": [
+   "bmi",
+   "body mass index",
+   "bmi accurate",
+   "bmi muscle",
+   "healthy weight",
+   "bmi calculator",
+   "bmi flawed",
+   "overweight bmi"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Calculate your body mass index (BMI) for adults",
+    "url": "https://www.nhs.uk/health-assessment-tools/calculate-your-body-mass-index/calculate-bmi-for-adults"
+   },
+   {
+    "label": "NHS — Overweight and obesity",
+    "url": "https://www.nhs.uk/conditions/overweight-and-obesity/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "brain-switches-off-during-sleep",
   "category": "Sleep",
   "myth": "Your brain switches off while you sleep.",
@@ -8945,6 +10084,34 @@
    {
     "label": "Sleep Foundation",
     "url": "https://www.sleepfoundation.org/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "metabolism-crashes-after-thirty",
+  "category": "Weight",
+  "myth": "Your metabolism crashes after 30, which is why everyone gains weight in middle age.",
+  "rating": "false",
+  "fact": "A large study of thousands of people found that, once body size is taken into account, metabolic rate stays fairly stable from about age 20 to 60 and only slowly declines after that. Middle-age weight gain is mostly linked to eating more than the body uses, moving less and losing muscle.",
+  "explanation": "Life changes in your 30s and 40s, such as desk jobs, less sport, less sleep and more stress, often explain why weight creeps up. Muscle uses more energy than fat, so keeping active and doing strength exercises helps. Blaming a 'broken metabolism' can make weight feel out of your control when everyday habits still make a difference.",
+  "keywords": [
+   "metabolism slows",
+   "metabolism after 30",
+   "metabolism age",
+   "middle age weight gain",
+   "slow metabolism",
+   "metabolism crash",
+   "getting older weight"
+  ],
+  "sources": [
+   {
+    "label": "Harvard Health Publishing — The truth about metabolism",
+    "url": "https://www.health.harvard.edu/staying-healthy/the-truth-about-metabolism"
+   },
+   {
+    "label": "NIDDK — Factors affecting weight & health",
+    "url": "https://www.niddk.nih.gov/health-information/weight-management/adult-overweight-obesity/factors-affecting-weight-health"
    }
   ],
   "lastReviewed": "Reviewed November 2026"

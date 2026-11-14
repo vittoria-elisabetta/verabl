@@ -3,6 +3,8 @@ import { ArrowRight } from 'lucide-react'
 import { myths } from '@/lib/myths'
 import { MythCard } from '@/components/myth-card'
 
+const FEATURED_IDS = ['vaccines-immune', 'antibiotics-viral', 'lemon-water-cancer']
+
 export function MythPreview() {
   return (
     <section className="bg-secondary/40 py-16">
@@ -26,7 +28,10 @@ export function MythPreview() {
         </div>
 
         <div className="mt-10 grid gap-5 md:grid-cols-3">
-          {myths.slice(0, 3).map((myth) => (
+          {/* Hand-picked, widely shared myths; the full list is sorted alphabetically. */}
+          {FEATURED_IDS.map((id) => myths.find((m) => m.id === id))
+            .filter((m) => m !== undefined)
+            .map((myth) => (
             <MythCard key={myth.id} myth={myth} />
           ))}
         </div>

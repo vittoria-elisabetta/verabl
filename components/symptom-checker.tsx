@@ -112,6 +112,7 @@ function findSymptoms(query: string) {
       ...s.aliases.map((alias) => ({ text: alias, weight: 2, phrase: true })),
     ],
     0.8,
+    'best',
   )
 }
 

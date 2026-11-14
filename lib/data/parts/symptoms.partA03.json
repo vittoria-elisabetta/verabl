@@ -1,0 +1,678 @@
+[
+  {
+    "id": "sore-throat",
+    "name": "Sore throat",
+    "aliases": ["throat hurts", "painful swallowing", "scratchy throat", "strep throat", "tonsillitis", "swollen tonsils", "throat infection"],
+    "bodyArea": "Ears, nose & throat",
+    "summary": "A sore throat is very common and is usually caused by a virus such as a cold or flu. It typically gets better on its own within a week.",
+    "redFlags": [
+      "Difficulty breathing",
+      "Unable to swallow, or drooling because you cannot swallow saliva",
+      "A high-pitched noise when breathing in (stridor)",
+      "Severe symptoms that are getting worse quickly",
+      "Swelling of the lips, tongue or throat"
+    ],
+    "urgentFlags": [
+      "A very high temperature, or feeling hot and shivery",
+      "Signs of dehydration, such as peeing less or dark urine",
+      "A weakened immune system, for example from chemotherapy or uncontrolled diabetes",
+      "Severe pain on one side of the throat with difficulty opening the mouth or a muffled voice"
+    ],
+    "commonCauses": [
+      {"title": "Viral infections", "detail": "Colds, flu and COVID-19 are the most common causes; antibiotics do not help."},
+      {"title": "Tonsillitis", "detail": "Inflamed tonsils, usually viral but sometimes bacterial, such as strep throat."},
+      {"title": "Glandular fever", "detail": "A viral infection causing a severe sore throat, swollen glands and tiredness, mostly in young people."},
+      {"title": "Irritation", "detail": "Smoking, dry air, acid reflux and shouting can make the throat sore."}
+    ],
+    "selfCare": [
+      "Gargle with warm salty water (adults only)",
+      "Drink plenty of fluids, and try cool or soft foods",
+      "Take over-the-counter pain relief such as paracetamol or ibuprofen, following the pack instructions",
+      "Suck ice cubes, ice lollies or lozenges (not for young children)",
+      "Rest, and ask a pharmacist whether you need further treatment"
+    ],
+    "avoid": [
+      "Expecting antibiotics for a viral sore throat",
+      "Smoking or smoky places",
+      "Very hot drinks that can scald the throat"
+    ],
+    "seeDoctorIf": [
+      "Your sore throat has not improved after a week",
+      "You often get sore throats",
+      "You have a sore throat with a lump in your mouth or neck",
+      "A child under 5 needs help for a sore throat"
+    ],
+    "selfCareMaxDays": 7,
+    "sources": [
+      {"label": "NHS – Sore throat", "url": "https://www.nhs.uk/symptoms/sore-throat/"},
+      {"label": "NHS – Tonsillitis", "url": "https://www.nhs.uk/conditions/tonsillitis/"},
+      {"label": "MedlinePlus – Sore throat", "url": "https://medlineplus.gov/sorethroat.html"}
+    ]
+  },
+  {
+    "id": "hoarse-voice",
+    "name": "Hoarse voice or lost voice",
+    "aliases": ["lost my voice", "hoarse voice", "croaky voice", "raspy voice", "laryngitis", "voice keeps cracking"],
+    "bodyArea": "Ears, nose & throat",
+    "summary": "A hoarse or lost voice is often caused by laryngitis from a cold or from straining your voice. It usually gets better within 1 to 2 weeks.",
+    "redFlags": [
+      "Difficulty breathing or a high-pitched noise when breathing in",
+      "Unable to swallow saliva or drooling",
+      "Hoarseness with sudden swelling of the throat, lips or tongue"
+    ],
+    "urgentFlags": [
+      "It is very painful or difficult to swallow",
+      "Coughing up blood with a hoarse voice",
+      "Sudden hoarseness after an injury to the neck"
+    ],
+    "commonCauses": [
+      {"title": "Laryngitis", "detail": "Inflamed voice box, usually from a cold or flu virus."},
+      {"title": "Voice strain", "detail": "Shouting, singing or talking a lot can make the voice hoarse."},
+      {"title": "Acid reflux", "detail": "Stomach acid coming up the throat can irritate the voice box."},
+      {"title": "Smoking and irritants", "detail": "Smoke, dust and fumes can cause long-lasting hoarseness."},
+      {"title": "Growths on the vocal cords", "detail": "Nodules, polyps or, rarely, cancer can cause hoarseness that lasts for weeks."}
+    ],
+    "selfCare": [
+      "Rest your voice and speak as little as possible",
+      "Drink plenty of fluids",
+      "Keep the air moist, for example with bowls of water near radiators",
+      "Gargle with warm salty water (adults only)"
+    ],
+    "avoid": [
+      "Whispering or talking loudly, which both strain the voice",
+      "Smoking",
+      "Clearing your throat repeatedly"
+    ],
+    "seeDoctorIf": [
+      "Hoarseness has not improved after 2 weeks",
+      "You keep getting voice problems",
+      "You smoke and have a hoarse voice that is not going away"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {"label": "NHS – Laryngitis", "url": "https://www.nhs.uk/conditions/laryngitis/"},
+      {"label": "MedlinePlus – Hoarseness", "url": "https://medlineplus.gov/ency/article/003054.htm"}
+    ]
+  },
+  {
+    "id": "difficulty-swallowing",
+    "name": "Difficulty swallowing",
+    "aliases": ["hard to swallow", "food getting stuck", "dysphagia", "choking when eating", "pain when swallowing", "food stuck in throat"],
+    "bodyArea": "Ears, nose & throat",
+    "summary": "Difficulty swallowing means food or drink is hard to get down or feels stuck. A short-lived problem with a sore throat is common, but ongoing swallowing difficulty should always be checked.",
+    "redFlags": [
+      "Unable to swallow saliva, or drooling",
+      "Difficulty breathing, or noisy high-pitched breathing",
+      "Food stuck in the throat or chest that will not move and you cannot swallow anything",
+      "Sudden difficulty swallowing with face drooping, weakness or slurred speech",
+      "Swelling of the lips, tongue or throat"
+    ],
+    "urgentFlags": [
+      "Ongoing difficulty swallowing",
+      "Coughing or choking while eating or drinking",
+      "Feeling that food sticks in your throat or chest",
+      "Bringing food back up, or a wet, gurgly voice after eating",
+      "Losing weight without trying"
+    ],
+    "commonCauses": [
+      {"title": "Sore throat or tonsillitis", "detail": "Pain and swelling make swallowing uncomfortable for a few days."},
+      {"title": "Acid reflux", "detail": "Can inflame or narrow the food pipe."},
+      {"title": "Neurological conditions", "detail": "Stroke, Parkinson's disease and other conditions can affect the swallowing muscles."},
+      {"title": "Narrowing or growth in the food pipe", "detail": "Including, less commonly, cancer of the oesophagus."}
+    ],
+    "selfCare": [
+      "Sit upright to eat and drink, and stay upright for a while afterwards",
+      "Take small bites and chew well",
+      "Choose softer, moist foods while you are waiting to be seen"
+    ],
+    "avoid": [
+      "Eating while lying down or rushing meals",
+      "Ignoring swallowing problems that keep happening"
+    ],
+    "seeDoctorIf": [
+      "You keep having difficulty swallowing",
+      "You get frequent chest infections",
+      "You have heartburn or acid reflux most days"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {"label": "NHS – Swallowing problems (dysphagia)", "url": "https://www.nhs.uk/symptoms/swallowing-problems-dysphagia/"},
+      {"label": "MedlinePlus – Swallowing disorders", "url": "https://medlineplus.gov/swallowingdisorders.html"}
+    ]
+  },
+  {
+    "id": "swollen-glands",
+    "name": "Swollen glands in the neck",
+    "aliases": ["swollen lymph nodes", "lump in neck", "swollen neck glands", "glands up", "tender lump under jaw", "neck lump"],
+    "bodyArea": "Ears, nose & throat",
+    "summary": "Swollen glands (lymph nodes) in the neck are usually a sign your body is fighting an infection such as a cold or sore throat. They normally go down within about 2 weeks.",
+    "redFlags": [
+      "Swollen glands with difficulty breathing",
+      "Swollen neck with a very sore throat and inability to swallow saliva or drooling",
+      "A rapidly spreading red, hot swelling of the neck with fever"
+    ],
+    "urgentFlags": [
+      "Swollen glands and finding it very difficult to swallow",
+      "Swollen glands with a very high temperature and feeling very unwell"
+    ],
+    "commonCauses": [
+      {"title": "Colds and throat infections", "detail": "The most common reason glands swell; they shrink as the infection clears."},
+      {"title": "Ear, tooth or skin infections", "detail": "Infections near the neck often cause nearby glands to swell."},
+      {"title": "Glandular fever and other viruses", "detail": "Can cause swollen glands for several weeks."},
+      {"title": "Rarely, cancer", "detail": "Such as lymphoma or leukaemia, usually with hard, painless glands that keep growing."}
+    ],
+    "selfCare": [
+      "Rest and drink plenty of fluids",
+      "Take over-the-counter pain relief such as paracetamol or ibuprofen if they are sore, following the pack instructions",
+      "Treat the underlying cold or sore throat"
+    ],
+    "avoid": [
+      "Squeezing or massaging a swollen gland",
+      "Ignoring a lump that keeps growing"
+    ],
+    "seeDoctorIf": [
+      "The glands are getting bigger or have not gone down after a week or two",
+      "They feel hard or do not move when you press them",
+      "You have night sweats or unexplained weight loss",
+      "You have no other signs of infection",
+      "The swelling is just above or below the collarbone"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {"label": "NHS – Swollen glands", "url": "https://www.nhs.uk/symptoms/swollen-glands/"},
+      {"label": "MedlinePlus – Swollen lymph nodes", "url": "https://medlineplus.gov/ency/article/003097.htm"}
+    ]
+  },
+  {
+    "id": "lump-in-throat-feeling",
+    "name": "Feeling of a lump in the throat",
+    "aliases": ["lump in throat feeling", "something stuck in throat", "globus", "tight throat", "throat feels blocked", "constant need to swallow"],
+    "bodyArea": "Ears, nose & throat",
+    "summary": "Many people feel like there is a lump or tightness in the throat even when nothing is there. It is often linked to stress, acid reflux or mucus, and is usually harmless, but real difficulty swallowing should be checked.",
+    "redFlags": [
+      "Difficulty breathing or noisy breathing",
+      "Unable to swallow saliva",
+      "Sudden throat tightness with swelling of the lips, tongue or face, or a rash"
+    ],
+    "urgentFlags": [
+      "Food actually sticking or difficulty swallowing food or drink",
+      "Pain when swallowing",
+      "Losing weight without trying",
+      "A lump you can see or feel in the neck"
+    ],
+    "commonCauses": [
+      {"title": "Globus sensation", "detail": "A harmless feeling of a lump, often worse with stress and easier when eating."},
+      {"title": "Acid reflux", "detail": "Acid can irritate the throat and cause a tight feeling."},
+      {"title": "Catarrh or postnasal drip", "detail": "Mucus at the back of the throat makes you want to keep swallowing."},
+      {"title": "Anxiety", "detail": "Tension in the throat muscles is common during anxiety."}
+    ],
+    "selfCare": [
+      "Sip water and swallow gently rather than repeatedly clearing your throat",
+      "Try relaxation or breathing exercises if stress makes it worse",
+      "Avoid eating late at night if you have reflux"
+    ],
+    "avoid": [
+      "Repeatedly clearing your throat or swallowing dry",
+      "Smoking"
+    ],
+    "seeDoctorIf": [
+      "The feeling lasts more than a few weeks",
+      "It is getting worse or is only on one side",
+      "You also have a hoarse voice or ear pain"
+    ],
+    "selfCareMaxDays": 21,
+    "sources": [
+      {"label": "NHS – Catarrh", "url": "https://www.nhs.uk/conditions/catarrh/"},
+      {"label": "NHS – Swallowing problems (dysphagia)", "url": "https://www.nhs.uk/symptoms/swallowing-problems-dysphagia/"}
+    ]
+  },
+  {
+    "id": "broken-nose",
+    "name": "Nose injury or broken nose",
+    "aliases": ["broken nose", "hit my nose", "nose injury", "crooked nose after injury", "swollen nose after fall", "punched in the nose"],
+    "bodyArea": "Ears, nose & throat",
+    "summary": "A blow to the nose can cause pain, swelling, bruising and a nosebleed. Most nose injuries heal on their own within a few weeks.",
+    "redFlags": [
+      "A nosebleed that will not stop",
+      "Clear, watery fluid trickling from the nose",
+      "A large cut, or something in the wound",
+      "Severe headache with blurred or double vision, or eye pain with double vision",
+      "Neck pain or stiffness with numbness or tingling in the arms",
+      "A purple swelling inside the nose",
+      "Vomiting, passing out or difficulty speaking"
+    ],
+    "urgentFlags": [
+      "The nose looks crooked after the injury",
+      "Swelling has not started to go down after 3 days",
+      "Painkillers are not helping",
+      "Still hard to breathe through the nose once swelling has gone",
+      "Regular nosebleeds or a high temperature after the injury"
+    ],
+    "commonCauses": [
+      {"title": "Bruised nose", "detail": "Pain and swelling without broken bone; settles within a week or two."},
+      {"title": "Broken nose", "detail": "Common after sports, falls or fights; may change the shape of the nose."},
+      {"title": "Septal haematoma", "detail": "A collection of blood inside the nose that needs urgent drainage."}
+    ],
+    "selfCare": [
+      "Hold an ice pack wrapped in a cloth on the nose for up to 20 minutes every few hours",
+      "Take paracetamol for pain, following the pack instructions",
+      "Keep your head raised, including when sleeping",
+      "Treat any nosebleed by leaning forward and pinching the soft part of the nose"
+    ],
+    "avoid": [
+      "Trying to straighten your nose yourself",
+      "Picking or blowing your nose until it has healed",
+      "Contact sports for at least 6 weeks"
+    ],
+    "seeDoctorIf": [
+      "Your nose looks a different shape once swelling has gone",
+      "You have ongoing breathing problems through your nose"
+    ],
+    "selfCareMaxDays": 3,
+    "sources": [
+      {"label": "NHS – Broken nose", "url": "https://www.nhs.uk/conditions/broken-nose/"}
+    ]
+  },
+  {
+    "id": "catarrh",
+    "name": "Catarrh or mucus in the throat",
+    "aliases": ["phlegm in throat", "mucus in throat", "postnasal drip", "constantly clearing throat", "mucus dripping down throat", "catarrh"],
+    "bodyArea": "Ears, nose & throat",
+    "summary": "Catarrh is a build-up of mucus in the nose, sinuses and back of the throat. It usually follows a cold or comes with allergies and clears up on its own.",
+    "redFlags": [
+      "Difficulty breathing",
+      "Swelling around the eyes with fever or vision changes"
+    ],
+    "urgentFlags": [
+      "Feeling very unwell with a high temperature",
+      "Blood-stained mucus from one side of the nose"
+    ],
+    "commonCauses": [
+      {"title": "Colds and sinusitis", "detail": "Infections make the lining of the nose produce more mucus."},
+      {"title": "Allergies", "detail": "Hay fever and dust or pet allergies can cause ongoing mucus."},
+      {"title": "Non-allergic rhinitis", "detail": "A long-term runny or blocked nose without an allergy."},
+      {"title": "Nasal polyps", "detail": "Soft growths that can cause long-term catarrh and reduced smell."}
+    ],
+    "selfCare": [
+      "Rinse your nose with salt water",
+      "Drink plenty of fluids and get enough rest",
+      "Keep the air moist and avoid very warm, dry rooms",
+      "Sleep with your head slightly raised"
+    ],
+    "avoid": [
+      "Things that trigger symptoms, such as smoke or known allergens",
+      "Dairy-free diets to clear mucus, which have no good evidence",
+      "Overusing decongestant sprays"
+    ],
+    "seeDoctorIf": [
+      "Catarrh lasts more than a few weeks",
+      "You develop new symptoms such as a sore throat, problems swallowing or loss of smell",
+      "It is affecting your sleep or daily life"
+    ],
+    "selfCareMaxDays": 21,
+    "sources": [
+      {"label": "NHS – Catarrh", "url": "https://www.nhs.uk/conditions/catarrh/"},
+      {"label": "NHS – Non-allergic rhinitis", "url": "https://www.nhs.uk/conditions/non-allergic-rhinitis/"}
+    ]
+  },
+  {
+    "id": "toothache",
+    "name": "Toothache",
+    "aliases": ["tooth pain", "tooth hurts", "throbbing tooth", "pain when biting", "dental pain", "sore tooth"],
+    "bodyArea": "Mouth & teeth",
+    "summary": "Toothache is usually caused by tooth decay, a cracked tooth, gum problems or an infection. It needs a dentist to find and treat the cause.",
+    "redFlags": [
+      "Swelling around the eye or in the neck",
+      "Swelling in the mouth or neck making it difficult to breathe, swallow or speak",
+      "Cannot open your mouth properly with spreading facial swelling and fever"
+    ],
+    "urgentFlags": [
+      "A swollen cheek or jaw",
+      "A high temperature with toothache",
+      "Pain when biting with red gums or a bad taste in the mouth",
+      "Severe pain that painkillers do not control"
+    ],
+    "commonCauses": [
+      {"title": "Tooth decay", "detail": "Cavities expose the sensitive inner part of the tooth."},
+      {"title": "Dental abscess", "detail": "A collection of pus from infection, causing throbbing pain and sometimes swelling."},
+      {"title": "Cracked tooth or damaged filling", "detail": "Pain often when biting or with hot and cold."},
+      {"title": "Gum disease or wisdom teeth", "detail": "Inflamed gums or an erupting wisdom tooth can cause pain."},
+      {"title": "Sinusitis", "detail": "Can cause aching in the upper back teeth."}
+    ],
+    "selfCare": [
+      "Take over-the-counter pain relief such as paracetamol or ibuprofen, following the pack instructions",
+      "Use a pain-relieving mouth gel from a pharmacy",
+      "Rinse with warm salt water (adults only)",
+      "Eat soft foods and chew on the other side",
+      "Contact a dentist; if your dentist is closed, ask about emergency dental services"
+    ],
+    "avoid": [
+      "Holding aspirin against the gum, which can burn it",
+      "Very hot, cold or sugary food and drink",
+      "Using painkillers for weeks instead of getting the tooth treated"
+    ],
+    "seeDoctorIf": [
+      "Toothache lasts more than 2 days",
+      "Painkillers do not help",
+      "The tooth is sensitive or painful when you bite"
+    ],
+    "selfCareMaxDays": 2,
+    "sources": [
+      {"label": "NHS – Toothache", "url": "https://www.nhs.uk/symptoms/toothache/"},
+      {"label": "MedlinePlus – Toothaches", "url": "https://medlineplus.gov/ency/article/003067.htm"}
+    ]
+  },
+  {
+    "id": "bleeding-gums",
+    "name": "Bleeding or swollen gums",
+    "aliases": ["gums bleed when brushing", "bleeding gums", "swollen gums", "sore gums", "red gums", "gum disease"],
+    "bodyArea": "Mouth & teeth",
+    "summary": "Gums that bleed when you brush are most often a sign of gum disease (gingivitis), which is common and can be reversed with good cleaning. A dentist can check and treat it.",
+    "redFlags": [
+      "Bleeding that will not stop after 15 minutes of pressure",
+      "Very swollen gums with swelling spreading to the face or neck and difficulty swallowing or breathing"
+    ],
+    "urgentFlags": [
+      "Very sore and swollen gums",
+      "Teeth becoming loose or falling out",
+      "Bleeding gums with unexplained bruising, nosebleeds or feeling very tired",
+      "Painful, ulcerated gums with bad breath and fever"
+    ],
+    "commonCauses": [
+      {"title": "Gingivitis", "detail": "Plaque build-up along the gumline causing red, swollen gums that bleed."},
+      {"title": "Brushing too hard or flossing for the first time", "detail": "Can cause minor bleeding that settles."},
+      {"title": "Pregnancy", "detail": "Hormone changes make gums more likely to bleed."},
+      {"title": "Periodontitis", "detail": "More advanced gum disease that can loosen teeth."},
+      {"title": "Medicines or blood conditions", "detail": "Blood thinners or, rarely, blood disorders can cause bleeding gums."}
+    ],
+    "selfCare": [
+      "Brush twice a day for 2 minutes with a fluoride toothpaste and a soft brush",
+      "Clean between your teeth every day with floss or interdental brushes",
+      "Keep brushing gums that bleed; bleeding usually improves within 1 to 2 weeks",
+      "Stop smoking",
+      "Have regular dental check-ups and cleaning"
+    ],
+    "avoid": [
+      "Stopping brushing because your gums bleed",
+      "Brushing very hard with a hard brush",
+      "Sugary snacks and drinks between meals"
+    ],
+    "seeDoctorIf": [
+      "Your gums bleed when you brush or eat hard foods",
+      "Your gums are painful and swollen",
+      "You have bad breath that does not go away",
+      "You have not had a dental check-up for 2 years"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {"label": "NHS – Gum disease", "url": "https://www.nhs.uk/conditions/gum-disease/"},
+      {"label": "MedlinePlus – Bleeding gums", "url": "https://medlineplus.gov/ency/article/003062.htm"}
+    ]
+  },
+  {
+    "id": "mouth-ulcers",
+    "name": "Mouth ulcers",
+    "aliases": ["canker sore", "mouth sore", "ulcer on tongue", "sore spot inside cheek", "painful white spot in mouth", "aphthous ulcer"],
+    "bodyArea": "Mouth & teeth",
+    "summary": "Mouth ulcers are painful sores inside the mouth that are common and usually heal on their own within 1 to 2 weeks. An ulcer that lasts longer than 3 weeks should be checked.",
+    "redFlags": [
+      "Mouth sores with a widespread rash, blistering skin or peeling, especially after a new medicine",
+      "Mouth swelling making it hard to breathe or swallow"
+    ],
+    "urgentFlags": [
+      "Unable to eat or drink because of pain, especially in a child",
+      "An ulcer that bleeds or becomes more painful, red and swollen",
+      "Many ulcers with a high temperature and feeling unwell"
+    ],
+    "commonCauses": [
+      {"title": "Minor injury", "detail": "Biting your cheek, sharp teeth, braces or dentures."},
+      {"title": "Stress, tiredness and hormonal changes", "detail": "Common triggers for recurring ulcers."},
+      {"title": "Certain foods or toothpastes", "detail": "Spicy or acidic foods, or toothpaste with sodium lauryl sulphate, can trigger ulcers."},
+      {"title": "Viral infections", "detail": "Such as hand, foot and mouth disease or cold sore virus."},
+      {"title": "Health conditions", "detail": "Low iron or vitamin B12, coeliac disease or inflammatory bowel disease can cause repeated ulcers."}
+    ],
+    "selfCare": [
+      "Use a soft toothbrush",
+      "Ask a pharmacist about pain-relieving gels, sprays or mouthwashes",
+      "Eat softer foods and drink cool drinks through a straw",
+      "Keep your mouth clean"
+    ],
+    "avoid": [
+      "Very spicy, salty, acidic or hard foods",
+      "Very hot drinks",
+      "Chewing gum"
+    ],
+    "seeDoctorIf": [
+      "An ulcer lasts longer than 3 weeks",
+      "An ulcer is different from ones you have had before, or near the back of the throat",
+      "You keep getting mouth ulcers",
+      "You also have ulcers elsewhere on the body, or painful, swollen joints"
+    ],
+    "selfCareMaxDays": 21,
+    "sources": [
+      {"label": "NHS – Mouth ulcers", "url": "https://www.nhs.uk/conditions/mouth-ulcers/"},
+      {"label": "MedlinePlus – Mouth sores", "url": "https://medlineplus.gov/ency/article/003059.htm"}
+    ]
+  },
+  {
+    "id": "dry-mouth",
+    "name": "Dry mouth",
+    "aliases": ["mouth always dry", "no saliva", "sticky mouth", "thirsty all the time", "cotton mouth", "dry mouth at night"],
+    "bodyArea": "Mouth & teeth",
+    "summary": "A dry mouth is rarely serious and is often caused by dehydration, medicines, mouth breathing or anxiety. Simple measures usually help.",
+    "redFlags": [
+      "Dry mouth with confusion, drowsiness, fast breathing or not passing urine",
+      "Very dry mouth with extreme thirst, being sick and stomach pain in someone with diabetes"
+    ],
+    "urgentFlags": [
+      "Dry mouth with constant thirst, peeing a lot and weight loss",
+      "Dry mouth with signs of dehydration that are not improving with drinking"
+    ],
+    "commonCauses": [
+      {"title": "Dehydration", "detail": "Not drinking enough, sweating or being ill."},
+      {"title": "Medicines", "detail": "Many medicines list dry mouth as a side effect."},
+      {"title": "Mouth breathing", "detail": "A blocked nose or sleeping with your mouth open."},
+      {"title": "Anxiety", "detail": "Stress can reduce saliva."},
+      {"title": "Health conditions", "detail": "Diabetes, Sjögren's syndrome and cancer treatment can cause a persistent dry mouth."}
+    ],
+    "selfCare": [
+      "Drink water regularly and take sips during meals",
+      "Chew sugar-free gum or suck sugar-free sweets",
+      "Ask a pharmacist about saliva substitutes, sprays or gels",
+      "Use a humidifier at night",
+      "Keep up good dental care, as a dry mouth raises the risk of decay"
+    ],
+    "avoid": [
+      "Alcohol, including alcohol-based mouthwash",
+      "Caffeine, smoking and sugary drinks",
+      "Salty or spicy food if it makes your mouth uncomfortable"
+    ],
+    "seeDoctorIf": [
+      "Your mouth is still dry after a few weeks of home or pharmacy treatment",
+      "It is making talking or eating difficult",
+      "You think a medicine is causing it",
+      "You also have dry eyes or need to pee a lot"
+    ],
+    "selfCareMaxDays": 21,
+    "sources": [
+      {"label": "NHS – Dry mouth", "url": "https://www.nhs.uk/symptoms/dry-mouth/"},
+      {"label": "NIDCR – Dry mouth", "url": "https://www.nidcr.nih.gov/health-info/dry-mouth"}
+    ]
+  },
+  {
+    "id": "bad-breath",
+    "name": "Bad breath",
+    "aliases": ["halitosis", "smelly breath", "breath smells", "bad taste and bad breath", "morning breath won't go"],
+    "bodyArea": "Mouth & teeth",
+    "summary": "Bad breath is common and usually caused by bacteria in the mouth, especially when teeth, gums and tongue are not cleaned well. It can usually be treated at home.",
+    "redFlags": [
+      "Fruity-smelling breath with vomiting, stomach pain, fast breathing or confusion, especially in someone with diabetes"
+    ],
+    "urgentFlags": [
+      "Bad breath with a painful swollen gum or face and a high temperature",
+      "Bad breath with a painful, ulcerated mouth and fever"
+    ],
+    "commonCauses": [
+      {"title": "Oral hygiene", "detail": "Food and bacteria build up on the teeth, gums and tongue."},
+      {"title": "Gum disease or tooth decay", "detail": "Infections in the mouth often cause a bad smell."},
+      {"title": "Strong foods, smoking and alcohol", "detail": "Garlic, onions, coffee, tobacco and alcohol affect breath."},
+      {"title": "Dry mouth", "detail": "Less saliva lets bacteria build up."},
+      {"title": "Other conditions", "detail": "Sinus or throat infections, acid reflux and some health conditions can cause bad breath."}
+    ],
+    "selfCare": [
+      "Brush teeth and gums twice a day for 2 minutes",
+      "Clean between your teeth daily and gently clean your tongue",
+      "Keep dentures clean and take them out at night",
+      "Drink water and chew sugar-free gum",
+      "Stop smoking"
+    ],
+    "avoid": [
+      "Relying on mouthwash or mints to hide the smell",
+      "Sugary snacks and drinks",
+      "Strong-smelling foods before social events if they affect you"
+    ],
+    "seeDoctorIf": [
+      "Bad breath does not go away after a few weeks of good cleaning",
+      "You have painful, bleeding or swollen gums",
+      "You have toothache or loose adult teeth",
+      "You have problems with your dentures"
+    ],
+    "selfCareMaxDays": 21,
+    "sources": [
+      {"label": "NHS – Bad breath", "url": "https://www.nhs.uk/symptoms/bad-breath/"},
+      {"label": "MedlinePlus – Bad breath", "url": "https://medlineplus.gov/badbreath.html"}
+    ]
+  },
+  {
+    "id": "sensitive-teeth",
+    "name": "Sensitive teeth",
+    "aliases": ["teeth hurt with cold", "sensitive to cold drinks", "tooth sensitivity", "teeth hurt with sweets", "zing in tooth", "sensitive to hot"],
+    "bodyArea": "Mouth & teeth",
+    "summary": "Sensitive teeth give a short, sharp pain with cold, hot, sweet or acidic foods. It is common and often caused by worn enamel or receding gums.",
+    "redFlags": [
+      "Facial or neck swelling making it hard to breathe, swallow or open your mouth"
+    ],
+    "urgentFlags": [
+      "Pain that lingers for a long time or throbs on its own",
+      "Pain with a swollen gum or face, or a high temperature",
+      "A tooth that is cracked or broken"
+    ],
+    "commonCauses": [
+      {"title": "Worn enamel", "detail": "From brushing too hard, grinding or acidic food and drink."},
+      {"title": "Receding gums", "detail": "Expose the sensitive root surface of the tooth."},
+      {"title": "Tooth decay or a cracked tooth", "detail": "Can expose the inner tooth."},
+      {"title": "After dental treatment", "detail": "Fillings or whitening can cause short-term sensitivity."}
+    ],
+    "selfCare": [
+      "Use a toothpaste for sensitive teeth twice a day; it can take a few weeks to work",
+      "Brush gently with a soft toothbrush",
+      "Cut down on acidic foods and drinks, and use a straw for fizzy drinks",
+      "Wait about an hour after acidic food or drink before brushing"
+    ],
+    "avoid": [
+      "Brushing hard or side to side",
+      "Whitening toothpastes while teeth are sensitive"
+    ],
+    "seeDoctorIf": [
+      "Sensitivity has not improved after a few weeks of sensitive toothpaste",
+      "Sensitivity is in one tooth only",
+      "You grind your teeth"
+    ],
+    "selfCareMaxDays": 28,
+    "sources": [
+      {"label": "MouthHealthy (American Dental Association) – Sensitive teeth", "url": "https://www.mouthhealthy.org/all-topics-a-z/sensitive-teeth"},
+      {"label": "NHS – Tooth decay", "url": "https://www.nhs.uk/conditions/tooth-decay/"}
+    ]
+  },
+  {
+    "id": "dental-abscess",
+    "name": "Swollen face or gum from a tooth (dental abscess)",
+    "aliases": ["tooth abscess", "swollen cheek from tooth", "gum boil", "pus on gum", "swollen jaw toothache", "infected tooth"],
+    "bodyArea": "Mouth & teeth",
+    "summary": "A dental abscess is a build-up of pus from an infection in a tooth or gum. It causes intense pain and swelling and will not go away on its own, so it needs urgent dental treatment.",
+    "redFlags": [
+      "Finding it hard to breathe, speak or swallow",
+      "A swollen or painful eye, or sudden problems with eyesight",
+      "A lot of swelling in the mouth or neck",
+      "Finding it hard to open your mouth",
+      "Feeling very unwell with a high temperature, fast heartbeat or confusion"
+    ],
+    "urgentFlags": [
+      "You think you have a dental abscess",
+      "Intense toothache with a swollen face or jaw",
+      "A bad taste in the mouth with pain and swelling"
+    ],
+    "commonCauses": [
+      {"title": "Untreated tooth decay", "detail": "Bacteria reach the nerve and cause infection at the root."},
+      {"title": "Gum disease", "detail": "Infection can form a pocket of pus in the gum."},
+      {"title": "Cracked or damaged tooth", "detail": "Lets bacteria into the inner tooth."}
+    ],
+    "selfCare": [
+      "Take over-the-counter pain relief such as paracetamol or ibuprofen, following the pack instructions",
+      "Eat soft foods and use a soft toothbrush",
+      "Avoid very hot or cold food and drink",
+      "Contact a dentist urgently, or emergency dental services if closed"
+    ],
+    "avoid": [
+      "Squeezing or bursting the swelling yourself",
+      "Waiting for it to go away; antibiotics alone do not cure an abscess",
+      "Using leftover antibiotics"
+    ],
+    "seeDoctorIf": [
+      "Any suspected abscess, even if the pain eases (the infection can remain)",
+      "Pain or swelling returns after treatment"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {"label": "NHS – Dental abscess", "url": "https://www.nhs.uk/conditions/dental-abscess/"},
+      {"label": "MedlinePlus – Tooth disorders", "url": "https://medlineplus.gov/toothdisorders.html"}
+    ]
+  },
+  {
+    "id": "jaw-pain",
+    "name": "Jaw pain or clicking jaw",
+    "aliases": ["jaw hurts", "clicking jaw", "TMJ", "jaw locking", "pain when chewing", "aching jaw"],
+    "bodyArea": "Mouth & teeth",
+    "summary": "Jaw pain is often caused by a problem with the jaw joint and muscles (TMD), teeth grinding or a dental problem. It usually improves with self-care, but jaw pain with chest pain can be a sign of a heart attack.",
+    "redFlags": [
+      "Jaw pain with chest pain, pressure or tightness",
+      "Jaw pain with shortness of breath, sweating or feeling sick and light-headed",
+      "Jaw locked open or closed after an injury, or a jaw that may be broken",
+      "Facial swelling making it hard to breathe or swallow"
+    ],
+    "urgentFlags": [
+      "Unable to eat or drink because of jaw pain",
+      "Jaw locking or difficulty opening the mouth fully",
+      "Jaw pain when chewing with headache, scalp tenderness or vision problems, especially if over 50"
+    ],
+    "commonCauses": [
+      {"title": "Temporomandibular disorder (TMD)", "detail": "Problems with the jaw joint and chewing muscles causing pain, clicking and stiffness."},
+      {"title": "Teeth grinding or clenching", "detail": "Often at night or with stress."},
+      {"title": "Dental problems", "detail": "Toothache, abscess or wisdom teeth can cause jaw pain."},
+      {"title": "Heart problems", "detail": "Angina or a heart attack can cause pain that spreads to the jaw."},
+      {"title": "Giant cell arteritis", "detail": "In older adults, jaw pain on chewing with headache needs urgent assessment."}
+    ],
+    "selfCare": [
+      "Eat soft foods and cut food into small pieces",
+      "Hold a warm or cold pack against the jaw",
+      "Take over-the-counter pain relief such as paracetamol or ibuprofen, following the pack instructions",
+      "Try relaxation to reduce clenching",
+      "Gently massage the jaw muscles"
+    ],
+    "avoid": [
+      "Chewing gum and hard or chewy foods",
+      "Opening your mouth very wide, for example big yawns",
+      "Resting your chin on your hand"
+    ],
+    "seeDoctorIf": [
+      "Jaw pain has not improved after 2 weeks",
+      "Pain is affecting eating or sleep",
+      "You have clicking with pain that keeps coming back"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {"label": "NHS – Temporomandibular disorder (TMD)", "url": "https://www.nhs.uk/conditions/temporomandibular-disorder-tmd/"},
+      {"label": "NHS – Heart attack", "url": "https://www.nhs.uk/conditions/heart-attack/"}
+    ]
+  }
+]

@@ -22,6 +22,7 @@ export function ConditionsBrowser() {
         ...c.symptoms.map((s) => ({ text: s, weight: 0.5 })),
       ],
       0.5,
+      'best',
     ).map((r) => r.item)
   }, [query, category])
 

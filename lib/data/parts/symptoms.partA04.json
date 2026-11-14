@@ -1,0 +1,935 @@
+[
+  {
+    "id": "broken-tooth",
+    "name": "Chipped, broken or knocked-out tooth",
+    "aliases": ["chipped tooth", "broken tooth", "knocked out tooth", "cracked tooth", "tooth fell out after injury", "lost a filling"],
+    "bodyArea": "Mouth & teeth",
+    "summary": "A chipped, cracked or knocked-out tooth needs to be seen by a dentist. An adult tooth that has been knocked out has the best chance of being saved if it is put back or kept moist and seen within an hour.",
+    "redFlags": [
+      "Head injury with the dental injury, such as being knocked out, vomiting or confusion",
+      "Bleeding from the mouth that will not stop after 15 minutes of pressure",
+      "Jaw that may be broken, or cannot close the mouth properly",
+      "Swelling making it difficult to breathe or swallow"
+    ],
+    "urgentFlags": [
+      "An adult tooth has been knocked out",
+      "A tooth is badly broken, loose or pushed out of place",
+      "Severe pain or a broken tooth with exposed pink or red inner part"
+    ],
+    "commonCauses": [
+      {"title": "Falls and sports injuries", "detail": "The most common cause of knocked-out or broken front teeth."},
+      {"title": "Biting hard objects", "detail": "Ice, hard sweets, bones or pen tops can crack teeth."},
+      {"title": "Tooth decay or large fillings", "detail": "Weakened teeth break more easily."},
+      {"title": "Teeth grinding", "detail": "Can crack teeth over time."}
+    ],
+    "selfCare": [
+      "Hold a knocked-out adult tooth by the crown (white part), not the root",
+      "If it is dirty, rinse it briefly in milk or saliva, then push it back into the socket and bite on a clean cloth",
+      "If you cannot put it back, keep it in milk or in your cheek and see a dentist straight away",
+      "For a chipped tooth, keep any pieces, rinse your mouth and see a dentist",
+      "Take over-the-counter pain relief such as paracetamol or ibuprofen if needed, following the pack instructions"
+    ],
+    "avoid": [
+      "Putting a knocked-out baby tooth back in, as it can damage the adult tooth underneath",
+      "Scrubbing the tooth or storing it in water",
+      "Chewing on the broken tooth"
+    ],
+    "seeDoctorIf": [
+      "A tooth feels sensitive or has changed colour after an injury",
+      "A small chip has left a sharp edge",
+      "A filling or crown has come out"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {"label": "NHS – Knocked-out tooth", "url": "https://www.nhs.uk/conditions/knocked-out-tooth/"},
+      {"label": "MedlinePlus – Tooth disorders", "url": "https://medlineplus.gov/toothdisorders.html"}
+    ]
+  },
+  {
+    "id": "white-patches-in-mouth",
+    "name": "White patches in the mouth or oral thrush",
+    "aliases": ["oral thrush", "white tongue", "white coating in mouth", "white spots in mouth", "mouth thrush", "furry tongue"],
+    "bodyArea": "Mouth & teeth",
+    "summary": "White patches in the mouth are often caused by oral thrush, a fungal infection that is easily treated. White patches that cannot be wiped off and do not go away should be checked by a dentist or doctor.",
+    "redFlags": [
+      "Difficulty breathing or swallowing with mouth swelling"
+    ],
+    "urgentFlags": [
+      "Pain or difficulty when swallowing",
+      "A baby with thrush who is not feeding well",
+      "Thrush in someone with a weakened immune system"
+    ],
+    "commonCauses": [
+      {"title": "Oral thrush", "detail": "Creamy white patches that may wipe off, leaving red areas; more common with antibiotics, steroid inhalers, dentures or diabetes."},
+      {"title": "Coated tongue", "detail": "A harmless white coating from dead cells and bacteria, often with a dry mouth."},
+      {"title": "Lichen planus", "detail": "Lacy white patches on the inside of the cheeks or tongue."},
+      {"title": "Leukoplakia", "detail": "White patches that do not rub off; can occasionally become cancerous, so it needs checking."}
+    ],
+    "selfCare": [
+      "Ask a pharmacist about antifungal treatment for oral thrush",
+      "Rinse your mouth after using a steroid inhaler",
+      "Clean dentures every day and take them out at night",
+      "Brush your teeth and gently brush your tongue twice a day"
+    ],
+    "avoid": [
+      "Smoking",
+      "Sugary foods and mouthwashes containing alcohol while you have thrush"
+    ],
+    "seeDoctorIf": [
+      "Thrush has not improved after 1 week of treatment",
+      "White patches cannot be wiped off or keep coming back",
+      "A baby under 4 months has signs of thrush",
+      "White or red patches have lasted more than 3 weeks"
+    ],
+    "selfCareMaxDays": 7,
+    "sources": [
+      {"label": "NHS – Oral thrush (mouth thrush)", "url": "https://www.nhs.uk/conditions/oral-thrush-mouth-thrush/"},
+      {"label": "NHS – Sore or white tongue", "url": "https://www.nhs.uk/symptoms/sore-or-white-tongue/"}
+    ]
+  },
+  {
+    "id": "sore-tongue",
+    "name": "Sore or burning tongue",
+    "aliases": ["tongue hurts", "burning tongue", "burning mouth", "swollen tongue sore", "bumps on tongue", "bit my tongue"],
+    "bodyArea": "Mouth & teeth",
+    "summary": "A sore tongue is often caused by biting or burning it, a mouth ulcer or irritation from food. It usually heals within a few days.",
+    "redFlags": [
+      "Sudden swelling of the tongue, lips or throat, or difficulty breathing or swallowing"
+    ],
+    "urgentFlags": [
+      "Tongue pain with difficulty swallowing or speaking",
+      "A sore tongue with a high temperature and feeling very unwell"
+    ],
+    "commonCauses": [
+      {"title": "Injury or burns", "detail": "Biting the tongue or hot food and drink; should heal within a few days."},
+      {"title": "Mouth ulcers", "detail": "Painful sores can appear on the tongue."},
+      {"title": "Geographic tongue", "detail": "Harmless map-like smooth patches that can feel sore with some foods."},
+      {"title": "Low iron, vitamin B12 or folate", "detail": "Can make the tongue smooth, red and sore."},
+      {"title": "Burning mouth syndrome", "detail": "An ongoing burning feeling with no visible cause, more common after the menopause."}
+    ],
+    "selfCare": [
+      "Eat soft, cool foods and drink through a straw",
+      "Rinse with salt water (adults only) or ask a pharmacist about pain-relieving gels",
+      "Keep your mouth clean with gentle brushing",
+      "Sip cold water or suck ice chips"
+    ],
+    "avoid": [
+      "Spicy, acidic or very hot foods and drinks",
+      "Smoking and alcohol"
+    ],
+    "seeDoctorIf": [
+      "Tongue pain or itchiness does not go away or gets worse",
+      "You have white or red patches on your tongue",
+      "A sore or lump on the tongue lasts longer than 3 weeks"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {"label": "NHS – Sore or white tongue", "url": "https://www.nhs.uk/symptoms/sore-or-white-tongue/"},
+      {"label": "MedlinePlus – Tongue problems", "url": "https://medlineplus.gov/ency/article/003047.htm"}
+    ]
+  },
+  {
+    "id": "loss-of-taste",
+    "name": "Loss of taste or changed taste",
+    "aliases": ["can't taste food", "food tastes different", "metallic taste in mouth", "lost sense of taste", "bitter taste in mouth", "everything tastes bland"],
+    "bodyArea": "Mouth & teeth",
+    "summary": "Changes in taste are often linked to a cold, a problem with smell, a medicine or a mouth problem. Most of what we think of as flavour comes from smell, so the two often change together.",
+    "redFlags": [
+      "Sudden change in taste with face drooping, weakness, numbness or slurred speech"
+    ],
+    "urgentFlags": [
+      "Taste change with facial weakness developing over a day or two",
+      "Unable to eat or drink enough because of taste changes"
+    ],
+    "commonCauses": [
+      {"title": "Colds, flu and COVID-19", "detail": "Usually linked to a loss of smell and recovers over weeks."},
+      {"title": "Medicines", "detail": "Many medicines, including some antibiotics and cancer treatments, can cause a metallic or bitter taste."},
+      {"title": "Mouth problems", "detail": "Gum disease, oral thrush, dry mouth and poor oral hygiene can affect taste."},
+      {"title": "Smoking and ageing", "detail": "Both can dull your sense of taste."},
+      {"title": "Nerve problems", "detail": "Bell's palsy or head injury can affect taste."}
+    ],
+    "selfCare": [
+      "Keep up good mouth hygiene, including brushing your tongue",
+      "Try foods with strong flavours, herbs and varied textures",
+      "Drink enough water to prevent a dry mouth",
+      "Stop smoking"
+    ],
+    "avoid": [
+      "Adding lots of extra salt or sugar to make food taste better",
+      "Stopping a prescribed medicine without talking to a doctor"
+    ],
+    "seeDoctorIf": [
+      "Your taste has not returned within 3 weeks",
+      "You think a medicine is causing taste changes",
+      "Taste changes are affecting your appetite or weight"
+    ],
+    "selfCareMaxDays": 21,
+    "sources": [
+      {"label": "MedlinePlus – Taste, impaired", "url": "https://medlineplus.gov/ency/article/003050.htm"},
+      {"label": "NHS – Lost or changed sense of smell", "url": "https://www.nhs.uk/symptoms/lost-or-changed-sense-smell/"}
+    ]
+  },
+  {
+    "id": "cold-sores",
+    "name": "Cold sores",
+    "aliases": ["cold sore", "fever blister", "blister on lip", "tingling lip before sore", "herpes on lip", "lip sore"],
+    "bodyArea": "Mouth & teeth",
+    "summary": "Cold sores are small blisters on or around the lips caused by the herpes simplex virus. They are common and usually clear up on their own within 10 days.",
+    "redFlags": [
+      "Cold sore near the eye with eye pain, redness or changes in vision",
+      "A newborn baby with blisters or who is unwell after contact with a cold sore",
+      "Widespread sores with high fever, confusion or drowsiness"
+    ],
+    "urgentFlags": [
+      "A cold sore near or in the eye",
+      "Swollen, painful gums and many sores inside the mouth, especially in a child",
+      "Cold sores with a weakened immune system or eczema around the sore"
+    ],
+    "commonCauses": [
+      {"title": "Herpes simplex virus", "detail": "Once you have the virus it stays in the body and can reactivate."},
+      {"title": "Triggers", "detail": "Colds and other illness, strong sunlight, tiredness, stress or periods can bring on a cold sore."}
+    ],
+    "selfCare": [
+      "Ask a pharmacist about antiviral cream, which works best when started at the first tingle",
+      "Use cold sore patches to protect the sore",
+      "Take over-the-counter pain relief such as paracetamol or ibuprofen if needed, following the pack instructions",
+      "Wash your hands after touching the sore",
+      "Use lip balm with sun protection"
+    ],
+    "avoid": [
+      "Kissing, especially babies, while you have a cold sore",
+      "Oral sex while you have a cold sore",
+      "Sharing cups, cutlery, towels or lip balm",
+      "Touching the sore and then your eyes"
+    ],
+    "seeDoctorIf": [
+      "A cold sore has not started to heal within 10 days",
+      "The cold sore is very large or painful",
+      "You keep getting cold sores",
+      "You are pregnant and have a cold sore"
+    ],
+    "selfCareMaxDays": 10,
+    "sources": [
+      {"label": "NHS – Cold sores", "url": "https://www.nhs.uk/conditions/cold-sores/"},
+      {"label": "MedlinePlus – Cold sores", "url": "https://medlineplus.gov/coldsores.html"}
+    ]
+  },
+  {
+    "id": "sore-lips",
+    "name": "Sore, dry or cracked lips",
+    "aliases": ["chapped lips", "cracked lips", "dry lips", "sore corners of mouth", "split lips", "peeling lips"],
+    "bodyArea": "Mouth & teeth",
+    "summary": "Dry, sore or cracked lips are very common and are usually caused by cold weather, wind, sun or licking your lips. They usually get better with simple care.",
+    "redFlags": [
+      "Sudden swelling of the lips, tongue or throat, or difficulty breathing"
+    ],
+    "urgentFlags": [
+      "Lips that are hot, painful and swollen, which could be an infection",
+      "Sore lips with mouth blisters, a rash and feeling unwell after a new medicine"
+    ],
+    "commonCauses": [
+      {"title": "Weather and dryness", "detail": "Cold, wind, dry air and sun dry out the lips."},
+      {"title": "Licking or biting the lips", "detail": "Saliva dries the lips further."},
+      {"title": "Angular cheilitis", "detail": "Sore, cracked corners of the mouth, sometimes from an infection or poorly fitting dentures."},
+      {"title": "Irritation or allergy", "detail": "Lipsticks, toothpaste or some foods can irritate the lips."},
+      {"title": "Dehydration and some medicines", "detail": "Not drinking enough, and acne or other medicines, can dry the lips."}
+    ],
+    "selfCare": [
+      "Use a lip balm, ideally with sun protection",
+      "Drink plenty of fluids",
+      "Ask a pharmacist about creams for sore corners of the mouth",
+      "Cover your lips with a scarf in cold, windy weather"
+    ],
+    "avoid": [
+      "Licking, biting or picking your lips",
+      "Lip products that sting or make things worse",
+      "Sharing lip balms or cups"
+    ],
+    "seeDoctorIf": [
+      "Your lips are not getting better after 2 weeks",
+      "Sore corners of the mouth keep coming back",
+      "A sore, lump or crust on the lip does not heal within 3 weeks"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {"label": "NHS – Sore or dry lips", "url": "https://www.nhs.uk/symptoms/sore-or-dry-lips/"}
+    ]
+  },
+  {
+    "id": "wisdom-tooth-pain",
+    "name": "Wisdom tooth pain",
+    "aliases": ["wisdom tooth pain", "back tooth coming through", "swollen gum at back of mouth", "pain at back of jaw", "impacted wisdom tooth", "pericoronitis"],
+    "bodyArea": "Mouth & teeth",
+    "summary": "Wisdom teeth come through at the back of the mouth in late teens or adulthood. When there is not enough space, the gum over them can become sore, swollen or infected.",
+    "redFlags": [
+      "Swelling in the mouth or neck making it difficult to breathe, swallow or speak",
+      "Swelling spreading towards the eye or down the neck",
+      "Unable to open the mouth with fever and feeling very unwell"
+    ],
+    "urgentFlags": [
+      "A swollen cheek or jaw",
+      "A high temperature with pain at the back of the mouth",
+      "Pus or a bad taste from the gum, with pain",
+      "Severe pain that painkillers do not control"
+    ],
+    "commonCauses": [
+      {"title": "Erupting wisdom tooth", "detail": "Pain and tenderness as the tooth breaks through."},
+      {"title": "Pericoronitis", "detail": "Infection of the gum flap over a partly erupted tooth, where food gets trapped."},
+      {"title": "Decay or gum disease", "detail": "Wisdom teeth are hard to clean, so they decay more easily."}
+    ],
+    "selfCare": [
+      "Rinse with warm salt water (adults only), especially after eating",
+      "Brush carefully around the area with a soft toothbrush",
+      "Take over-the-counter pain relief such as paracetamol or ibuprofen, following the pack instructions",
+      "Eat soft foods and chew on the other side"
+    ],
+    "avoid": [
+      "Leaving food trapped around the tooth",
+      "Smoking",
+      "Assuming the pain will settle if it keeps coming back"
+    ],
+    "seeDoctorIf": [
+      "Pain lasts more than 2 or 3 days",
+      "Pain keeps coming back",
+      "You find it hard to clean around the tooth"
+    ],
+    "selfCareMaxDays": 3,
+    "sources": [
+      {"label": "NHS – Wisdom tooth removal", "url": "https://www.nhs.uk/tests-and-treatments/wisdom-tooth-removal/"},
+      {"label": "NHS – Toothache", "url": "https://www.nhs.uk/symptoms/toothache/"}
+    ]
+  },
+  {
+    "id": "teeth-grinding",
+    "name": "Teeth grinding or clenching",
+    "aliases": ["grinding teeth at night", "bruxism", "clenching jaw", "jaw sore in the morning", "partner hears me grinding", "worn down teeth"],
+    "bodyArea": "Mouth & teeth",
+    "summary": "Teeth grinding and jaw clenching often happen during sleep, and are linked to stress, anxiety, alcohol, caffeine and smoking. It can cause jaw pain, headaches and worn teeth.",
+    "redFlags": [
+      "Jaw pain with chest pain, shortness of breath or sweating"
+    ],
+    "urgentFlags": [
+      "Jaw locking or being unable to open your mouth",
+      "A cracked or broken tooth with pain"
+    ],
+    "commonCauses": [
+      {"title": "Stress and anxiety", "detail": "The most common cause of grinding and clenching."},
+      {"title": "Sleep problems", "detail": "Grinding is linked to snoring and sleep apnoea."},
+      {"title": "Alcohol, caffeine, smoking and drugs", "detail": "These can make grinding worse."},
+      {"title": "Medicines", "detail": "Some antidepressants can cause grinding."}
+    ],
+    "selfCare": [
+      "Try ways to relax, such as breathing exercises, exercise or a calming bedtime routine",
+      "Cut down on caffeine and alcohol, especially in the evening",
+      "Stop smoking",
+      "Practise keeping your lips together and teeth apart during the day",
+      "Apply a warm flannel to sore jaw muscles"
+    ],
+    "avoid": [
+      "Chewing gum or pens",
+      "Hard or chewy foods if your jaw is sore"
+    ],
+    "seeDoctorIf": [
+      "You grind your teeth and have tooth damage or sensitive teeth",
+      "You have pain in your jaw, face or ear",
+      "Your partner says you grind your teeth in your sleep",
+      "You are worried about your child grinding their teeth"
+    ],
+    "selfCareMaxDays": 28,
+    "sources": [
+      {"label": "NHS – Teeth grinding", "url": "https://www.nhs.uk/symptoms/teeth-grinding/"}
+    ]
+  },
+  {
+    "id": "mouth-lump-or-patch",
+    "name": "Lump or red or white patch in the mouth",
+    "aliases": ["lump in mouth", "lump on gum", "red patch in mouth", "lump on tongue", "mouth growth", "sore in mouth that won't heal"],
+    "bodyArea": "Mouth & teeth",
+    "summary": "Most lumps and patches in the mouth are harmless, such as a bitten cheek or a blocked saliva gland. Any lump, ulcer or red or white patch that does not heal within 3 weeks should be checked by a dentist or doctor.",
+    "redFlags": [
+      "A swelling in the mouth or neck making it difficult to breathe or swallow"
+    ],
+    "urgentFlags": [
+      "A lump that is growing quickly",
+      "A lump with numbness of the lip or tongue",
+      "Bleeding from a lump or patch that does not stop easily"
+    ],
+    "commonCauses": [
+      {"title": "Minor injury", "detail": "Biting the cheek or lip can leave a lump that settles in a week or two."},
+      {"title": "Mucocele", "detail": "A harmless fluid-filled swelling, often on the lower lip, from a blocked saliva gland."},
+      {"title": "Gum boil from a tooth infection", "detail": "A small pus-filled lump on the gum near a painful tooth."},
+      {"title": "Leukoplakia or erythroplakia", "detail": "White or red patches that sometimes change into cancer."},
+      {"title": "Mouth cancer", "detail": "Less common; risk is higher with smoking, chewing tobacco or betel, and heavy drinking."}
+    ],
+    "selfCare": [
+      "Keep your mouth clean and avoid irritating the area",
+      "Note when the lump or patch appeared and whether it changes",
+      "Stop smoking and cut down on alcohol"
+    ],
+    "avoid": [
+      "Picking at or trying to burst a lump",
+      "Waiting more than 3 weeks to get a non-healing lump or patch checked"
+    ],
+    "seeDoctorIf": [
+      "A lump, ulcer or patch has not healed within 3 weeks",
+      "A tooth has become loose for no clear reason",
+      "You have a lump in the neck as well",
+      "You have ongoing pain or difficulty swallowing"
+    ],
+    "selfCareMaxDays": 21,
+    "sources": [
+      {"label": "NHS – Mouth cancer", "url": "https://www.nhs.uk/conditions/mouth-cancer/"},
+      {"label": "MedlinePlus – Oral cancer", "url": "https://medlineplus.gov/oralcancer.html"}
+    ]
+  },
+  {
+    "id": "swollen-lips-or-tongue",
+    "name": "Sudden swelling of the lips, tongue or face",
+    "aliases": ["lips swelling up", "tongue swelling", "face swelling suddenly", "allergic reaction swelling", "angioedema", "puffy lips"],
+    "bodyArea": "Mouth & teeth",
+    "summary": "Sudden swelling of the lips, tongue or face is often caused by an allergic reaction. If it affects breathing or swallowing it can be life-threatening (anaphylaxis) and needs emergency help.",
+    "redFlags": [
+      "Lips, mouth, throat or tongue suddenly swelling",
+      "Breathing very fast, struggling to breathe, wheezing, choking or gasping",
+      "Throat feels tight or struggling to swallow",
+      "Skin, tongue or lips turning blue, grey or pale",
+      "Suddenly very confused, drowsy or dizzy, or fainting"
+    ],
+    "urgentFlags": [
+      "Swelling of another part of the body, such as the hands or feet, that came on suddenly",
+      "Mild lip swelling that keeps coming back",
+      "Swelling that started after a new medicine"
+    ],
+    "commonCauses": [
+      {"title": "Allergic reaction", "detail": "To foods such as nuts or shellfish, insect stings, latex or medicines."},
+      {"title": "Medicines", "detail": "Some blood pressure medicines (ACE inhibitors) can cause swelling, even after years of use."},
+      {"title": "Hereditary angioedema", "detail": "A rare inherited condition causing repeated swelling."},
+      {"title": "Local injury or infection", "detail": "A bite, burn or infection can cause swelling of one area."}
+    ],
+    "selfCare": [
+      "If you have a prescribed adrenaline auto-injector and signs of anaphylaxis, use it and call your local emergency number (such as 911, 999 or 112)",
+      "Lie down with legs raised, or sit up if breathing is difficult",
+      "For mild swelling without breathing problems, ask a pharmacist about antihistamines",
+      "Keep a note of anything you ate, touched or took before the swelling"
+    ],
+    "avoid": [
+      "Waiting to see if swelling of the tongue or throat gets better",
+      "Standing or walking about during a severe reaction",
+      "Taking the suspected trigger again"
+    ],
+    "seeDoctorIf": [
+      "You have had swelling and do not know the cause",
+      "Swelling keeps coming back",
+      "You think a regular medicine may be causing it"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {"label": "NHS – Angioedema", "url": "https://www.nhs.uk/conditions/angioedema/"},
+      {"label": "NHS – Anaphylaxis", "url": "https://www.nhs.uk/conditions/anaphylaxis/"}
+    ]
+  },
+  {
+    "id": "cough",
+    "name": "Cough",
+    "aliases": ["coughing", "dry cough", "tickly cough", "chesty cough", "cough won't go away", "night cough", "hacking cough"],
+    "bodyArea": "Chest, heart & lungs",
+    "summary": "A cough is usually caused by a virus such as a cold or flu and gets better on its own within 3 to 4 weeks. A cough lasting longer than 3 weeks should be checked.",
+    "redFlags": [
+      "Severe difficulty breathing, gasping or unable to speak in full sentences",
+      "Lips or skin turning blue, grey or very pale",
+      "Coughing up more than a few streaks of blood",
+      "Cough with chest pain that spreads to the arm, neck, jaw or back",
+      "Sudden confusion or very drowsy"
+    ],
+    "urgentFlags": [
+      "Cough is very bad or getting worse quickly",
+      "Feeling very unwell, or a high temperature that is not settling",
+      "Chest pain or finding it hard to breathe",
+      "Coughing up small streaks of blood",
+      "Swollen, painful glands in the side of the neck"
+    ],
+    "commonCauses": [
+      {"title": "Colds, flu and COVID-19", "detail": "The most common cause; the cough can last several weeks after other symptoms."},
+      {"title": "Chest infection", "detail": "Such as bronchitis, with a chesty cough and mucus."},
+      {"title": "Asthma and allergies", "detail": "Cough often worse at night or with exercise."},
+      {"title": "Acid reflux and postnasal drip", "detail": "Can cause a long-lasting cough."},
+      {"title": "Smoking and long-term lung conditions", "detail": "Such as COPD; a persistent cough needs checking."}
+    ],
+    "selfCare": [
+      "Rest and drink plenty of fluids",
+      "Try hot lemon and honey (not for babies under 1)",
+      "Take over-the-counter pain relief such as paracetamol or ibuprofen for aches, following the pack instructions",
+      "Stay at home if you have a high temperature or feel unwell",
+      "Cover coughs and wash your hands often"
+    ],
+    "avoid": [
+      "Expecting antibiotics, which do not help viral coughs",
+      "Smoking",
+      "Giving cough medicines to young children unless advised by a pharmacist"
+    ],
+    "seeDoctorIf": [
+      "You have had a cough for more than 3 weeks",
+      "You are losing weight for no reason",
+      "You have a weakened immune system",
+      "Your cough keeps coming back"
+    ],
+    "selfCareMaxDays": 21,
+    "sources": [
+      {"label": "NHS – Cough", "url": "https://www.nhs.uk/symptoms/cough/"},
+      {"label": "MedlinePlus – Cough", "url": "https://medlineplus.gov/cough.html"}
+    ]
+  },
+  {
+    "id": "coughing-up-mucus",
+    "name": "Coughing up phlegm or mucus",
+    "aliases": ["coughing up phlegm", "green phlegm", "yellow mucus", "chesty cough with mucus", "productive cough", "sputum"],
+    "bodyArea": "Chest, heart & lungs",
+    "summary": "Coughing up phlegm is common with colds and chest infections, and helps clear the airways. Yellow or green phlegm alone does not mean you need antibiotics.",
+    "redFlags": [
+      "Severe difficulty breathing, or lips or skin turning blue or grey",
+      "Coughing up more than a few streaks of blood",
+      "Confusion, very fast breathing or feeling extremely unwell"
+    ],
+    "urgentFlags": [
+      "Feeling very unwell or symptoms getting worse",
+      "Blood-stained mucus",
+      "Fast breathing, chest pain or shortness of breath",
+      "Being over 65, pregnant, or having a long-term heart, lung or kidney condition with a chest infection"
+    ],
+    "commonCauses": [
+      {"title": "Chest infection (bronchitis)", "detail": "Usually viral and clears in 1 to 3 weeks."},
+      {"title": "Pneumonia", "detail": "Infection of the lungs with fever, breathlessness and feeling very unwell."},
+      {"title": "Postnasal drip", "detail": "Mucus from the nose running down the throat."},
+      {"title": "COPD, asthma or bronchiectasis", "detail": "Long-term lung conditions can cause daily phlegm."},
+      {"title": "Smoking", "detail": "Causes ongoing mucus production."}
+    ],
+    "selfCare": [
+      "Rest and drink plenty of fluids to loosen the mucus",
+      "Breathe in steam from a warm shower",
+      "Raise your head with extra pillows at night",
+      "Take over-the-counter pain relief such as paracetamol or ibuprofen for fever or aches, following the pack instructions"
+    ],
+    "avoid": [
+      "Smoking",
+      "Assuming coloured phlegm needs antibiotics",
+      "Cough suppressants for a chesty cough unless advised by a pharmacist"
+    ],
+    "seeDoctorIf": [
+      "Your cough has lasted more than 3 weeks",
+      "You keep getting chest infections",
+      "You cough up phlegm most days"
+    ],
+    "selfCareMaxDays": 21,
+    "sources": [
+      {"label": "NHS – Chest infection", "url": "https://www.nhs.uk/conditions/chest-infection/"},
+      {"label": "NHS – Bronchitis", "url": "https://www.nhs.uk/conditions/bronchitis/"}
+    ]
+  },
+  {
+    "id": "coughing-up-blood",
+    "name": "Coughing up blood",
+    "aliases": ["blood in phlegm", "coughing blood", "blood when coughing", "pink frothy sputum", "haemoptysis", "spitting blood"],
+    "bodyArea": "Chest, heart & lungs",
+    "summary": "Coughing up blood can be caused by a chest infection or a nosebleed, but it can also be a sign of something serious. It should always be checked by a doctor.",
+    "redFlags": [
+      "Coughing up more than just a few spots or streaks of blood",
+      "Coughing up blood with difficulty breathing",
+      "Coughing up blood with a very fast heartbeat",
+      "Coughing up blood with pain in the chest or upper back",
+      "Coughing up blood with a painful, swollen leg"
+    ],
+    "urgentFlags": [
+      "A few small spots, flecks or streaks of blood in your phlegm",
+      "Blood in phlegm with a fever or feeling unwell"
+    ],
+    "commonCauses": [
+      {"title": "Chest infection", "detail": "A heavy cough can cause small streaks of blood."},
+      {"title": "Nosebleed or bleeding gums", "detail": "Blood from the nose or mouth can be mistaken for blood from the lungs."},
+      {"title": "Pulmonary embolism", "detail": "A blood clot in the lungs, often with breathlessness and chest pain."},
+      {"title": "Long-term lung conditions", "detail": "Bronchiectasis, tuberculosis or COPD."},
+      {"title": "Lung cancer", "detail": "Less common, but more likely in smokers and older adults."}
+    ],
+    "selfCare": [
+      "Note how much blood there is and what it looks like",
+      "Arrange to be seen by a doctor even if it stops"
+    ],
+    "avoid": [
+      "Ignoring blood in your phlegm, even if it happens once",
+      "Smoking"
+    ],
+    "seeDoctorIf": [
+      "You have coughed up any blood that has not been checked",
+      "You also have a cough for more than 3 weeks or weight loss"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {"label": "NHS – Coughing up blood", "url": "https://www.nhs.uk/symptoms/coughing-up-blood/"},
+      {"label": "MedlinePlus – Coughing up blood", "url": "https://medlineplus.gov/ency/article/003073.htm"},
+      {"label": "NHS – Pulmonary embolism", "url": "https://www.nhs.uk/conditions/pulmonary-embolism/"}
+    ]
+  },
+  {
+    "id": "wheezing",
+    "name": "Wheezing",
+    "aliases": ["wheezy chest", "whistling when breathing", "chest whistling", "wheezing at night", "tight wheezy chest", "asthma attack"],
+    "bodyArea": "Chest, heart & lungs",
+    "summary": "Wheezing is a whistling sound when you breathe, caused by narrowed airways. It is common with asthma and chest infections, and new or worsening wheezing should be checked.",
+    "redFlags": [
+      "Severe breathlessness, unable to speak, eat or sleep",
+      "Lips or skin turning blue, grey or very pale",
+      "Reliever inhaler is not helping, or you need it more than every 4 hours",
+      "Wheezing with swelling of the lips, tongue or throat after eating, a sting or a medicine",
+      "Feeling drowsy, confused or exhausted from breathing"
+    ],
+    "urgentFlags": [
+      "Wheezing for the first time",
+      "Asthma symptoms getting worse, or needing your reliever more often than usual",
+      "Wheezing with a high temperature or chest pain"
+    ],
+    "commonCauses": [
+      {"title": "Asthma", "detail": "Airways become narrow and inflamed, often triggered by colds, allergens, exercise or cold air."},
+      {"title": "Chest infections", "detail": "Bronchitis and, in young children, bronchiolitis can cause wheezing."},
+      {"title": "COPD", "detail": "Long-term lung damage, usually from smoking."},
+      {"title": "Allergic reaction", "detail": "Sudden wheezing can be part of anaphylaxis."},
+      {"title": "Heart failure or acid reflux", "detail": "Less common causes of wheezing."}
+    ],
+    "selfCare": [
+      "If you have asthma, follow your personal asthma action plan and use your reliever inhaler as prescribed",
+      "Sit upright and try to breathe slowly",
+      "Avoid known triggers such as smoke, dust and pollen",
+      "Stop smoking"
+    ],
+    "avoid": [
+      "Smoking and second-hand smoke",
+      "Relying on your reliever inhaler without telling a doctor it is needed more often",
+      "Exercising hard while wheezy"
+    ],
+    "seeDoctorIf": [
+      "You have wheezing that has not been diagnosed",
+      "Your asthma is waking you at night or you use your reliever 3 or more times a week",
+      "Wheezing keeps coming back with colds"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {"label": "MedlinePlus – Wheezing", "url": "https://medlineplus.gov/ency/article/003070.htm"},
+      {"label": "NHS – Asthma", "url": "https://www.nhs.uk/conditions/asthma/"}
+    ]
+  },
+  {
+    "id": "shortness-of-breath",
+    "name": "Shortness of breath",
+    "aliases": ["breathless", "can't catch my breath", "out of breath easily", "difficulty breathing", "struggling to breathe", "breathless lying down", "air hunger"],
+    "bodyArea": "Chest, heart & lungs",
+    "summary": "Feeling short of breath is normal after exercise, but breathlessness that is new, sudden or getting worse needs medical advice. Sudden severe breathlessness is an emergency.",
+    "redFlags": [
+      "Severe difficulty breathing: gasping, choking or unable to get words out",
+      "Chest feels tight or heavy",
+      "Pain that spreads to the arms, back, neck or jaw",
+      "Lips or skin turning very pale, blue or grey",
+      "Suddenly confused",
+      "Sudden breathlessness with swelling of the lips, tongue or throat"
+    ],
+    "urgentFlags": [
+      "More short of breath than usual",
+      "Breathlessness with feeling or being sick",
+      "Coughing up blood",
+      "Pain or swelling in one leg",
+      "A racing, fluttering or irregular heartbeat"
+    ],
+    "commonCauses": [
+      {"title": "Asthma or a chest infection", "detail": "Common causes of breathlessness with cough or wheeze."},
+      {"title": "Anxiety and panic", "detail": "Can cause fast breathing and a feeling of not getting enough air."},
+      {"title": "Being unfit or overweight", "detail": "Breathlessness on exertion that improves with activity over time."},
+      {"title": "COPD and other lung conditions", "detail": "Gradually worsening breathlessness, often in smokers."},
+      {"title": "Heart problems, anaemia or a blood clot", "detail": "Heart failure, anaemia and pulmonary embolism need prompt assessment."}
+    ],
+    "selfCare": [
+      "Sit upright, relax your shoulders and breathe slowly in through your nose and out through pursed lips",
+      "If you have asthma or COPD, follow your action plan",
+      "Stop smoking",
+      "Build up activity gradually if you are breathless because you are unfit"
+    ],
+    "avoid": [
+      "Trying to diagnose the cause yourself",
+      "Ignoring breathlessness that is getting worse",
+      "Smoking"
+    ],
+    "seeDoctorIf": [
+      "Breathlessness gets worse with normal activities or when you lie down",
+      "You are short of breath and have swollen ankles",
+      "You have been coughing for 3 weeks or more",
+      "You have been breathless for a while without a known cause"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {"label": "NHS – Shortness of breath", "url": "https://www.nhs.uk/symptoms/shortness-of-breath/"},
+      {"label": "MedlinePlus – Breathing difficulty", "url": "https://medlineplus.gov/ency/article/003075.htm"}
+    ]
+  },
+  {
+    "id": "chest-pain",
+    "name": "Chest pain or tightness",
+    "aliases": ["chest hurts", "tight chest", "pressure in chest", "pain in left side of chest", "heart pain", "squeezing chest", "sharp chest pain"],
+    "bodyArea": "Chest, heart & lungs",
+    "summary": "Chest pain has many causes and is often not caused by the heart, but it can be a sign of a heart attack. Sudden chest pain or pressure that does not go away needs emergency help.",
+    "redFlags": [
+      "Sudden pain, pressure, squeezing or tightness in the chest that does not go away",
+      "Chest pain that spreads to the arms, neck, jaw, stomach or back",
+      "Chest pain with sweating, feeling sick, light-headed or short of breath",
+      "Sudden sharp chest pain with breathlessness or coughing up blood",
+      "Chest pain lasting 15 minutes or more"
+    ],
+    "urgentFlags": [
+      "Sharp chest pain that comes and goes, or only happens when breathing or coughing",
+      "Chest pain on exertion that eases with rest",
+      "Chest pain with a high temperature and cough"
+    ],
+    "commonCauses": [
+      {"title": "Muscle strain", "detail": "Pain after exercise, lifting or injury, worse when pressing the area or moving."},
+      {"title": "Heartburn or indigestion", "detail": "Burning pain after eating, often with a sour taste."},
+      {"title": "Anxiety or panic attack", "detail": "Sharp or tight pain with a racing heart, sweating and dizziness."},
+      {"title": "Chest infection or pleurisy", "detail": "Pain often worse on breathing in or coughing."},
+      {"title": "Heart problems", "detail": "Angina or a heart attack; pain often feels like pressure, heaviness or tightness."}
+    ],
+    "selfCare": [
+      "If you think it could be a heart attack, call your local emergency number (such as 911, 999 or 112), sit down and rest while waiting",
+      "If a pharmacist or doctor has said it is muscle pain, use heat and over-the-counter pain relief such as paracetamol, following the pack instructions",
+      "If heartburn is likely, ask a pharmacist about remedies and avoid large late meals"
+    ],
+    "avoid": [
+      "Driving yourself to hospital with chest pain",
+      "Assuming chest pain is indigestion without getting it checked",
+      "Exercising until chest pain has been assessed"
+    ],
+    "seeDoctorIf": [
+      "You have chest pain that comes and goes",
+      "You had chest pain that went away quickly but you are still worried",
+      "You get chest pain or tightness when walking or climbing stairs"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {"label": "NHS – Chest pain", "url": "https://www.nhs.uk/symptoms/chest-pain/"},
+      {"label": "NHS – Heart attack", "url": "https://www.nhs.uk/conditions/heart-attack/"},
+      {"label": "MedlinePlus – Chest pain", "url": "https://medlineplus.gov/chestpain.html"}
+    ]
+  },
+  {
+    "id": "pain-when-breathing",
+    "name": "Pain when breathing in",
+    "aliases": ["hurts to breathe", "sharp pain when breathing in", "pain on deep breath", "chest hurts when I breathe", "pleurisy", "rib pain when breathing"],
+    "bodyArea": "Chest, heart & lungs",
+    "summary": "Sharp chest pain that is worse when you breathe in or cough is often caused by a strained muscle or an infection, but it can also be a sign of pleurisy or a blood clot in the lungs.",
+    "redFlags": [
+      "Sudden sharp chest pain with difficulty breathing",
+      "Coughing up more than a few streaks of blood",
+      "Very fast heartbeat with breathing pain",
+      "Chest pain spreading to the arms, back, neck or jaw",
+      "Breathing pain with a painful, swollen leg"
+    ],
+    "urgentFlags": [
+      "Sharp chest pain that comes and goes or only happens when breathing or coughing",
+      "Sharp chest pain that has not got better after a few days",
+      "Small streaks of blood in your phlegm",
+      "Feeling short of breath regularly"
+    ],
+    "commonCauses": [
+      {"title": "Muscle strain or rib injury", "detail": "Pain over a tender spot, worse with movement and deep breaths."},
+      {"title": "Costochondritis", "detail": "Inflamed cartilage where the ribs join the breastbone."},
+      {"title": "Pleurisy", "detail": "Inflammation of the lining of the lungs, usually from a viral infection."},
+      {"title": "Pneumonia", "detail": "Lung infection with fever, cough and breathlessness."},
+      {"title": "Pulmonary embolism or collapsed lung", "detail": "Serious causes that come on suddenly with breathlessness."}
+    ],
+    "selfCare": [
+      "Take over-the-counter pain relief such as paracetamol or ibuprofen, following the pack instructions",
+      "Rest, and lie on the painful side if it helps",
+      "Hold a pillow against your chest when coughing",
+      "Take some slow, deep breaths each hour to keep the lungs clear"
+    ],
+    "avoid": [
+      "Ignoring sudden breathing pain with breathlessness",
+      "Heavy lifting or strenuous exercise until the pain settles"
+    ],
+    "seeDoctorIf": [
+      "Pain has not improved after a few days",
+      "Pain keeps coming back",
+      "You have had a recent injury and pain is getting worse"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {"label": "NHS – Pleurisy", "url": "https://www.nhs.uk/conditions/pleurisy/"},
+      {"label": "NHS – Costochondritis", "url": "https://www.nhs.uk/conditions/costochondritis/"},
+      {"label": "NHS – Pulmonary embolism", "url": "https://www.nhs.uk/conditions/pulmonary-embolism/"}
+    ]
+  },
+  {
+    "id": "palpitations",
+    "name": "Heart palpitations",
+    "aliases": ["heart racing", "heart pounding", "fluttering in chest", "skipped heartbeat", "irregular heartbeat", "fast heart rate", "heart flutter"],
+    "bodyArea": "Chest, heart & lungs",
+    "summary": "Palpitations are when your heartbeat suddenly becomes noticeable, racing, pounding, fluttering or skipping. They are usually harmless and often linked to stress, caffeine or alcohol.",
+    "redFlags": [
+      "Palpitations with chest pain",
+      "Palpitations with shortness of breath",
+      "Feeling faint or fainting with palpitations",
+      "Palpitations that do not go away"
+    ],
+    "urgentFlags": [
+      "You had palpitations with chest pain, breathlessness or faintness that have now stopped",
+      "A very fast heartbeat lasting more than a few minutes, even if you feel well"
+    ],
+    "commonCauses": [
+      {"title": "Stress, anxiety and panic", "detail": "Very common causes of a racing or pounding heart."},
+      {"title": "Caffeine, alcohol, nicotine and drugs", "detail": "Coffee, energy drinks, alcohol, smoking and recreational drugs can trigger palpitations."},
+      {"title": "Exercise, lack of sleep or hormonal changes", "detail": "Including pregnancy and the menopause."},
+      {"title": "Extra (ectopic) beats", "detail": "A harmless skipped or extra beat that most people have sometimes."},
+      {"title": "Heart rhythm problems and other conditions", "detail": "Atrial fibrillation, an overactive thyroid or anaemia can cause palpitations."}
+    ],
+    "selfCare": [
+      "Sit down and breathe slowly until they pass",
+      "Cut down on caffeine, alcohol and energy drinks",
+      "Stop smoking",
+      "Try relaxation such as breathing exercises, yoga or regular exercise",
+      "Note when they happen, how long they last and what you were doing"
+    ],
+    "avoid": [
+      "Recreational drugs and energy drinks",
+      "Driving while you feel faint or unwell"
+    ],
+    "seeDoctorIf": [
+      "Palpitations keep coming back or are happening more often",
+      "They last longer than a few minutes",
+      "You have a heart condition",
+      "There is a history of heart problems or sudden death in your family"
+    ],
+    "selfCareMaxDays": 7,
+    "sources": [
+      {"label": "NHS – Heart palpitations", "url": "https://www.nhs.uk/symptoms/heart-palpitations/"},
+      {"label": "MedlinePlus – Heart palpitations", "url": "https://medlineplus.gov/ency/article/003081.htm"}
+    ]
+  },
+  {
+    "id": "hiccups",
+    "name": "Hiccups",
+    "aliases": ["hiccups won't stop", "hiccoughs", "constant hiccups", "hiccups for days", "can't get rid of hiccups"],
+    "bodyArea": "Chest, heart & lungs",
+    "summary": "Hiccups are very common and usually stop on their own within a few minutes or hours. Hiccups lasting more than 48 hours should be checked.",
+    "redFlags": [
+      "Hiccups with chest pain, shortness of breath or sweating",
+      "Hiccups with sudden weakness, numbness or slurred speech"
+    ],
+    "urgentFlags": [
+      "Hiccups with vomiting so you cannot keep fluids down",
+      "Hiccups stopping you eating, drinking or sleeping"
+    ],
+    "commonCauses": [
+      {"title": "Eating or drinking", "detail": "Large meals, fizzy drinks, alcohol and eating quickly."},
+      {"title": "Stress or excitement", "detail": "Strong emotions can trigger hiccups."},
+      {"title": "Medicines", "detail": "Some medicines, such as steroids, can cause hiccups."},
+      {"title": "Medical conditions", "detail": "Rarely, long-lasting hiccups are caused by reflux, nerve irritation or other conditions."}
+    ],
+    "selfCare": [
+      "Breathe into a paper (not plastic) bag",
+      "Hold your breath for a short time",
+      "Sip ice-cold water or bite on a lemon",
+      "Pull your knees up to your chest and lean forward"
+    ],
+    "avoid": [
+      "Fizzy drinks and alcohol",
+      "Eating very quickly or very large meals",
+      "Very hot then very cold food or drink"
+    ],
+    "seeDoctorIf": [
+      "Hiccups last longer than 48 hours",
+      "Hiccups keep coming back and are affecting your life"
+    ],
+    "selfCareMaxDays": 2,
+    "sources": [
+      {"label": "NHS – Hiccups", "url": "https://www.nhs.uk/symptoms/hiccups/"},
+      {"label": "MedlinePlus – Hiccups", "url": "https://medlineplus.gov/hiccups.html"}
+    ]
+  },
+  {
+    "id": "blue-lips",
+    "name": "Blue or grey lips or skin",
+    "aliases": ["lips turning blue", "blue lips", "grey skin", "cyanosis", "blue fingertips", "pale grey lips"],
+    "bodyArea": "Chest, heart & lungs",
+    "summary": "Lips, tongue or skin that turn blue, grey or very pale can mean the body is not getting enough oxygen. When it comes on suddenly it is an emergency.",
+    "redFlags": [
+      "Lips, tongue or skin suddenly turning blue, grey or very pale (on brown or black skin, check the palms, gums or around the eyes)",
+      "Blue lips with difficulty breathing or choking",
+      "Blue lips with confusion, drowsiness or collapse",
+      "A child who is blue, limp or not responding normally"
+    ],
+    "urgentFlags": [
+      "Fingers or toes that stay blue or white after warming up",
+      "Bluish lips that come and go with exercise"
+    ],
+    "commonCauses": [
+      {"title": "Cold", "detail": "Fingers, toes and lips can look blue in the cold and improve with warming."},
+      {"title": "Breathing problems", "detail": "Severe asthma, pneumonia, COPD or choking reduce oxygen levels."},
+      {"title": "Heart problems", "detail": "Heart failure or heart conditions present from birth."},
+      {"title": "Raynaud's phenomenon", "detail": "Fingers and toes turn white then blue in the cold or with stress."}
+    ],
+    "selfCare": [
+      "If someone suddenly turns blue or grey and is struggling to breathe, call your local emergency number (such as 911, 999 or 112)",
+      "If only fingers and toes are blue from cold, warm up gradually"
+    ],
+    "avoid": [
+      "Waiting to see if blue lips improve when someone is breathless or unwell",
+      "Smoking"
+    ],
+    "seeDoctorIf": [
+      "Your fingers or toes often change colour in the cold",
+      "Lips or nails look bluish with exercise or breathlessness"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {"label": "MedlinePlus – Blue discoloration of the skin", "url": "https://medlineplus.gov/ency/article/003215.htm"},
+      {"label": "NHS – Shortness of breath", "url": "https://www.nhs.uk/symptoms/shortness-of-breath/"}
+    ]
+  },
+  {
+    "id": "noisy-breathing",
+    "name": "Noisy or high-pitched breathing (stridor)",
+    "aliases": ["stridor", "high pitched breathing", "noisy breathing", "barking cough and noisy breathing", "crowing sound when breathing", "croup"],
+    "bodyArea": "Chest, heart & lungs",
+    "summary": "Stridor is a high-pitched, harsh sound when breathing in, caused by a narrowed upper airway. It is most common in children with croup and should always be assessed, urgently if the person is struggling to breathe.",
+    "redFlags": [
+      "High-pitched breathing with struggling to breathe or the skin sucking in between the ribs",
+      "Noisy breathing with drooling or unable to swallow",
+      "Lips or skin turning blue or grey",
+      "Noisy breathing after choking on food or an object",
+      "Sudden noisy breathing with swelling of the lips, tongue or throat",
+      "A child who is very drowsy, agitated or floppy"
+    ],
+    "urgentFlags": [
+      "Stridor in a child with croup, even if mild",
+      "A barking cough with a high temperature"
+    ],
+    "commonCauses": [
+      {"title": "Croup", "detail": "A viral infection in young children causing a barking cough and stridor, often worse at night."},
+      {"title": "Inhaled object", "detail": "Something stuck in the airway, especially in toddlers."},
+      {"title": "Allergic reaction", "detail": "Swelling of the throat in anaphylaxis."},
+      {"title": "Throat infections", "detail": "Rare but serious infections such as epiglottitis."}
+    ],
+    "selfCare": [
+      "Keep the person, especially a child, calm and sitting upright",
+      "Give fluids only if they can swallow easily",
+      "Get medical help straight away"
+    ],
+    "avoid": [
+      "Looking down a child's throat or putting fingers in the mouth if they are struggling to breathe",
+      "Making the person lie down",
+      "Steam treatments, which do not help croup and risk scalds"
+    ],
+    "seeDoctorIf": [
+      "Noisy breathing keeps coming back",
+      "A baby has noisy breathing that has not been checked"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {"label": "MedlinePlus – Stridor", "url": "https://medlineplus.gov/ency/article/003074.htm"},
+      {"label": "NHS – Croup", "url": "https://www.nhs.uk/conditions/croup/"}
+    ]
+  }
+]

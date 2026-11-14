@@ -1,0 +1,291 @@
+[
+  {
+    "id": "keto-diet-best-for-weight-loss",
+    "category": "Weight",
+    "myth": "The keto diet is the best and only diet that really works for weight loss.",
+    "rating": "misleading",
+    "fact": "A very low-carbohydrate (ketogenic) diet can lead to weight loss, mainly because it reduces how much people eat. Over the longer term, studies find it does not beat other approaches that cut calories by a similar amount, and many people find it hard to stick to.",
+    "explanation": "Early weight loss on keto is partly water, because the body's carbohydrate stores hold water. Strict keto cuts out many fruits, whole grains and pulses that provide fibre, and it can cause side effects such as constipation; it may not be suitable for people with some medical conditions or on certain medicines. The diet that works best for any one person is usually the one they can keep up while still eating a balanced range of foods.",
+    "keywords": ["keto", "ketogenic diet", "keto diet", "ketosis", "low carb diet", "best diet", "keto weight loss", "no carbs"],
+    "sources": [
+      { "label": "Harvard Health Publishing — Should you try the keto diet?", "url": "https://www.health.harvard.edu/staying-healthy/should-you-try-the-keto-diet" },
+      { "label": "NHS — Managing your weight", "url": "https://www.nhs.uk/live-well/healthy-weight/managing-your-weight/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "intermittent-fasting-burns-more-fat",
+    "category": "Weight",
+    "myth": "Intermittent fasting melts fat much faster than any normal diet, even if you eat the same amount.",
+    "rating": "misleading",
+    "fact": "Intermittent fasting, such as 16:8 or the 5:2 diet, can help some people lose weight because it often reduces how much they eat overall. In trials that compare it with ordinary daily calorie cutting, weight loss is generally similar.",
+    "explanation": "Fasting is not a special switch that burns fat regardless of what you eat in the eating window. Some people find time limits make eating less easier; others become very hungry and overeat later. Fasting is not suitable for everyone, including people with a history of eating disorders, people who are pregnant, and people taking some diabetes medicines, who should talk to a doctor first.",
+    "keywords": ["intermittent fasting", "16:8", "5:2 diet", "time restricted eating", "fasting weight loss", "fasting burns fat", "omad", "one meal a day"],
+    "sources": [
+      { "label": "Harvard Health Publishing — Should you try intermittent fasting for weight loss?", "url": "https://www.health.harvard.edu/blog/intermittent-fasting-surprising-update-2018062914156" },
+      { "label": "NHS — Managing your weight", "url": "https://www.nhs.uk/live-well/healthy-weight/managing-your-weight/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "cortisol-face-and-belly",
+    "category": "Weight",
+    "myth": "A puffy 'cortisol face' or belly fat means your cortisol is too high and you need a cortisol detox or supplements.",
+    "rating": "false",
+    "fact": "A rounder face or fat around the middle is very common and is usually down to weight gain, genes, age, fluid, sleep or alcohol, not a hormone problem. Truly high cortisol (Cushing's syndrome) is uncommon, has other signs as well, and is diagnosed with medical tests, not by looking in a mirror.",
+    "explanation": "Social media trends that label normal faces and bodies as 'cortisol face' often lead on to selling supplements or 'cortisol cocktails' that have not been shown to lower cortisol. Cushing's syndrome is most often caused by long-term steroid medicines; other signs can include purple stretch marks, thin skin that bruises easily, and muscle weakness. If you are worried, a GP can arrange proper tests. Day-to-day stress management, sleep and activity are good for health, but no product 'flushes out' cortisol.",
+    "keywords": ["cortisol face", "cortisol belly", "high cortisol", "cortisol detox", "moon face", "puffy face", "cortisol cocktail", "adrenal", "stress belly"],
+    "sources": [
+      { "label": "NHS — Cushing's syndrome", "url": "https://www.nhs.uk/conditions/cushings-syndrome/" },
+      { "label": "MedlinePlus — Cushing's syndrome", "url": "https://medlineplus.gov/cushingsyndrome.html" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "weight-loss-injections-weight-stays-off",
+    "category": "Weight",
+    "myth": "Once you've lost weight on injections like Wegovy or Ozempic, you can stop them and the weight will stay off.",
+    "rating": "misleading",
+    "fact": "Medicines such as semaglutide can help people with obesity lose a meaningful amount of weight when used alongside changes to diet and activity. In studies, many people regained much of the lost weight within a year of stopping the medicine.",
+    "explanation": "These medicines work by reducing appetite, and appetite tends to return when they are stopped. They can also cause side effects such as nausea, vomiting and constipation, and should only be used under medical supervision, not bought from unregulated online sellers. Building eating and activity habits during treatment gives the best chance of keeping weight off.",
+    "keywords": ["ozempic", "wegovy", "mounjaro", "semaglutide", "tirzepatide", "weight loss injection", "weight loss jab", "glp-1", "stop ozempic", "regain weight"],
+    "sources": [
+      { "label": "NHS — Semaglutide", "url": "https://www.nhs.uk/medicines/semaglutide/" },
+      { "label": "NIDDK — Prescription medications to treat overweight & obesity", "url": "https://www.niddk.nih.gov/health-information/weight-management/prescription-medications-treat-overweight-obesity" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "obesity-just-lack-of-willpower",
+    "category": "Weight",
+    "myth": "Being overweight is simply a lack of willpower.",
+    "rating": "false",
+    "fact": "Body weight is shaped by many things at once, including genes, hormones, medicines, sleep, stress, income, the food environment and how active daily life allows people to be. The World Health Organization describes obesity as a complex, chronic disease, not a personal failing.",
+    "explanation": "Individual choices matter, but they are made in an environment full of cheap, high-calorie food and little need to move. Some medicines and medical conditions also cause weight gain. Blame and stigma tend to make things worse, for example by putting people off seeing a doctor, while practical support and treatment can help.",
+    "keywords": ["willpower", "lazy", "obesity causes", "fat shaming", "weight stigma", "overweight lazy", "lack of discipline", "why am i overweight"],
+    "sources": [
+      { "label": "WHO — Obesity and overweight", "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight" },
+      { "label": "NIDDK — Factors affecting weight & health", "url": "https://www.niddk.nih.gov/health-information/weight-management/adult-overweight-obesity/factors-affecting-weight-health" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "metabolism-crashes-after-thirty",
+    "category": "Weight",
+    "myth": "Your metabolism crashes after 30, which is why everyone gains weight in middle age.",
+    "rating": "false",
+    "fact": "A large study of thousands of people found that, once body size is taken into account, metabolic rate stays fairly stable from about age 20 to 60 and only slowly declines after that. Middle-age weight gain is mostly linked to eating more than the body uses, moving less and losing muscle.",
+    "explanation": "Life changes in your 30s and 40s, such as desk jobs, less sport, less sleep and more stress, often explain why weight creeps up. Muscle uses more energy than fat, so keeping active and doing strength exercises helps. Blaming a 'broken metabolism' can make weight feel out of your control when everyday habits still make a difference.",
+    "keywords": ["metabolism slows", "metabolism after 30", "metabolism age", "middle age weight gain", "slow metabolism", "metabolism crash", "getting older weight"],
+    "sources": [
+      { "label": "Harvard Health Publishing — The truth about metabolism", "url": "https://www.health.harvard.edu/staying-healthy/the-truth-about-metabolism" },
+      { "label": "NIDDK — Factors affecting weight & health", "url": "https://www.niddk.nih.gov/health-information/weight-management/adult-overweight-obesity/factors-affecting-weight-health" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "small-frequent-meals-boost-metabolism",
+    "category": "Weight",
+    "myth": "Eating six small meals a day 'stokes your metabolism' and helps you burn more fat.",
+    "rating": "false",
+    "fact": "The energy your body uses to digest food depends mainly on how much you eat in total, not on how many meals you split it into. Studies comparing frequent small meals with fewer larger meals at the same calorie intake find no meaningful difference in weight loss.",
+    "explanation": "Some people find smaller, regular meals help them manage hunger, and that is a perfectly good reason to eat that way. Others do better with three meals and fewer snacks. What matters most for weight is the overall amount and quality of food across the day.",
+    "keywords": ["small meals", "six meals a day", "eat every 3 hours", "stoke metabolism", "boost metabolism", "meal frequency", "grazing", "snacking metabolism"],
+    "sources": [
+      { "label": "Harvard Health Publishing — The truth about metabolism", "url": "https://www.health.harvard.edu/staying-healthy/the-truth-about-metabolism" },
+      { "label": "NHS — Understanding calories", "url": "https://www.nhs.uk/live-well/healthy-weight/managing-your-weight/understanding-calories/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "negative-calorie-foods",
+    "category": "Weight",
+    "myth": "Celery and other 'negative-calorie' foods burn more calories to digest than they contain.",
+    "rating": "false",
+    "fact": "Digesting food uses only a small share of the energy it provides, roughly a tenth on average. No ordinary food takes more energy to digest than it supplies, so 'negative-calorie' foods do not exist.",
+    "explanation": "Celery, cucumber and leafy greens are very low in calories and high in water and fibre, so they are a filling, healthy part of a diet. They simply do not cause weight loss on their own. Diets built only around such foods can leave people short of protein and other nutrients.",
+    "keywords": ["negative calorie", "negative calorie foods", "celery burns calories", "celery diet", "cucumber", "zero calorie food", "foods that burn fat"],
+    "sources": [
+      { "label": "NHS — Understanding calories", "url": "https://www.nhs.uk/live-well/healthy-weight/managing-your-weight/understanding-calories/" },
+      { "label": "Harvard Health Publishing — The truth about metabolism", "url": "https://www.health.harvard.edu/staying-healthy/the-truth-about-metabolism" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "green-tea-burns-fat",
+    "category": "Weight",
+    "myth": "Drinking green tea or taking green tea extract burns belly fat.",
+    "rating": "misleading",
+    "fact": "Research suggests green tea and green tea extract have, at most, a very small effect on weight that is unlikely to matter in practice. Concentrated green tea extract supplements have been linked to rare cases of liver injury.",
+    "explanation": "Plain green tea is a fine drink and a better choice than sugary drinks, which can help indirectly. Pills sold as 'fat burners' often contain concentrated extracts and caffeine, which can cause side effects. Weight change still depends mainly on overall diet and activity.",
+    "keywords": ["green tea", "green tea extract", "green tea weight loss", "matcha fat burner", "green tea belly fat", "egcg", "tea burns fat"],
+    "sources": [
+      { "label": "NCCIH — Green tea", "url": "https://www.nccih.nih.gov/health/green-tea" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "juice-cleanse-kickstarts-weight-loss",
+    "category": "Weight",
+    "myth": "A juice cleanse is a healthy way to detox and kick-start weight loss.",
+    "rating": "false",
+    "fact": "There is no good evidence that juice cleanses or 'detox' programmes remove toxins or lead to lasting weight loss. Any quick drop on the scales is mostly water and food in the gut, and it usually comes back once normal eating resumes.",
+    "explanation": "Your liver, kidneys and gut already clear waste products from the body. Juice-only plans are low in protein and fibre, can be high in sugar, and may cause problems for people with kidney disease or diabetes. A steady, balanced eating pattern does more for weight and health than a few days of juice.",
+    "keywords": ["juice cleanse", "juice detox", "juice fast", "detox diet", "cleanse weight loss", "kickstart weight loss", "juicing", "green juice"],
+    "sources": [
+      { "label": "NCCIH — \"Detoxes\" and \"cleanses\": what you need to know", "url": "https://www.nccih.nih.gov/health/detoxes-and-cleanses-what-you-need-to-know" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "hcg-diet-works",
+    "category": "Weight",
+    "myth": "HCG drops or injections with a very low-calorie diet melt fat without hunger.",
+    "rating": "false",
+    "fact": "hCG is a pregnancy hormone that is not approved for weight loss. The US Food and Drug Administration warns that over-the-counter hCG diet products are illegal and that there is no substantial evidence they help, and people on these plans lose weight because they eat very little.",
+    "explanation": "HCG diets typically pair the product with around 500 calories a day, which can cause gallstones, nutrient shortfalls and an irregular heartbeat. Products sold as 'homeopathic' hCG drops contain little or none of the hormone. Safer, effective support for weight loss is available through health services.",
+    "keywords": ["hcg diet", "hcg drops", "hcg injections", "500 calorie diet", "hcg weight loss", "pregnancy hormone diet", "hcg"],
+    "sources": [
+      { "label": "US FDA — Avoid dangerous hCG diet products", "url": "https://www.fda.gov/consumers/consumer-updates/avoid-dangerous-hcg-diet-products" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "belly-fat-more-harmful",
+    "category": "Weight",
+    "myth": "Fat around your waist is more harmful to health than fat elsewhere on your body.",
+    "rating": "true",
+    "fact": "Fat stored deep around the abdominal organs (visceral fat) is more strongly linked to type 2 diabetes, heart disease and some other conditions than fat on the hips or thighs. That is why waist size is used alongside BMI to judge health risk.",
+    "explanation": "You can carry extra visceral fat even if your weight is in the 'healthy' BMI range. A simple check is your waist measurement: as a general guide, your waist should be less than half your height. Regular activity, a balanced diet, enough sleep and limiting alcohol all help reduce visceral fat; sit-ups alone do not target it.",
+    "keywords": ["belly fat", "visceral fat", "waist size", "apple shape", "waist measurement", "tummy fat dangerous", "abdominal fat", "central obesity"],
+    "sources": [
+      { "label": "Harvard Health Publishing — Taking aim at belly fat", "url": "https://www.health.harvard.edu/staying-healthy/taking-aim-at-belly-fat" },
+      { "label": "NHS — Overweight and obesity", "url": "https://www.nhs.uk/conditions/overweight-and-obesity/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "weight-loss-surgery-easy-way-out",
+    "category": "Weight",
+    "myth": "Weight loss surgery is the easy way out.",
+    "rating": "false",
+    "fact": "Weight loss (bariatric) surgery is a major treatment offered to people with severe obesity, usually after other approaches have been tried. It requires lifelong changes to eating, regular follow-up and often vitamin supplements.",
+    "explanation": "Surgery can lead to large, lasting weight loss and can improve or even put conditions such as type 2 diabetes into remission. It also carries risks, and people need to adjust how much and how they eat for the rest of their lives. Calling it 'easy' adds stigma and can put people off a treatment that might help them.",
+    "keywords": ["weight loss surgery", "bariatric surgery", "gastric bypass", "gastric sleeve", "gastric band", "easy way out", "cheating", "obesity surgery"],
+    "sources": [
+      { "label": "NHS — Weight loss surgery", "url": "https://www.nhs.uk/tests-and-treatments/weight-loss-surgery/" },
+      { "label": "NIDDK — Bariatric surgery", "url": "https://www.niddk.nih.gov/health-information/weight-management/bariatric-surgery" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "laxatives-cause-weight-loss",
+    "category": "Weight",
+    "myth": "Taking laxatives is a good way to lose weight or get rid of calories.",
+    "rating": "false",
+    "fact": "Laxatives act on the large bowel, after most calories have already been absorbed, so they do not stop the body taking in food energy. Any weight lost is water, which returns, and misusing laxatives can cause dehydration, dangerous changes in body salts and long-term bowel problems.",
+    "explanation": "Using laxatives to control weight can be a sign of an eating disorder. If you, or someone you know, feel you need to use laxatives, vomiting or extreme dieting to manage weight, please talk to a GP or an eating disorder support service; help is available and recovery is possible.",
+    "keywords": ["laxatives", "laxatives weight loss", "lose weight laxatives", "laxative abuse", "senna", "flat tummy tea", "purging", "bulimia"],
+    "sources": [
+      { "label": "NHS — Laxatives", "url": "https://www.nhs.uk/medicines/laxatives/" },
+      { "label": "NHS — Eating disorders", "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/eating-disorders/overview/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "bmi-tells-you-if-healthy",
+    "category": "Weight",
+    "myth": "Your BMI tells you exactly whether you are healthy or not.",
+    "rating": "misleading",
+    "fact": "Body mass index (BMI) is a quick screening tool based on height and weight. It is useful across populations but cannot tell the difference between muscle and fat or show where fat is stored, so it does not give a full picture of an individual's health.",
+    "explanation": "Very muscular people can have a high BMI without excess fat, and some people with a 'healthy' BMI carry harmful fat around their middle. BMI thresholds can also differ by ethnic background; for example, people of South Asian, Chinese, Black African or Caribbean background may have higher risk at lower BMI. Doctors combine BMI with waist size, blood pressure, blood tests and other factors.",
+    "keywords": ["bmi", "body mass index", "bmi accurate", "bmi muscle", "healthy weight", "bmi calculator", "bmi flawed", "overweight bmi"],
+    "sources": [
+      { "label": "NHS — Calculate your body mass index (BMI) for adults", "url": "https://www.nhs.uk/health-assessment-tools/calculate-your-body-mass-index/calculate-bmi-for-adults" },
+      { "label": "NHS — Overweight and obesity", "url": "https://www.nhs.uk/conditions/overweight-and-obesity/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "poor-sleep-affects-weight",
+    "category": "Weight",
+    "myth": "Not getting enough sleep can make it harder to manage your weight.",
+    "rating": "mostly-true",
+    "fact": "Regularly sleeping too little is linked to a higher risk of weight gain and obesity. Short sleep can affect hormones that control hunger and fullness and tends to increase snacking and cravings for high-calorie food.",
+    "explanation": "Most of the evidence comes from observational studies and short experiments, so sleep is one factor among many rather than the main cause of weight gain. Still, aiming for enough regular sleep is a useful part of any plan to manage weight. Ongoing sleep problems, such as loud snoring with pauses in breathing, are worth discussing with a doctor.",
+    "keywords": ["sleep and weight", "lack of sleep weight gain", "sleep deprivation", "tired hungry", "sleep obesity", "cravings tired", "short sleep"],
+    "sources": [
+      { "label": "NHLBI — Sleep deprivation and deficiency: health effects", "url": "https://www.nhlbi.nih.gov/health/sleep-deprivation/health-effects" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "lymphatic-drainage-weight-loss",
+    "category": "Weight",
+    "myth": "Lymphatic drainage massage flushes out toxins, de-bloats you and helps you lose weight.",
+    "rating": "false",
+    "fact": "Manual lymphatic drainage is a specialised massage used, with compression and exercise, to help manage lymphoedema, a condition where fluid builds up because the lymphatic system is damaged. There is no good evidence that it removes 'toxins' or reduces body fat in healthy people.",
+    "explanation": "Any slimmer look after a session is temporary fluid movement. Massage can feel relaxing, which is a perfectly good reason to have one, but it is not a weight-loss treatment. Swelling in one limb or that does not go away should be checked by a doctor rather than treated with home massage.",
+    "keywords": ["lymphatic drainage", "lymphatic massage", "lymph drainage", "de-bloat", "drain toxins", "lymphatic detox", "dry brushing", "puffiness"],
+    "sources": [
+      { "label": "NHS — Lymphoedema: treatment", "url": "https://www.nhs.uk/conditions/lymphoedema/treatment/" },
+      { "label": "NCCIH — Massage therapy: what you need to know", "url": "https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "obesity-genes-nothing-you-can-do",
+    "category": "Weight",
+    "myth": "If obesity runs in your family, there is nothing you can do about your weight.",
+    "rating": "false",
+    "fact": "Genes influence appetite, where fat is stored and how easily weight is gained, but for most people they do not decide weight on their own. Eating patterns, activity, sleep and, where appropriate, medical treatment can still make a real difference.",
+    "explanation": "Families share not only genes but also habits, food and routines, which can be changed. Rare genetic conditions do cause severe obesity from childhood, and these need specialist care. For everyone else, a higher genetic risk means healthy habits matter more, not less.",
+    "keywords": ["genetic obesity", "fat genes", "runs in family", "inherited weight", "big boned", "genetics weight", "family obesity"],
+    "sources": [
+      { "label": "NIDDK — Factors affecting weight & health", "url": "https://www.niddk.nih.gov/health-information/weight-management/adult-overweight-obesity/factors-affecting-weight-health" },
+      { "label": "WHO — Obesity and overweight", "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "out-exercise-a-bad-diet",
+    "category": "Weight",
+    "myth": "You can eat whatever you want as long as you exercise enough.",
+    "rating": "misleading",
+    "fact": "Physical activity has huge health benefits, but on its own it usually leads to only modest weight loss, because it is easy to eat back the calories burned. Lasting weight loss generally needs changes to eating as well as activity.",
+    "explanation": "For example, it can take a long brisk walk to burn off the energy in a single large sugary snack or drink. Diet quality also matters for health independently of weight. Exercise is still very important for keeping weight off and for the heart, mood and bones, so the two work best together.",
+    "keywords": ["out exercise bad diet", "exercise to lose weight", "burn it off", "eat what i want exercise", "workout cheat meal", "exercise weight loss", "calories burned"],
+    "sources": [
+      { "label": "NHS — Managing your weight", "url": "https://www.nhs.uk/live-well/healthy-weight/managing-your-weight/" },
+      { "label": "WHO — Physical activity", "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "gradual-weight-loss-more-sustainable",
+    "category": "Weight",
+    "myth": "Losing weight slowly and steadily is more likely to last than losing it fast.",
+    "rating": "mostly-true",
+    "fact": "Health services generally advise aiming to lose about 0.5 to 1 kg (1 to 2 lb) a week through lasting changes to eating and activity. Habits you can keep up are the key to keeping weight off.",
+    "explanation": "Very rapid weight loss from extreme diets tends to include water and muscle, can cause gallstones, and is often regained. That said, some medically supervised low-calorie programmes produce faster early loss and can work well for some people with support. The overall message is to choose a plan you can maintain.",
+    "keywords": ["lose weight slowly", "slow weight loss", "how fast to lose weight", "safe weight loss", "1kg a week", "2 pounds a week", "sustainable weight loss"],
+    "sources": [
+      { "label": "NHS — Managing your weight", "url": "https://www.nhs.uk/live-well/healthy-weight/managing-your-weight/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "berberine-natures-ozempic",
+    "category": "Weight",
+    "myth": "Berberine is 'nature's Ozempic' and works just as well as weight-loss injections.",
+    "rating": "false",
+    "fact": "Berberine is a plant compound sold as a supplement. Small studies suggest it may have modest effects on blood sugar and weight, but it has not been shown to work anything like prescription weight-loss medicines, and supplements are not tested the way medicines are.",
+    "explanation": "Berberine can cause stomach upset and may interact with other medicines, including diabetes medicines. Supplement products can vary in what they actually contain. Anyone considering it, especially if pregnant, breastfeeding or taking other medicines, should check with a doctor or pharmacist.",
+    "keywords": ["berberine", "natures ozempic", "nature's ozempic", "natural ozempic", "berberine weight loss", "supplement ozempic", "natural glp-1"],
+    "sources": [
+      { "label": "NCCIH — Using dietary supplements wisely", "url": "https://www.nccih.nih.gov/health/using-dietary-supplements-wisely" },
+      { "label": "NIDDK — Prescription medications to treat overweight & obesity", "url": "https://www.niddk.nih.gov/health-information/weight-management/prescription-medications-treat-overweight-obesity" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]

@@ -752,7 +752,7 @@
   {
     "id": "runny-nose",
     "name": "Runny nose and sneezing",
-    "aliases": ["runny nose", "sneezing a lot", "streaming nose", "nose dripping", "constant sneezing", "post-nasal drip"],
+    "aliases": ["runny nose", "sneezing a lot", "streaming nose", "nose dripping", "constant sneezing", "nose running all the time"],
     "bodyArea": "Ears, nose & throat",
     "summary": "A runny nose and sneezing are usually caused by a cold or an allergy such as hay fever. They are rarely serious and usually settle with time and simple care.",
     "redFlags": [

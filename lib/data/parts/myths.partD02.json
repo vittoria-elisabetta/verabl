@@ -1,0 +1,300 @@
+[
+  {
+    "id": "leaky-gut-causes-everything",
+    "category": "Digestion",
+    "myth": "'Leaky gut syndrome' is behind most chronic illnesses and special supplements or diets can heal it.",
+    "rating": "misleading",
+    "fact": "The gut lining does become more permeable in some diagnosed conditions, such as coeliac disease and inflammatory bowel disease. 'Leaky gut syndrome' as a cause of fatigue, autism, skin problems or most chronic illness is not a recognised diagnosis, and there is no reliable test or proven supplement to 'heal' it.",
+    "explanation": "Researchers are studying gut permeability, but it is not yet clear whether it causes disease or is a result of it. Products marketed for leaky gut can be expensive and may delay proper diagnosis. Ongoing gut symptoms such as diarrhoea, weight loss or blood in your poo should be checked by a doctor.",
+    "keywords": ["leaky gut", "leaky gut syndrome", "gut permeability", "heal your gut", "gut healing supplements", "leaky gut cure", "l-glutamine", "gut lining"],
+    "sources": [
+      { "label": "Harvard Health Publishing — Leaky gut: what is it, and what does it mean for you?", "url": "https://www.health.harvard.edu/blog/leaky-gut-what-is-it-and-what-does-it-mean-for-you-2017092212451" },
+      { "label": "Cleveland Clinic — Leaky gut syndrome", "url": "https://my.clevelandclinic.org/health/diseases/22724-leaky-gut-syndrome" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "everyone-needs-parasite-cleanse",
+    "category": "Digestion",
+    "myth": "Everyone has hidden parasites and should do a parasite cleanse.",
+    "rating": "false",
+    "fact": "Most people in countries with clean water and sanitation do not have intestinal parasites. Real parasite infections are diagnosed with tests, such as stool samples, and treated with specific medicines, not general 'cleanse' kits.",
+    "explanation": "Social media videos often show strands of gut lining, mucus or undigested food passed after a cleanse and claim they are worms. Herbal parasite cleanses are not proven to work and some can cause side effects or interact with medicines. If you think you or your child has worms, such as itching around the bottom at night, a pharmacist or doctor can advise on proper treatment.",
+    "keywords": ["parasite cleanse", "parasites", "worms", "detox parasites", "everyone has parasites", "deworming", "rope worms", "parasite detox"],
+    "sources": [
+      { "label": "MedlinePlus — Parasitic diseases", "url": "https://medlineplus.gov/parasiticdiseases.html" },
+      { "label": "NHS — Threadworms", "url": "https://www.nhs.uk/conditions/threadworms/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "apple-cider-vinegar-cures-reflux",
+    "category": "Digestion",
+    "myth": "Drinking apple cider vinegar cures heartburn and acid reflux.",
+    "rating": "false",
+    "fact": "There is no good scientific evidence that apple cider vinegar treats heartburn or acid reflux, and its acidity may make symptoms worse for some people. Proven measures include eating smaller meals, avoiding trigger foods, losing excess weight, raising the head of the bed and pharmacy remedies.",
+    "explanation": "The idea comes from the theory that reflux is caused by too little stomach acid, which is not true for most people with reflux. Undiluted vinegar can also damage tooth enamel and irritate the throat. Heartburn that happens most days, or comes with difficulty swallowing, weight loss or vomiting, should be checked by a doctor.",
+    "keywords": ["apple cider vinegar", "acv", "heartburn", "acid reflux", "gerd", "indigestion remedy", "vinegar reflux", "low stomach acid"],
+    "sources": [
+      { "label": "NHS — Heartburn and acid reflux", "url": "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/" },
+      { "label": "NIDDK — Acid reflux (GER & GERD) in adults", "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/acid-reflux-ger-gerd-adults" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "water-with-meals-dilutes-stomach-acid",
+    "category": "Digestion",
+    "myth": "Drinking water with meals dilutes your stomach acid and ruins digestion.",
+    "rating": "false",
+    "fact": "Drinking water with food does not stop you digesting it. The stomach adjusts the acid and enzymes it releases, and fluids actually help break down food and move it through the gut.",
+    "explanation": "Water also helps soften stools and prevent constipation. If large drinks with meals make you feel uncomfortably full or worsen reflux, it is fine to sip more slowly, but there is no need to avoid water at mealtimes.",
+    "keywords": ["water with meals", "drinking while eating", "dilute stomach acid", "water digestion", "drink water after eating", "water during meals"],
+    "sources": [
+      { "label": "NIDDK — Your digestive system & how it works", "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "food-combining-protein-and-carbs",
+    "category": "Digestion",
+    "myth": "You shouldn't eat protein and carbohydrates together because your stomach can't digest them at the same time.",
+    "rating": "false",
+    "fact": "The digestive system is built to handle mixed meals. Different enzymes for protein, fat and carbohydrate work at the same time, and most natural foods, such as beans, milk and grains, contain all three anyway.",
+    "explanation": "'Food combining' diets, such as the Hay diet, may help some people lose weight simply because they restrict what and how much people eat. There is no evidence that separating food groups improves digestion or health.",
+    "keywords": ["food combining", "hay diet", "protein and carbs together", "food combinations", "dont mix protein carbs", "digest separately", "fruit alone"],
+    "sources": [
+      { "label": "NIDDK — Your digestive system & how it works", "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "swallowed-seeds-cause-appendicitis",
+    "category": "Digestion",
+    "myth": "Swallowing fruit seeds, like watermelon or grape seeds, gives you appendicitis or makes a plant grow in your stomach.",
+    "rating": "false",
+    "fact": "Swallowed seeds normally pass through the gut and out in your poo. Nothing can grow in the stomach, and seeds are not a recognised cause of appendicitis; the exact cause of appendicitis is often unclear.",
+    "explanation": "Appendicitis is thought to happen when the appendix becomes blocked or infected. Its typical sign is tummy pain that starts around the belly button and moves to the lower right side, getting worse over time. That kind of pain needs urgent medical help, whatever someone has eaten.",
+    "keywords": ["swallow seeds", "watermelon seeds", "seeds appendicitis", "plant grow in stomach", "grape seeds", "appendicitis cause", "swallowed pips"],
+    "sources": [
+      { "label": "NHS — Appendicitis", "url": "https://www.nhs.uk/conditions/appendicitis/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "stress-causes-stomach-ulcers",
+    "category": "Digestion",
+    "myth": "Stomach ulcers are caused by stress.",
+    "rating": "misleading",
+    "fact": "Most stomach ulcers are caused by an infection with Helicobacter pylori bacteria or by long-term use of anti-inflammatory painkillers such as ibuprofen or aspirin. Stress may worsen symptoms but is not usually the cause.",
+    "explanation": "Very severe physical stress, such as major burns or critical illness in hospital, can cause a type of ulcer, which may be where the idea started. For everyday ulcers, testing for H. pylori and reviewing painkiller use is the important step, and the infection can be treated with antibiotics. Black, tarry poo or vomiting blood are emergency signs.",
+    "keywords": ["stomach ulcer", "stress ulcer", "peptic ulcer", "ulcer cause", "h pylori", "helicobacter", "ibuprofen ulcer", "worry ulcer"],
+    "sources": [
+      { "label": "NHS — Stomach ulcer", "url": "https://www.nhs.uk/conditions/stomach-ulcer/" },
+      { "label": "NIDDK — Peptic ulcers (stomach and duodenal ulcers)", "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/peptic-ulcers-stomach-ulcers" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "blood-in-poo-just-piles",
+    "category": "Digestion",
+    "myth": "Blood in your poo is just piles, so there's no need to see a doctor.",
+    "rating": "false",
+    "fact": "Piles are a common cause of bright red blood after going to the toilet, but blood in your poo can also be a sign of other conditions, including bowel cancer. Health services advise seeing a GP if you have blood in your poo, especially if it keeps happening or comes with other changes.",
+    "explanation": "Warning signs that make a check more important include a lasting change in bowel habits, tummy pain, unexplained weight loss, tiredness, or dark or black poo. Most people with these symptoms do not have cancer, but when bowel cancer is found early it is much more treatable. Doctors are used to these questions, so there is no need to feel embarrassed.",
+    "keywords": ["blood in poo", "blood in stool", "rectal bleeding", "piles", "haemorrhoids", "bleeding bum", "bowel cancer symptoms", "blood toilet paper"],
+    "sources": [
+      { "label": "NHS — Symptoms of bowel cancer", "url": "https://www.nhs.uk/conditions/bowel-cancer/symptoms/" },
+      { "label": "NHS — Piles (haemorrhoids)", "url": "https://www.nhs.uk/conditions/piles-haemorrhoids/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "liver-gallbladder-flush-passes-stones",
+    "category": "Digestion",
+    "myth": "A liver or gallbladder 'flush' with olive oil and lemon juice makes you pass your gallstones.",
+    "rating": "false",
+    "fact": "There is no good evidence that 'flushes' remove gallstones. The green 'stones' people pass afterwards are thought to be lumps formed from the oil and digestive juices in the gut, not real gallstones.",
+    "explanation": "Gallstones that cause no symptoms often need no treatment. Gallstones that cause repeated pain are usually treated with keyhole surgery to remove the gallbladder. Severe tummy pain with a high temperature or yellowing skin or eyes needs urgent medical help.",
+    "keywords": ["liver flush", "gallbladder flush", "gallstone flush", "olive oil lemon juice", "pass gallstones", "gallstones natural", "liver cleanse"],
+    "sources": [
+      { "label": "NHS — Gallstones", "url": "https://www.nhs.uk/conditions/gallstones/" },
+      { "label": "NCCIH — \"Detoxes\" and \"cleanses\": what you need to know", "url": "https://www.nccih.nih.gov/health/detoxes-and-cleanses-what-you-need-to-know" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "liver-detox-supplements",
+    "category": "Digestion",
+    "myth": "Liver detox supplements and teas cleanse your liver after drinking or unhealthy eating.",
+    "rating": "false",
+    "fact": "A healthy liver clears waste and alcohol by itself, and no supplement has been shown to 'detox' it. Some herbal and dietary supplements can actually damage the liver.",
+    "explanation": "The best ways to protect your liver are to drink less alcohol, keep to a healthy weight and get vaccinated against hepatitis B if advised. Liver disease often causes no symptoms until it is advanced, so people with heavy drinking or other risk factors may need blood tests rather than detox products.",
+    "keywords": ["liver detox", "liver cleanse", "milk thistle", "detox liver", "liver supplement", "hangover detox", "cleanse liver"],
+    "sources": [
+      { "label": "NCCIH — \"Detoxes\" and \"cleanses\": what you need to know", "url": "https://www.nccih.nih.gov/health/detoxes-and-cleanses-what-you-need-to-know" },
+      { "label": "NHS — Liver disease", "url": "https://www.nhs.uk/conditions/liver-disease/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "ginger-helps-nausea",
+    "category": "Digestion",
+    "myth": "Ginger can help settle nausea.",
+    "rating": "mostly-true",
+    "fact": "Research suggests ginger may help ease some types of nausea, including pregnancy-related nausea, though results are mixed and effects are usually modest. It is generally considered safe in food amounts.",
+    "explanation": "Ginger tea, biscuits or sweets are a reasonable thing to try for mild nausea. High-dose ginger supplements may interact with blood-thinning medicines, so check with a pharmacist if you take other medicines. Vomiting that won't stop, or signs of dehydration, needs medical advice.",
+    "keywords": ["ginger", "ginger nausea", "ginger tea", "morning sickness ginger", "feeling sick remedy", "travel sickness", "ginger vomiting"],
+    "sources": [
+      { "label": "NCCIH — Ginger", "url": "https://www.nccih.nih.gov/health/ginger" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "peppermint-oil-eases-ibs",
+    "category": "Digestion",
+    "myth": "Peppermint oil capsules can ease the symptoms of irritable bowel syndrome.",
+    "rating": "mostly-true",
+    "fact": "Studies suggest enteric-coated peppermint oil capsules can help relieve tummy pain and bloating in some people with IBS. It is one of the options health services suggest trying.",
+    "explanation": "Peppermint oil can cause heartburn in some people, which is why coated capsules are used. It does not work for everyone, and IBS symptoms such as unexplained weight loss or bleeding should be checked by a doctor before assuming it is IBS. Other helpful steps include adjusting fibre, regular meals and managing stress.",
+    "keywords": ["peppermint oil", "ibs", "irritable bowel", "peppermint capsules", "bloating remedy", "tummy cramps", "colpermin"],
+    "sources": [
+      { "label": "NCCIH — Peppermint oil", "url": "https://www.nccih.nih.gov/health/peppermint-oil" },
+      { "label": "NHS — Irritable bowel syndrome (IBS)", "url": "https://www.nhs.uk/conditions/irritable-bowel-syndrome-ibs/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "stop-eating-with-diarrhoea",
+    "category": "Digestion",
+    "myth": "When you have diarrhoea you should stop eating, or eat only plain toast and bananas.",
+    "rating": "false",
+    "fact": "The most important thing with diarrhoea is to keep drinking fluids to avoid dehydration. You can eat as soon as you feel able to, and there is no need to stick to a special bland diet.",
+    "explanation": "Starving yourself does not make diarrhoea stop sooner. Oral rehydration sachets from a pharmacy can help people at risk of dehydration, such as older people and young children. Babies should keep breastfeeding or having formula. Signs of severe dehydration, blood in diarrhoea, or symptoms lasting more than a week need medical advice.",
+    "keywords": ["diarrhoea", "diarrhea", "brat diet", "bananas rice toast", "stomach bug food", "starve diarrhoea", "what to eat diarrhoea", "upset stomach"],
+    "sources": [
+      { "label": "NHS — Diarrhoea and vomiting", "url": "https://www.nhs.uk/symptoms/diarrhoea-and-vomiting/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "eating-before-bed-worsens-reflux",
+    "category": "Digestion",
+    "myth": "Eating a big meal shortly before bed can make heartburn worse.",
+    "rating": "mostly-true",
+    "fact": "Lying down with a full stomach makes it easier for stomach acid to flow back up into the food pipe. Health services advise avoiding eating for a few hours before going to bed if you get heartburn or acid reflux.",
+    "explanation": "Other helpful steps include eating smaller meals, raising the head end of your bed, keeping to a healthy weight and noticing which foods or drinks, such as alcohol, coffee or fatty foods, trigger your symptoms. This advice is about reflux; late eating does not cause heartburn in everyone.",
+    "keywords": ["eating before bed", "late night eating heartburn", "reflux at night", "acid reflux", "heartburn bed", "night time heartburn", "gerd night"],
+    "sources": [
+      { "label": "NHS — Heartburn and acid reflux", "url": "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/" },
+      { "label": "NIDDK — Acid reflux (GER & GERD) in adults", "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/acid-reflux-ger-gerd-adults" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "sitting-on-cold-surfaces-causes-piles",
+    "category": "Digestion",
+    "myth": "Sitting on cold ground, stone steps or concrete gives you piles.",
+    "rating": "false",
+    "fact": "Piles (haemorrhoids) are linked to constipation and straining on the toilet, pregnancy, heavy lifting, long-lasting coughs and getting older. Sitting on something cold is not a recognised cause.",
+    "explanation": "This warning is common in many countries, often from parents and grandparents. Sitting on a cold surface may be uncomfortable, but it does not damage the blood vessels in the back passage. Eating enough fibre, drinking fluids and not straining are the best ways to prevent piles.",
+    "keywords": ["piles", "haemorrhoids", "hemorrhoids", "sitting on cold", "cold floor", "cold concrete", "stone steps", "cause of piles"],
+    "sources": [
+      { "label": "NHS — Piles (haemorrhoids)", "url": "https://www.nhs.uk/conditions/piles-haemorrhoids/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "cold-water-after-meals-solidifies-fat",
+    "category": "Digestion",
+    "myth": "Drinking cold water after a meal turns the oil in your food solid, which builds up in your gut and causes heart attacks or cancer.",
+    "rating": "false",
+    "fact": "Your stomach and intestines are kept at body temperature, so a cold drink warms up quickly and cannot set fats into solid lumps. Fats are broken down by bile and enzymes and absorbed regardless of what you drink.",
+    "explanation": "This claim has circulated widely in chain messages, often alongside advice to drink only warm water. Choosing warm drinks because you like them is fine, but cold water does not cause heart attacks, cancer or blocked intestines. Heart disease risk depends on factors such as smoking, blood pressure, cholesterol, diabetes and overall diet.",
+    "keywords": ["cold water after meal", "cold water fat", "cold drink oil solidify", "warm water after eating", "cold water cancer", "cold water heart attack", "whatsapp cold water"],
+    "sources": [
+      { "label": "NIDDK — Your digestive system & how it works", "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "frequent-wind-means-bad-digestion",
+    "category": "Digestion",
+    "myth": "Passing wind many times a day means something is wrong with your digestion.",
+    "rating": "false",
+    "fact": "Passing gas is a normal part of digestion, and most people pass wind several times or more each day. Gas comes from swallowed air and from gut bacteria breaking down food, especially fibre-rich foods such as beans and vegetables.",
+    "explanation": "More wind after eating healthy, high-fibre food is common and usually harmless. It is worth seeing a doctor if gas comes with tummy pain, ongoing diarrhoea or constipation, weight loss or blood in your poo. Eating more slowly and adjusting trigger foods can help if wind is bothersome.",
+    "keywords": ["farting", "passing wind", "flatulence", "gas", "too much gas", "how many farts normal", "wind digestion", "bloating gas"],
+    "sources": [
+      { "label": "NIDDK — Gas in the digestive tract", "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/gas-digestive-tract" },
+      { "label": "NHS — Flatulence", "url": "https://www.nhs.uk/symptoms/flatulence/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "lactose-intolerance-is-milk-allergy",
+    "category": "Digestion",
+    "myth": "Lactose intolerance is the same thing as a milk allergy.",
+    "rating": "false",
+    "fact": "Lactose intolerance is a digestive problem where the body does not make enough of the enzyme needed to digest milk sugar, causing wind, bloating and diarrhoea. A milk allergy is a reaction of the immune system to milk proteins and can cause rashes, swelling and, rarely, life-threatening anaphylaxis.",
+    "explanation": "The difference matters because many people with lactose intolerance can manage small amounts of dairy or lactose-free products, while people with a milk allergy usually need to avoid milk protein entirely. Milk allergy is more common in babies and young children. A doctor can help work out which one is responsible for symptoms.",
+    "keywords": ["lactose intolerance", "milk allergy", "dairy allergy", "cows milk allergy", "lactose vs allergy", "dairy intolerance", "lactase"],
+    "sources": [
+      { "label": "NHS — Lactose intolerance", "url": "https://www.nhs.uk/conditions/lactose-intolerance/" },
+      { "label": "NHS — Food allergy", "url": "https://www.nhs.uk/conditions/food-allergy/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "diverticular-disease-avoid-nuts-seeds",
+    "category": "Digestion",
+    "myth": "If you have diverticular disease, you must avoid nuts, seeds and popcorn.",
+    "rating": "false",
+    "fact": "Older advice told people with diverticula to avoid nuts, seeds and popcorn, but research has not shown that these foods cause flare-ups. A high-fibre diet is generally recommended to help prevent symptoms.",
+    "explanation": "During a flare of diverticulitis, a doctor may advise a temporary change in diet. Otherwise, fibre from fruit, vegetables, wholegrains, nuts and seeds helps keep stools soft. Tummy pain with fever or bleeding from the bottom needs medical attention.",
+    "keywords": ["diverticulitis", "diverticular disease", "diverticulosis", "nuts and seeds", "popcorn", "diverticulitis diet", "seeds stuck"],
+    "sources": [
+      { "label": "NIDDK — Diverticular disease", "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/diverticulosis-diverticulitis" },
+      { "label": "NHS — Diverticular disease and diverticulitis", "url": "https://www.nhs.uk/conditions/diverticular-disease-and-diverticulitis/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "coeliac-small-amount-gluten-fine",
+    "category": "Digestion",
+    "myth": "If you have coeliac disease, a little bit of gluten now and then won't hurt.",
+    "rating": "false",
+    "fact": "In coeliac disease, even small amounts of gluten trigger the immune system to damage the lining of the small intestine, whether or not you notice symptoms. The only treatment is a lifelong, strict gluten-free diet.",
+    "explanation": "Repeated gluten exposure can lead to problems such as anaemia, weakened bones and, rarely, some cancers of the gut. Coeliac disease is an autoimmune condition, not a food preference or an intolerance you can 'train' away. A dietitian can help with hidden sources of gluten.",
+    "keywords": ["coeliac", "celiac", "coeliac disease", "gluten", "small amount of gluten", "cheat day gluten", "gluten free", "celiac disease"],
+    "sources": [
+      { "label": "NHS — Coeliac disease", "url": "https://www.nhs.uk/conditions/coeliac-disease/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "eat-gluten-before-coeliac-test",
+    "category": "Digestion",
+    "myth": "You need to keep eating gluten before being tested for coeliac disease.",
+    "rating": "true",
+    "fact": "Tests for coeliac disease look for the body's reaction to gluten. If you have already cut gluten out, the tests can come back falsely normal, so health services advise eating gluten in more than one meal a day for at least 6 weeks before testing.",
+    "explanation": "Many people try a gluten-free diet first and then find it hard to get a clear diagnosis. If you suspect coeliac disease, speak to a doctor before changing your diet. If gluten makes you very unwell, a doctor can advise on the safest way to be tested.",
+    "keywords": ["coeliac test", "celiac test", "gluten challenge", "blood test gluten", "eat gluten before test", "coeliac diagnosis", "gluten free before test"],
+    "sources": [
+      { "label": "NHS — Coeliac disease", "url": "https://www.nhs.uk/conditions/coeliac-disease/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "fatty-liver-only-heavy-drinkers",
+    "category": "Digestion",
+    "myth": "Only heavy drinkers get fatty liver disease.",
+    "rating": "false",
+    "fact": "Fatty liver disease that is not caused by alcohol is very common and is mainly linked to being overweight, type 2 diabetes, high blood pressure and high cholesterol. It often causes no symptoms in its early stages.",
+    "explanation": "This condition is now often called metabolic dysfunction-associated steatotic liver disease (MASLD), previously non-alcoholic fatty liver disease (NAFLD). Early stages can improve with weight loss, regular activity and a healthy diet. Without changes, it can progress to scarring of the liver in some people.",
+    "keywords": ["fatty liver", "nafld", "masld", "non alcoholic fatty liver", "liver disease without alcohol", "fatty liver cause", "liver fat"],
+    "sources": [
+      { "label": "NHS — Non-alcoholic fatty liver disease (NAFLD)", "url": "https://www.nhs.uk/conditions/non-alcoholic-fatty-liver-disease/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]

@@ -1,0 +1,1012 @@
+[
+  {
+    "id": "anxiety",
+    "name": "Anxiety or constant worry",
+    "aliases": ["feeling anxious", "worrying all the time", "can't stop worrying", "nervous all the time", "on edge", "anxiety symptoms", "feeling of dread"],
+    "bodyArea": "Mental health & sleep",
+    "summary": "Everyone feels anxious sometimes, but anxiety that is strong, hard to control or lasts a long time can affect daily life. It is common and there are effective ways to manage and treat it.",
+    "redFlags": [
+      "Thoughts of ending your life or harming yourself, or feeling you might act on them",
+      "Chest pain, shortness of breath or feeling faint that you are not sure is anxiety",
+      "You feel you are in immediate danger or cannot keep yourself safe"
+    ],
+    "urgentFlags": [
+      "Anxiety so severe you cannot carry out daily tasks or leave the house",
+      "Thoughts of self-harm or suicide without a plan to act on them",
+      "Using alcohol or drugs to cope and feeling out of control"
+    ],
+    "commonCauses": [
+      {"title": "Stressful life events", "detail": "Work, money, relationships, health worries or big changes can trigger anxiety."},
+      {"title": "Generalised anxiety disorder (GAD)", "detail": "Ongoing, excessive worry about many things that is hard to control."},
+      {"title": "Past experiences", "detail": "Difficult or traumatic experiences can make anxiety more likely."},
+      {"title": "Caffeine, alcohol and drugs", "detail": "Stimulants and withdrawal can cause or worsen anxiety."},
+      {"title": "Physical health conditions", "detail": "An overactive thyroid and some medicines can cause anxiety-like symptoms."}
+    ],
+    "selfCare": [
+      "Try slow breathing: breathe in gently through your nose and out slowly through your mouth",
+      "Be physically active most days",
+      "Talk to someone you trust about how you feel",
+      "Try evidence-based self-help such as online cognitive behavioural therapy (CBT) resources",
+      "Keep regular sleep, cut down on caffeine and alcohol"
+    ],
+    "avoid": [
+      "Using alcohol, drugs or smoking to cope",
+      "Avoiding situations that make you anxious, which can make anxiety worse over time",
+      "Unregulated supplements marketed as anxiety cures"
+    ],
+    "seeDoctorIf": [
+      "Anxiety is affecting your daily life or causing you distress",
+      "Self-help has not helped after a few weeks",
+      "You have physical symptoms such as palpitations that worry you",
+      "You think you may have an anxiety disorder or panic attacks"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {"label": "NHS – Anxiety, fear and panic", "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anxiety-fear-panic/"},
+      {"label": "NHS – Generalised anxiety disorder", "url": "https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder-gad/"},
+      {"label": "MedlinePlus – Anxiety", "url": "https://medlineplus.gov/anxiety.html"}
+    ]
+  },
+  {
+    "id": "low-mood",
+    "name": "Low mood or feeling depressed",
+    "aliases": ["feeling down", "feeling sad all the time", "depressed", "no motivation", "feel empty", "lost interest in everything", "feeling hopeless"],
+    "bodyArea": "Mental health & sleep",
+    "summary": "Low mood often lifts after a few days or weeks, especially with support. If you have felt low or lost interest in things for 2 weeks or more, it could be depression, which is common and treatable.",
+    "redFlags": [
+      "Thoughts of ending your life, or making plans to",
+      "You have harmed yourself or feel you cannot keep yourself safe",
+      "You feel you are in immediate danger"
+    ],
+    "urgentFlags": [
+      "Thoughts of suicide or self-harm, even without a plan",
+      "Not eating or drinking, or unable to look after yourself",
+      "Seeing or hearing things others do not, or very unusual beliefs"
+    ],
+    "commonCauses": [
+      {"title": "Life events", "detail": "Loss, relationship problems, money worries, illness or loneliness."},
+      {"title": "Depression", "detail": "Persistent low mood or loss of interest for at least 2 weeks, often with poor sleep, appetite changes and tiredness."},
+      {"title": "After having a baby", "detail": "Postnatal depression can affect parents in the year after birth."},
+      {"title": "Seasonal changes", "detail": "Some people feel lower in the darker winter months."},
+      {"title": "Alcohol, drugs and health conditions", "detail": "These can cause or worsen low mood."}
+    ],
+    "selfCare": [
+      "Talk to someone you trust about how you are feeling",
+      "Try to stay active, even with a short daily walk",
+      "Keep a routine with regular meals and sleep",
+      "Set small, achievable goals each day",
+      "Try evidence-based self-help such as CBT-based books or online programmes"
+    ],
+    "avoid": [
+      "Using alcohol or drugs to cope",
+      "Withdrawing from friends and family completely",
+      "Stopping prescribed antidepressants suddenly without advice"
+    ],
+    "seeDoctorIf": [
+      "You have felt low or lost interest in things for more than 2 weeks",
+      "Low mood is affecting work, relationships or daily life",
+      "Self-help is not working",
+      "You feel low after having a baby"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {"label": "NHS – Low mood, sadness and depression", "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/low-mood-sadness-depression/"},
+      {"label": "NHS – Depression in adults", "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/"},
+      {"label": "MedlinePlus – Depression", "url": "https://medlineplus.gov/depression.html"}
+    ]
+  },
+  {
+    "id": "panic-attacks",
+    "name": "Panic attacks",
+    "aliases": ["panic attack", "sudden intense fear", "felt like I was dying", "racing heart and fear", "hyperventilating", "can't breathe from panic"],
+    "bodyArea": "Mental health & sleep",
+    "summary": "A panic attack is a sudden rush of intense fear with physical symptoms such as a racing heart, sweating, shaking and breathlessness. Panic attacks are frightening but not dangerous, and usually peak within 10 minutes.",
+    "redFlags": [
+      "Chest pain or pressure, especially spreading to the arm, neck or jaw, that you are not sure is panic",
+      "Severe breathlessness, blue lips or fainting",
+      "Thoughts of suicide or harming yourself"
+    ],
+    "urgentFlags": [
+      "Your first ever attack with chest pain or palpitations, even if it has passed",
+      "Panic attacks happening very often and stopping you from going out"
+    ],
+    "commonCauses": [
+      {"title": "Stress and anxiety", "detail": "Panic attacks often happen during stressful periods."},
+      {"title": "Panic disorder", "detail": "Repeated, unexpected attacks with fear of having another."},
+      {"title": "Triggers", "detail": "Caffeine, alcohol withdrawal, drugs and lack of sleep can trigger attacks."},
+      {"title": "Phobias and past trauma", "detail": "Particular situations or memories can set off panic."}
+    ],
+    "selfCare": [
+      "Remind yourself that the attack will pass and cannot harm you",
+      "Breathe slowly and deeply: in through your nose for a count of 4, out through your mouth for 4",
+      "Focus on something around you, such as things you can see and hear",
+      "Exercise regularly and cut down on caffeine and alcohol",
+      "Learn about panic using reputable self-help resources"
+    ],
+    "avoid": [
+      "Fighting the attack or trying to escape it",
+      "Avoiding places where attacks have happened",
+      "Breathing into a paper bag, which is no longer recommended"
+    ],
+    "seeDoctorIf": [
+      "You keep having panic attacks",
+      "You are avoiding places or situations in case you have an attack",
+      "Panic attacks are affecting work or relationships"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {"label": "NHS – Panic disorder", "url": "https://www.nhs.uk/mental-health/conditions/panic-disorder/"},
+      {"label": "MedlinePlus – Panic disorder", "url": "https://medlineplus.gov/panicdisorder.html"}
+    ]
+  },
+  {
+    "id": "insomnia",
+    "name": "Can't sleep (insomnia)",
+    "aliases": ["can't sleep", "trouble sleeping", "insomnia", "waking up at night", "waking too early", "can't fall asleep", "lying awake"],
+    "bodyArea": "Mental health & sleep",
+    "summary": "Insomnia means regularly having trouble falling asleep, staying asleep or waking too early. It is common, often linked to stress, and usually improves by changing sleep habits.",
+    "redFlags": [
+      "Not sleeping with thoughts of suicide or self-harm",
+      "Going days without sleep with racing thoughts, very high energy, or seeing or hearing things others do not"
+    ],
+    "urgentFlags": [
+      "Severe distress or inability to function because of lack of sleep",
+      "Sleep problems after starting or stopping a medicine, with feeling very unwell"
+    ],
+    "commonCauses": [
+      {"title": "Stress, anxiety and depression", "detail": "Worry and low mood are among the most common causes."},
+      {"title": "Sleep habits and environment", "detail": "Irregular hours, screens, a noisy or bright bedroom and naps."},
+      {"title": "Caffeine, alcohol and nicotine", "detail": "These disrupt sleep, especially later in the day."},
+      {"title": "Shift work and jet lag", "detail": "Disrupt the body clock."},
+      {"title": "Health problems", "detail": "Pain, needing to pee at night, menopause, sleep apnoea, restless legs and some medicines."}
+    ],
+    "selfCare": [
+      "Go to bed and get up at the same times every day",
+      "Keep your bedroom dark, quiet and cool",
+      "Avoid caffeine in the afternoon and evening, and limit alcohol",
+      "Wind down before bed and keep screens out of bed",
+      "If you cannot sleep, get up and do something calm, then return to bed when sleepy",
+      "Be physically active during the day, but not just before bed"
+    ],
+    "avoid": [
+      "Long daytime naps",
+      "Using alcohol to help you sleep",
+      "Relying on over-the-counter sleeping pills for more than a few nights"
+    ],
+    "seeDoctorIf": [
+      "Changing your sleep habits has not helped",
+      "You have had trouble sleeping for months",
+      "Insomnia is affecting your daily life",
+      "You snore loudly, stop breathing in your sleep or have restless legs"
+    ],
+    "selfCareMaxDays": 28,
+    "sources": [
+      {"label": "NHS – Insomnia", "url": "https://www.nhs.uk/conditions/insomnia/"},
+      {"label": "MedlinePlus – Insomnia", "url": "https://medlineplus.gov/insomnia.html"}
+    ]
+  },
+  {
+    "id": "snoring",
+    "name": "Snoring",
+    "aliases": ["loud snoring", "partner snores", "snore every night", "snoring and tired", "noisy breathing when asleep"],
+    "bodyArea": "Mental health & sleep",
+    "summary": "Snoring is very common and often harmless, but loud snoring with pauses in breathing or gasping can be a sign of sleep apnoea. Lifestyle changes often help.",
+    "redFlags": [
+      "Someone cannot be woken, or is struggling to breathe while asleep",
+      "Snoring with choking that does not settle when the person wakes"
+    ],
+    "urgentFlags": [
+      "Being so sleepy during the day that you have nearly fallen asleep while driving"
+    ],
+    "commonCauses": [
+      {"title": "Being overweight", "detail": "Extra weight around the neck narrows the airway."},
+      {"title": "Alcohol and sleeping tablets", "detail": "Relax the throat muscles."},
+      {"title": "Sleeping on your back", "detail": "The tongue and soft tissues fall back."},
+      {"title": "Blocked nose", "detail": "Colds, allergies or nasal problems."},
+      {"title": "Obstructive sleep apnoea", "detail": "The airway repeatedly closes during sleep, causing pauses in breathing and gasping."}
+    ],
+    "selfCare": [
+      "Lose weight if you are overweight",
+      "Sleep on your side",
+      "Avoid alcohol for a few hours before bed",
+      "Stop smoking",
+      "Treat a blocked nose, for example with saline sprays"
+    ],
+    "avoid": [
+      "Sleeping tablets",
+      "Expensive anti-snoring devices before getting checked for sleep apnoea if you are very sleepy"
+    ],
+    "seeDoctorIf": [
+      "Someone has noticed you stop breathing, gasp or choke in your sleep",
+      "You feel very tired during the day",
+      "Snoring is affecting your life or your partner's sleep",
+      "Lifestyle changes have not helped"
+    ],
+    "selfCareMaxDays": 28,
+    "sources": [
+      {"label": "NHS – Snoring", "url": "https://www.nhs.uk/symptoms/snoring/"},
+      {"label": "MedlinePlus – Snoring", "url": "https://medlineplus.gov/snoring.html"}
+    ]
+  },
+  {
+    "id": "breathing-pauses-in-sleep",
+    "name": "Pauses in breathing or gasping during sleep",
+    "aliases": ["stop breathing in sleep", "sleep apnoea", "sleep apnea", "gasping for air at night", "choking in sleep", "waking up gasping"],
+    "bodyArea": "Mental health & sleep",
+    "summary": "Stopping breathing, gasping or choking during sleep, often with loud snoring, can be a sign of obstructive sleep apnoea. It is common, treatable, and worth getting checked because it can affect your health and safety.",
+    "redFlags": [
+      "Someone cannot be woken, or has blue or grey lips while asleep",
+      "Waking gasping with chest pain or severe breathlessness that does not settle"
+    ],
+    "urgentFlags": [
+      "Falling asleep or nearly falling asleep while driving",
+      "Sleepiness so severe you cannot stay awake during daily activities"
+    ],
+    "commonCauses": [
+      {"title": "Obstructive sleep apnoea", "detail": "The throat repeatedly narrows or closes during sleep."},
+      {"title": "Being overweight", "detail": "The biggest risk factor for sleep apnoea."},
+      {"title": "Alcohol, sedatives and smoking", "detail": "Make the airway more likely to collapse."},
+      {"title": "Large tonsils or nasal blockage", "detail": "A common cause in children."}
+    ],
+    "selfCare": [
+      "Lose weight if you are overweight",
+      "Sleep on your side",
+      "Avoid alcohol in the evening and stop smoking",
+      "Ask your partner to note how often pauses happen"
+    ],
+    "avoid": [
+      "Driving when you feel sleepy",
+      "Sleeping tablets or sedatives",
+      "Ignoring daytime sleepiness"
+    ],
+    "seeDoctorIf": [
+      "Someone has seen you stop breathing or gasp in your sleep",
+      "You wake up tired or with headaches",
+      "You feel very sleepy during the day",
+      "A child snores loudly with pauses in breathing"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {"label": "NHS – Sleep apnoea", "url": "https://www.nhs.uk/conditions/sleep-apnoea/"},
+      {"label": "MedlinePlus – Sleep apnea", "url": "https://medlineplus.gov/sleepapnea.html"}
+    ]
+  },
+  {
+    "id": "nightmares",
+    "name": "Nightmares or night terrors",
+    "aliases": ["bad dreams", "nightmares every night", "waking up scared", "night terrors", "screaming in sleep", "vivid dreams"],
+    "bodyArea": "Mental health & sleep",
+    "summary": "Nightmares are frightening dreams that wake you up; night terrors are episodes of screaming or thrashing while still asleep, mostly in children. Both are usually harmless, but frequent nightmares can be linked to stress or trauma.",
+    "redFlags": [
+      "Thoughts of suicide or self-harm",
+      "Someone hurting themselves or others during a sleep episode",
+      "Jerking or stiffening during sleep that may be a seizure"
+    ],
+    "urgentFlags": [
+      "Nightmares after a traumatic event with severe distress during the day",
+      "Nightmares that started after a new medicine and are very distressing"
+    ],
+    "commonCauses": [
+      {"title": "Stress and anxiety", "detail": "Worries often show up in dreams."},
+      {"title": "Trauma and PTSD", "detail": "Repeated nightmares about a frightening event."},
+      {"title": "Medicines, alcohol and withdrawal", "detail": "Some medicines and stopping alcohol or drugs can cause vivid dreams."},
+      {"title": "Night terrors in children", "detail": "Common, usually harmless, and most children grow out of them."},
+      {"title": "Poor sleep", "detail": "Overtiredness and irregular sleep make both more likely."}
+    ],
+    "selfCare": [
+      "Keep regular sleep times and a calming bedtime routine",
+      "Cut down on alcohol and caffeine",
+      "Write down a recurring nightmare and imagine a different, calmer ending in the daytime",
+      "For a child's night terrors, stay calm and keep them safe without trying to wake them"
+    ],
+    "avoid": [
+      "Watching frightening content before bed",
+      "Waking a child during a night terror"
+    ],
+    "seeDoctorIf": [
+      "Nightmares happen often and affect your daytime life",
+      "Nightmares are linked to a traumatic experience",
+      "A child's night terrors happen several times a night or most nights"
+    ],
+    "selfCareMaxDays": 28,
+    "sources": [
+      {"label": "NHS – Night terrors and nightmares", "url": "https://www.nhs.uk/conditions/night-terrors/"},
+      {"label": "MedlinePlus – Nightmares", "url": "https://medlineplus.gov/ency/article/003209.htm"},
+      {"label": "Sleep Foundation – Nightmares", "url": "https://www.sleepfoundation.org/nightmares"}
+    ]
+  },
+  {
+    "id": "stress",
+    "name": "Stress or feeling overwhelmed",
+    "aliases": ["stressed out", "overwhelmed", "burnout", "too much pressure", "can't cope", "work stress", "exhausted and stressed"],
+    "bodyArea": "Mental health & sleep",
+    "summary": "Stress is the body's reaction to feeling under pressure. Short-term stress is normal, but long-lasting stress can affect sleep, mood and physical health.",
+    "redFlags": [
+      "Thoughts of ending your life or harming yourself",
+      "Chest pain or pressure that you are not sure is stress"
+    ],
+    "urgentFlags": [
+      "Feeling unable to cope at all or to look after yourself",
+      "Drinking or using drugs heavily to cope"
+    ],
+    "commonCauses": [
+      {"title": "Work or study pressure", "detail": "Heavy workloads, deadlines and job insecurity."},
+      {"title": "Money and housing worries", "detail": "Common long-term sources of stress."},
+      {"title": "Relationships and caring", "detail": "Family conflict or caring for someone."},
+      {"title": "Big life changes", "detail": "Moving, bereavement, illness or a new baby."}
+    ],
+    "selfCare": [
+      "Break problems into smaller steps and focus on what you can change",
+      "Be physically active and spend time outdoors",
+      "Talk to friends, family or a support line",
+      "Try breathing exercises, mindfulness or relaxation",
+      "Protect time for sleep and things you enjoy"
+    ],
+    "avoid": [
+      "Using alcohol, smoking or drugs to cope",
+      "Taking on more than you can manage",
+      "Cutting yourself off from others"
+    ],
+    "seeDoctorIf": [
+      "Stress is affecting your sleep, mood or health for more than a few weeks",
+      "Self-help is not helping",
+      "You have physical symptoms such as headaches or palpitations that worry you"
+    ],
+    "selfCareMaxDays": 28,
+    "sources": [
+      {"label": "NHS – Stress", "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/stress/"},
+      {"label": "NHS – Tips to reduce stress", "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/tips-to-reduce-stress/"},
+      {"label": "MedlinePlus – Stress", "url": "https://medlineplus.gov/stress.html"}
+    ]
+  },
+  {
+    "id": "irritability-anger",
+    "name": "Anger or irritability",
+    "aliases": ["always angry", "short temper", "irritable", "losing my temper", "anger outbursts", "snapping at people"],
+    "bodyArea": "Mental health & sleep",
+    "summary": "Anger is a normal emotion, but frequent irritability or outbursts that are hard to control can affect relationships and wellbeing. It is often linked to stress, tiredness, low mood or anxiety.",
+    "redFlags": [
+      "You feel you might seriously hurt yourself or someone else",
+      "Someone is in immediate danger from violence",
+      "Sudden personality change or aggression with confusion, headache or weakness"
+    ],
+    "urgentFlags": [
+      "Anger leading to hurting people or damaging things",
+      "Irritability with very little sleep, racing thoughts and unusually high energy",
+      "Thoughts of suicide or self-harm"
+    ],
+    "commonCauses": [
+      {"title": "Stress and tiredness", "detail": "Pressure and poor sleep make it harder to manage emotions."},
+      {"title": "Depression or anxiety", "detail": "Both can show up as irritability."},
+      {"title": "Alcohol and drugs", "detail": "Can lower self-control and worsen anger."},
+      {"title": "Hormonal changes", "detail": "Premenstrual changes and menopause can affect mood."},
+      {"title": "Past experiences", "detail": "Trauma can make anger more likely."}
+    ],
+    "selfCare": [
+      "Notice early signs such as a racing heart or clenched fists, and step away",
+      "Take slow breaths and count to 10 before responding",
+      "Exercise to release tension",
+      "Talk it through later when calm",
+      "Look into anger management courses or self-help programmes"
+    ],
+    "avoid": [
+      "Drinking alcohol or using drugs when angry",
+      "Driving when very angry",
+      "Bottling anger up until it explodes"
+    ],
+    "seeDoctorIf": [
+      "Anger is affecting your relationships, work or daily life",
+      "You feel irritable most of the time",
+      "You are worried about how you behave when angry"
+    ],
+    "selfCareMaxDays": 28,
+    "sources": [
+      {"label": "NHS – Anger", "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anger/"},
+      {"label": "MedlinePlus – Mental health", "url": "https://medlineplus.gov/mentalhealth.html"}
+    ]
+  },
+  {
+    "id": "suicidal-thoughts",
+    "name": "Thoughts of suicide",
+    "aliases": ["want to die", "suicidal thoughts", "thinking about ending my life", "don't want to be here", "feel like killing myself", "no reason to live"],
+    "bodyArea": "Mental health & sleep",
+    "summary": "If you are having thoughts of ending your life, you are not alone and help is available right now. Talking to someone can help you get through this moment.",
+    "redFlags": [
+      "You have made plans or have the means to end your life",
+      "You feel you cannot keep yourself safe right now",
+      "You have taken an overdose or seriously harmed yourself",
+      "You are worried someone else is about to act on suicidal thoughts"
+    ],
+    "urgentFlags": [
+      "You are having thoughts of suicide, even without a plan",
+      "Suicidal thoughts are becoming more frequent or stronger",
+      "You have recently stopped or changed mental health medicine and feel worse"
+    ],
+    "commonCauses": [
+      {"title": "Depression and other mental health conditions", "detail": "Feeling hopeless or trapped is a symptom that treatment can help."},
+      {"title": "Overwhelming life events", "detail": "Loss, relationship breakdown, debt, abuse or isolation."},
+      {"title": "Alcohol and drugs", "detail": "Can make thoughts stronger and actions more impulsive."},
+      {"title": "Long-term pain or illness", "detail": "Living with ongoing illness can feel overwhelming."}
+    ],
+    "selfCare": [
+      "Call your local emergency number (such as 911, 999 or 112) if you are in immediate danger",
+      "Contact a crisis line now, for example 988 in the US and Canada or Samaritans on 116 123 in the UK and Ireland",
+      "Tell someone you trust how you are feeling and ask them to stay with you",
+      "Remove or move away from anything you could use to harm yourself",
+      "Make a safety plan listing people to call, reasons for living and safe places to go"
+    ],
+    "avoid": [
+      "Being alone if you feel unsafe",
+      "Drinking alcohol or using drugs",
+      "Making big decisions while you feel like this"
+    ],
+    "seeDoctorIf": [
+      "You have had suicidal thoughts recently, even if they have passed",
+      "You often feel hopeless or that others would be better off without you",
+      "You want help making a safety plan"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {"label": "NHS – Help for suicidal thoughts", "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/help-for-suicidal-thoughts/"},
+      {"label": "MedlinePlus – Suicide", "url": "https://medlineplus.gov/suicide.html"}
+    ]
+  },
+  {
+    "id": "self-harm",
+    "name": "Self-harm or urges to self-harm",
+    "aliases": ["self harm", "cutting myself", "hurting myself", "urge to self harm", "burning myself", "self injury"],
+    "bodyArea": "Mental health & sleep",
+    "summary": "Self-harm is when someone hurts themselves on purpose, often as a way of coping with overwhelming feelings. Support is available, and you do not have to cope alone.",
+    "redFlags": [
+      "A wound that is deep, bleeding heavily or will not stop bleeding",
+      "You have taken an overdose of tablets or swallowed something harmful, even if you feel fine",
+      "You have thoughts of ending your life or feel you cannot keep yourself safe",
+      "Feeling faint, drowsy or confused after self-harm"
+    ],
+    "urgentFlags": [
+      "A wound that may need stitches or is showing signs of infection",
+      "Urges to self-harm that are getting stronger or more frequent",
+      "Burns that are blistered or larger than a small area"
+    ],
+    "commonCauses": [
+      {"title": "Overwhelming emotions", "detail": "Anger, sadness, anxiety, numbness or self-hatred."},
+      {"title": "Difficult experiences", "detail": "Bullying, abuse, bereavement, relationship or school problems."},
+      {"title": "Mental health conditions", "detail": "Depression, anxiety, eating disorders and other conditions."}
+    ],
+    "selfCare": [
+      "Talk to someone you trust, or contact a crisis line, for example 988 in the US and Canada or Samaritans on 116 123 in the UK and Ireland",
+      "Clean minor wounds and keep them covered",
+      "Try to delay acting on the urge, and use distractions such as holding ice or going for a walk",
+      "Write down what triggers your urges to share with a professional"
+    ],
+    "avoid": [
+      "Being alone when urges are strong",
+      "Alcohol and drugs, which can make urges harder to resist",
+      "Keeping sharp objects or stockpiled medicines nearby"
+    ],
+    "seeDoctorIf": [
+      "You have self-harmed, even if the injury was minor",
+      "You want help finding other ways to cope",
+      "You are worried about someone else who is self-harming"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {"label": "NHS – Self-harm", "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/self-harm/"},
+      {"label": "MedlinePlus – Mental health", "url": "https://medlineplus.gov/mentalhealth.html"}
+    ]
+  },
+  {
+    "id": "excessive-sleepiness",
+    "name": "Excessive daytime sleepiness",
+    "aliases": ["always sleepy", "falling asleep during the day", "can't stay awake", "drowsy all day", "sleeping too much", "nodding off at work"],
+    "bodyArea": "Mental health & sleep",
+    "summary": "Feeling very sleepy during the day is often caused by not getting enough good-quality sleep. When it happens despite enough sleep, it can be a sign of a sleep disorder or other health problem.",
+    "redFlags": [
+      "Sudden drowsiness, confusion or difficulty waking someone",
+      "Drowsiness after a head injury",
+      "Drowsiness after taking too much medicine, alcohol or drugs"
+    ],
+    "urgentFlags": [
+      "Falling asleep or nearly falling asleep while driving",
+      "Sudden loss of muscle strength when laughing or with strong emotion",
+      "Sleepiness with breathlessness, morning headaches or swollen ankles"
+    ],
+    "commonCauses": [
+      {"title": "Not enough sleep", "detail": "Most adults need around 7 to 9 hours."},
+      {"title": "Sleep apnoea", "detail": "Interrupted breathing at night causes poor-quality sleep."},
+      {"title": "Medicines and alcohol", "detail": "Many medicines cause drowsiness."},
+      {"title": "Depression, anaemia or an underactive thyroid", "detail": "Can make you feel tired and sleepy."},
+      {"title": "Narcolepsy", "detail": "A rare condition causing sudden sleep attacks."}
+    ],
+    "selfCare": [
+      "Keep regular sleep times and aim for enough sleep",
+      "Get daylight and physical activity during the day",
+      "Limit alcohol and caffeine, especially in the evening",
+      "Take a short break and do not drive if you feel sleepy"
+    ],
+    "avoid": [
+      "Driving or using machinery when sleepy",
+      "Relying on caffeine or energy drinks to stay awake"
+    ],
+    "seeDoctorIf": [
+      "You feel very sleepy even after enough sleep",
+      "You snore loudly or someone has seen you stop breathing in your sleep",
+      "Sleepiness is affecting work, study or safety",
+      "You think a medicine is making you sleepy"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {"label": "NHS – Sleep apnoea", "url": "https://www.nhs.uk/conditions/sleep-apnoea/"},
+      {"label": "NHS – Narcolepsy", "url": "https://www.nhs.uk/conditions/narcolepsy/"},
+      {"label": "MedlinePlus – Drowsiness", "url": "https://medlineplus.gov/ency/article/003208.htm"}
+    ]
+  },
+  {
+    "id": "restless-legs",
+    "name": "Restless legs at night",
+    "aliases": ["restless legs", "can't keep legs still", "creepy crawly feeling in legs", "urge to move legs at night", "legs twitching in bed", "jumpy legs"],
+    "bodyArea": "Mental health & sleep",
+    "summary": "Restless legs syndrome causes an overwhelming urge to move your legs, often with an uncomfortable crawling or tingling feeling, usually in the evening or at night. It can disrupt sleep but is not dangerous.",
+    "redFlags": [
+      "Sudden weakness or numbness in a leg, or loss of bladder or bowel control",
+      "One leg suddenly painful, swollen, red or warm with breathlessness or chest pain"
+    ],
+    "urgentFlags": [
+      "One leg is painful, swollen, red or warm",
+      "Leg symptoms with a new rash, fever or feeling very unwell"
+    ],
+    "commonCauses": [
+      {"title": "Restless legs syndrome", "detail": "Often runs in families with no clear cause."},
+      {"title": "Low iron", "detail": "Iron deficiency is a common, treatable cause."},
+      {"title": "Pregnancy", "detail": "Often settles after the baby is born."},
+      {"title": "Medicines, caffeine and alcohol", "detail": "Some antidepressants, antihistamines and stimulants can make it worse."},
+      {"title": "Kidney disease or nerve damage", "detail": "Less common causes."}
+    ],
+    "selfCare": [
+      "Keep regular sleep habits",
+      "Cut down on caffeine, alcohol and smoking",
+      "Do gentle stretching or a warm bath before bed",
+      "Walk around or massage your legs when symptoms start",
+      "Do regular moderate exercise during the day"
+    ],
+    "avoid": [
+      "Caffeine and alcohol in the evening",
+      "Taking iron supplements without having your levels checked"
+    ],
+    "seeDoctorIf": [
+      "Symptoms are affecting your sleep",
+      "Symptoms are getting worse or happen most nights",
+      "You think a medicine might be causing it",
+      "You are pregnant and symptoms are troubling you"
+    ],
+    "selfCareMaxDays": 28,
+    "sources": [
+      {"label": "NHS – Restless legs syndrome", "url": "https://www.nhs.uk/conditions/restless-legs-syndrome/"},
+      {"label": "MedlinePlus – Restless legs", "url": "https://medlineplus.gov/restlesslegs.html"}
+    ]
+  },
+  {
+    "id": "sleepwalking",
+    "name": "Sleepwalking or sleep talking",
+    "aliases": ["sleepwalking", "walking in sleep", "talking in sleep", "sleep talking", "doing things while asleep", "child sleepwalks"],
+    "bodyArea": "Mental health & sleep",
+    "summary": "Sleepwalking is when someone walks or does things while still asleep. It is common in children, usually harmless, and most grow out of it.",
+    "redFlags": [
+      "Someone has been seriously injured while sleepwalking",
+      "Jerking, stiffening or tongue biting during sleep that may be a seizure"
+    ],
+    "urgentFlags": [
+      "Sleepwalking that puts the person or others at risk, such as leaving the house or using a car",
+      "Violent behaviour during sleep"
+    ],
+    "commonCauses": [
+      {"title": "Childhood development", "detail": "Common in children and often runs in families."},
+      {"title": "Lack of sleep and stress", "detail": "Overtiredness and anxiety make episodes more likely."},
+      {"title": "Alcohol and some medicines", "detail": "Including some sleeping tablets."},
+      {"title": "Other sleep problems", "detail": "Sleep apnoea or restless legs can trigger episodes."}
+    ],
+    "selfCare": [
+      "Keep regular sleep times and get enough sleep",
+      "Make the home safe: lock doors and windows and remove trip hazards",
+      "Gently guide a sleepwalker back to bed",
+      "Reduce stress and avoid alcohol before bed"
+    ],
+    "avoid": [
+      "Waking a sleepwalker suddenly",
+      "Sleeping on a top bunk or near stairs if you sleepwalk"
+    ],
+    "seeDoctorIf": [
+      "Sleepwalking happens often",
+      "It starts for the first time in adulthood",
+      "It causes injury or is disturbing others"
+    ],
+    "selfCareMaxDays": 28,
+    "sources": [
+      {"label": "NHS – Sleepwalking", "url": "https://www.nhs.uk/conditions/sleepwalking/"},
+      {"label": "MedlinePlus – Sleep disorders", "url": "https://medlineplus.gov/sleepdisorders.html"}
+    ]
+  },
+  {
+    "id": "grief",
+    "name": "Grief after a loss",
+    "aliases": ["grieving", "bereavement", "lost a loved one", "can't stop crying after death", "coping with loss", "missing someone who died"],
+    "bodyArea": "Mental health & sleep",
+    "summary": "Grief is a natural response to losing someone or something important. It can bring sadness, anger, guilt, tiredness and poor sleep, and usually eases slowly over time.",
+    "redFlags": [
+      "Thoughts of ending your life or wanting to join the person who died",
+      "You feel unable to keep yourself safe"
+    ],
+    "urgentFlags": [
+      "Unable to eat, drink or look after yourself",
+      "Using alcohol or drugs heavily to cope",
+      "Thoughts of self-harm"
+    ],
+    "commonCauses": [
+      {"title": "Bereavement", "detail": "The death of a family member, friend or pet."},
+      {"title": "Other losses", "detail": "Relationship breakdown, losing a job, a pregnancy loss or loss of health."},
+      {"title": "Complicated or prolonged grief", "detail": "Grief that stays very intense and stops you functioning for a long time."}
+    ],
+    "selfCare": [
+      "Talk about your feelings with people you trust",
+      "Allow yourself to feel the grief; there is no right way to grieve",
+      "Try to keep up regular meals, sleep and some activity",
+      "Contact a bereavement support service or group",
+      "Mark anniversaries and memories in a way that feels right"
+    ],
+    "avoid": [
+      "Using alcohol or drugs to block feelings",
+      "Making major decisions too soon",
+      "Isolating yourself completely"
+    ],
+    "seeDoctorIf": [
+      "Grief is not easing after several months or is getting worse",
+      "You cannot manage daily life",
+      "You have signs of depression such as hopelessness or loss of interest in everything"
+    ],
+    "selfCareMaxDays": 60,
+    "sources": [
+      {"label": "NHS – Grief after bereavement or loss", "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/"},
+      {"label": "MedlinePlus – Bereavement", "url": "https://medlineplus.gov/bereavement.html"}
+    ]
+  },
+  {
+    "id": "intrusive-thoughts",
+    "name": "Unwanted intrusive thoughts",
+    "aliases": ["intrusive thoughts", "unwanted thoughts", "obsessive thoughts", "can't stop checking", "OCD", "horrible thoughts I don't want"],
+    "bodyArea": "Mental health & sleep",
+    "summary": "Most people have unwanted or upsetting thoughts sometimes. When they cause a lot of distress or lead to repeated checking, cleaning or other rituals, it may be obsessive compulsive disorder (OCD), which is treatable.",
+    "redFlags": [
+      "Thoughts of suicide or harming yourself, with a wish or plan to act on them",
+      "You feel you cannot keep yourself or others safe"
+    ],
+    "urgentFlags": [
+      "Thoughts or rituals are stopping you eating, sleeping or leaving the house",
+      "Severe distress that you cannot manage"
+    ],
+    "commonCauses": [
+      {"title": "Normal intrusive thoughts", "detail": "Most people have them; they do not mean you want to act on them."},
+      {"title": "Obsessive compulsive disorder", "detail": "Obsessions cause anxiety, and compulsions are done to ease it."},
+      {"title": "Anxiety and stress", "detail": "Make unwanted thoughts more frequent and sticky."},
+      {"title": "After having a baby", "detail": "Upsetting thoughts about harm to the baby are common and treatable."}
+    ],
+    "selfCare": [
+      "Remind yourself that having a thought does not mean you want it or will act on it",
+      "Try not to push thoughts away or seek repeated reassurance, which can strengthen them",
+      "Use evidence-based self-help based on CBT",
+      "Be active and look after your sleep"
+    ],
+    "avoid": [
+      "Repeated checking, googling or seeking reassurance",
+      "Using alcohol or drugs to cope"
+    ],
+    "seeDoctorIf": [
+      "Thoughts or rituals take up more than an hour a day",
+      "They cause you a lot of distress",
+      "They are affecting work, relationships or daily life"
+    ],
+    "selfCareMaxDays": 28,
+    "sources": [
+      {"label": "NHS – Obsessive compulsive disorder (OCD)", "url": "https://www.nhs.uk/mental-health/conditions/obsessive-compulsive-disorder-ocd/overview/"},
+      {"label": "MedlinePlus – Obsessive-compulsive disorder", "url": "https://medlineplus.gov/obsessivecompulsivedisorder.html"}
+    ]
+  },
+  {
+    "id": "hearing-voices",
+    "name": "Hearing voices or seeing things others cannot",
+    "aliases": ["hearing voices", "hallucinations", "seeing things that aren't there", "paranoid thoughts", "feel like I'm being watched", "losing touch with reality"],
+    "bodyArea": "Mental health & sleep",
+    "summary": "Hearing, seeing or believing things that others do not can be a sign of psychosis, but can also be caused by drugs, extreme lack of sleep, infection or other illness. It should be checked by a professional promptly.",
+    "redFlags": [
+      "Voices telling you to harm yourself or others",
+      "Thoughts of suicide or feeling you cannot keep yourself safe",
+      "Sudden confusion, fever or drowsiness with hallucinations",
+      "Hallucinations after taking drugs or too much medicine, or during alcohol withdrawal"
+    ],
+    "urgentFlags": [
+      "New hallucinations or unusual beliefs",
+      "Being unable to look after yourself",
+      "Hallucinations in an older person, especially with new confusion"
+    ],
+    "commonCauses": [
+      {"title": "Psychosis", "detail": "Can happen with schizophrenia, bipolar disorder, severe depression or after a stressful event."},
+      {"title": "Drugs and alcohol", "detail": "Cannabis, stimulants and alcohol withdrawal can cause hallucinations."},
+      {"title": "Severe lack of sleep", "detail": "Can cause brief hallucinations."},
+      {"title": "Physical illness", "detail": "Infections, delirium, dementia and some medicines."},
+      {"title": "Falling asleep or waking up", "detail": "Brief hallucinations at these times are common and usually harmless."}
+    ],
+    "selfCare": [
+      "Tell someone you trust and ask them to help you get support",
+      "Avoid alcohol and recreational drugs",
+      "Try to keep regular sleep",
+      "If you have a care plan, follow it and contact your care team"
+    ],
+    "avoid": [
+      "Cannabis and other recreational drugs",
+      "Stopping prescribed medicines without advice"
+    ],
+    "seeDoctorIf": [
+      "You have heard or seen things others cannot, even if it has stopped",
+      "Friends or family are worried about changes in your thinking or behaviour",
+      "Brief hallucinations when falling asleep are frequent or distressing"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {"label": "NHS – Psychosis", "url": "https://www.nhs.uk/mental-health/conditions/psychosis/overview/"},
+      {"label": "MedlinePlus – Psychotic disorders", "url": "https://medlineplus.gov/psychoticdisorders.html"}
+    ]
+  },
+  {
+    "id": "mood-swings",
+    "name": "Mood swings or extreme highs and lows",
+    "aliases": ["mood swings", "highs and lows", "feeling manic", "racing thoughts", "not needing sleep", "bipolar symptoms", "emotional ups and downs"],
+    "bodyArea": "Mental health & sleep",
+    "summary": "Everyone's mood changes, but extreme highs (feeling very energetic, needing little sleep, racing thoughts) and lows that last days or weeks may be a sign of bipolar disorder or another condition that can be treated.",
+    "redFlags": [
+      "Thoughts of suicide or harming yourself",
+      "Behaviour that puts you or others in immediate danger",
+      "Hearing voices or believing things that are clearly not true, with distress or risk"
+    ],
+    "urgentFlags": [
+      "Several days of very little sleep with racing thoughts and unusually high energy",
+      "Spending, driving or other behaviour that is out of character and risky",
+      "Very low mood after a period of feeling high"
+    ],
+    "commonCauses": [
+      {"title": "Stress, tiredness and life events", "detail": "Ordinary mood changes are often linked to these."},
+      {"title": "Hormonal changes", "detail": "Periods, pregnancy and the menopause can affect mood."},
+      {"title": "Bipolar disorder", "detail": "Episodes of depression and mania or hypomania lasting days to weeks."},
+      {"title": "Alcohol, drugs and medicines", "detail": "Can cause mood changes."},
+      {"title": "Personality disorders and ADHD", "detail": "Can involve rapid emotional changes."}
+    ],
+    "selfCare": [
+      "Keep a mood diary, including sleep, to spot patterns",
+      "Keep a regular routine for sleep, meals and activity",
+      "Avoid alcohol and recreational drugs",
+      "Ask someone close to tell you if they notice warning signs"
+    ],
+    "avoid": [
+      "Making big financial or life decisions when your mood is very high or low",
+      "Staying up all night"
+    ],
+    "seeDoctorIf": [
+      "Mood swings are affecting your life or relationships",
+      "You have periods of feeling unusually high or full of energy",
+      "You have had low mood for more than 2 weeks"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {"label": "NHS – Bipolar disorder", "url": "https://www.nhs.uk/mental-health/conditions/bipolar-disorder/"},
+      {"label": "MedlinePlus – Bipolar disorder", "url": "https://medlineplus.gov/bipolardisorder.html"}
+    ]
+  },
+  {
+    "id": "flashbacks",
+    "name": "Flashbacks or distress after a traumatic event",
+    "aliases": ["flashbacks", "reliving trauma", "PTSD", "can't stop thinking about what happened", "jumpy after accident", "trauma symptoms"],
+    "bodyArea": "Mental health & sleep",
+    "summary": "After a frightening or traumatic event it is normal to feel shaken, have upsetting memories or struggle to sleep for a few weeks. If these continue for more than about a month, it may be post-traumatic stress disorder (PTSD), which is treatable.",
+    "redFlags": [
+      "Thoughts of suicide or harming yourself",
+      "You are still in danger from the person or situation that hurt you"
+    ],
+    "urgentFlags": [
+      "Unable to cope with daily life or look after yourself",
+      "Using alcohol or drugs heavily to cope",
+      "A recent assault, including sexual assault, where you may need medical care or evidence collection"
+    ],
+    "commonCauses": [
+      {"title": "Normal reaction to trauma", "detail": "Many people have upsetting symptoms in the first few weeks that ease on their own."},
+      {"title": "Post-traumatic stress disorder", "detail": "Flashbacks, nightmares, avoidance and feeling on edge lasting more than a month."},
+      {"title": "Complex trauma", "detail": "Repeated trauma, such as abuse, can cause longer-lasting effects."}
+    ],
+    "selfCare": [
+      "Talk to people you trust about how you feel when you are ready",
+      "Keep a routine with regular meals, sleep and activity",
+      "Use grounding: notice what you can see, hear and touch during a flashback",
+      "Learn about common reactions to trauma from reputable sources"
+    ],
+    "avoid": [
+      "Using alcohol or drugs to cope",
+      "Being pushed to talk in detail about the event before you are ready"
+    ],
+    "seeDoctorIf": [
+      "Symptoms have lasted more than 4 weeks",
+      "Symptoms are severe or getting worse",
+      "You avoid people, places or things that remind you of the event"
+    ],
+    "selfCareMaxDays": 28,
+    "sources": [
+      {"label": "NHS – Post-traumatic stress disorder (PTSD)", "url": "https://www.nhs.uk/mental-health/conditions/ptsd-post-traumatic-stress-disorder/"},
+      {"label": "MedlinePlus – Post-traumatic stress disorder", "url": "https://medlineplus.gov/posttraumaticstressdisorder.html"}
+    ]
+  },
+  {
+    "id": "eating-worries",
+    "name": "Worries about eating, weight or body shape",
+    "aliases": ["eating disorder", "afraid of gaining weight", "binge eating", "making myself sick", "restricting food", "obsessed with calories", "anorexia"],
+    "bodyArea": "Mental health & sleep",
+    "summary": "Spending a lot of time worrying about weight, food or body shape, restricting food, bingeing or making yourself sick can be signs of an eating disorder. These are serious but treatable, and early help makes a difference.",
+    "redFlags": [
+      "Fainting, chest pain, a very slow or irregular heartbeat, or confusion",
+      "Vomiting blood, or severe weakness after repeated vomiting",
+      "Thoughts of suicide or harming yourself"
+    ],
+    "urgentFlags": [
+      "Rapid weight loss or being unable to eat or drink",
+      "Feeling dizzy, very cold or very weak",
+      "Making yourself sick or using laxatives several times a day"
+    ],
+    "commonCauses": [
+      {"title": "Anorexia, bulimia and binge eating disorder", "detail": "The main types of eating disorder; they can affect anyone of any age, gender or size."},
+      {"title": "Stress and low self-esteem", "detail": "Controlling food can become a way to cope."},
+      {"title": "Social and family pressures", "detail": "Pressure about appearance, dieting culture or certain sports."},
+      {"title": "Other mental health conditions", "detail": "Anxiety, depression and OCD often occur alongside."}
+    ],
+    "selfCare": [
+      "Talk to someone you trust about your worries",
+      "Contact an eating disorder support line or service for advice",
+      "Try to eat regular meals rather than skipping meals or strict dieting",
+      "Unfollow social media accounts that make you feel worse about your body"
+    ],
+    "avoid": [
+      "Extreme diets, fasting or diet pills",
+      "Weighing yourself many times a day",
+      "Pro-eating disorder websites and communities"
+    ],
+    "seeDoctorIf": [
+      "Food, weight or body shape is taking over your thoughts",
+      "You are restricting, bingeing or purging",
+      "Someone close to you is worried about your eating",
+      "Your periods have stopped or you have lost a lot of weight"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {"label": "NHS – Eating disorders", "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/eating-disorders/overview/"},
+      {"label": "MedlinePlus – Eating disorders", "url": "https://medlineplus.gov/eatingdisorders.html"}
+    ]
+  },
+  {
+    "id": "loneliness",
+    "name": "Loneliness",
+    "aliases": ["feeling lonely", "no one to talk to", "isolated", "no friends", "lonely all the time", "feel cut off from people"],
+    "bodyArea": "Mental health & sleep",
+    "summary": "Loneliness is a common feeling that can affect anyone at any age. Long-lasting loneliness can affect mood, sleep and health, but there are many ways to reconnect.",
+    "redFlags": [
+      "Thoughts of ending your life or harming yourself",
+      "You feel unable to keep yourself safe"
+    ],
+    "urgentFlags": [
+      "Not eating, drinking or looking after yourself",
+      "An older or vulnerable person living alone who is not coping"
+    ],
+    "commonCauses": [
+      {"title": "Life changes", "detail": "Moving, retiring, bereavement, a break-up or becoming a parent or carer."},
+      {"title": "Health and mobility", "detail": "Illness, disability or hearing loss can make socialising harder."},
+      {"title": "Depression and social anxiety", "detail": "Can make it hard to reach out, and loneliness can worsen them."},
+      {"title": "Working from home or living alone", "detail": "Fewer day-to-day contacts."}
+    ],
+    "selfCare": [
+      "Reach out to one person: a call, message or short visit",
+      "Join a group, class, club or volunteering based on your interests",
+      "Spend time in shared spaces such as libraries, cafés or parks",
+      "Use befriending services or helplines",
+      "Look after sleep and stay active"
+    ],
+    "avoid": [
+      "Relying on alcohol to cope",
+      "Comparing yourself with others on social media"
+    ],
+    "seeDoctorIf": [
+      "Loneliness is affecting your mood, sleep or appetite",
+      "You think you may be depressed or anxious",
+      "Hearing loss or health problems are making it hard to socialise"
+    ],
+    "selfCareMaxDays": 28,
+    "sources": [
+      {"label": "NHS – Low mood, sadness and depression", "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/low-mood-sadness-depression/"},
+      {"label": "MedlinePlus – Mental health", "url": "https://medlineplus.gov/mentalhealth.html"}
+    ]
+  },
+  {
+    "id": "health-anxiety",
+    "name": "Health anxiety",
+    "aliases": ["worried I'm seriously ill", "always checking my body", "googling symptoms", "fear of cancer", "hypochondria", "can't stop worrying about health"],
+    "bodyArea": "Mental health & sleep",
+    "summary": "Health anxiety is spending so much time worrying about being ill that it affects your life. Constant checking, searching symptoms online and seeking reassurance can make the worry worse.",
+    "redFlags": [
+      "Thoughts of suicide or harming yourself",
+      "Chest pain, difficulty breathing or other emergency symptoms, even if you think it may be anxiety"
+    ],
+    "urgentFlags": [
+      "Anxiety so severe you cannot carry out daily tasks"
+    ],
+    "commonCauses": [
+      {"title": "Anxiety", "detail": "People prone to worry are more likely to develop health anxiety."},
+      {"title": "Past illness", "detail": "Serious illness in yourself or someone close can trigger it."},
+      {"title": "Stress", "detail": "Health worries often increase during stressful times."},
+      {"title": "Online searching", "detail": "Searching symptoms can increase worry."}
+    ],
+    "selfCare": [
+      "Keep a diary of how often you check, search or seek reassurance, and gradually reduce it",
+      "Try to challenge your thoughts: what is the evidence for and against?",
+      "Stay busy and get regular exercise",
+      "Try CBT-based self-help resources"
+    ],
+    "avoid": [
+      "Repeatedly searching symptoms online",
+      "Checking your body over and over",
+      "Asking for the same reassurance many times"
+    ],
+    "seeDoctorIf": [
+      "Worry about your health is affecting your daily life",
+      "Self-help has not helped",
+      "You have a new symptom that has not been checked"
+    ],
+    "selfCareMaxDays": 28,
+    "sources": [
+      {"label": "NHS – Health anxiety", "url": "https://www.nhs.uk/mental-health/conditions/health-anxiety/"},
+      {"label": "MedlinePlus – Anxiety", "url": "https://medlineplus.gov/anxiety.html"}
+    ]
+  },
+  {
+    "id": "social-anxiety",
+    "name": "Fear of social situations",
+    "aliases": ["social anxiety", "scared of talking to people", "shy and anxious", "fear of being judged", "dread meeting people", "blushing and anxious"],
+    "bodyArea": "Mental health & sleep",
+    "summary": "Social anxiety is an ongoing, overwhelming fear of social situations, such as meeting people or speaking in front of others. It is common, and talking therapies work well.",
+    "redFlags": [
+      "Thoughts of suicide or harming yourself"
+    ],
+    "urgentFlags": [
+      "You are unable to leave the house or attend work or school",
+      "Using alcohol or drugs to cope with social situations and feeling out of control"
+    ],
+    "commonCauses": [
+      {"title": "Social anxiety disorder", "detail": "Intense fear of being judged or embarrassed that lasts a long time."},
+      {"title": "Past experiences", "detail": "Bullying, criticism or embarrassing events can contribute."},
+      {"title": "Shyness and temperament", "detail": "Some people are naturally more anxious in social situations."},
+      {"title": "Low mood or depression", "detail": "Can make social situations feel harder."}
+    ],
+    "selfCare": [
+      "Gradually face situations you fear in small steps",
+      "Prepare and practise for social situations",
+      "Focus on the conversation rather than on how you appear",
+      "Try CBT-based self-help resources",
+      "Use slow breathing to manage physical symptoms"
+    ],
+    "avoid": [
+      "Avoiding all social situations, which can make fear stronger",
+      "Using alcohol to cope"
+    ],
+    "seeDoctorIf": [
+      "Fear of social situations is affecting your life",
+      "You avoid work, study or seeing friends",
+      "Self-help has not helped"
+    ],
+    "selfCareMaxDays": 28,
+    "sources": [
+      {"label": "NHS – Social anxiety", "url": "https://www.nhs.uk/mental-health/conditions/social-anxiety/"},
+      {"label": "MedlinePlus – Anxiety", "url": "https://medlineplus.gov/anxiety.html"}
+    ]
+  }
+]

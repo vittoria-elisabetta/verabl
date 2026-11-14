@@ -139,6 +139,160 @@
   ]
  },
  {
+  "id": "irritability-anger",
+  "name": "Anger or irritability",
+  "aliases": [
+   "always angry",
+   "short temper",
+   "irritable",
+   "losing my temper",
+   "anger outbursts",
+   "snapping at people"
+  ],
+  "bodyArea": "Mental health & sleep",
+  "summary": "Anger is a normal emotion, but frequent irritability or outbursts that are hard to control can affect relationships and wellbeing. It is often linked to stress, tiredness, low mood or anxiety.",
+  "redFlags": [
+   "You feel you might seriously hurt yourself or someone else",
+   "Someone is in immediate danger from violence",
+   "Sudden personality change or aggression with confusion, headache or weakness"
+  ],
+  "urgentFlags": [
+   "Anger leading to hurting people or damaging things",
+   "Irritability with very little sleep, racing thoughts and unusually high energy",
+   "Thoughts of suicide or self-harm"
+  ],
+  "commonCauses": [
+   {
+    "title": "Stress and tiredness",
+    "detail": "Pressure and poor sleep make it harder to manage emotions."
+   },
+   {
+    "title": "Depression or anxiety",
+    "detail": "Both can show up as irritability."
+   },
+   {
+    "title": "Alcohol and drugs",
+    "detail": "Can lower self-control and worsen anger."
+   },
+   {
+    "title": "Hormonal changes",
+    "detail": "Premenstrual changes and menopause can affect mood."
+   },
+   {
+    "title": "Past experiences",
+    "detail": "Trauma can make anger more likely."
+   }
+  ],
+  "selfCare": [
+   "Notice early signs such as a racing heart or clenched fists, and step away",
+   "Take slow breaths and count to 10 before responding",
+   "Exercise to release tension",
+   "Talk it through later when calm",
+   "Look into anger management courses or self-help programmes"
+  ],
+  "avoid": [
+   "Drinking alcohol or using drugs when angry",
+   "Driving when very angry",
+   "Bottling anger up until it explodes"
+  ],
+  "seeDoctorIf": [
+   "Anger is affecting your relationships, work or daily life",
+   "You feel irritable most of the time",
+   "You are worried about how you behave when angry"
+  ],
+  "selfCareMaxDays": 28,
+  "sources": [
+   {
+    "label": "NHS – Anger",
+    "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anger/"
+   },
+   {
+    "label": "MedlinePlus – Mental health",
+    "url": "https://medlineplus.gov/mentalhealth.html"
+   }
+  ]
+ },
+ {
+  "id": "anxiety",
+  "name": "Anxiety or constant worry",
+  "aliases": [
+   "feeling anxious",
+   "worrying all the time",
+   "can't stop worrying",
+   "nervous all the time",
+   "on edge",
+   "anxiety symptoms",
+   "feeling of dread"
+  ],
+  "bodyArea": "Mental health & sleep",
+  "summary": "Everyone feels anxious sometimes, but anxiety that is strong, hard to control or lasts a long time can affect daily life. It is common and there are effective ways to manage and treat it.",
+  "redFlags": [
+   "Thoughts of ending your life or harming yourself, or feeling you might act on them",
+   "Chest pain, shortness of breath or feeling faint that you are not sure is anxiety",
+   "You feel you are in immediate danger or cannot keep yourself safe"
+  ],
+  "urgentFlags": [
+   "Anxiety so severe you cannot carry out daily tasks or leave the house",
+   "Thoughts of self-harm or suicide without a plan to act on them",
+   "Using alcohol or drugs to cope and feeling out of control"
+  ],
+  "commonCauses": [
+   {
+    "title": "Stressful life events",
+    "detail": "Work, money, relationships, health worries or big changes can trigger anxiety."
+   },
+   {
+    "title": "Generalised anxiety disorder (GAD)",
+    "detail": "Ongoing, excessive worry about many things that is hard to control."
+   },
+   {
+    "title": "Past experiences",
+    "detail": "Difficult or traumatic experiences can make anxiety more likely."
+   },
+   {
+    "title": "Caffeine, alcohol and drugs",
+    "detail": "Stimulants and withdrawal can cause or worsen anxiety."
+   },
+   {
+    "title": "Physical health conditions",
+    "detail": "An overactive thyroid and some medicines can cause anxiety-like symptoms."
+   }
+  ],
+  "selfCare": [
+   "Try slow breathing: breathe in gently through your nose and out slowly through your mouth",
+   "Be physically active most days",
+   "Talk to someone you trust about how you feel",
+   "Try evidence-based self-help such as online cognitive behavioural therapy (CBT) resources",
+   "Keep regular sleep, cut down on caffeine and alcohol"
+  ],
+  "avoid": [
+   "Using alcohol, drugs or smoking to cope",
+   "Avoiding situations that make you anxious, which can make anxiety worse over time",
+   "Unregulated supplements marketed as anxiety cures"
+  ],
+  "seeDoctorIf": [
+   "Anxiety is affecting your daily life or causing you distress",
+   "Self-help has not helped after a few weeks",
+   "You have physical symptoms such as palpitations that worry you",
+   "You think you may have an anxiety disorder or panic attacks"
+  ],
+  "selfCareMaxDays": 14,
+  "sources": [
+   {
+    "label": "NHS – Anxiety, fear and panic",
+    "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anxiety-fear-panic/"
+   },
+   {
+    "label": "NHS – Generalised anxiety disorder",
+    "url": "https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder-gad/"
+   },
+   {
+    "label": "MedlinePlus – Anxiety",
+    "url": "https://medlineplus.gov/anxiety.html"
+   }
+  ]
+ },
+ {
   "id": "baby-crying-non-stop",
   "name": "Baby crying non-stop",
   "aliases": [
@@ -360,6 +514,77 @@
    {
     "label": "NHS: Back pain",
     "url": "https://www.nhs.uk/conditions/back-pain/"
+   }
+  ]
+ },
+ {
+  "id": "bad-breath",
+  "name": "Bad breath",
+  "aliases": [
+   "halitosis",
+   "smelly breath",
+   "breath smells",
+   "bad taste and bad breath",
+   "morning breath won't go"
+  ],
+  "bodyArea": "Mouth & teeth",
+  "summary": "Bad breath is common and usually caused by bacteria in the mouth, especially when teeth, gums and tongue are not cleaned well. It can usually be treated at home.",
+  "redFlags": [
+   "Fruity-smelling breath with vomiting, stomach pain, fast breathing or confusion, especially in someone with diabetes"
+  ],
+  "urgentFlags": [
+   "Bad breath with a painful swollen gum or face and a high temperature",
+   "Bad breath with a painful, ulcerated mouth and fever"
+  ],
+  "commonCauses": [
+   {
+    "title": "Oral hygiene",
+    "detail": "Food and bacteria build up on the teeth, gums and tongue."
+   },
+   {
+    "title": "Gum disease or tooth decay",
+    "detail": "Infections in the mouth often cause a bad smell."
+   },
+   {
+    "title": "Strong foods, smoking and alcohol",
+    "detail": "Garlic, onions, coffee, tobacco and alcohol affect breath."
+   },
+   {
+    "title": "Dry mouth",
+    "detail": "Less saliva lets bacteria build up."
+   },
+   {
+    "title": "Other conditions",
+    "detail": "Sinus or throat infections, acid reflux and some health conditions can cause bad breath."
+   }
+  ],
+  "selfCare": [
+   "Brush teeth and gums twice a day for 2 minutes",
+   "Clean between your teeth daily and gently clean your tongue",
+   "Keep dentures clean and take them out at night",
+   "Drink water and chew sugar-free gum",
+   "Stop smoking"
+  ],
+  "avoid": [
+   "Relying on mouthwash or mints to hide the smell",
+   "Sugary snacks and drinks",
+   "Strong-smelling foods before social events if they affect you"
+  ],
+  "seeDoctorIf": [
+   "Bad breath does not go away after a few weeks of good cleaning",
+   "You have painful, bleeding or swollen gums",
+   "You have toothache or loose adult teeth",
+   "You have problems with your dentures"
+  ],
+  "selfCareMaxDays": 21,
+  "sources": [
+   {
+    "label": "NHS – Bad breath",
+    "url": "https://www.nhs.uk/symptoms/bad-breath/"
+   },
+   {
+    "label": "MedlinePlus – Bad breath",
+    "url": "https://medlineplus.gov/badbreath.html"
    }
   ]
  },
@@ -774,6 +999,81 @@
   ]
  },
  {
+  "id": "bleeding-gums",
+  "name": "Bleeding or swollen gums",
+  "aliases": [
+   "gums bleed when brushing",
+   "bleeding gums",
+   "swollen gums",
+   "sore gums",
+   "red gums",
+   "gum disease"
+  ],
+  "bodyArea": "Mouth & teeth",
+  "summary": "Gums that bleed when you brush are most often a sign of gum disease (gingivitis), which is common and can be reversed with good cleaning. A dentist can check and treat it.",
+  "redFlags": [
+   "Bleeding that will not stop after 15 minutes of pressure",
+   "Very swollen gums with swelling spreading to the face or neck and difficulty swallowing or breathing"
+  ],
+  "urgentFlags": [
+   "Very sore and swollen gums",
+   "Teeth becoming loose or falling out",
+   "Bleeding gums with unexplained bruising, nosebleeds or feeling very tired",
+   "Painful, ulcerated gums with bad breath and fever"
+  ],
+  "commonCauses": [
+   {
+    "title": "Gingivitis",
+    "detail": "Plaque build-up along the gumline causing red, swollen gums that bleed."
+   },
+   {
+    "title": "Brushing too hard or flossing for the first time",
+    "detail": "Can cause minor bleeding that settles."
+   },
+   {
+    "title": "Pregnancy",
+    "detail": "Hormone changes make gums more likely to bleed."
+   },
+   {
+    "title": "Periodontitis",
+    "detail": "More advanced gum disease that can loosen teeth."
+   },
+   {
+    "title": "Medicines or blood conditions",
+    "detail": "Blood thinners or, rarely, blood disorders can cause bleeding gums."
+   }
+  ],
+  "selfCare": [
+   "Brush twice a day for 2 minutes with a fluoride toothpaste and a soft brush",
+   "Clean between your teeth every day with floss or interdental brushes",
+   "Keep brushing gums that bleed; bleeding usually improves within 1 to 2 weeks",
+   "Stop smoking",
+   "Have regular dental check-ups and cleaning"
+  ],
+  "avoid": [
+   "Stopping brushing because your gums bleed",
+   "Brushing very hard with a hard brush",
+   "Sugary snacks and drinks between meals"
+  ],
+  "seeDoctorIf": [
+   "Your gums bleed when you brush or eat hard foods",
+   "Your gums are painful and swollen",
+   "You have bad breath that does not go away",
+   "You have not had a dental check-up for 2 years"
+  ],
+  "selfCareMaxDays": 14,
+  "sources": [
+   {
+    "label": "NHS – Gum disease",
+    "url": "https://www.nhs.uk/conditions/gum-disease/"
+   },
+   {
+    "label": "MedlinePlus – Bleeding gums",
+    "url": "https://medlineplus.gov/ency/article/003062.htm"
+   }
+  ]
+ },
+ {
   "id": "blisters",
   "name": "Blisters",
   "aliases": [
@@ -1116,6 +1416,71 @@
    {
     "label": "MedlinePlus: Urine - bloody",
     "url": "https://medlineplus.gov/ency/article/003138.htm"
+   }
+  ]
+ },
+ {
+  "id": "blue-lips",
+  "name": "Blue or grey lips or skin",
+  "aliases": [
+   "lips turning blue",
+   "blue lips",
+   "grey skin",
+   "cyanosis",
+   "blue fingertips",
+   "pale grey lips"
+  ],
+  "bodyArea": "Chest, heart & lungs",
+  "summary": "Lips, tongue or skin that turn blue, grey or very pale can mean the body is not getting enough oxygen. When it comes on suddenly it is an emergency.",
+  "redFlags": [
+   "Lips, tongue or skin suddenly turning blue, grey or very pale (on brown or black skin, check the palms, gums or around the eyes)",
+   "Blue lips with difficulty breathing or choking",
+   "Blue lips with confusion, drowsiness or collapse",
+   "A child who is blue, limp or not responding normally"
+  ],
+  "urgentFlags": [
+   "Fingers or toes that stay blue or white after warming up",
+   "Bluish lips that come and go with exercise"
+  ],
+  "commonCauses": [
+   {
+    "title": "Cold",
+    "detail": "Fingers, toes and lips can look blue in the cold and improve with warming."
+   },
+   {
+    "title": "Breathing problems",
+    "detail": "Severe asthma, pneumonia, COPD or choking reduce oxygen levels."
+   },
+   {
+    "title": "Heart problems",
+    "detail": "Heart failure or heart conditions present from birth."
+   },
+   {
+    "title": "Raynaud's phenomenon",
+    "detail": "Fingers and toes turn white then blue in the cold or with stress."
+   }
+  ],
+  "selfCare": [
+   "If someone suddenly turns blue or grey and is struggling to breathe, call your local emergency number (such as 911, 999 or 112)",
+   "If only fingers and toes are blue from cold, warm up gradually"
+  ],
+  "avoid": [
+   "Waiting to see if blue lips improve when someone is breathless or unwell",
+   "Smoking"
+  ],
+  "seeDoctorIf": [
+   "Your fingers or toes often change colour in the cold",
+   "Lips or nails look bluish with exercise or breathlessness"
+  ],
+  "selfCareMaxDays": 0,
+  "sources": [
+   {
+    "label": "MedlinePlus – Blue discoloration of the skin",
+    "url": "https://medlineplus.gov/ency/article/003215.htm"
+   },
+   {
+    "label": "NHS – Shortness of breath",
+    "url": "https://www.nhs.uk/symptoms/shortness-of-breath/"
    }
   ]
  },
@@ -1593,6 +1958,148 @@
   ]
  },
  {
+  "id": "insomnia",
+  "name": "Can't sleep (insomnia)",
+  "aliases": [
+   "can't sleep",
+   "trouble sleeping",
+   "insomnia",
+   "waking up at night",
+   "waking too early",
+   "can't fall asleep",
+   "lying awake"
+  ],
+  "bodyArea": "Mental health & sleep",
+  "summary": "Insomnia means regularly having trouble falling asleep, staying asleep or waking too early. It is common, often linked to stress, and usually improves by changing sleep habits.",
+  "redFlags": [
+   "Not sleeping with thoughts of suicide or self-harm",
+   "Going days without sleep with racing thoughts, very high energy, or seeing or hearing things others do not"
+  ],
+  "urgentFlags": [
+   "Severe distress or inability to function because of lack of sleep",
+   "Sleep problems after starting or stopping a medicine, with feeling very unwell"
+  ],
+  "commonCauses": [
+   {
+    "title": "Stress, anxiety and depression",
+    "detail": "Worry and low mood are among the most common causes."
+   },
+   {
+    "title": "Sleep habits and environment",
+    "detail": "Irregular hours, screens, a noisy or bright bedroom and naps."
+   },
+   {
+    "title": "Caffeine, alcohol and nicotine",
+    "detail": "These disrupt sleep, especially later in the day."
+   },
+   {
+    "title": "Shift work and jet lag",
+    "detail": "Disrupt the body clock."
+   },
+   {
+    "title": "Health problems",
+    "detail": "Pain, needing to pee at night, menopause, sleep apnoea, restless legs and some medicines."
+   }
+  ],
+  "selfCare": [
+   "Go to bed and get up at the same times every day",
+   "Keep your bedroom dark, quiet and cool",
+   "Avoid caffeine in the afternoon and evening, and limit alcohol",
+   "Wind down before bed and keep screens out of bed",
+   "If you cannot sleep, get up and do something calm, then return to bed when sleepy",
+   "Be physically active during the day, but not just before bed"
+  ],
+  "avoid": [
+   "Long daytime naps",
+   "Using alcohol to help you sleep",
+   "Relying on over-the-counter sleeping pills for more than a few nights"
+  ],
+  "seeDoctorIf": [
+   "Changing your sleep habits has not helped",
+   "You have had trouble sleeping for months",
+   "Insomnia is affecting your daily life",
+   "You snore loudly, stop breathing in your sleep or have restless legs"
+  ],
+  "selfCareMaxDays": 28,
+  "sources": [
+   {
+    "label": "NHS – Insomnia",
+    "url": "https://www.nhs.uk/conditions/insomnia/"
+   },
+   {
+    "label": "MedlinePlus – Insomnia",
+    "url": "https://medlineplus.gov/insomnia.html"
+   }
+  ]
+ },
+ {
+  "id": "catarrh",
+  "name": "Catarrh or mucus in the throat",
+  "aliases": [
+   "phlegm in throat",
+   "mucus in throat",
+   "postnasal drip",
+   "constantly clearing throat",
+   "mucus dripping down throat",
+   "catarrh"
+  ],
+  "bodyArea": "Ears, nose & throat",
+  "summary": "Catarrh is a build-up of mucus in the nose, sinuses and back of the throat. It usually follows a cold or comes with allergies and clears up on its own.",
+  "redFlags": [
+   "Difficulty breathing",
+   "Swelling around the eyes with fever or vision changes"
+  ],
+  "urgentFlags": [
+   "Feeling very unwell with a high temperature",
+   "Blood-stained mucus from one side of the nose"
+  ],
+  "commonCauses": [
+   {
+    "title": "Colds and sinusitis",
+    "detail": "Infections make the lining of the nose produce more mucus."
+   },
+   {
+    "title": "Allergies",
+    "detail": "Hay fever and dust or pet allergies can cause ongoing mucus."
+   },
+   {
+    "title": "Non-allergic rhinitis",
+    "detail": "A long-term runny or blocked nose without an allergy."
+   },
+   {
+    "title": "Nasal polyps",
+    "detail": "Soft growths that can cause long-term catarrh and reduced smell."
+   }
+  ],
+  "selfCare": [
+   "Rinse your nose with salt water",
+   "Drink plenty of fluids and get enough rest",
+   "Keep the air moist and avoid very warm, dry rooms",
+   "Sleep with your head slightly raised"
+  ],
+  "avoid": [
+   "Things that trigger symptoms, such as smoke or known allergens",
+   "Dairy-free diets to clear mucus, which have no good evidence",
+   "Overusing decongestant sprays"
+  ],
+  "seeDoctorIf": [
+   "Catarrh lasts more than a few weeks",
+   "You develop new symptoms such as a sore throat, problems swallowing or loss of smell",
+   "It is affecting your sleep or daily life"
+  ],
+  "selfCareMaxDays": 21,
+  "sources": [
+   {
+    "label": "NHS – Catarrh",
+    "url": "https://www.nhs.uk/conditions/catarrh/"
+   },
+   {
+    "label": "NHS – Non-allergic rhinitis",
+    "url": "https://www.nhs.uk/conditions/non-allergic-rhinitis/"
+   }
+  ]
+ },
+ {
   "id": "change-in-bowel-habits",
   "name": "Change in bowel habits",
   "aliases": [
@@ -1733,6 +2240,85 @@
   ]
  },
  {
+  "id": "chest-pain",
+  "name": "Chest pain or tightness",
+  "aliases": [
+   "chest hurts",
+   "tight chest",
+   "pressure in chest",
+   "pain in left side of chest",
+   "heart pain",
+   "squeezing chest",
+   "sharp chest pain"
+  ],
+  "bodyArea": "Chest, heart & lungs",
+  "summary": "Chest pain has many causes and is often not caused by the heart, but it can be a sign of a heart attack. Sudden chest pain or pressure that does not go away needs emergency help.",
+  "redFlags": [
+   "Sudden pain, pressure, squeezing or tightness in the chest that does not go away",
+   "Chest pain that spreads to the arms, neck, jaw, stomach or back",
+   "Chest pain with sweating, feeling sick, light-headed or short of breath",
+   "Sudden sharp chest pain with breathlessness or coughing up blood",
+   "Chest pain lasting 15 minutes or more"
+  ],
+  "urgentFlags": [
+   "Sharp chest pain that comes and goes, or only happens when breathing or coughing",
+   "Chest pain on exertion that eases with rest",
+   "Chest pain with a high temperature and cough"
+  ],
+  "commonCauses": [
+   {
+    "title": "Muscle strain",
+    "detail": "Pain after exercise, lifting or injury, worse when pressing the area or moving."
+   },
+   {
+    "title": "Heartburn or indigestion",
+    "detail": "Burning pain after eating, often with a sour taste."
+   },
+   {
+    "title": "Anxiety or panic attack",
+    "detail": "Sharp or tight pain with a racing heart, sweating and dizziness."
+   },
+   {
+    "title": "Chest infection or pleurisy",
+    "detail": "Pain often worse on breathing in or coughing."
+   },
+   {
+    "title": "Heart problems",
+    "detail": "Angina or a heart attack; pain often feels like pressure, heaviness or tightness."
+   }
+  ],
+  "selfCare": [
+   "If you think it could be a heart attack, call your local emergency number (such as 911, 999 or 112), sit down and rest while waiting",
+   "If a pharmacist or doctor has said it is muscle pain, use heat and over-the-counter pain relief such as paracetamol, following the pack instructions",
+   "If heartburn is likely, ask a pharmacist about remedies and avoid large late meals"
+  ],
+  "avoid": [
+   "Driving yourself to hospital with chest pain",
+   "Assuming chest pain is indigestion without getting it checked",
+   "Exercising until chest pain has been assessed"
+  ],
+  "seeDoctorIf": [
+   "You have chest pain that comes and goes",
+   "You had chest pain that went away quickly but you are still worried",
+   "You get chest pain or tightness when walking or climbing stairs"
+  ],
+  "selfCareMaxDays": 0,
+  "sources": [
+   {
+    "label": "NHS – Chest pain",
+    "url": "https://www.nhs.uk/symptoms/chest-pain/"
+   },
+   {
+    "label": "NHS – Heart attack",
+    "url": "https://www.nhs.uk/conditions/heart-attack/"
+   },
+   {
+    "label": "MedlinePlus – Chest pain",
+    "url": "https://medlineplus.gov/chestpain.html"
+   }
+  ]
+ },
+ {
   "id": "chills",
   "name": "Chills and shivering",
   "aliases": [
@@ -1801,6 +2387,141 @@
    {
     "label": "NHS: High temperature (fever) in adults",
     "url": "https://www.nhs.uk/conditions/fever-in-adults/"
+   }
+  ]
+ },
+ {
+  "id": "broken-tooth",
+  "name": "Chipped, broken or knocked-out tooth",
+  "aliases": [
+   "chipped tooth",
+   "broken tooth",
+   "knocked out tooth",
+   "cracked tooth",
+   "tooth fell out after injury",
+   "lost a filling"
+  ],
+  "bodyArea": "Mouth & teeth",
+  "summary": "A chipped, cracked or knocked-out tooth needs to be seen by a dentist. An adult tooth that has been knocked out has the best chance of being saved if it is put back or kept moist and seen within an hour.",
+  "redFlags": [
+   "Head injury with the dental injury, such as being knocked out, vomiting or confusion",
+   "Bleeding from the mouth that will not stop after 15 minutes of pressure",
+   "Jaw that may be broken, or cannot close the mouth properly",
+   "Swelling making it difficult to breathe or swallow"
+  ],
+  "urgentFlags": [
+   "An adult tooth has been knocked out",
+   "A tooth is badly broken, loose or pushed out of place",
+   "Severe pain or a broken tooth with exposed pink or red inner part"
+  ],
+  "commonCauses": [
+   {
+    "title": "Falls and sports injuries",
+    "detail": "The most common cause of knocked-out or broken front teeth."
+   },
+   {
+    "title": "Biting hard objects",
+    "detail": "Ice, hard sweets, bones or pen tops can crack teeth."
+   },
+   {
+    "title": "Tooth decay or large fillings",
+    "detail": "Weakened teeth break more easily."
+   },
+   {
+    "title": "Teeth grinding",
+    "detail": "Can crack teeth over time."
+   }
+  ],
+  "selfCare": [
+   "Hold a knocked-out adult tooth by the crown (white part), not the root",
+   "If it is dirty, rinse it briefly in milk or saliva, then push it back into the socket and bite on a clean cloth",
+   "If you cannot put it back, keep it in milk or in your cheek and see a dentist straight away",
+   "For a chipped tooth, keep any pieces, rinse your mouth and see a dentist",
+   "Take over-the-counter pain relief such as paracetamol or ibuprofen if needed, following the pack instructions"
+  ],
+  "avoid": [
+   "Putting a knocked-out baby tooth back in, as it can damage the adult tooth underneath",
+   "Scrubbing the tooth or storing it in water",
+   "Chewing on the broken tooth"
+  ],
+  "seeDoctorIf": [
+   "A tooth feels sensitive or has changed colour after an injury",
+   "A small chip has left a sharp edge",
+   "A filling or crown has come out"
+  ],
+  "selfCareMaxDays": 0,
+  "sources": [
+   {
+    "label": "NHS – Knocked-out tooth",
+    "url": "https://www.nhs.uk/conditions/knocked-out-tooth/"
+   },
+   {
+    "label": "MedlinePlus – Tooth disorders",
+    "url": "https://medlineplus.gov/toothdisorders.html"
+   }
+  ]
+ },
+ {
+  "id": "cold-sores",
+  "name": "Cold sores",
+  "aliases": [
+   "cold sore",
+   "fever blister",
+   "blister on lip",
+   "tingling lip before sore",
+   "herpes on lip",
+   "lip sore"
+  ],
+  "bodyArea": "Mouth & teeth",
+  "summary": "Cold sores are small blisters on or around the lips caused by the herpes simplex virus. They are common and usually clear up on their own within 10 days.",
+  "redFlags": [
+   "Cold sore near the eye with eye pain, redness or changes in vision",
+   "A newborn baby with blisters or who is unwell after contact with a cold sore",
+   "Widespread sores with high fever, confusion or drowsiness"
+  ],
+  "urgentFlags": [
+   "A cold sore near or in the eye",
+   "Swollen, painful gums and many sores inside the mouth, especially in a child",
+   "Cold sores with a weakened immune system or eczema around the sore"
+  ],
+  "commonCauses": [
+   {
+    "title": "Herpes simplex virus",
+    "detail": "Once you have the virus it stays in the body and can reactivate."
+   },
+   {
+    "title": "Triggers",
+    "detail": "Colds and other illness, strong sunlight, tiredness, stress or periods can bring on a cold sore."
+   }
+  ],
+  "selfCare": [
+   "Ask a pharmacist about antiviral cream, which works best when started at the first tingle",
+   "Use cold sore patches to protect the sore",
+   "Take over-the-counter pain relief such as paracetamol or ibuprofen if needed, following the pack instructions",
+   "Wash your hands after touching the sore",
+   "Use lip balm with sun protection"
+  ],
+  "avoid": [
+   "Kissing, especially babies, while you have a cold sore",
+   "Oral sex while you have a cold sore",
+   "Sharing cups, cutlery, towels or lip balm",
+   "Touching the sore and then your eyes"
+  ],
+  "seeDoctorIf": [
+   "A cold sore has not started to heal within 10 days",
+   "The cold sore is very large or painful",
+   "You keep getting cold sores",
+   "You are pregnant and have a cold sore"
+  ],
+  "selfCareMaxDays": 10,
+  "sources": [
+   {
+    "label": "NHS – Cold sores",
+    "url": "https://www.nhs.uk/conditions/cold-sores/"
+   },
+   {
+    "label": "MedlinePlus – Cold sores",
+    "url": "https://medlineplus.gov/coldsores.html"
    }
   ]
  },
@@ -1946,6 +2667,234 @@
    {
     "label": "MedlinePlus: Constipation",
     "url": "https://medlineplus.gov/constipation.html"
+   }
+  ]
+ },
+ {
+  "id": "cough",
+  "name": "Cough",
+  "aliases": [
+   "coughing",
+   "dry cough",
+   "tickly cough",
+   "chesty cough",
+   "cough won't go away",
+   "night cough",
+   "hacking cough"
+  ],
+  "bodyArea": "Chest, heart & lungs",
+  "summary": "A cough is usually caused by a virus such as a cold or flu and gets better on its own within 3 to 4 weeks. A cough lasting longer than 3 weeks should be checked.",
+  "redFlags": [
+   "Severe difficulty breathing, gasping or unable to speak in full sentences",
+   "Lips or skin turning blue, grey or very pale",
+   "Coughing up more than a few streaks of blood",
+   "Cough with chest pain that spreads to the arm, neck, jaw or back",
+   "Sudden confusion or very drowsy"
+  ],
+  "urgentFlags": [
+   "Cough is very bad or getting worse quickly",
+   "Feeling very unwell, or a high temperature that is not settling",
+   "Chest pain or finding it hard to breathe",
+   "Coughing up small streaks of blood",
+   "Swollen, painful glands in the side of the neck"
+  ],
+  "commonCauses": [
+   {
+    "title": "Colds, flu and COVID-19",
+    "detail": "The most common cause; the cough can last several weeks after other symptoms."
+   },
+   {
+    "title": "Chest infection",
+    "detail": "Such as bronchitis, with a chesty cough and mucus."
+   },
+   {
+    "title": "Asthma and allergies",
+    "detail": "Cough often worse at night or with exercise."
+   },
+   {
+    "title": "Acid reflux and postnasal drip",
+    "detail": "Can cause a long-lasting cough."
+   },
+   {
+    "title": "Smoking and long-term lung conditions",
+    "detail": "Such as COPD; a persistent cough needs checking."
+   }
+  ],
+  "selfCare": [
+   "Rest and drink plenty of fluids",
+   "Try hot lemon and honey (not for babies under 1)",
+   "Take over-the-counter pain relief such as paracetamol or ibuprofen for aches, following the pack instructions",
+   "Stay at home if you have a high temperature or feel unwell",
+   "Cover coughs and wash your hands often"
+  ],
+  "avoid": [
+   "Expecting antibiotics, which do not help viral coughs",
+   "Smoking",
+   "Giving cough medicines to young children unless advised by a pharmacist"
+  ],
+  "seeDoctorIf": [
+   "You have had a cough for more than 3 weeks",
+   "You are losing weight for no reason",
+   "You have a weakened immune system",
+   "Your cough keeps coming back"
+  ],
+  "selfCareMaxDays": 21,
+  "sources": [
+   {
+    "label": "NHS – Cough",
+    "url": "https://www.nhs.uk/symptoms/cough/"
+   },
+   {
+    "label": "MedlinePlus – Cough",
+    "url": "https://medlineplus.gov/cough.html"
+   }
+  ]
+ },
+ {
+  "id": "coughing-up-blood",
+  "name": "Coughing up blood",
+  "aliases": [
+   "blood in phlegm",
+   "coughing blood",
+   "blood when coughing",
+   "pink frothy sputum",
+   "haemoptysis",
+   "spitting blood"
+  ],
+  "bodyArea": "Chest, heart & lungs",
+  "summary": "Coughing up blood can be caused by a chest infection or a nosebleed, but it can also be a sign of something serious. It should always be checked by a doctor.",
+  "redFlags": [
+   "Coughing up more than just a few spots or streaks of blood",
+   "Coughing up blood with difficulty breathing",
+   "Coughing up blood with a very fast heartbeat",
+   "Coughing up blood with pain in the chest or upper back",
+   "Coughing up blood with a painful, swollen leg"
+  ],
+  "urgentFlags": [
+   "A few small spots, flecks or streaks of blood in your phlegm",
+   "Blood in phlegm with a fever or feeling unwell"
+  ],
+  "commonCauses": [
+   {
+    "title": "Chest infection",
+    "detail": "A heavy cough can cause small streaks of blood."
+   },
+   {
+    "title": "Nosebleed or bleeding gums",
+    "detail": "Blood from the nose or mouth can be mistaken for blood from the lungs."
+   },
+   {
+    "title": "Pulmonary embolism",
+    "detail": "A blood clot in the lungs, often with breathlessness and chest pain."
+   },
+   {
+    "title": "Long-term lung conditions",
+    "detail": "Bronchiectasis, tuberculosis or COPD."
+   },
+   {
+    "title": "Lung cancer",
+    "detail": "Less common, but more likely in smokers and older adults."
+   }
+  ],
+  "selfCare": [
+   "Note how much blood there is and what it looks like",
+   "Arrange to be seen by a doctor even if it stops"
+  ],
+  "avoid": [
+   "Ignoring blood in your phlegm, even if it happens once",
+   "Smoking"
+  ],
+  "seeDoctorIf": [
+   "You have coughed up any blood that has not been checked",
+   "You also have a cough for more than 3 weeks or weight loss"
+  ],
+  "selfCareMaxDays": 0,
+  "sources": [
+   {
+    "label": "NHS – Coughing up blood",
+    "url": "https://www.nhs.uk/symptoms/coughing-up-blood/"
+   },
+   {
+    "label": "MedlinePlus – Coughing up blood",
+    "url": "https://medlineplus.gov/ency/article/003073.htm"
+   },
+   {
+    "label": "NHS – Pulmonary embolism",
+    "url": "https://www.nhs.uk/conditions/pulmonary-embolism/"
+   }
+  ]
+ },
+ {
+  "id": "coughing-up-mucus",
+  "name": "Coughing up phlegm or mucus",
+  "aliases": [
+   "coughing up phlegm",
+   "green phlegm",
+   "yellow mucus",
+   "chesty cough with mucus",
+   "productive cough",
+   "sputum"
+  ],
+  "bodyArea": "Chest, heart & lungs",
+  "summary": "Coughing up phlegm is common with colds and chest infections, and helps clear the airways. Yellow or green phlegm alone does not mean you need antibiotics.",
+  "redFlags": [
+   "Severe difficulty breathing, or lips or skin turning blue or grey",
+   "Coughing up more than a few streaks of blood",
+   "Confusion, very fast breathing or feeling extremely unwell"
+  ],
+  "urgentFlags": [
+   "Feeling very unwell or symptoms getting worse",
+   "Blood-stained mucus",
+   "Fast breathing, chest pain or shortness of breath",
+   "Being over 65, pregnant, or having a long-term heart, lung or kidney condition with a chest infection"
+  ],
+  "commonCauses": [
+   {
+    "title": "Chest infection (bronchitis)",
+    "detail": "Usually viral and clears in 1 to 3 weeks."
+   },
+   {
+    "title": "Pneumonia",
+    "detail": "Infection of the lungs with fever, breathlessness and feeling very unwell."
+   },
+   {
+    "title": "Postnasal drip",
+    "detail": "Mucus from the nose running down the throat."
+   },
+   {
+    "title": "COPD, asthma or bronchiectasis",
+    "detail": "Long-term lung conditions can cause daily phlegm."
+   },
+   {
+    "title": "Smoking",
+    "detail": "Causes ongoing mucus production."
+   }
+  ],
+  "selfCare": [
+   "Rest and drink plenty of fluids to loosen the mucus",
+   "Breathe in steam from a warm shower",
+   "Raise your head with extra pillows at night",
+   "Take over-the-counter pain relief such as paracetamol or ibuprofen for fever or aches, following the pack instructions"
+  ],
+  "avoid": [
+   "Smoking",
+   "Assuming coloured phlegm needs antibiotics",
+   "Cough suppressants for a chesty cough unless advised by a pharmacist"
+  ],
+  "seeDoctorIf": [
+   "Your cough has lasted more than 3 weeks",
+   "You keep getting chest infections",
+   "You cough up phlegm most days"
+  ],
+  "selfCareMaxDays": 21,
+  "sources": [
+   {
+    "label": "NHS – Chest infection",
+    "url": "https://www.nhs.uk/conditions/chest-infection/"
+   },
+   {
+    "label": "NHS – Bronchitis",
+    "url": "https://www.nhs.uk/conditions/bronchitis/"
    }
   ]
  },
@@ -2376,6 +3325,77 @@
   ]
  },
  {
+  "id": "difficulty-swallowing",
+  "name": "Difficulty swallowing",
+  "aliases": [
+   "hard to swallow",
+   "food getting stuck",
+   "dysphagia",
+   "choking when eating",
+   "pain when swallowing",
+   "food stuck in throat"
+  ],
+  "bodyArea": "Ears, nose & throat",
+  "summary": "Difficulty swallowing means food or drink is hard to get down or feels stuck. A short-lived problem with a sore throat is common, but ongoing swallowing difficulty should always be checked.",
+  "redFlags": [
+   "Unable to swallow saliva, or drooling",
+   "Difficulty breathing, or noisy high-pitched breathing",
+   "Food stuck in the throat or chest that will not move and you cannot swallow anything",
+   "Sudden difficulty swallowing with face drooping, weakness or slurred speech",
+   "Swelling of the lips, tongue or throat"
+  ],
+  "urgentFlags": [
+   "Ongoing difficulty swallowing",
+   "Coughing or choking while eating or drinking",
+   "Feeling that food sticks in your throat or chest",
+   "Bringing food back up, or a wet, gurgly voice after eating",
+   "Losing weight without trying"
+  ],
+  "commonCauses": [
+   {
+    "title": "Sore throat or tonsillitis",
+    "detail": "Pain and swelling make swallowing uncomfortable for a few days."
+   },
+   {
+    "title": "Acid reflux",
+    "detail": "Can inflame or narrow the food pipe."
+   },
+   {
+    "title": "Neurological conditions",
+    "detail": "Stroke, Parkinson's disease and other conditions can affect the swallowing muscles."
+   },
+   {
+    "title": "Narrowing or growth in the food pipe",
+    "detail": "Including, less commonly, cancer of the oesophagus."
+   }
+  ],
+  "selfCare": [
+   "Sit upright to eat and drink, and stay upright for a while afterwards",
+   "Take small bites and chew well",
+   "Choose softer, moist foods while you are waiting to be seen"
+  ],
+  "avoid": [
+   "Eating while lying down or rushing meals",
+   "Ignoring swallowing problems that keep happening"
+  ],
+  "seeDoctorIf": [
+   "You keep having difficulty swallowing",
+   "You get frequent chest infections",
+   "You have heartburn or acid reflux most days"
+  ],
+  "selfCareMaxDays": 0,
+  "sources": [
+   {
+    "label": "NHS – Swallowing problems (dysphagia)",
+    "url": "https://www.nhs.uk/symptoms/swallowing-problems-dysphagia/"
+   },
+   {
+    "label": "MedlinePlus – Swallowing disorders",
+    "url": "https://medlineplus.gov/swallowingdisorders.html"
+   }
+  ]
+ },
+ {
   "id": "ear-discharge",
   "name": "Discharge from the ear",
   "aliases": [
@@ -2660,6 +3680,79 @@
    {
     "label": "MedlinePlus – Vision problems",
     "url": "https://medlineplus.gov/ency/article/003029.htm"
+   }
+  ]
+ },
+ {
+  "id": "dry-mouth",
+  "name": "Dry mouth",
+  "aliases": [
+   "mouth always dry",
+   "no saliva",
+   "sticky mouth",
+   "thirsty all the time",
+   "cotton mouth",
+   "dry mouth at night"
+  ],
+  "bodyArea": "Mouth & teeth",
+  "summary": "A dry mouth is rarely serious and is often caused by dehydration, medicines, mouth breathing or anxiety. Simple measures usually help.",
+  "redFlags": [
+   "Dry mouth with confusion, drowsiness, fast breathing or not passing urine",
+   "Very dry mouth with extreme thirst, being sick and stomach pain in someone with diabetes"
+  ],
+  "urgentFlags": [
+   "Dry mouth with constant thirst, peeing a lot and weight loss",
+   "Dry mouth with signs of dehydration that are not improving with drinking"
+  ],
+  "commonCauses": [
+   {
+    "title": "Dehydration",
+    "detail": "Not drinking enough, sweating or being ill."
+   },
+   {
+    "title": "Medicines",
+    "detail": "Many medicines list dry mouth as a side effect."
+   },
+   {
+    "title": "Mouth breathing",
+    "detail": "A blocked nose or sleeping with your mouth open."
+   },
+   {
+    "title": "Anxiety",
+    "detail": "Stress can reduce saliva."
+   },
+   {
+    "title": "Health conditions",
+    "detail": "Diabetes, Sjögren's syndrome and cancer treatment can cause a persistent dry mouth."
+   }
+  ],
+  "selfCare": [
+   "Drink water regularly and take sips during meals",
+   "Chew sugar-free gum or suck sugar-free sweets",
+   "Ask a pharmacist about saliva substitutes, sprays or gels",
+   "Use a humidifier at night",
+   "Keep up good dental care, as a dry mouth raises the risk of decay"
+  ],
+  "avoid": [
+   "Alcohol, including alcohol-based mouthwash",
+   "Caffeine, smoking and sugary drinks",
+   "Salty or spicy food if it makes your mouth uncomfortable"
+  ],
+  "seeDoctorIf": [
+   "Your mouth is still dry after a few weeks of home or pharmacy treatment",
+   "It is making talking or eating difficult",
+   "You think a medicine is causing it",
+   "You also have dry eyes or need to pee a lot"
+  ],
+  "selfCareMaxDays": 21,
+  "sources": [
+   {
+    "label": "NHS – Dry mouth",
+    "url": "https://www.nhs.uk/symptoms/dry-mouth/"
+   },
+   {
+    "label": "NIDCR – Dry mouth",
+    "url": "https://www.nidcr.nih.gov/health-info/dry-mouth"
    }
   ]
  },
@@ -3016,6 +4109,83 @@
    {
     "label": "MedlinePlus: Erectile dysfunction",
     "url": "https://medlineplus.gov/erectiledysfunction.html"
+   }
+  ]
+ },
+ {
+  "id": "excessive-sleepiness",
+  "name": "Excessive daytime sleepiness",
+  "aliases": [
+   "always sleepy",
+   "falling asleep during the day",
+   "can't stay awake",
+   "drowsy all day",
+   "sleeping too much",
+   "nodding off at work"
+  ],
+  "bodyArea": "Mental health & sleep",
+  "summary": "Feeling very sleepy during the day is often caused by not getting enough good-quality sleep. When it happens despite enough sleep, it can be a sign of a sleep disorder or other health problem.",
+  "redFlags": [
+   "Sudden drowsiness, confusion or difficulty waking someone",
+   "Drowsiness after a head injury",
+   "Drowsiness after taking too much medicine, alcohol or drugs"
+  ],
+  "urgentFlags": [
+   "Falling asleep or nearly falling asleep while driving",
+   "Sudden loss of muscle strength when laughing or with strong emotion",
+   "Sleepiness with breathlessness, morning headaches or swollen ankles"
+  ],
+  "commonCauses": [
+   {
+    "title": "Not enough sleep",
+    "detail": "Most adults need around 7 to 9 hours."
+   },
+   {
+    "title": "Sleep apnoea",
+    "detail": "Interrupted breathing at night causes poor-quality sleep."
+   },
+   {
+    "title": "Medicines and alcohol",
+    "detail": "Many medicines cause drowsiness."
+   },
+   {
+    "title": "Depression, anaemia or an underactive thyroid",
+    "detail": "Can make you feel tired and sleepy."
+   },
+   {
+    "title": "Narcolepsy",
+    "detail": "A rare condition causing sudden sleep attacks."
+   }
+  ],
+  "selfCare": [
+   "Keep regular sleep times and aim for enough sleep",
+   "Get daylight and physical activity during the day",
+   "Limit alcohol and caffeine, especially in the evening",
+   "Take a short break and do not drive if you feel sleepy"
+  ],
+  "avoid": [
+   "Driving or using machinery when sleepy",
+   "Relying on caffeine or energy drinks to stay awake"
+  ],
+  "seeDoctorIf": [
+   "You feel very sleepy even after enough sleep",
+   "You snore loudly or someone has seen you stop breathing in your sleep",
+   "Sleepiness is affecting work, study or safety",
+   "You think a medicine is making you sleepy"
+  ],
+  "selfCareMaxDays": 14,
+  "sources": [
+   {
+    "label": "NHS – Sleep apnoea",
+    "url": "https://www.nhs.uk/conditions/sleep-apnoea/"
+   },
+   {
+    "label": "NHS – Narcolepsy",
+    "url": "https://www.nhs.uk/conditions/narcolepsy/"
+   },
+   {
+    "label": "MedlinePlus – Drowsiness",
+    "url": "https://medlineplus.gov/ency/article/003208.htm"
    }
   ]
  },
@@ -3645,6 +4815,140 @@
   ]
  },
  {
+  "id": "social-anxiety",
+  "name": "Fear of social situations",
+  "aliases": [
+   "social anxiety",
+   "scared of talking to people",
+   "shy and anxious",
+   "fear of being judged",
+   "dread meeting people",
+   "blushing and anxious"
+  ],
+  "bodyArea": "Mental health & sleep",
+  "summary": "Social anxiety is an ongoing, overwhelming fear of social situations, such as meeting people or speaking in front of others. It is common, and talking therapies work well.",
+  "redFlags": [
+   "Thoughts of suicide or harming yourself"
+  ],
+  "urgentFlags": [
+   "You are unable to leave the house or attend work or school",
+   "Using alcohol or drugs to cope with social situations and feeling out of control"
+  ],
+  "commonCauses": [
+   {
+    "title": "Social anxiety disorder",
+    "detail": "Intense fear of being judged or embarrassed that lasts a long time."
+   },
+   {
+    "title": "Past experiences",
+    "detail": "Bullying, criticism or embarrassing events can contribute."
+   },
+   {
+    "title": "Shyness and temperament",
+    "detail": "Some people are naturally more anxious in social situations."
+   },
+   {
+    "title": "Low mood or depression",
+    "detail": "Can make social situations feel harder."
+   }
+  ],
+  "selfCare": [
+   "Gradually face situations you fear in small steps",
+   "Prepare and practise for social situations",
+   "Focus on the conversation rather than on how you appear",
+   "Try CBT-based self-help resources",
+   "Use slow breathing to manage physical symptoms"
+  ],
+  "avoid": [
+   "Avoiding all social situations, which can make fear stronger",
+   "Using alcohol to cope"
+  ],
+  "seeDoctorIf": [
+   "Fear of social situations is affecting your life",
+   "You avoid work, study or seeing friends",
+   "Self-help has not helped"
+  ],
+  "selfCareMaxDays": 28,
+  "sources": [
+   {
+    "label": "NHS – Social anxiety",
+    "url": "https://www.nhs.uk/mental-health/conditions/social-anxiety/"
+   },
+   {
+    "label": "MedlinePlus – Anxiety",
+    "url": "https://medlineplus.gov/anxiety.html"
+   }
+  ]
+ },
+ {
+  "id": "lump-in-throat-feeling",
+  "name": "Feeling of a lump in the throat",
+  "aliases": [
+   "lump in throat feeling",
+   "something stuck in throat",
+   "globus",
+   "tight throat",
+   "throat feels blocked",
+   "constant need to swallow"
+  ],
+  "bodyArea": "Ears, nose & throat",
+  "summary": "Many people feel like there is a lump or tightness in the throat even when nothing is there. It is often linked to stress, acid reflux or mucus, and is usually harmless, but real difficulty swallowing should be checked.",
+  "redFlags": [
+   "Difficulty breathing or noisy breathing",
+   "Unable to swallow saliva",
+   "Sudden throat tightness with swelling of the lips, tongue or face, or a rash"
+  ],
+  "urgentFlags": [
+   "Food actually sticking or difficulty swallowing food or drink",
+   "Pain when swallowing",
+   "Losing weight without trying",
+   "A lump you can see or feel in the neck"
+  ],
+  "commonCauses": [
+   {
+    "title": "Globus sensation",
+    "detail": "A harmless feeling of a lump, often worse with stress and easier when eating."
+   },
+   {
+    "title": "Acid reflux",
+    "detail": "Acid can irritate the throat and cause a tight feeling."
+   },
+   {
+    "title": "Catarrh or postnasal drip",
+    "detail": "Mucus at the back of the throat makes you want to keep swallowing."
+   },
+   {
+    "title": "Anxiety",
+    "detail": "Tension in the throat muscles is common during anxiety."
+   }
+  ],
+  "selfCare": [
+   "Sip water and swallow gently rather than repeatedly clearing your throat",
+   "Try relaxation or breathing exercises if stress makes it worse",
+   "Avoid eating late at night if you have reflux"
+  ],
+  "avoid": [
+   "Repeatedly clearing your throat or swallowing dry",
+   "Smoking"
+  ],
+  "seeDoctorIf": [
+   "The feeling lasts more than a few weeks",
+   "It is getting worse or is only on one side",
+   "You also have a hoarse voice or ear pain"
+  ],
+  "selfCareMaxDays": 21,
+  "sources": [
+   {
+    "label": "NHS – Catarrh",
+    "url": "https://www.nhs.uk/conditions/catarrh/"
+   },
+   {
+    "label": "NHS – Swallowing problems (dysphagia)",
+    "url": "https://www.nhs.uk/symptoms/swallowing-problems-dysphagia/"
+   }
+  ]
+ },
+ {
   "id": "nausea",
   "name": "Feeling sick (nausea)",
   "aliases": [
@@ -4087,6 +5391,69 @@
   ]
  },
  {
+  "id": "flashbacks",
+  "name": "Flashbacks or distress after a traumatic event",
+  "aliases": [
+   "flashbacks",
+   "reliving trauma",
+   "PTSD",
+   "can't stop thinking about what happened",
+   "jumpy after accident",
+   "trauma symptoms"
+  ],
+  "bodyArea": "Mental health & sleep",
+  "summary": "After a frightening or traumatic event it is normal to feel shaken, have upsetting memories or struggle to sleep for a few weeks. If these continue for more than about a month, it may be post-traumatic stress disorder (PTSD), which is treatable.",
+  "redFlags": [
+   "Thoughts of suicide or harming yourself",
+   "You are still in danger from the person or situation that hurt you"
+  ],
+  "urgentFlags": [
+   "Unable to cope with daily life or look after yourself",
+   "Using alcohol or drugs heavily to cope",
+   "A recent assault, including sexual assault, where you may need medical care or evidence collection"
+  ],
+  "commonCauses": [
+   {
+    "title": "Normal reaction to trauma",
+    "detail": "Many people have upsetting symptoms in the first few weeks that ease on their own."
+   },
+   {
+    "title": "Post-traumatic stress disorder",
+    "detail": "Flashbacks, nightmares, avoidance and feeling on edge lasting more than a month."
+   },
+   {
+    "title": "Complex trauma",
+    "detail": "Repeated trauma, such as abuse, can cause longer-lasting effects."
+   }
+  ],
+  "selfCare": [
+   "Talk to people you trust about how you feel when you are ready",
+   "Keep a routine with regular meals, sleep and activity",
+   "Use grounding: notice what you can see, hear and touch during a flashback",
+   "Learn about common reactions to trauma from reputable sources"
+  ],
+  "avoid": [
+   "Using alcohol or drugs to cope",
+   "Being pushed to talk in detail about the event before you are ready"
+  ],
+  "seeDoctorIf": [
+   "Symptoms have lasted more than 4 weeks",
+   "Symptoms are severe or getting worse",
+   "You avoid people, places or things that remind you of the event"
+  ],
+  "selfCareMaxDays": 28,
+  "sources": [
+   {
+    "label": "NHS – Post-traumatic stress disorder (PTSD)",
+    "url": "https://www.nhs.uk/mental-health/conditions/ptsd-post-traumatic-stress-disorder/"
+   },
+   {
+    "label": "MedlinePlus – Post-traumatic stress disorder",
+    "url": "https://medlineplus.gov/posttraumaticstressdisorder.html"
+   }
+  ]
+ },
+ {
   "id": "floaters-and-flashes",
   "name": "Floaters or flashes in vision",
   "aliases": [
@@ -4227,6 +5594,71 @@
    {
     "label": "NHS: Bunions",
     "url": "https://www.nhs.uk/conditions/bunions/"
+   }
+  ]
+ },
+ {
+  "id": "grief",
+  "name": "Grief after a loss",
+  "aliases": [
+   "grieving",
+   "bereavement",
+   "lost a loved one",
+   "can't stop crying after death",
+   "coping with loss",
+   "missing someone who died"
+  ],
+  "bodyArea": "Mental health & sleep",
+  "summary": "Grief is a natural response to losing someone or something important. It can bring sadness, anger, guilt, tiredness and poor sleep, and usually eases slowly over time.",
+  "redFlags": [
+   "Thoughts of ending your life or wanting to join the person who died",
+   "You feel unable to keep yourself safe"
+  ],
+  "urgentFlags": [
+   "Unable to eat, drink or look after yourself",
+   "Using alcohol or drugs heavily to cope",
+   "Thoughts of self-harm"
+  ],
+  "commonCauses": [
+   {
+    "title": "Bereavement",
+    "detail": "The death of a family member, friend or pet."
+   },
+   {
+    "title": "Other losses",
+    "detail": "Relationship breakdown, losing a job, a pregnancy loss or loss of health."
+   },
+   {
+    "title": "Complicated or prolonged grief",
+    "detail": "Grief that stays very intense and stops you functioning for a long time."
+   }
+  ],
+  "selfCare": [
+   "Talk about your feelings with people you trust",
+   "Allow yourself to feel the grief; there is no right way to grieve",
+   "Try to keep up regular meals, sleep and some activity",
+   "Contact a bereavement support service or group",
+   "Mark anniversaries and memories in a way that feels right"
+  ],
+  "avoid": [
+   "Using alcohol or drugs to block feelings",
+   "Making major decisions too soon",
+   "Isolating yourself completely"
+  ],
+  "seeDoctorIf": [
+   "Grief is not easing after several months or is getting worse",
+   "You cannot manage daily life",
+   "You have signs of depression such as hopelessness or loss of interest in everything"
+  ],
+  "selfCareMaxDays": 60,
+  "sources": [
+   {
+    "label": "NHS – Grief after bereavement or loss",
+    "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/"
+   },
+   {
+    "label": "MedlinePlus – Bereavement",
+    "url": "https://medlineplus.gov/bereavement.html"
    }
   ]
  },
@@ -4535,6 +5967,72 @@
   ]
  },
  {
+  "id": "health-anxiety",
+  "name": "Health anxiety",
+  "aliases": [
+   "worried I'm seriously ill",
+   "always checking my body",
+   "googling symptoms",
+   "fear of cancer",
+   "hypochondria",
+   "can't stop worrying about health"
+  ],
+  "bodyArea": "Mental health & sleep",
+  "summary": "Health anxiety is spending so much time worrying about being ill that it affects your life. Constant checking, searching symptoms online and seeking reassurance can make the worry worse.",
+  "redFlags": [
+   "Thoughts of suicide or harming yourself",
+   "Chest pain, difficulty breathing or other emergency symptoms, even if you think it may be anxiety"
+  ],
+  "urgentFlags": [
+   "Anxiety so severe you cannot carry out daily tasks"
+  ],
+  "commonCauses": [
+   {
+    "title": "Anxiety",
+    "detail": "People prone to worry are more likely to develop health anxiety."
+   },
+   {
+    "title": "Past illness",
+    "detail": "Serious illness in yourself or someone close can trigger it."
+   },
+   {
+    "title": "Stress",
+    "detail": "Health worries often increase during stressful times."
+   },
+   {
+    "title": "Online searching",
+    "detail": "Searching symptoms can increase worry."
+   }
+  ],
+  "selfCare": [
+   "Keep a diary of how often you check, search or seek reassurance, and gradually reduce it",
+   "Try to challenge your thoughts: what is the evidence for and against?",
+   "Stay busy and get regular exercise",
+   "Try CBT-based self-help resources"
+  ],
+  "avoid": [
+   "Repeatedly searching symptoms online",
+   "Checking your body over and over",
+   "Asking for the same reassurance many times"
+  ],
+  "seeDoctorIf": [
+   "Worry about your health is affecting your daily life",
+   "Self-help has not helped",
+   "You have a new symptom that has not been checked"
+  ],
+  "selfCareMaxDays": 28,
+  "sources": [
+   {
+    "label": "NHS – Health anxiety",
+    "url": "https://www.nhs.uk/mental-health/conditions/health-anxiety/"
+   },
+   {
+    "label": "MedlinePlus – Anxiety",
+    "url": "https://medlineplus.gov/anxiety.html"
+   }
+  ]
+ },
+ {
   "id": "hearing-loss",
   "name": "Hearing loss (gradual)",
   "aliases": [
@@ -4599,6 +6097,154 @@
    {
     "label": "MedlinePlus – Hearing loss",
     "url": "https://medlineplus.gov/ency/article/003044.htm"
+   }
+  ]
+ },
+ {
+  "id": "hearing-voices",
+  "name": "Hearing voices or seeing things others cannot",
+  "aliases": [
+   "hearing voices",
+   "hallucinations",
+   "seeing things that aren't there",
+   "paranoid thoughts",
+   "feel like I'm being watched",
+   "losing touch with reality"
+  ],
+  "bodyArea": "Mental health & sleep",
+  "summary": "Hearing, seeing or believing things that others do not can be a sign of psychosis, but can also be caused by drugs, extreme lack of sleep, infection or other illness. It should be checked by a professional promptly.",
+  "redFlags": [
+   "Voices telling you to harm yourself or others",
+   "Thoughts of suicide or feeling you cannot keep yourself safe",
+   "Sudden confusion, fever or drowsiness with hallucinations",
+   "Hallucinations after taking drugs or too much medicine, or during alcohol withdrawal"
+  ],
+  "urgentFlags": [
+   "New hallucinations or unusual beliefs",
+   "Being unable to look after yourself",
+   "Hallucinations in an older person, especially with new confusion"
+  ],
+  "commonCauses": [
+   {
+    "title": "Psychosis",
+    "detail": "Can happen with schizophrenia, bipolar disorder, severe depression or after a stressful event."
+   },
+   {
+    "title": "Drugs and alcohol",
+    "detail": "Cannabis, stimulants and alcohol withdrawal can cause hallucinations."
+   },
+   {
+    "title": "Severe lack of sleep",
+    "detail": "Can cause brief hallucinations."
+   },
+   {
+    "title": "Physical illness",
+    "detail": "Infections, delirium, dementia and some medicines."
+   },
+   {
+    "title": "Falling asleep or waking up",
+    "detail": "Brief hallucinations at these times are common and usually harmless."
+   }
+  ],
+  "selfCare": [
+   "Tell someone you trust and ask them to help you get support",
+   "Avoid alcohol and recreational drugs",
+   "Try to keep regular sleep",
+   "If you have a care plan, follow it and contact your care team"
+  ],
+  "avoid": [
+   "Cannabis and other recreational drugs",
+   "Stopping prescribed medicines without advice"
+  ],
+  "seeDoctorIf": [
+   "You have heard or seen things others cannot, even if it has stopped",
+   "Friends or family are worried about changes in your thinking or behaviour",
+   "Brief hallucinations when falling asleep are frequent or distressing"
+  ],
+  "selfCareMaxDays": 0,
+  "sources": [
+   {
+    "label": "NHS – Psychosis",
+    "url": "https://www.nhs.uk/mental-health/conditions/psychosis/overview/"
+   },
+   {
+    "label": "MedlinePlus – Psychotic disorders",
+    "url": "https://medlineplus.gov/psychoticdisorders.html"
+   }
+  ]
+ },
+ {
+  "id": "palpitations",
+  "name": "Heart palpitations",
+  "aliases": [
+   "heart racing",
+   "heart pounding",
+   "fluttering in chest",
+   "skipped heartbeat",
+   "irregular heartbeat",
+   "fast heart rate",
+   "heart flutter"
+  ],
+  "bodyArea": "Chest, heart & lungs",
+  "summary": "Palpitations are when your heartbeat suddenly becomes noticeable, racing, pounding, fluttering or skipping. They are usually harmless and often linked to stress, caffeine or alcohol.",
+  "redFlags": [
+   "Palpitations with chest pain",
+   "Palpitations with shortness of breath",
+   "Feeling faint or fainting with palpitations",
+   "Palpitations that do not go away"
+  ],
+  "urgentFlags": [
+   "You had palpitations with chest pain, breathlessness or faintness that have now stopped",
+   "A very fast heartbeat lasting more than a few minutes, even if you feel well"
+  ],
+  "commonCauses": [
+   {
+    "title": "Stress, anxiety and panic",
+    "detail": "Very common causes of a racing or pounding heart."
+   },
+   {
+    "title": "Caffeine, alcohol, nicotine and drugs",
+    "detail": "Coffee, energy drinks, alcohol, smoking and recreational drugs can trigger palpitations."
+   },
+   {
+    "title": "Exercise, lack of sleep or hormonal changes",
+    "detail": "Including pregnancy and the menopause."
+   },
+   {
+    "title": "Extra (ectopic) beats",
+    "detail": "A harmless skipped or extra beat that most people have sometimes."
+   },
+   {
+    "title": "Heart rhythm problems and other conditions",
+    "detail": "Atrial fibrillation, an overactive thyroid or anaemia can cause palpitations."
+   }
+  ],
+  "selfCare": [
+   "Sit down and breathe slowly until they pass",
+   "Cut down on caffeine, alcohol and energy drinks",
+   "Stop smoking",
+   "Try relaxation such as breathing exercises, yoga or regular exercise",
+   "Note when they happen, how long they last and what you were doing"
+  ],
+  "avoid": [
+   "Recreational drugs and energy drinks",
+   "Driving while you feel faint or unwell"
+  ],
+  "seeDoctorIf": [
+   "Palpitations keep coming back or are happening more often",
+   "They last longer than a few minutes",
+   "You have a heart condition",
+   "There is a history of heart problems or sudden death in your family"
+  ],
+  "selfCareMaxDays": 7,
+  "sources": [
+   {
+    "label": "NHS – Heart palpitations",
+    "url": "https://www.nhs.uk/symptoms/heart-palpitations/"
+   },
+   {
+    "label": "MedlinePlus – Heart palpitations",
+    "url": "https://medlineplus.gov/ency/article/003081.htm"
    }
   ]
  },
@@ -4885,6 +6531,71 @@
   ]
  },
  {
+  "id": "hiccups",
+  "name": "Hiccups",
+  "aliases": [
+   "hiccups won't stop",
+   "hiccoughs",
+   "constant hiccups",
+   "hiccups for days",
+   "can't get rid of hiccups"
+  ],
+  "bodyArea": "Chest, heart & lungs",
+  "summary": "Hiccups are very common and usually stop on their own within a few minutes or hours. Hiccups lasting more than 48 hours should be checked.",
+  "redFlags": [
+   "Hiccups with chest pain, shortness of breath or sweating",
+   "Hiccups with sudden weakness, numbness or slurred speech"
+  ],
+  "urgentFlags": [
+   "Hiccups with vomiting so you cannot keep fluids down",
+   "Hiccups stopping you eating, drinking or sleeping"
+  ],
+  "commonCauses": [
+   {
+    "title": "Eating or drinking",
+    "detail": "Large meals, fizzy drinks, alcohol and eating quickly."
+   },
+   {
+    "title": "Stress or excitement",
+    "detail": "Strong emotions can trigger hiccups."
+   },
+   {
+    "title": "Medicines",
+    "detail": "Some medicines, such as steroids, can cause hiccups."
+   },
+   {
+    "title": "Medical conditions",
+    "detail": "Rarely, long-lasting hiccups are caused by reflux, nerve irritation or other conditions."
+   }
+  ],
+  "selfCare": [
+   "Breathe into a paper (not plastic) bag",
+   "Hold your breath for a short time",
+   "Sip ice-cold water or bite on a lemon",
+   "Pull your knees up to your chest and lean forward"
+  ],
+  "avoid": [
+   "Fizzy drinks and alcohol",
+   "Eating very quickly or very large meals",
+   "Very hot then very cold food or drink"
+  ],
+  "seeDoctorIf": [
+   "Hiccups last longer than 48 hours",
+   "Hiccups keep coming back and are affecting your life"
+  ],
+  "selfCareMaxDays": 2,
+  "sources": [
+   {
+    "label": "NHS – Hiccups",
+    "url": "https://www.nhs.uk/symptoms/hiccups/"
+   },
+   {
+    "label": "MedlinePlus – Hiccups",
+    "url": "https://medlineplus.gov/hiccups.html"
+   }
+  ]
+ },
+ {
   "id": "hip-pain",
   "name": "Hip pain",
   "aliases": [
@@ -5017,6 +6728,79 @@
    {
     "label": "NHS: Anaphylaxis",
     "url": "https://www.nhs.uk/conditions/anaphylaxis/"
+   }
+  ]
+ },
+ {
+  "id": "hoarse-voice",
+  "name": "Hoarse voice or lost voice",
+  "aliases": [
+   "lost my voice",
+   "hoarse voice",
+   "croaky voice",
+   "raspy voice",
+   "laryngitis",
+   "voice keeps cracking"
+  ],
+  "bodyArea": "Ears, nose & throat",
+  "summary": "A hoarse or lost voice is often caused by laryngitis from a cold or from straining your voice. It usually gets better within 1 to 2 weeks.",
+  "redFlags": [
+   "Difficulty breathing or a high-pitched noise when breathing in",
+   "Unable to swallow saliva or drooling",
+   "Hoarseness with sudden swelling of the throat, lips or tongue"
+  ],
+  "urgentFlags": [
+   "It is very painful or difficult to swallow",
+   "Coughing up blood with a hoarse voice",
+   "Sudden hoarseness after an injury to the neck"
+  ],
+  "commonCauses": [
+   {
+    "title": "Laryngitis",
+    "detail": "Inflamed voice box, usually from a cold or flu virus."
+   },
+   {
+    "title": "Voice strain",
+    "detail": "Shouting, singing or talking a lot can make the voice hoarse."
+   },
+   {
+    "title": "Acid reflux",
+    "detail": "Stomach acid coming up the throat can irritate the voice box."
+   },
+   {
+    "title": "Smoking and irritants",
+    "detail": "Smoke, dust and fumes can cause long-lasting hoarseness."
+   },
+   {
+    "title": "Growths on the vocal cords",
+    "detail": "Nodules, polyps or, rarely, cancer can cause hoarseness that lasts for weeks."
+   }
+  ],
+  "selfCare": [
+   "Rest your voice and speak as little as possible",
+   "Drink plenty of fluids",
+   "Keep the air moist, for example with bowls of water near radiators",
+   "Gargle with warm salty water (adults only)"
+  ],
+  "avoid": [
+   "Whispering or talking loudly, which both strain the voice",
+   "Smoking",
+   "Clearing your throat repeatedly"
+  ],
+  "seeDoctorIf": [
+   "Hoarseness has not improved after 2 weeks",
+   "You keep getting voice problems",
+   "You smoke and have a hoarse voice that is not going away"
+  ],
+  "selfCareMaxDays": 14,
+  "sources": [
+   {
+    "label": "NHS – Laryngitis",
+    "url": "https://www.nhs.uk/conditions/laryngitis/"
+   },
+   {
+    "label": "MedlinePlus – Hoarseness",
+    "url": "https://medlineplus.gov/ency/article/003054.htm"
    }
   ]
  },
@@ -5758,6 +7542,81 @@
   ]
  },
  {
+  "id": "jaw-pain",
+  "name": "Jaw pain or clicking jaw",
+  "aliases": [
+   "jaw hurts",
+   "clicking jaw",
+   "TMJ",
+   "jaw locking",
+   "pain when chewing",
+   "aching jaw"
+  ],
+  "bodyArea": "Mouth & teeth",
+  "summary": "Jaw pain is often caused by a problem with the jaw joint and muscles (TMD), teeth grinding or a dental problem. It usually improves with self-care, but jaw pain with chest pain can be a sign of a heart attack.",
+  "redFlags": [
+   "Jaw pain with chest pain, pressure or tightness",
+   "Jaw pain with shortness of breath, sweating or feeling sick and light-headed",
+   "Jaw locked open or closed after an injury, or a jaw that may be broken",
+   "Facial swelling making it hard to breathe or swallow"
+  ],
+  "urgentFlags": [
+   "Unable to eat or drink because of jaw pain",
+   "Jaw locking or difficulty opening the mouth fully",
+   "Jaw pain when chewing with headache, scalp tenderness or vision problems, especially if over 50"
+  ],
+  "commonCauses": [
+   {
+    "title": "Temporomandibular disorder (TMD)",
+    "detail": "Problems with the jaw joint and chewing muscles causing pain, clicking and stiffness."
+   },
+   {
+    "title": "Teeth grinding or clenching",
+    "detail": "Often at night or with stress."
+   },
+   {
+    "title": "Dental problems",
+    "detail": "Toothache, abscess or wisdom teeth can cause jaw pain."
+   },
+   {
+    "title": "Heart problems",
+    "detail": "Angina or a heart attack can cause pain that spreads to the jaw."
+   },
+   {
+    "title": "Giant cell arteritis",
+    "detail": "In older adults, jaw pain on chewing with headache needs urgent assessment."
+   }
+  ],
+  "selfCare": [
+   "Eat soft foods and cut food into small pieces",
+   "Hold a warm or cold pack against the jaw",
+   "Take over-the-counter pain relief such as paracetamol or ibuprofen, following the pack instructions",
+   "Try relaxation to reduce clenching",
+   "Gently massage the jaw muscles"
+  ],
+  "avoid": [
+   "Chewing gum and hard or chewy foods",
+   "Opening your mouth very wide, for example big yawns",
+   "Resting your chin on your hand"
+  ],
+  "seeDoctorIf": [
+   "Jaw pain has not improved after 2 weeks",
+   "Pain is affecting eating or sleep",
+   "You have clicking with pain that keeps coming back"
+  ],
+  "selfCareMaxDays": 14,
+  "sources": [
+   {
+    "label": "NHS – Temporomandibular disorder (TMD)",
+    "url": "https://www.nhs.uk/conditions/temporomandibular-disorder-tmd/"
+   },
+   {
+    "label": "NHS – Heart attack",
+    "url": "https://www.nhs.uk/conditions/heart-attack/"
+   }
+  ]
+ },
+ {
   "id": "flank-pain",
   "name": "Kidney or side pain",
   "aliases": [
@@ -6038,6 +7897,73 @@
   ]
  },
  {
+  "id": "loneliness",
+  "name": "Loneliness",
+  "aliases": [
+   "feeling lonely",
+   "no one to talk to",
+   "isolated",
+   "no friends",
+   "lonely all the time",
+   "feel cut off from people"
+  ],
+  "bodyArea": "Mental health & sleep",
+  "summary": "Loneliness is a common feeling that can affect anyone at any age. Long-lasting loneliness can affect mood, sleep and health, but there are many ways to reconnect.",
+  "redFlags": [
+   "Thoughts of ending your life or harming yourself",
+   "You feel unable to keep yourself safe"
+  ],
+  "urgentFlags": [
+   "Not eating, drinking or looking after yourself",
+   "An older or vulnerable person living alone who is not coping"
+  ],
+  "commonCauses": [
+   {
+    "title": "Life changes",
+    "detail": "Moving, retiring, bereavement, a break-up or becoming a parent or carer."
+   },
+   {
+    "title": "Health and mobility",
+    "detail": "Illness, disability or hearing loss can make socialising harder."
+   },
+   {
+    "title": "Depression and social anxiety",
+    "detail": "Can make it hard to reach out, and loneliness can worsen them."
+   },
+   {
+    "title": "Working from home or living alone",
+    "detail": "Fewer day-to-day contacts."
+   }
+  ],
+  "selfCare": [
+   "Reach out to one person: a call, message or short visit",
+   "Join a group, class, club or volunteering based on your interests",
+   "Spend time in shared spaces such as libraries, cafés or parks",
+   "Use befriending services or helplines",
+   "Look after sleep and stay active"
+  ],
+  "avoid": [
+   "Relying on alcohol to cope",
+   "Comparing yourself with others on social media"
+  ],
+  "seeDoctorIf": [
+   "Loneliness is affecting your mood, sleep or appetite",
+   "You think you may be depressed or anxious",
+   "Hearing loss or health problems are making it hard to socialise"
+  ],
+  "selfCareMaxDays": 28,
+  "sources": [
+   {
+    "label": "NHS – Low mood, sadness and depression",
+    "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/low-mood-sadness-depression/"
+   },
+   {
+    "label": "MedlinePlus – Mental health",
+    "url": "https://medlineplus.gov/mentalhealth.html"
+   }
+  ]
+ },
+ {
   "id": "loss-of-appetite",
   "name": "Loss of appetite",
   "aliases": [
@@ -6171,6 +8097,155 @@
   ]
  },
  {
+  "id": "loss-of-taste",
+  "name": "Loss of taste or changed taste",
+  "aliases": [
+   "can't taste food",
+   "food tastes different",
+   "metallic taste in mouth",
+   "lost sense of taste",
+   "bitter taste in mouth",
+   "everything tastes bland"
+  ],
+  "bodyArea": "Mouth & teeth",
+  "summary": "Changes in taste are often linked to a cold, a problem with smell, a medicine or a mouth problem. Most of what we think of as flavour comes from smell, so the two often change together.",
+  "redFlags": [
+   "Sudden change in taste with face drooping, weakness, numbness or slurred speech"
+  ],
+  "urgentFlags": [
+   "Taste change with facial weakness developing over a day or two",
+   "Unable to eat or drink enough because of taste changes"
+  ],
+  "commonCauses": [
+   {
+    "title": "Colds, flu and COVID-19",
+    "detail": "Usually linked to a loss of smell and recovers over weeks."
+   },
+   {
+    "title": "Medicines",
+    "detail": "Many medicines, including some antibiotics and cancer treatments, can cause a metallic or bitter taste."
+   },
+   {
+    "title": "Mouth problems",
+    "detail": "Gum disease, oral thrush, dry mouth and poor oral hygiene can affect taste."
+   },
+   {
+    "title": "Smoking and ageing",
+    "detail": "Both can dull your sense of taste."
+   },
+   {
+    "title": "Nerve problems",
+    "detail": "Bell's palsy or head injury can affect taste."
+   }
+  ],
+  "selfCare": [
+   "Keep up good mouth hygiene, including brushing your tongue",
+   "Try foods with strong flavours, herbs and varied textures",
+   "Drink enough water to prevent a dry mouth",
+   "Stop smoking"
+  ],
+  "avoid": [
+   "Adding lots of extra salt or sugar to make food taste better",
+   "Stopping a prescribed medicine without talking to a doctor"
+  ],
+  "seeDoctorIf": [
+   "Your taste has not returned within 3 weeks",
+   "You think a medicine is causing taste changes",
+   "Taste changes are affecting your appetite or weight"
+  ],
+  "selfCareMaxDays": 21,
+  "sources": [
+   {
+    "label": "MedlinePlus – Taste, impaired",
+    "url": "https://medlineplus.gov/ency/article/003050.htm"
+   },
+   {
+    "label": "NHS – Lost or changed sense of smell",
+    "url": "https://www.nhs.uk/symptoms/lost-or-changed-sense-smell/"
+   }
+  ]
+ },
+ {
+  "id": "low-mood",
+  "name": "Low mood or feeling depressed",
+  "aliases": [
+   "feeling down",
+   "feeling sad all the time",
+   "depressed",
+   "no motivation",
+   "feel empty",
+   "lost interest in everything",
+   "feeling hopeless"
+  ],
+  "bodyArea": "Mental health & sleep",
+  "summary": "Low mood often lifts after a few days or weeks, especially with support. If you have felt low or lost interest in things for 2 weeks or more, it could be depression, which is common and treatable.",
+  "redFlags": [
+   "Thoughts of ending your life, or making plans to",
+   "You have harmed yourself or feel you cannot keep yourself safe",
+   "You feel you are in immediate danger"
+  ],
+  "urgentFlags": [
+   "Thoughts of suicide or self-harm, even without a plan",
+   "Not eating or drinking, or unable to look after yourself",
+   "Seeing or hearing things others do not, or very unusual beliefs"
+  ],
+  "commonCauses": [
+   {
+    "title": "Life events",
+    "detail": "Loss, relationship problems, money worries, illness or loneliness."
+   },
+   {
+    "title": "Depression",
+    "detail": "Persistent low mood or loss of interest for at least 2 weeks, often with poor sleep, appetite changes and tiredness."
+   },
+   {
+    "title": "After having a baby",
+    "detail": "Postnatal depression can affect parents in the year after birth."
+   },
+   {
+    "title": "Seasonal changes",
+    "detail": "Some people feel lower in the darker winter months."
+   },
+   {
+    "title": "Alcohol, drugs and health conditions",
+    "detail": "These can cause or worsen low mood."
+   }
+  ],
+  "selfCare": [
+   "Talk to someone you trust about how you are feeling",
+   "Try to stay active, even with a short daily walk",
+   "Keep a routine with regular meals and sleep",
+   "Set small, achievable goals each day",
+   "Try evidence-based self-help such as CBT-based books or online programmes"
+  ],
+  "avoid": [
+   "Using alcohol or drugs to cope",
+   "Withdrawing from friends and family completely",
+   "Stopping prescribed antidepressants suddenly without advice"
+  ],
+  "seeDoctorIf": [
+   "You have felt low or lost interest in things for more than 2 weeks",
+   "Low mood is affecting work, relationships or daily life",
+   "Self-help is not working",
+   "You feel low after having a baby"
+  ],
+  "selfCareMaxDays": 14,
+  "sources": [
+   {
+    "label": "NHS – Low mood, sadness and depression",
+    "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/low-mood-sadness-depression/"
+   },
+   {
+    "label": "NHS – Depression in adults",
+    "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/"
+   },
+   {
+    "label": "MedlinePlus – Depression",
+    "url": "https://medlineplus.gov/depression.html"
+   }
+  ]
+ },
+ {
   "id": "lump-in-groin",
   "name": "Lump in the groin or tummy (hernia)",
   "aliases": [
@@ -6233,6 +8308,76 @@
    {
     "label": "MedlinePlus: Hernia",
     "url": "https://medlineplus.gov/hernia.html"
+   }
+  ]
+ },
+ {
+  "id": "mouth-lump-or-patch",
+  "name": "Lump or red or white patch in the mouth",
+  "aliases": [
+   "lump in mouth",
+   "lump on gum",
+   "red patch in mouth",
+   "lump on tongue",
+   "mouth growth",
+   "sore in mouth that won't heal"
+  ],
+  "bodyArea": "Mouth & teeth",
+  "summary": "Most lumps and patches in the mouth are harmless, such as a bitten cheek or a blocked saliva gland. Any lump, ulcer or red or white patch that does not heal within 3 weeks should be checked by a dentist or doctor.",
+  "redFlags": [
+   "A swelling in the mouth or neck making it difficult to breathe or swallow"
+  ],
+  "urgentFlags": [
+   "A lump that is growing quickly",
+   "A lump with numbness of the lip or tongue",
+   "Bleeding from a lump or patch that does not stop easily"
+  ],
+  "commonCauses": [
+   {
+    "title": "Minor injury",
+    "detail": "Biting the cheek or lip can leave a lump that settles in a week or two."
+   },
+   {
+    "title": "Mucocele",
+    "detail": "A harmless fluid-filled swelling, often on the lower lip, from a blocked saliva gland."
+   },
+   {
+    "title": "Gum boil from a tooth infection",
+    "detail": "A small pus-filled lump on the gum near a painful tooth."
+   },
+   {
+    "title": "Leukoplakia or erythroplakia",
+    "detail": "White or red patches that sometimes change into cancer."
+   },
+   {
+    "title": "Mouth cancer",
+    "detail": "Less common; risk is higher with smoking, chewing tobacco or betel, and heavy drinking."
+   }
+  ],
+  "selfCare": [
+   "Keep your mouth clean and avoid irritating the area",
+   "Note when the lump or patch appeared and whether it changes",
+   "Stop smoking and cut down on alcohol"
+  ],
+  "avoid": [
+   "Picking at or trying to burst a lump",
+   "Waiting more than 3 weeks to get a non-healing lump or patch checked"
+  ],
+  "seeDoctorIf": [
+   "A lump, ulcer or patch has not healed within 3 weeks",
+   "A tooth has become loose for no clear reason",
+   "You have a lump in the neck as well",
+   "You have ongoing pain or difficulty swallowing"
+  ],
+  "selfCareMaxDays": 21,
+  "sources": [
+   {
+    "label": "NHS – Mouth cancer",
+    "url": "https://www.nhs.uk/conditions/mouth-cancer/"
+   },
+   {
+    "label": "MedlinePlus – Oral cancer",
+    "url": "https://medlineplus.gov/oralcancer.html"
    }
   ]
  },
@@ -6529,6 +8674,152 @@
    {
     "label": "NHS: Irregular periods",
     "url": "https://www.nhs.uk/conditions/irregular-periods/"
+   }
+  ]
+ },
+ {
+  "id": "mood-swings",
+  "name": "Mood swings or extreme highs and lows",
+  "aliases": [
+   "mood swings",
+   "highs and lows",
+   "feeling manic",
+   "racing thoughts",
+   "not needing sleep",
+   "bipolar symptoms",
+   "emotional ups and downs"
+  ],
+  "bodyArea": "Mental health & sleep",
+  "summary": "Everyone's mood changes, but extreme highs (feeling very energetic, needing little sleep, racing thoughts) and lows that last days or weeks may be a sign of bipolar disorder or another condition that can be treated.",
+  "redFlags": [
+   "Thoughts of suicide or harming yourself",
+   "Behaviour that puts you or others in immediate danger",
+   "Hearing voices or believing things that are clearly not true, with distress or risk"
+  ],
+  "urgentFlags": [
+   "Several days of very little sleep with racing thoughts and unusually high energy",
+   "Spending, driving or other behaviour that is out of character and risky",
+   "Very low mood after a period of feeling high"
+  ],
+  "commonCauses": [
+   {
+    "title": "Stress, tiredness and life events",
+    "detail": "Ordinary mood changes are often linked to these."
+   },
+   {
+    "title": "Hormonal changes",
+    "detail": "Periods, pregnancy and the menopause can affect mood."
+   },
+   {
+    "title": "Bipolar disorder",
+    "detail": "Episodes of depression and mania or hypomania lasting days to weeks."
+   },
+   {
+    "title": "Alcohol, drugs and medicines",
+    "detail": "Can cause mood changes."
+   },
+   {
+    "title": "Personality disorders and ADHD",
+    "detail": "Can involve rapid emotional changes."
+   }
+  ],
+  "selfCare": [
+   "Keep a mood diary, including sleep, to spot patterns",
+   "Keep a regular routine for sleep, meals and activity",
+   "Avoid alcohol and recreational drugs",
+   "Ask someone close to tell you if they notice warning signs"
+  ],
+  "avoid": [
+   "Making big financial or life decisions when your mood is very high or low",
+   "Staying up all night"
+  ],
+  "seeDoctorIf": [
+   "Mood swings are affecting your life or relationships",
+   "You have periods of feeling unusually high or full of energy",
+   "You have had low mood for more than 2 weeks"
+  ],
+  "selfCareMaxDays": 14,
+  "sources": [
+   {
+    "label": "NHS – Bipolar disorder",
+    "url": "https://www.nhs.uk/mental-health/conditions/bipolar-disorder/"
+   },
+   {
+    "label": "MedlinePlus – Bipolar disorder",
+    "url": "https://medlineplus.gov/bipolardisorder.html"
+   }
+  ]
+ },
+ {
+  "id": "mouth-ulcers",
+  "name": "Mouth ulcers",
+  "aliases": [
+   "canker sore",
+   "mouth sore",
+   "ulcer on tongue",
+   "sore spot inside cheek",
+   "painful white spot in mouth",
+   "aphthous ulcer"
+  ],
+  "bodyArea": "Mouth & teeth",
+  "summary": "Mouth ulcers are painful sores inside the mouth that are common and usually heal on their own within 1 to 2 weeks. An ulcer that lasts longer than 3 weeks should be checked.",
+  "redFlags": [
+   "Mouth sores with a widespread rash, blistering skin or peeling, especially after a new medicine",
+   "Mouth swelling making it hard to breathe or swallow"
+  ],
+  "urgentFlags": [
+   "Unable to eat or drink because of pain, especially in a child",
+   "An ulcer that bleeds or becomes more painful, red and swollen",
+   "Many ulcers with a high temperature and feeling unwell"
+  ],
+  "commonCauses": [
+   {
+    "title": "Minor injury",
+    "detail": "Biting your cheek, sharp teeth, braces or dentures."
+   },
+   {
+    "title": "Stress, tiredness and hormonal changes",
+    "detail": "Common triggers for recurring ulcers."
+   },
+   {
+    "title": "Certain foods or toothpastes",
+    "detail": "Spicy or acidic foods, or toothpaste with sodium lauryl sulphate, can trigger ulcers."
+   },
+   {
+    "title": "Viral infections",
+    "detail": "Such as hand, foot and mouth disease or cold sore virus."
+   },
+   {
+    "title": "Health conditions",
+    "detail": "Low iron or vitamin B12, coeliac disease or inflammatory bowel disease can cause repeated ulcers."
+   }
+  ],
+  "selfCare": [
+   "Use a soft toothbrush",
+   "Ask a pharmacist about pain-relieving gels, sprays or mouthwashes",
+   "Eat softer foods and drink cool drinks through a straw",
+   "Keep your mouth clean"
+  ],
+  "avoid": [
+   "Very spicy, salty, acidic or hard foods",
+   "Very hot drinks",
+   "Chewing gum"
+  ],
+  "seeDoctorIf": [
+   "An ulcer lasts longer than 3 weeks",
+   "An ulcer is different from ones you have had before, or near the back of the throat",
+   "You keep getting mouth ulcers",
+   "You also have ulcers elsewhere on the body, or painful, swollen joints"
+  ],
+  "selfCareMaxDays": 21,
+  "sources": [
+   {
+    "label": "NHS – Mouth ulcers",
+    "url": "https://www.nhs.uk/conditions/mouth-ulcers/"
+   },
+   {
+    "label": "MedlinePlus – Mouth sores",
+    "url": "https://medlineplus.gov/ency/article/003059.htm"
    }
   ]
  },
@@ -7092,6 +9383,216 @@
    {
     "label": "NHS: Night sweats",
     "url": "https://www.nhs.uk/conditions/night-sweats/"
+   }
+  ]
+ },
+ {
+  "id": "nightmares",
+  "name": "Nightmares or night terrors",
+  "aliases": [
+   "bad dreams",
+   "nightmares every night",
+   "waking up scared",
+   "night terrors",
+   "screaming in sleep",
+   "vivid dreams"
+  ],
+  "bodyArea": "Mental health & sleep",
+  "summary": "Nightmares are frightening dreams that wake you up; night terrors are episodes of screaming or thrashing while still asleep, mostly in children. Both are usually harmless, but frequent nightmares can be linked to stress or trauma.",
+  "redFlags": [
+   "Thoughts of suicide or self-harm",
+   "Someone hurting themselves or others during a sleep episode",
+   "Jerking or stiffening during sleep that may be a seizure"
+  ],
+  "urgentFlags": [
+   "Nightmares after a traumatic event with severe distress during the day",
+   "Nightmares that started after a new medicine and are very distressing"
+  ],
+  "commonCauses": [
+   {
+    "title": "Stress and anxiety",
+    "detail": "Worries often show up in dreams."
+   },
+   {
+    "title": "Trauma and PTSD",
+    "detail": "Repeated nightmares about a frightening event."
+   },
+   {
+    "title": "Medicines, alcohol and withdrawal",
+    "detail": "Some medicines and stopping alcohol or drugs can cause vivid dreams."
+   },
+   {
+    "title": "Night terrors in children",
+    "detail": "Common, usually harmless, and most children grow out of them."
+   },
+   {
+    "title": "Poor sleep",
+    "detail": "Overtiredness and irregular sleep make both more likely."
+   }
+  ],
+  "selfCare": [
+   "Keep regular sleep times and a calming bedtime routine",
+   "Cut down on alcohol and caffeine",
+   "Write down a recurring nightmare and imagine a different, calmer ending in the daytime",
+   "For a child's night terrors, stay calm and keep them safe without trying to wake them"
+  ],
+  "avoid": [
+   "Watching frightening content before bed",
+   "Waking a child during a night terror"
+  ],
+  "seeDoctorIf": [
+   "Nightmares happen often and affect your daytime life",
+   "Nightmares are linked to a traumatic experience",
+   "A child's night terrors happen several times a night or most nights"
+  ],
+  "selfCareMaxDays": 28,
+  "sources": [
+   {
+    "label": "NHS – Night terrors and nightmares",
+    "url": "https://www.nhs.uk/conditions/night-terrors/"
+   },
+   {
+    "label": "MedlinePlus – Nightmares",
+    "url": "https://medlineplus.gov/ency/article/003209.htm"
+   },
+   {
+    "label": "Sleep Foundation – Nightmares",
+    "url": "https://www.sleepfoundation.org/nightmares"
+   }
+  ]
+ },
+ {
+  "id": "noisy-breathing",
+  "name": "Noisy or high-pitched breathing (stridor)",
+  "aliases": [
+   "stridor",
+   "high pitched breathing",
+   "noisy breathing",
+   "barking cough and noisy breathing",
+   "crowing sound when breathing",
+   "croup"
+  ],
+  "bodyArea": "Chest, heart & lungs",
+  "summary": "Stridor is a high-pitched, harsh sound when breathing in, caused by a narrowed upper airway. It is most common in children with croup and should always be assessed, urgently if the person is struggling to breathe.",
+  "redFlags": [
+   "High-pitched breathing with struggling to breathe or the skin sucking in between the ribs",
+   "Noisy breathing with drooling or unable to swallow",
+   "Lips or skin turning blue or grey",
+   "Noisy breathing after choking on food or an object",
+   "Sudden noisy breathing with swelling of the lips, tongue or throat",
+   "A child who is very drowsy, agitated or floppy"
+  ],
+  "urgentFlags": [
+   "Stridor in a child with croup, even if mild",
+   "A barking cough with a high temperature"
+  ],
+  "commonCauses": [
+   {
+    "title": "Croup",
+    "detail": "A viral infection in young children causing a barking cough and stridor, often worse at night."
+   },
+   {
+    "title": "Inhaled object",
+    "detail": "Something stuck in the airway, especially in toddlers."
+   },
+   {
+    "title": "Allergic reaction",
+    "detail": "Swelling of the throat in anaphylaxis."
+   },
+   {
+    "title": "Throat infections",
+    "detail": "Rare but serious infections such as epiglottitis."
+   }
+  ],
+  "selfCare": [
+   "Keep the person, especially a child, calm and sitting upright",
+   "Give fluids only if they can swallow easily",
+   "Get medical help straight away"
+  ],
+  "avoid": [
+   "Looking down a child's throat or putting fingers in the mouth if they are struggling to breathe",
+   "Making the person lie down",
+   "Steam treatments, which do not help croup and risk scalds"
+  ],
+  "seeDoctorIf": [
+   "Noisy breathing keeps coming back",
+   "A baby has noisy breathing that has not been checked"
+  ],
+  "selfCareMaxDays": 0,
+  "sources": [
+   {
+    "label": "MedlinePlus – Stridor",
+    "url": "https://medlineplus.gov/ency/article/003074.htm"
+   },
+   {
+    "label": "NHS – Croup",
+    "url": "https://www.nhs.uk/conditions/croup/"
+   }
+  ]
+ },
+ {
+  "id": "broken-nose",
+  "name": "Nose injury or broken nose",
+  "aliases": [
+   "broken nose",
+   "hit my nose",
+   "nose injury",
+   "crooked nose after injury",
+   "swollen nose after fall",
+   "punched in the nose"
+  ],
+  "bodyArea": "Ears, nose & throat",
+  "summary": "A blow to the nose can cause pain, swelling, bruising and a nosebleed. Most nose injuries heal on their own within a few weeks.",
+  "redFlags": [
+   "A nosebleed that will not stop",
+   "Clear, watery fluid trickling from the nose",
+   "A large cut, or something in the wound",
+   "Severe headache with blurred or double vision, or eye pain with double vision",
+   "Neck pain or stiffness with numbness or tingling in the arms",
+   "A purple swelling inside the nose",
+   "Vomiting, passing out or difficulty speaking"
+  ],
+  "urgentFlags": [
+   "The nose looks crooked after the injury",
+   "Swelling has not started to go down after 3 days",
+   "Painkillers are not helping",
+   "Still hard to breathe through the nose once swelling has gone",
+   "Regular nosebleeds or a high temperature after the injury"
+  ],
+  "commonCauses": [
+   {
+    "title": "Bruised nose",
+    "detail": "Pain and swelling without broken bone; settles within a week or two."
+   },
+   {
+    "title": "Broken nose",
+    "detail": "Common after sports, falls or fights; may change the shape of the nose."
+   },
+   {
+    "title": "Septal haematoma",
+    "detail": "A collection of blood inside the nose that needs urgent drainage."
+   }
+  ],
+  "selfCare": [
+   "Hold an ice pack wrapped in a cloth on the nose for up to 20 minutes every few hours",
+   "Take paracetamol for pain, following the pack instructions",
+   "Keep your head raised, including when sleeping",
+   "Treat any nosebleed by leaning forward and pinching the soft part of the nose"
+  ],
+  "avoid": [
+   "Trying to straighten your nose yourself",
+   "Picking or blowing your nose until it has healed",
+   "Contact sports for at least 6 weeks"
+  ],
+  "seeDoctorIf": [
+   "Your nose looks a different shape once swelling has gone",
+   "You have ongoing breathing problems through your nose"
+  ],
+  "selfCareMaxDays": 3,
+  "sources": [
+   {
+    "label": "NHS – Broken nose",
+    "url": "https://www.nhs.uk/conditions/broken-nose/"
    }
   ]
  },
@@ -7741,6 +10242,85 @@
   ]
  },
  {
+  "id": "pain-when-breathing",
+  "name": "Pain when breathing in",
+  "aliases": [
+   "hurts to breathe",
+   "sharp pain when breathing in",
+   "pain on deep breath",
+   "chest hurts when I breathe",
+   "pleurisy",
+   "rib pain when breathing"
+  ],
+  "bodyArea": "Chest, heart & lungs",
+  "summary": "Sharp chest pain that is worse when you breathe in or cough is often caused by a strained muscle or an infection, but it can also be a sign of pleurisy or a blood clot in the lungs.",
+  "redFlags": [
+   "Sudden sharp chest pain with difficulty breathing",
+   "Coughing up more than a few streaks of blood",
+   "Very fast heartbeat with breathing pain",
+   "Chest pain spreading to the arms, back, neck or jaw",
+   "Breathing pain with a painful, swollen leg"
+  ],
+  "urgentFlags": [
+   "Sharp chest pain that comes and goes or only happens when breathing or coughing",
+   "Sharp chest pain that has not got better after a few days",
+   "Small streaks of blood in your phlegm",
+   "Feeling short of breath regularly"
+  ],
+  "commonCauses": [
+   {
+    "title": "Muscle strain or rib injury",
+    "detail": "Pain over a tender spot, worse with movement and deep breaths."
+   },
+   {
+    "title": "Costochondritis",
+    "detail": "Inflamed cartilage where the ribs join the breastbone."
+   },
+   {
+    "title": "Pleurisy",
+    "detail": "Inflammation of the lining of the lungs, usually from a viral infection."
+   },
+   {
+    "title": "Pneumonia",
+    "detail": "Lung infection with fever, cough and breathlessness."
+   },
+   {
+    "title": "Pulmonary embolism or collapsed lung",
+    "detail": "Serious causes that come on suddenly with breathlessness."
+   }
+  ],
+  "selfCare": [
+   "Take over-the-counter pain relief such as paracetamol or ibuprofen, following the pack instructions",
+   "Rest, and lie on the painful side if it helps",
+   "Hold a pillow against your chest when coughing",
+   "Take some slow, deep breaths each hour to keep the lungs clear"
+  ],
+  "avoid": [
+   "Ignoring sudden breathing pain with breathlessness",
+   "Heavy lifting or strenuous exercise until the pain settles"
+  ],
+  "seeDoctorIf": [
+   "Pain has not improved after a few days",
+   "Pain keeps coming back",
+   "You have had a recent injury and pain is getting worse"
+  ],
+  "selfCareMaxDays": 0,
+  "sources": [
+   {
+    "label": "NHS – Pleurisy",
+    "url": "https://www.nhs.uk/conditions/pleurisy/"
+   },
+   {
+    "label": "NHS – Costochondritis",
+    "url": "https://www.nhs.uk/conditions/costochondritis/"
+   },
+   {
+    "label": "NHS – Pulmonary embolism",
+    "url": "https://www.nhs.uk/conditions/pulmonary-embolism/"
+   }
+  ]
+ },
+ {
   "id": "painful-blistering-rash",
   "name": "Painful blistering rash on one side",
   "aliases": [
@@ -7801,6 +10381,143 @@
    {
     "label": "CDC: Shingles",
     "url": "https://www.cdc.gov/shingles/"
+   }
+  ]
+ },
+ {
+  "id": "panic-attacks",
+  "name": "Panic attacks",
+  "aliases": [
+   "panic attack",
+   "sudden intense fear",
+   "felt like I was dying",
+   "racing heart and fear",
+   "hyperventilating",
+   "can't breathe from panic"
+  ],
+  "bodyArea": "Mental health & sleep",
+  "summary": "A panic attack is a sudden rush of intense fear with physical symptoms such as a racing heart, sweating, shaking and breathlessness. Panic attacks are frightening but not dangerous, and usually peak within 10 minutes.",
+  "redFlags": [
+   "Chest pain or pressure, especially spreading to the arm, neck or jaw, that you are not sure is panic",
+   "Severe breathlessness, blue lips or fainting",
+   "Thoughts of suicide or harming yourself"
+  ],
+  "urgentFlags": [
+   "Your first ever attack with chest pain or palpitations, even if it has passed",
+   "Panic attacks happening very often and stopping you from going out"
+  ],
+  "commonCauses": [
+   {
+    "title": "Stress and anxiety",
+    "detail": "Panic attacks often happen during stressful periods."
+   },
+   {
+    "title": "Panic disorder",
+    "detail": "Repeated, unexpected attacks with fear of having another."
+   },
+   {
+    "title": "Triggers",
+    "detail": "Caffeine, alcohol withdrawal, drugs and lack of sleep can trigger attacks."
+   },
+   {
+    "title": "Phobias and past trauma",
+    "detail": "Particular situations or memories can set off panic."
+   }
+  ],
+  "selfCare": [
+   "Remind yourself that the attack will pass and cannot harm you",
+   "Breathe slowly and deeply: in through your nose for a count of 4, out through your mouth for 4",
+   "Focus on something around you, such as things you can see and hear",
+   "Exercise regularly and cut down on caffeine and alcohol",
+   "Learn about panic using reputable self-help resources"
+  ],
+  "avoid": [
+   "Fighting the attack or trying to escape it",
+   "Avoiding places where attacks have happened",
+   "Breathing into a paper bag, which is no longer recommended"
+  ],
+  "seeDoctorIf": [
+   "You keep having panic attacks",
+   "You are avoiding places or situations in case you have an attack",
+   "Panic attacks are affecting work or relationships"
+  ],
+  "selfCareMaxDays": 14,
+  "sources": [
+   {
+    "label": "NHS – Panic disorder",
+    "url": "https://www.nhs.uk/mental-health/conditions/panic-disorder/"
+   },
+   {
+    "label": "MedlinePlus – Panic disorder",
+    "url": "https://medlineplus.gov/panicdisorder.html"
+   }
+  ]
+ },
+ {
+  "id": "breathing-pauses-in-sleep",
+  "name": "Pauses in breathing or gasping during sleep",
+  "aliases": [
+   "stop breathing in sleep",
+   "sleep apnoea",
+   "sleep apnea",
+   "gasping for air at night",
+   "choking in sleep",
+   "waking up gasping"
+  ],
+  "bodyArea": "Mental health & sleep",
+  "summary": "Stopping breathing, gasping or choking during sleep, often with loud snoring, can be a sign of obstructive sleep apnoea. It is common, treatable, and worth getting checked because it can affect your health and safety.",
+  "redFlags": [
+   "Someone cannot be woken, or has blue or grey lips while asleep",
+   "Waking gasping with chest pain or severe breathlessness that does not settle"
+  ],
+  "urgentFlags": [
+   "Falling asleep or nearly falling asleep while driving",
+   "Sleepiness so severe you cannot stay awake during daily activities"
+  ],
+  "commonCauses": [
+   {
+    "title": "Obstructive sleep apnoea",
+    "detail": "The throat repeatedly narrows or closes during sleep."
+   },
+   {
+    "title": "Being overweight",
+    "detail": "The biggest risk factor for sleep apnoea."
+   },
+   {
+    "title": "Alcohol, sedatives and smoking",
+    "detail": "Make the airway more likely to collapse."
+   },
+   {
+    "title": "Large tonsils or nasal blockage",
+    "detail": "A common cause in children."
+   }
+  ],
+  "selfCare": [
+   "Lose weight if you are overweight",
+   "Sleep on your side",
+   "Avoid alcohol in the evening and stop smoking",
+   "Ask your partner to note how often pauses happen"
+  ],
+  "avoid": [
+   "Driving when you feel sleepy",
+   "Sleeping tablets or sedatives",
+   "Ignoring daytime sleepiness"
+  ],
+  "seeDoctorIf": [
+   "Someone has seen you stop breathing or gasp in your sleep",
+   "You wake up tired or with headaches",
+   "You feel very sleepy during the day",
+   "A child snores loudly with pauses in breathing"
+  ],
+  "selfCareMaxDays": 0,
+  "sources": [
+   {
+    "label": "NHS – Sleep apnoea",
+    "url": "https://www.nhs.uk/conditions/sleep-apnoea/"
+   },
+   {
+    "label": "MedlinePlus – Sleep apnea",
+    "url": "https://medlineplus.gov/sleepapnea.html"
    }
   ]
  },
@@ -8256,6 +10973,78 @@
   ]
  },
  {
+  "id": "restless-legs",
+  "name": "Restless legs at night",
+  "aliases": [
+   "restless legs",
+   "can't keep legs still",
+   "creepy crawly feeling in legs",
+   "urge to move legs at night",
+   "legs twitching in bed",
+   "jumpy legs"
+  ],
+  "bodyArea": "Mental health & sleep",
+  "summary": "Restless legs syndrome causes an overwhelming urge to move your legs, often with an uncomfortable crawling or tingling feeling, usually in the evening or at night. It can disrupt sleep but is not dangerous.",
+  "redFlags": [
+   "Sudden weakness or numbness in a leg, or loss of bladder or bowel control",
+   "One leg suddenly painful, swollen, red or warm with breathlessness or chest pain"
+  ],
+  "urgentFlags": [
+   "One leg is painful, swollen, red or warm",
+   "Leg symptoms with a new rash, fever or feeling very unwell"
+  ],
+  "commonCauses": [
+   {
+    "title": "Restless legs syndrome",
+    "detail": "Often runs in families with no clear cause."
+   },
+   {
+    "title": "Low iron",
+    "detail": "Iron deficiency is a common, treatable cause."
+   },
+   {
+    "title": "Pregnancy",
+    "detail": "Often settles after the baby is born."
+   },
+   {
+    "title": "Medicines, caffeine and alcohol",
+    "detail": "Some antidepressants, antihistamines and stimulants can make it worse."
+   },
+   {
+    "title": "Kidney disease or nerve damage",
+    "detail": "Less common causes."
+   }
+  ],
+  "selfCare": [
+   "Keep regular sleep habits",
+   "Cut down on caffeine, alcohol and smoking",
+   "Do gentle stretching or a warm bath before bed",
+   "Walk around or massage your legs when symptoms start",
+   "Do regular moderate exercise during the day"
+  ],
+  "avoid": [
+   "Caffeine and alcohol in the evening",
+   "Taking iron supplements without having your levels checked"
+  ],
+  "seeDoctorIf": [
+   "Symptoms are affecting your sleep",
+   "Symptoms are getting worse or happen most nights",
+   "You think a medicine might be causing it",
+   "You are pregnant and symptoms are troubling you"
+  ],
+  "selfCareMaxDays": 28,
+  "sources": [
+   {
+    "label": "NHS – Restless legs syndrome",
+    "url": "https://www.nhs.uk/conditions/restless-legs-syndrome/"
+   },
+   {
+    "label": "MedlinePlus – Restless legs",
+    "url": "https://medlineplus.gov/restlesslegs.html"
+   }
+  ]
+ },
+ {
   "id": "tinnitus",
   "name": "Ringing in the ears (tinnitus)",
   "aliases": [
@@ -8339,7 +11128,7 @@
    "streaming nose",
    "nose dripping",
    "constant sneezing",
-   "post-nasal drip"
+   "nose running all the time"
   ],
   "bodyArea": "Ears, nose & throat",
   "summary": "A runny nose and sneezing are usually caused by a cold or an allergy such as hay fever. They are rarely serious and usually settle with time and simple care.",
@@ -8472,6 +11261,138 @@
    {
     "label": "MedlinePlus – Seizures",
     "url": "https://medlineplus.gov/seizures.html"
+   }
+  ]
+ },
+ {
+  "id": "self-harm",
+  "name": "Self-harm or urges to self-harm",
+  "aliases": [
+   "self harm",
+   "cutting myself",
+   "hurting myself",
+   "urge to self harm",
+   "burning myself",
+   "self injury"
+  ],
+  "bodyArea": "Mental health & sleep",
+  "summary": "Self-harm is when someone hurts themselves on purpose, often as a way of coping with overwhelming feelings. Support is available, and you do not have to cope alone.",
+  "redFlags": [
+   "A wound that is deep, bleeding heavily or will not stop bleeding",
+   "You have taken an overdose of tablets or swallowed something harmful, even if you feel fine",
+   "You have thoughts of ending your life or feel you cannot keep yourself safe",
+   "Feeling faint, drowsy or confused after self-harm"
+  ],
+  "urgentFlags": [
+   "A wound that may need stitches or is showing signs of infection",
+   "Urges to self-harm that are getting stronger or more frequent",
+   "Burns that are blistered or larger than a small area"
+  ],
+  "commonCauses": [
+   {
+    "title": "Overwhelming emotions",
+    "detail": "Anger, sadness, anxiety, numbness or self-hatred."
+   },
+   {
+    "title": "Difficult experiences",
+    "detail": "Bullying, abuse, bereavement, relationship or school problems."
+   },
+   {
+    "title": "Mental health conditions",
+    "detail": "Depression, anxiety, eating disorders and other conditions."
+   }
+  ],
+  "selfCare": [
+   "Talk to someone you trust, or contact a crisis line, for example 988 in the US and Canada or Samaritans on 116 123 in the UK and Ireland",
+   "Clean minor wounds and keep them covered",
+   "Try to delay acting on the urge, and use distractions such as holding ice or going for a walk",
+   "Write down what triggers your urges to share with a professional"
+  ],
+  "avoid": [
+   "Being alone when urges are strong",
+   "Alcohol and drugs, which can make urges harder to resist",
+   "Keeping sharp objects or stockpiled medicines nearby"
+  ],
+  "seeDoctorIf": [
+   "You have self-harmed, even if the injury was minor",
+   "You want help finding other ways to cope",
+   "You are worried about someone else who is self-harming"
+  ],
+  "selfCareMaxDays": 0,
+  "sources": [
+   {
+    "label": "NHS – Self-harm",
+    "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/self-harm/"
+   },
+   {
+    "label": "MedlinePlus – Mental health",
+    "url": "https://medlineplus.gov/mentalhealth.html"
+   }
+  ]
+ },
+ {
+  "id": "sensitive-teeth",
+  "name": "Sensitive teeth",
+  "aliases": [
+   "teeth hurt with cold",
+   "sensitive to cold drinks",
+   "tooth sensitivity",
+   "teeth hurt with sweets",
+   "zing in tooth",
+   "sensitive to hot"
+  ],
+  "bodyArea": "Mouth & teeth",
+  "summary": "Sensitive teeth give a short, sharp pain with cold, hot, sweet or acidic foods. It is common and often caused by worn enamel or receding gums.",
+  "redFlags": [
+   "Facial or neck swelling making it hard to breathe, swallow or open your mouth"
+  ],
+  "urgentFlags": [
+   "Pain that lingers for a long time or throbs on its own",
+   "Pain with a swollen gum or face, or a high temperature",
+   "A tooth that is cracked or broken"
+  ],
+  "commonCauses": [
+   {
+    "title": "Worn enamel",
+    "detail": "From brushing too hard, grinding or acidic food and drink."
+   },
+   {
+    "title": "Receding gums",
+    "detail": "Expose the sensitive root surface of the tooth."
+   },
+   {
+    "title": "Tooth decay or a cracked tooth",
+    "detail": "Can expose the inner tooth."
+   },
+   {
+    "title": "After dental treatment",
+    "detail": "Fillings or whitening can cause short-term sensitivity."
+   }
+  ],
+  "selfCare": [
+   "Use a toothpaste for sensitive teeth twice a day; it can take a few weeks to work",
+   "Brush gently with a soft toothbrush",
+   "Cut down on acidic foods and drinks, and use a straw for fizzy drinks",
+   "Wait about an hour after acidic food or drink before brushing"
+  ],
+  "avoid": [
+   "Brushing hard or side to side",
+   "Whitening toothpastes while teeth are sensitive"
+  ],
+  "seeDoctorIf": [
+   "Sensitivity has not improved after a few weeks of sensitive toothpaste",
+   "Sensitivity is in one tooth only",
+   "You grind your teeth"
+  ],
+  "selfCareMaxDays": 28,
+  "sources": [
+   {
+    "label": "MouthHealthy (American Dental Association) – Sensitive teeth",
+    "url": "https://www.mouthhealthy.org/all-topics-a-z/sensitive-teeth"
+   },
+   {
+    "label": "NHS – Tooth decay",
+    "url": "https://www.nhs.uk/conditions/tooth-decay/"
    }
   ]
  },
@@ -8611,6 +11532,86 @@
    {
     "label": "MedlinePlus – Headache",
     "url": "https://medlineplus.gov/headache.html"
+   }
+  ]
+ },
+ {
+  "id": "shortness-of-breath",
+  "name": "Shortness of breath",
+  "aliases": [
+   "breathless",
+   "can't catch my breath",
+   "out of breath easily",
+   "difficulty breathing",
+   "struggling to breathe",
+   "breathless lying down",
+   "air hunger"
+  ],
+  "bodyArea": "Chest, heart & lungs",
+  "summary": "Feeling short of breath is normal after exercise, but breathlessness that is new, sudden or getting worse needs medical advice. Sudden severe breathlessness is an emergency.",
+  "redFlags": [
+   "Severe difficulty breathing: gasping, choking or unable to get words out",
+   "Chest feels tight or heavy",
+   "Pain that spreads to the arms, back, neck or jaw",
+   "Lips or skin turning very pale, blue or grey",
+   "Suddenly confused",
+   "Sudden breathlessness with swelling of the lips, tongue or throat"
+  ],
+  "urgentFlags": [
+   "More short of breath than usual",
+   "Breathlessness with feeling or being sick",
+   "Coughing up blood",
+   "Pain or swelling in one leg",
+   "A racing, fluttering or irregular heartbeat"
+  ],
+  "commonCauses": [
+   {
+    "title": "Asthma or a chest infection",
+    "detail": "Common causes of breathlessness with cough or wheeze."
+   },
+   {
+    "title": "Anxiety and panic",
+    "detail": "Can cause fast breathing and a feeling of not getting enough air."
+   },
+   {
+    "title": "Being unfit or overweight",
+    "detail": "Breathlessness on exertion that improves with activity over time."
+   },
+   {
+    "title": "COPD and other lung conditions",
+    "detail": "Gradually worsening breathlessness, often in smokers."
+   },
+   {
+    "title": "Heart problems, anaemia or a blood clot",
+    "detail": "Heart failure, anaemia and pulmonary embolism need prompt assessment."
+   }
+  ],
+  "selfCare": [
+   "Sit upright, relax your shoulders and breathe slowly in through your nose and out through pursed lips",
+   "If you have asthma or COPD, follow your action plan",
+   "Stop smoking",
+   "Build up activity gradually if you are breathless because you are unfit"
+  ],
+  "avoid": [
+   "Trying to diagnose the cause yourself",
+   "Ignoring breathlessness that is getting worse",
+   "Smoking"
+  ],
+  "seeDoctorIf": [
+   "Breathlessness gets worse with normal activities or when you lie down",
+   "You are short of breath and have swollen ankles",
+   "You have been coughing for 3 weeks or more",
+   "You have been breathless for a while without a known cause"
+  ],
+  "selfCareMaxDays": 0,
+  "sources": [
+   {
+    "label": "NHS – Shortness of breath",
+    "url": "https://www.nhs.uk/symptoms/shortness-of-breath/"
+   },
+   {
+    "label": "MedlinePlus – Breathing difficulty",
+    "url": "https://medlineplus.gov/ency/article/003075.htm"
    }
   ]
  },
@@ -8905,6 +11906,72 @@
   ]
  },
  {
+  "id": "sleepwalking",
+  "name": "Sleepwalking or sleep talking",
+  "aliases": [
+   "sleepwalking",
+   "walking in sleep",
+   "talking in sleep",
+   "sleep talking",
+   "doing things while asleep",
+   "child sleepwalks"
+  ],
+  "bodyArea": "Mental health & sleep",
+  "summary": "Sleepwalking is when someone walks or does things while still asleep. It is common in children, usually harmless, and most grow out of it.",
+  "redFlags": [
+   "Someone has been seriously injured while sleepwalking",
+   "Jerking, stiffening or tongue biting during sleep that may be a seizure"
+  ],
+  "urgentFlags": [
+   "Sleepwalking that puts the person or others at risk, such as leaving the house or using a car",
+   "Violent behaviour during sleep"
+  ],
+  "commonCauses": [
+   {
+    "title": "Childhood development",
+    "detail": "Common in children and often runs in families."
+   },
+   {
+    "title": "Lack of sleep and stress",
+    "detail": "Overtiredness and anxiety make episodes more likely."
+   },
+   {
+    "title": "Alcohol and some medicines",
+    "detail": "Including some sleeping tablets."
+   },
+   {
+    "title": "Other sleep problems",
+    "detail": "Sleep apnoea or restless legs can trigger episodes."
+   }
+  ],
+  "selfCare": [
+   "Keep regular sleep times and get enough sleep",
+   "Make the home safe: lock doors and windows and remove trip hazards",
+   "Gently guide a sleepwalker back to bed",
+   "Reduce stress and avoid alcohol before bed"
+  ],
+  "avoid": [
+   "Waking a sleepwalker suddenly",
+   "Sleeping on a top bunk or near stairs if you sleepwalk"
+  ],
+  "seeDoctorIf": [
+   "Sleepwalking happens often",
+   "It starts for the first time in adulthood",
+   "It causes injury or is disturbing others"
+  ],
+  "selfCareMaxDays": 28,
+  "sources": [
+   {
+    "label": "NHS – Sleepwalking",
+    "url": "https://www.nhs.uk/conditions/sleepwalking/"
+   },
+   {
+    "label": "MedlinePlus – Sleep disorders",
+    "url": "https://medlineplus.gov/sleepdisorders.html"
+   }
+  ]
+ },
+ {
   "id": "slurred-speech",
   "name": "Slurred speech or difficulty speaking",
   "aliases": [
@@ -8973,6 +12040,290 @@
    {
     "label": "MedlinePlus – Stroke",
     "url": "https://medlineplus.gov/stroke.html"
+   }
+  ]
+ },
+ {
+  "id": "snoring",
+  "name": "Snoring",
+  "aliases": [
+   "loud snoring",
+   "partner snores",
+   "snore every night",
+   "snoring and tired",
+   "noisy breathing when asleep"
+  ],
+  "bodyArea": "Mental health & sleep",
+  "summary": "Snoring is very common and often harmless, but loud snoring with pauses in breathing or gasping can be a sign of sleep apnoea. Lifestyle changes often help.",
+  "redFlags": [
+   "Someone cannot be woken, or is struggling to breathe while asleep",
+   "Snoring with choking that does not settle when the person wakes"
+  ],
+  "urgentFlags": [
+   "Being so sleepy during the day that you have nearly fallen asleep while driving"
+  ],
+  "commonCauses": [
+   {
+    "title": "Being overweight",
+    "detail": "Extra weight around the neck narrows the airway."
+   },
+   {
+    "title": "Alcohol and sleeping tablets",
+    "detail": "Relax the throat muscles."
+   },
+   {
+    "title": "Sleeping on your back",
+    "detail": "The tongue and soft tissues fall back."
+   },
+   {
+    "title": "Blocked nose",
+    "detail": "Colds, allergies or nasal problems."
+   },
+   {
+    "title": "Obstructive sleep apnoea",
+    "detail": "The airway repeatedly closes during sleep, causing pauses in breathing and gasping."
+   }
+  ],
+  "selfCare": [
+   "Lose weight if you are overweight",
+   "Sleep on your side",
+   "Avoid alcohol for a few hours before bed",
+   "Stop smoking",
+   "Treat a blocked nose, for example with saline sprays"
+  ],
+  "avoid": [
+   "Sleeping tablets",
+   "Expensive anti-snoring devices before getting checked for sleep apnoea if you are very sleepy"
+  ],
+  "seeDoctorIf": [
+   "Someone has noticed you stop breathing, gasp or choke in your sleep",
+   "You feel very tired during the day",
+   "Snoring is affecting your life or your partner's sleep",
+   "Lifestyle changes have not helped"
+  ],
+  "selfCareMaxDays": 28,
+  "sources": [
+   {
+    "label": "NHS – Snoring",
+    "url": "https://www.nhs.uk/symptoms/snoring/"
+   },
+   {
+    "label": "MedlinePlus – Snoring",
+    "url": "https://medlineplus.gov/snoring.html"
+   }
+  ]
+ },
+ {
+  "id": "sore-tongue",
+  "name": "Sore or burning tongue",
+  "aliases": [
+   "tongue hurts",
+   "burning tongue",
+   "burning mouth",
+   "swollen tongue sore",
+   "bumps on tongue",
+   "bit my tongue"
+  ],
+  "bodyArea": "Mouth & teeth",
+  "summary": "A sore tongue is often caused by biting or burning it, a mouth ulcer or irritation from food. It usually heals within a few days.",
+  "redFlags": [
+   "Sudden swelling of the tongue, lips or throat, or difficulty breathing or swallowing"
+  ],
+  "urgentFlags": [
+   "Tongue pain with difficulty swallowing or speaking",
+   "A sore tongue with a high temperature and feeling very unwell"
+  ],
+  "commonCauses": [
+   {
+    "title": "Injury or burns",
+    "detail": "Biting the tongue or hot food and drink; should heal within a few days."
+   },
+   {
+    "title": "Mouth ulcers",
+    "detail": "Painful sores can appear on the tongue."
+   },
+   {
+    "title": "Geographic tongue",
+    "detail": "Harmless map-like smooth patches that can feel sore with some foods."
+   },
+   {
+    "title": "Low iron, vitamin B12 or folate",
+    "detail": "Can make the tongue smooth, red and sore."
+   },
+   {
+    "title": "Burning mouth syndrome",
+    "detail": "An ongoing burning feeling with no visible cause, more common after the menopause."
+   }
+  ],
+  "selfCare": [
+   "Eat soft, cool foods and drink through a straw",
+   "Rinse with salt water (adults only) or ask a pharmacist about pain-relieving gels",
+   "Keep your mouth clean with gentle brushing",
+   "Sip cold water or suck ice chips"
+  ],
+  "avoid": [
+   "Spicy, acidic or very hot foods and drinks",
+   "Smoking and alcohol"
+  ],
+  "seeDoctorIf": [
+   "Tongue pain or itchiness does not go away or gets worse",
+   "You have white or red patches on your tongue",
+   "A sore or lump on the tongue lasts longer than 3 weeks"
+  ],
+  "selfCareMaxDays": 14,
+  "sources": [
+   {
+    "label": "NHS – Sore or white tongue",
+    "url": "https://www.nhs.uk/symptoms/sore-or-white-tongue/"
+   },
+   {
+    "label": "MedlinePlus – Tongue problems",
+    "url": "https://medlineplus.gov/ency/article/003047.htm"
+   }
+  ]
+ },
+ {
+  "id": "sore-throat",
+  "name": "Sore throat",
+  "aliases": [
+   "throat hurts",
+   "painful swallowing",
+   "scratchy throat",
+   "strep throat",
+   "tonsillitis",
+   "swollen tonsils",
+   "throat infection"
+  ],
+  "bodyArea": "Ears, nose & throat",
+  "summary": "A sore throat is very common and is usually caused by a virus such as a cold or flu. It typically gets better on its own within a week.",
+  "redFlags": [
+   "Difficulty breathing",
+   "Unable to swallow, or drooling because you cannot swallow saliva",
+   "A high-pitched noise when breathing in (stridor)",
+   "Severe symptoms that are getting worse quickly",
+   "Swelling of the lips, tongue or throat"
+  ],
+  "urgentFlags": [
+   "A very high temperature, or feeling hot and shivery",
+   "Signs of dehydration, such as peeing less or dark urine",
+   "A weakened immune system, for example from chemotherapy or uncontrolled diabetes",
+   "Severe pain on one side of the throat with difficulty opening the mouth or a muffled voice"
+  ],
+  "commonCauses": [
+   {
+    "title": "Viral infections",
+    "detail": "Colds, flu and COVID-19 are the most common causes; antibiotics do not help."
+   },
+   {
+    "title": "Tonsillitis",
+    "detail": "Inflamed tonsils, usually viral but sometimes bacterial, such as strep throat."
+   },
+   {
+    "title": "Glandular fever",
+    "detail": "A viral infection causing a severe sore throat, swollen glands and tiredness, mostly in young people."
+   },
+   {
+    "title": "Irritation",
+    "detail": "Smoking, dry air, acid reflux and shouting can make the throat sore."
+   }
+  ],
+  "selfCare": [
+   "Gargle with warm salty water (adults only)",
+   "Drink plenty of fluids, and try cool or soft foods",
+   "Take over-the-counter pain relief such as paracetamol or ibuprofen, following the pack instructions",
+   "Suck ice cubes, ice lollies or lozenges (not for young children)",
+   "Rest, and ask a pharmacist whether you need further treatment"
+  ],
+  "avoid": [
+   "Expecting antibiotics for a viral sore throat",
+   "Smoking or smoky places",
+   "Very hot drinks that can scald the throat"
+  ],
+  "seeDoctorIf": [
+   "Your sore throat has not improved after a week",
+   "You often get sore throats",
+   "You have a sore throat with a lump in your mouth or neck",
+   "A child under 5 needs help for a sore throat"
+  ],
+  "selfCareMaxDays": 7,
+  "sources": [
+   {
+    "label": "NHS – Sore throat",
+    "url": "https://www.nhs.uk/symptoms/sore-throat/"
+   },
+   {
+    "label": "NHS – Tonsillitis",
+    "url": "https://www.nhs.uk/conditions/tonsillitis/"
+   },
+   {
+    "label": "MedlinePlus – Sore throat",
+    "url": "https://medlineplus.gov/sorethroat.html"
+   }
+  ]
+ },
+ {
+  "id": "sore-lips",
+  "name": "Sore, dry or cracked lips",
+  "aliases": [
+   "chapped lips",
+   "cracked lips",
+   "dry lips",
+   "sore corners of mouth",
+   "split lips",
+   "peeling lips"
+  ],
+  "bodyArea": "Mouth & teeth",
+  "summary": "Dry, sore or cracked lips are very common and are usually caused by cold weather, wind, sun or licking your lips. They usually get better with simple care.",
+  "redFlags": [
+   "Sudden swelling of the lips, tongue or throat, or difficulty breathing"
+  ],
+  "urgentFlags": [
+   "Lips that are hot, painful and swollen, which could be an infection",
+   "Sore lips with mouth blisters, a rash and feeling unwell after a new medicine"
+  ],
+  "commonCauses": [
+   {
+    "title": "Weather and dryness",
+    "detail": "Cold, wind, dry air and sun dry out the lips."
+   },
+   {
+    "title": "Licking or biting the lips",
+    "detail": "Saliva dries the lips further."
+   },
+   {
+    "title": "Angular cheilitis",
+    "detail": "Sore, cracked corners of the mouth, sometimes from an infection or poorly fitting dentures."
+   },
+   {
+    "title": "Irritation or allergy",
+    "detail": "Lipsticks, toothpaste or some foods can irritate the lips."
+   },
+   {
+    "title": "Dehydration and some medicines",
+    "detail": "Not drinking enough, and acne or other medicines, can dry the lips."
+   }
+  ],
+  "selfCare": [
+   "Use a lip balm, ideally with sun protection",
+   "Drink plenty of fluids",
+   "Ask a pharmacist about creams for sore corners of the mouth",
+   "Cover your lips with a scarf in cold, windy weather"
+  ],
+  "avoid": [
+   "Licking, biting or picking your lips",
+   "Lip products that sting or make things worse",
+   "Sharing lip balms or cups"
+  ],
+  "seeDoctorIf": [
+   "Your lips are not getting better after 2 weeks",
+   "Sore corners of the mouth keep coming back",
+   "A sore, lump or crust on the lip does not heal within 3 weeks"
+  ],
+  "selfCareMaxDays": 14,
+  "sources": [
+   {
+    "label": "NHS – Sore or dry lips",
+    "url": "https://www.nhs.uk/symptoms/sore-or-dry-lips/"
    }
   ]
  },
@@ -9345,6 +12696,79 @@
   ]
  },
  {
+  "id": "stress",
+  "name": "Stress or feeling overwhelmed",
+  "aliases": [
+   "stressed out",
+   "overwhelmed",
+   "burnout",
+   "too much pressure",
+   "can't cope",
+   "work stress",
+   "exhausted and stressed"
+  ],
+  "bodyArea": "Mental health & sleep",
+  "summary": "Stress is the body's reaction to feeling under pressure. Short-term stress is normal, but long-lasting stress can affect sleep, mood and physical health.",
+  "redFlags": [
+   "Thoughts of ending your life or harming yourself",
+   "Chest pain or pressure that you are not sure is stress"
+  ],
+  "urgentFlags": [
+   "Feeling unable to cope at all or to look after yourself",
+   "Drinking or using drugs heavily to cope"
+  ],
+  "commonCauses": [
+   {
+    "title": "Work or study pressure",
+    "detail": "Heavy workloads, deadlines and job insecurity."
+   },
+   {
+    "title": "Money and housing worries",
+    "detail": "Common long-term sources of stress."
+   },
+   {
+    "title": "Relationships and caring",
+    "detail": "Family conflict or caring for someone."
+   },
+   {
+    "title": "Big life changes",
+    "detail": "Moving, bereavement, illness or a new baby."
+   }
+  ],
+  "selfCare": [
+   "Break problems into smaller steps and focus on what you can change",
+   "Be physically active and spend time outdoors",
+   "Talk to friends, family or a support line",
+   "Try breathing exercises, mindfulness or relaxation",
+   "Protect time for sleep and things you enjoy"
+  ],
+  "avoid": [
+   "Using alcohol, smoking or drugs to cope",
+   "Taking on more than you can manage",
+   "Cutting yourself off from others"
+  ],
+  "seeDoctorIf": [
+   "Stress is affecting your sleep, mood or health for more than a few weeks",
+   "Self-help is not helping",
+   "You have physical symptoms such as headaches or palpitations that worry you"
+  ],
+  "selfCareMaxDays": 28,
+  "sources": [
+   {
+    "label": "NHS – Stress",
+    "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/stress/"
+   },
+   {
+    "label": "NHS – Tips to reduce stress",
+    "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/tips-to-reduce-stress/"
+   },
+   {
+    "label": "MedlinePlus – Stress",
+    "url": "https://medlineplus.gov/stress.html"
+   }
+  ]
+ },
+ {
   "id": "stye",
   "name": "Stye or lump on the eyelid",
   "aliases": [
@@ -9682,6 +13106,77 @@
   ]
  },
  {
+  "id": "swollen-lips-or-tongue",
+  "name": "Sudden swelling of the lips, tongue or face",
+  "aliases": [
+   "lips swelling up",
+   "tongue swelling",
+   "face swelling suddenly",
+   "allergic reaction swelling",
+   "angioedema",
+   "puffy lips"
+  ],
+  "bodyArea": "Mouth & teeth",
+  "summary": "Sudden swelling of the lips, tongue or face is often caused by an allergic reaction. If it affects breathing or swallowing it can be life-threatening (anaphylaxis) and needs emergency help.",
+  "redFlags": [
+   "Lips, mouth, throat or tongue suddenly swelling",
+   "Breathing very fast, struggling to breathe, wheezing, choking or gasping",
+   "Throat feels tight or struggling to swallow",
+   "Skin, tongue or lips turning blue, grey or pale",
+   "Suddenly very confused, drowsy or dizzy, or fainting"
+  ],
+  "urgentFlags": [
+   "Swelling of another part of the body, such as the hands or feet, that came on suddenly",
+   "Mild lip swelling that keeps coming back",
+   "Swelling that started after a new medicine"
+  ],
+  "commonCauses": [
+   {
+    "title": "Allergic reaction",
+    "detail": "To foods such as nuts or shellfish, insect stings, latex or medicines."
+   },
+   {
+    "title": "Medicines",
+    "detail": "Some blood pressure medicines (ACE inhibitors) can cause swelling, even after years of use."
+   },
+   {
+    "title": "Hereditary angioedema",
+    "detail": "A rare inherited condition causing repeated swelling."
+   },
+   {
+    "title": "Local injury or infection",
+    "detail": "A bite, burn or infection can cause swelling of one area."
+   }
+  ],
+  "selfCare": [
+   "If you have a prescribed adrenaline auto-injector and signs of anaphylaxis, use it and call your local emergency number (such as 911, 999 or 112)",
+   "Lie down with legs raised, or sit up if breathing is difficult",
+   "For mild swelling without breathing problems, ask a pharmacist about antihistamines",
+   "Keep a note of anything you ate, touched or took before the swelling"
+  ],
+  "avoid": [
+   "Waiting to see if swelling of the tongue or throat gets better",
+   "Standing or walking about during a severe reaction",
+   "Taking the suspected trigger again"
+  ],
+  "seeDoctorIf": [
+   "You have had swelling and do not know the cause",
+   "Swelling keeps coming back",
+   "You think a regular medicine may be causing it"
+  ],
+  "selfCareMaxDays": 0,
+  "sources": [
+   {
+    "label": "NHS – Angioedema",
+    "url": "https://www.nhs.uk/conditions/angioedema/"
+   },
+   {
+    "label": "NHS – Anaphylaxis",
+    "url": "https://www.nhs.uk/conditions/anaphylaxis/"
+   }
+  ]
+ },
+ {
   "id": "sunburn",
   "name": "Sunburn",
   "aliases": [
@@ -9823,68 +13318,136 @@
   ]
  },
  {
-  "id": "swollen-glands",
-  "name": "Swollen glands",
+  "id": "dental-abscess",
+  "name": "Swollen face or gum from a tooth (dental abscess)",
   "aliases": [
-   "swollen lymph nodes",
-   "lumps in neck",
-   "swollen neck glands",
-   "armpit gland swollen",
-   "lump in groin",
-   "glands up"
+   "tooth abscess",
+   "swollen cheek from tooth",
+   "gum boil",
+   "pus on gum",
+   "swollen jaw toothache",
+   "infected tooth"
   ],
-  "bodyArea": "Whole body",
-  "summary": "Swollen glands are usually a sign the body is fighting an infection, such as a cold or sore throat, and normally go down within 2 weeks.",
+  "bodyArea": "Mouth & teeth",
+  "summary": "A dental abscess is a build-up of pus from an infection in a tooth or gum. It causes intense pain and swelling and will not go away on its own, so it needs urgent dental treatment.",
   "redFlags": [
-   "Swelling in the neck with difficulty breathing or swallowing",
-   "Swollen glands with a rash that does not fade when pressed under a glass"
+   "Finding it hard to breathe, speak or swallow",
+   "A swollen or painful eye, or sudden problems with eyesight",
+   "A lot of swelling in the mouth or neck",
+   "Finding it hard to open your mouth",
+   "Feeling very unwell with a high temperature, fast heartbeat or confusion"
   ],
   "urgentFlags": [
-   "Swollen glands with a high temperature and feeling very unwell",
-   "A gland that is red, hot, very painful or getting bigger quickly"
+   "You think you have a dental abscess",
+   "Intense toothache with a swollen face or jaw",
+   "A bad taste in the mouth with pain and swelling"
   ],
   "commonCauses": [
    {
-    "title": "Viral infections",
-    "detail": "Colds, flu and sore throats commonly cause tender glands in the neck."
+    "title": "Untreated tooth decay",
+    "detail": "Bacteria reach the nerve and cause infection at the root."
    },
    {
-    "title": "Bacterial infections",
-    "detail": "Throat, tooth, skin or ear infections."
+    "title": "Gum disease",
+    "detail": "Infection can form a pocket of pus in the gum."
    },
    {
-    "title": "Glandular fever",
-    "detail": "Swollen glands with a sore throat and severe tiredness, often in teenagers and young adults."
+    "title": "Cracked or damaged tooth",
+    "detail": "Lets bacteria into the inner tooth."
+   }
+  ],
+  "selfCare": [
+   "Take over-the-counter pain relief such as paracetamol or ibuprofen, following the pack instructions",
+   "Eat soft foods and use a soft toothbrush",
+   "Avoid very hot or cold food and drink",
+   "Contact a dentist urgently, or emergency dental services if closed"
+  ],
+  "avoid": [
+   "Squeezing or bursting the swelling yourself",
+   "Waiting for it to go away; antibiotics alone do not cure an abscess",
+   "Using leftover antibiotics"
+  ],
+  "seeDoctorIf": [
+   "Any suspected abscess, even if the pain eases (the infection can remain)",
+   "Pain or swelling returns after treatment"
+  ],
+  "selfCareMaxDays": 0,
+  "sources": [
+   {
+    "label": "NHS – Dental abscess",
+    "url": "https://www.nhs.uk/conditions/dental-abscess/"
    },
    {
-    "title": "Lymphoma or other cancers",
-    "detail": "Less common; usually painless, hard glands that do not go down."
+    "label": "MedlinePlus – Tooth disorders",
+    "url": "https://medlineplus.gov/toothdisorders.html"
+   }
+  ]
+ },
+ {
+  "id": "swollen-glands",
+  "name": "Swollen glands in the neck",
+  "aliases": [
+   "swollen lymph nodes",
+   "lump in neck",
+   "swollen neck glands",
+   "glands up",
+   "tender lump under jaw",
+   "neck lump"
+  ],
+  "bodyArea": "Ears, nose & throat",
+  "summary": "Swollen glands (lymph nodes) in the neck are usually a sign your body is fighting an infection such as a cold or sore throat. They normally go down within about 2 weeks.",
+  "redFlags": [
+   "Swollen glands with difficulty breathing",
+   "Swollen neck with a very sore throat and inability to swallow saliva or drooling",
+   "A rapidly spreading red, hot swelling of the neck with fever"
+  ],
+  "urgentFlags": [
+   "Swollen glands and finding it very difficult to swallow",
+   "Swollen glands with a very high temperature and feeling very unwell"
+  ],
+  "commonCauses": [
+   {
+    "title": "Colds and throat infections",
+    "detail": "The most common reason glands swell; they shrink as the infection clears."
+   },
+   {
+    "title": "Ear, tooth or skin infections",
+    "detail": "Infections near the neck often cause nearby glands to swell."
+   },
+   {
+    "title": "Glandular fever and other viruses",
+    "detail": "Can cause swollen glands for several weeks."
+   },
+   {
+    "title": "Rarely, cancer",
+    "detail": "Such as lymphoma or leukaemia, usually with hard, painless glands that keep growing."
    }
   ],
   "selfCare": [
    "Rest and drink plenty of fluids",
-   "Take paracetamol or ibuprofen for pain, following the pack instructions",
-   "Check the gland over the next 2 weeks to see if it goes down"
+   "Take over-the-counter pain relief such as paracetamol or ibuprofen if they are sore, following the pack instructions",
+   "Treat the underlying cold or sore throat"
   ],
   "avoid": [
-   "Squeezing or massaging the gland",
-   "Antibiotics without a diagnosis"
+   "Squeezing or massaging a swollen gland",
+   "Ignoring a lump that keeps growing"
   ],
   "seeDoctorIf": [
-   "Swollen glands are still there after 2 weeks",
-   "A gland feels hard or does not move when you press it",
-   "Glands are getting bigger",
-   "You also have night sweats, weight loss or a high temperature with no obvious cause"
+   "The glands are getting bigger or have not gone down after a week or two",
+   "They feel hard or do not move when you press them",
+   "You have night sweats or unexplained weight loss",
+   "You have no other signs of infection",
+   "The swelling is just above or below the collarbone"
   ],
   "selfCareMaxDays": 14,
   "sources": [
    {
-    "label": "NHS: Swollen glands",
-    "url": "https://www.nhs.uk/conditions/swollen-glands/"
+    "label": "NHS – Swollen glands",
+    "url": "https://www.nhs.uk/symptoms/swollen-glands/"
    },
    {
-    "label": "MedlinePlus: Lymphatic diseases",
-    "url": "https://medlineplus.gov/lymphaticdiseases.html"
+    "label": "MedlinePlus – Swollen lymph nodes",
+    "url": "https://medlineplus.gov/ency/article/003097.htm"
    }
   ]
  },
@@ -9960,6 +13523,69 @@
    {
     "label": "NHS – Angioedema",
     "url": "https://www.nhs.uk/conditions/angioedema/"
+   }
+  ]
+ },
+ {
+  "id": "teeth-grinding",
+  "name": "Teeth grinding or clenching",
+  "aliases": [
+   "grinding teeth at night",
+   "bruxism",
+   "clenching jaw",
+   "jaw sore in the morning",
+   "partner hears me grinding",
+   "worn down teeth"
+  ],
+  "bodyArea": "Mouth & teeth",
+  "summary": "Teeth grinding and jaw clenching often happen during sleep, and are linked to stress, anxiety, alcohol, caffeine and smoking. It can cause jaw pain, headaches and worn teeth.",
+  "redFlags": [
+   "Jaw pain with chest pain, shortness of breath or sweating"
+  ],
+  "urgentFlags": [
+   "Jaw locking or being unable to open your mouth",
+   "A cracked or broken tooth with pain"
+  ],
+  "commonCauses": [
+   {
+    "title": "Stress and anxiety",
+    "detail": "The most common cause of grinding and clenching."
+   },
+   {
+    "title": "Sleep problems",
+    "detail": "Grinding is linked to snoring and sleep apnoea."
+   },
+   {
+    "title": "Alcohol, caffeine, smoking and drugs",
+    "detail": "These can make grinding worse."
+   },
+   {
+    "title": "Medicines",
+    "detail": "Some antidepressants can cause grinding."
+   }
+  ],
+  "selfCare": [
+   "Try ways to relax, such as breathing exercises, exercise or a calming bedtime routine",
+   "Cut down on caffeine and alcohol, especially in the evening",
+   "Stop smoking",
+   "Practise keeping your lips together and teeth apart during the day",
+   "Apply a warm flannel to sore jaw muscles"
+  ],
+  "avoid": [
+   "Chewing gum or pens",
+   "Hard or chewy foods if your jaw is sore"
+  ],
+  "seeDoctorIf": [
+   "You grind your teeth and have tooth damage or sensitive teeth",
+   "You have pain in your jaw, face or ear",
+   "Your partner says you grind your teeth in your sleep",
+   "You are worried about your child grinding their teeth"
+  ],
+  "selfCareMaxDays": 28,
+  "sources": [
+   {
+    "label": "NHS – Teeth grinding",
+    "url": "https://www.nhs.uk/symptoms/teeth-grinding/"
    }
   ]
  },
@@ -10099,6 +13725,77 @@
   ]
  },
  {
+  "id": "suicidal-thoughts",
+  "name": "Thoughts of suicide",
+  "aliases": [
+   "want to die",
+   "suicidal thoughts",
+   "thinking about ending my life",
+   "don't want to be here",
+   "feel like killing myself",
+   "no reason to live"
+  ],
+  "bodyArea": "Mental health & sleep",
+  "summary": "If you are having thoughts of ending your life, you are not alone and help is available right now. Talking to someone can help you get through this moment.",
+  "redFlags": [
+   "You have made plans or have the means to end your life",
+   "You feel you cannot keep yourself safe right now",
+   "You have taken an overdose or seriously harmed yourself",
+   "You are worried someone else is about to act on suicidal thoughts"
+  ],
+  "urgentFlags": [
+   "You are having thoughts of suicide, even without a plan",
+   "Suicidal thoughts are becoming more frequent or stronger",
+   "You have recently stopped or changed mental health medicine and feel worse"
+  ],
+  "commonCauses": [
+   {
+    "title": "Depression and other mental health conditions",
+    "detail": "Feeling hopeless or trapped is a symptom that treatment can help."
+   },
+   {
+    "title": "Overwhelming life events",
+    "detail": "Loss, relationship breakdown, debt, abuse or isolation."
+   },
+   {
+    "title": "Alcohol and drugs",
+    "detail": "Can make thoughts stronger and actions more impulsive."
+   },
+   {
+    "title": "Long-term pain or illness",
+    "detail": "Living with ongoing illness can feel overwhelming."
+   }
+  ],
+  "selfCare": [
+   "Call your local emergency number (such as 911, 999 or 112) if you are in immediate danger",
+   "Contact a crisis line now, for example 988 in the US and Canada or Samaritans on 116 123 in the UK and Ireland",
+   "Tell someone you trust how you are feeling and ask them to stay with you",
+   "Remove or move away from anything you could use to harm yourself",
+   "Make a safety plan listing people to call, reasons for living and safe places to go"
+  ],
+  "avoid": [
+   "Being alone if you feel unsafe",
+   "Drinking alcohol or using drugs",
+   "Making big decisions while you feel like this"
+  ],
+  "seeDoctorIf": [
+   "You have had suicidal thoughts recently, even if they have passed",
+   "You often feel hopeless or that others would be better off without you",
+   "You want help making a safety plan"
+  ],
+  "selfCareMaxDays": 0,
+  "sources": [
+   {
+    "label": "NHS – Help for suicidal thoughts",
+    "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/help-for-suicidal-thoughts/"
+   },
+   {
+    "label": "MedlinePlus – Suicide",
+    "url": "https://medlineplus.gov/suicide.html"
+   }
+  ]
+ },
+ {
   "id": "fatigue",
   "name": "Tiredness and fatigue",
   "aliases": [
@@ -10173,6 +13870,81 @@
    {
     "label": "NHS: Iron deficiency anaemia",
     "url": "https://www.nhs.uk/conditions/iron-deficiency-anaemia/"
+   }
+  ]
+ },
+ {
+  "id": "toothache",
+  "name": "Toothache",
+  "aliases": [
+   "tooth pain",
+   "tooth hurts",
+   "throbbing tooth",
+   "pain when biting",
+   "dental pain",
+   "sore tooth"
+  ],
+  "bodyArea": "Mouth & teeth",
+  "summary": "Toothache is usually caused by tooth decay, a cracked tooth, gum problems or an infection. It needs a dentist to find and treat the cause.",
+  "redFlags": [
+   "Swelling around the eye or in the neck",
+   "Swelling in the mouth or neck making it difficult to breathe, swallow or speak",
+   "Cannot open your mouth properly with spreading facial swelling and fever"
+  ],
+  "urgentFlags": [
+   "A swollen cheek or jaw",
+   "A high temperature with toothache",
+   "Pain when biting with red gums or a bad taste in the mouth",
+   "Severe pain that painkillers do not control"
+  ],
+  "commonCauses": [
+   {
+    "title": "Tooth decay",
+    "detail": "Cavities expose the sensitive inner part of the tooth."
+   },
+   {
+    "title": "Dental abscess",
+    "detail": "A collection of pus from infection, causing throbbing pain and sometimes swelling."
+   },
+   {
+    "title": "Cracked tooth or damaged filling",
+    "detail": "Pain often when biting or with hot and cold."
+   },
+   {
+    "title": "Gum disease or wisdom teeth",
+    "detail": "Inflamed gums or an erupting wisdom tooth can cause pain."
+   },
+   {
+    "title": "Sinusitis",
+    "detail": "Can cause aching in the upper back teeth."
+   }
+  ],
+  "selfCare": [
+   "Take over-the-counter pain relief such as paracetamol or ibuprofen, following the pack instructions",
+   "Use a pain-relieving mouth gel from a pharmacy",
+   "Rinse with warm salt water (adults only)",
+   "Eat soft foods and chew on the other side",
+   "Contact a dentist; if your dentist is closed, ask about emergency dental services"
+  ],
+  "avoid": [
+   "Holding aspirin against the gum, which can burn it",
+   "Very hot, cold or sugary food and drink",
+   "Using painkillers for weeks instead of getting the tooth treated"
+  ],
+  "seeDoctorIf": [
+   "Toothache lasts more than 2 days",
+   "Painkillers do not help",
+   "The tooth is sensitive or painful when you bite"
+  ],
+  "selfCareMaxDays": 2,
+  "sources": [
+   {
+    "label": "NHS – Toothache",
+    "url": "https://www.nhs.uk/symptoms/toothache/"
+   },
+   {
+    "label": "MedlinePlus – Toothaches",
+    "url": "https://medlineplus.gov/ency/article/003067.htm"
    }
   ]
  },
@@ -10450,6 +14222,72 @@
    {
     "label": "NHS: Bacterial vaginosis",
     "url": "https://www.nhs.uk/conditions/bacterial-vaginosis/"
+   }
+  ]
+ },
+ {
+  "id": "intrusive-thoughts",
+  "name": "Unwanted intrusive thoughts",
+  "aliases": [
+   "intrusive thoughts",
+   "unwanted thoughts",
+   "obsessive thoughts",
+   "can't stop checking",
+   "OCD",
+   "horrible thoughts I don't want"
+  ],
+  "bodyArea": "Mental health & sleep",
+  "summary": "Most people have unwanted or upsetting thoughts sometimes. When they cause a lot of distress or lead to repeated checking, cleaning or other rituals, it may be obsessive compulsive disorder (OCD), which is treatable.",
+  "redFlags": [
+   "Thoughts of suicide or harming yourself, with a wish or plan to act on them",
+   "You feel you cannot keep yourself or others safe"
+  ],
+  "urgentFlags": [
+   "Thoughts or rituals are stopping you eating, sleeping or leaving the house",
+   "Severe distress that you cannot manage"
+  ],
+  "commonCauses": [
+   {
+    "title": "Normal intrusive thoughts",
+    "detail": "Most people have them; they do not mean you want to act on them."
+   },
+   {
+    "title": "Obsessive compulsive disorder",
+    "detail": "Obsessions cause anxiety, and compulsions are done to ease it."
+   },
+   {
+    "title": "Anxiety and stress",
+    "detail": "Make unwanted thoughts more frequent and sticky."
+   },
+   {
+    "title": "After having a baby",
+    "detail": "Upsetting thoughts about harm to the baby are common and treatable."
+   }
+  ],
+  "selfCare": [
+   "Remind yourself that having a thought does not mean you want it or will act on it",
+   "Try not to push thoughts away or seek repeated reassurance, which can strengthen them",
+   "Use evidence-based self-help based on CBT",
+   "Be active and look after your sleep"
+  ],
+  "avoid": [
+   "Repeated checking, googling or seeking reassurance",
+   "Using alcohol or drugs to cope"
+  ],
+  "seeDoctorIf": [
+   "Thoughts or rituals take up more than an hour a day",
+   "They cause you a lot of distress",
+   "They are affecting work, relationships or daily life"
+  ],
+  "selfCareMaxDays": 28,
+  "sources": [
+   {
+    "label": "NHS – Obsessive compulsive disorder (OCD)",
+    "url": "https://www.nhs.uk/mental-health/conditions/obsessive-compulsive-disorder-ocd/overview/"
+   },
+   {
+    "label": "MedlinePlus – Obsessive-compulsive disorder",
+    "url": "https://medlineplus.gov/obsessivecompulsivedisorder.html"
    }
   ]
  },
@@ -10754,6 +14592,285 @@
    {
     "label": "MedlinePlus – Watery eyes",
     "url": "https://medlineplus.gov/ency/article/003036.htm"
+   }
+  ]
+ },
+ {
+  "id": "wheezing",
+  "name": "Wheezing",
+  "aliases": [
+   "wheezy chest",
+   "whistling when breathing",
+   "chest whistling",
+   "wheezing at night",
+   "tight wheezy chest",
+   "asthma attack"
+  ],
+  "bodyArea": "Chest, heart & lungs",
+  "summary": "Wheezing is a whistling sound when you breathe, caused by narrowed airways. It is common with asthma and chest infections, and new or worsening wheezing should be checked.",
+  "redFlags": [
+   "Severe breathlessness, unable to speak, eat or sleep",
+   "Lips or skin turning blue, grey or very pale",
+   "Reliever inhaler is not helping, or you need it more than every 4 hours",
+   "Wheezing with swelling of the lips, tongue or throat after eating, a sting or a medicine",
+   "Feeling drowsy, confused or exhausted from breathing"
+  ],
+  "urgentFlags": [
+   "Wheezing for the first time",
+   "Asthma symptoms getting worse, or needing your reliever more often than usual",
+   "Wheezing with a high temperature or chest pain"
+  ],
+  "commonCauses": [
+   {
+    "title": "Asthma",
+    "detail": "Airways become narrow and inflamed, often triggered by colds, allergens, exercise or cold air."
+   },
+   {
+    "title": "Chest infections",
+    "detail": "Bronchitis and, in young children, bronchiolitis can cause wheezing."
+   },
+   {
+    "title": "COPD",
+    "detail": "Long-term lung damage, usually from smoking."
+   },
+   {
+    "title": "Allergic reaction",
+    "detail": "Sudden wheezing can be part of anaphylaxis."
+   },
+   {
+    "title": "Heart failure or acid reflux",
+    "detail": "Less common causes of wheezing."
+   }
+  ],
+  "selfCare": [
+   "If you have asthma, follow your personal asthma action plan and use your reliever inhaler as prescribed",
+   "Sit upright and try to breathe slowly",
+   "Avoid known triggers such as smoke, dust and pollen",
+   "Stop smoking"
+  ],
+  "avoid": [
+   "Smoking and second-hand smoke",
+   "Relying on your reliever inhaler without telling a doctor it is needed more often",
+   "Exercising hard while wheezy"
+  ],
+  "seeDoctorIf": [
+   "You have wheezing that has not been diagnosed",
+   "Your asthma is waking you at night or you use your reliever 3 or more times a week",
+   "Wheezing keeps coming back with colds"
+  ],
+  "selfCareMaxDays": 0,
+  "sources": [
+   {
+    "label": "MedlinePlus – Wheezing",
+    "url": "https://medlineplus.gov/ency/article/003070.htm"
+   },
+   {
+    "label": "NHS – Asthma",
+    "url": "https://www.nhs.uk/conditions/asthma/"
+   }
+  ]
+ },
+ {
+  "id": "white-patches-in-mouth",
+  "name": "White patches in the mouth or oral thrush",
+  "aliases": [
+   "oral thrush",
+   "white tongue",
+   "white coating in mouth",
+   "white spots in mouth",
+   "mouth thrush",
+   "furry tongue"
+  ],
+  "bodyArea": "Mouth & teeth",
+  "summary": "White patches in the mouth are often caused by oral thrush, a fungal infection that is easily treated. White patches that cannot be wiped off and do not go away should be checked by a dentist or doctor.",
+  "redFlags": [
+   "Difficulty breathing or swallowing with mouth swelling"
+  ],
+  "urgentFlags": [
+   "Pain or difficulty when swallowing",
+   "A baby with thrush who is not feeding well",
+   "Thrush in someone with a weakened immune system"
+  ],
+  "commonCauses": [
+   {
+    "title": "Oral thrush",
+    "detail": "Creamy white patches that may wipe off, leaving red areas; more common with antibiotics, steroid inhalers, dentures or diabetes."
+   },
+   {
+    "title": "Coated tongue",
+    "detail": "A harmless white coating from dead cells and bacteria, often with a dry mouth."
+   },
+   {
+    "title": "Lichen planus",
+    "detail": "Lacy white patches on the inside of the cheeks or tongue."
+   },
+   {
+    "title": "Leukoplakia",
+    "detail": "White patches that do not rub off; can occasionally become cancerous, so it needs checking."
+   }
+  ],
+  "selfCare": [
+   "Ask a pharmacist about antifungal treatment for oral thrush",
+   "Rinse your mouth after using a steroid inhaler",
+   "Clean dentures every day and take them out at night",
+   "Brush your teeth and gently brush your tongue twice a day"
+  ],
+  "avoid": [
+   "Smoking",
+   "Sugary foods and mouthwashes containing alcohol while you have thrush"
+  ],
+  "seeDoctorIf": [
+   "Thrush has not improved after 1 week of treatment",
+   "White patches cannot be wiped off or keep coming back",
+   "A baby under 4 months has signs of thrush",
+   "White or red patches have lasted more than 3 weeks"
+  ],
+  "selfCareMaxDays": 7,
+  "sources": [
+   {
+    "label": "NHS – Oral thrush (mouth thrush)",
+    "url": "https://www.nhs.uk/conditions/oral-thrush-mouth-thrush/"
+   },
+   {
+    "label": "NHS – Sore or white tongue",
+    "url": "https://www.nhs.uk/symptoms/sore-or-white-tongue/"
+   }
+  ]
+ },
+ {
+  "id": "wisdom-tooth-pain",
+  "name": "Wisdom tooth pain",
+  "aliases": [
+   "wisdom tooth pain",
+   "back tooth coming through",
+   "swollen gum at back of mouth",
+   "pain at back of jaw",
+   "impacted wisdom tooth",
+   "pericoronitis"
+  ],
+  "bodyArea": "Mouth & teeth",
+  "summary": "Wisdom teeth come through at the back of the mouth in late teens or adulthood. When there is not enough space, the gum over them can become sore, swollen or infected.",
+  "redFlags": [
+   "Swelling in the mouth or neck making it difficult to breathe, swallow or speak",
+   "Swelling spreading towards the eye or down the neck",
+   "Unable to open the mouth with fever and feeling very unwell"
+  ],
+  "urgentFlags": [
+   "A swollen cheek or jaw",
+   "A high temperature with pain at the back of the mouth",
+   "Pus or a bad taste from the gum, with pain",
+   "Severe pain that painkillers do not control"
+  ],
+  "commonCauses": [
+   {
+    "title": "Erupting wisdom tooth",
+    "detail": "Pain and tenderness as the tooth breaks through."
+   },
+   {
+    "title": "Pericoronitis",
+    "detail": "Infection of the gum flap over a partly erupted tooth, where food gets trapped."
+   },
+   {
+    "title": "Decay or gum disease",
+    "detail": "Wisdom teeth are hard to clean, so they decay more easily."
+   }
+  ],
+  "selfCare": [
+   "Rinse with warm salt water (adults only), especially after eating",
+   "Brush carefully around the area with a soft toothbrush",
+   "Take over-the-counter pain relief such as paracetamol or ibuprofen, following the pack instructions",
+   "Eat soft foods and chew on the other side"
+  ],
+  "avoid": [
+   "Leaving food trapped around the tooth",
+   "Smoking",
+   "Assuming the pain will settle if it keeps coming back"
+  ],
+  "seeDoctorIf": [
+   "Pain lasts more than 2 or 3 days",
+   "Pain keeps coming back",
+   "You find it hard to clean around the tooth"
+  ],
+  "selfCareMaxDays": 3,
+  "sources": [
+   {
+    "label": "NHS – Wisdom tooth removal",
+    "url": "https://www.nhs.uk/tests-and-treatments/wisdom-tooth-removal/"
+   },
+   {
+    "label": "NHS – Toothache",
+    "url": "https://www.nhs.uk/symptoms/toothache/"
+   }
+  ]
+ },
+ {
+  "id": "eating-worries",
+  "name": "Worries about eating, weight or body shape",
+  "aliases": [
+   "eating disorder",
+   "afraid of gaining weight",
+   "binge eating",
+   "making myself sick",
+   "restricting food",
+   "obsessed with calories",
+   "anorexia"
+  ],
+  "bodyArea": "Mental health & sleep",
+  "summary": "Spending a lot of time worrying about weight, food or body shape, restricting food, bingeing or making yourself sick can be signs of an eating disorder. These are serious but treatable, and early help makes a difference.",
+  "redFlags": [
+   "Fainting, chest pain, a very slow or irregular heartbeat, or confusion",
+   "Vomiting blood, or severe weakness after repeated vomiting",
+   "Thoughts of suicide or harming yourself"
+  ],
+  "urgentFlags": [
+   "Rapid weight loss or being unable to eat or drink",
+   "Feeling dizzy, very cold or very weak",
+   "Making yourself sick or using laxatives several times a day"
+  ],
+  "commonCauses": [
+   {
+    "title": "Anorexia, bulimia and binge eating disorder",
+    "detail": "The main types of eating disorder; they can affect anyone of any age, gender or size."
+   },
+   {
+    "title": "Stress and low self-esteem",
+    "detail": "Controlling food can become a way to cope."
+   },
+   {
+    "title": "Social and family pressures",
+    "detail": "Pressure about appearance, dieting culture or certain sports."
+   },
+   {
+    "title": "Other mental health conditions",
+    "detail": "Anxiety, depression and OCD often occur alongside."
+   }
+  ],
+  "selfCare": [
+   "Talk to someone you trust about your worries",
+   "Contact an eating disorder support line or service for advice",
+   "Try to eat regular meals rather than skipping meals or strict dieting",
+   "Unfollow social media accounts that make you feel worse about your body"
+  ],
+  "avoid": [
+   "Extreme diets, fasting or diet pills",
+   "Weighing yourself many times a day",
+   "Pro-eating disorder websites and communities"
+  ],
+  "seeDoctorIf": [
+   "Food, weight or body shape is taking over your thoughts",
+   "You are restricting, bingeing or purging",
+   "Someone close to you is worried about your eating",
+   "Your periods have stopped or you have lost a lot of weight"
+  ],
+  "selfCareMaxDays": 0,
+  "sources": [
+   {
+    "label": "NHS – Eating disorders",
+    "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/eating-disorders/overview/"
+   },
+   {
+    "label": "MedlinePlus – Eating disorders",
+    "url": "https://medlineplus.gov/eatingdisorders.html"
    }
   ]
  },

@@ -1,0 +1,256 @@
+[
+  {
+    "id": "igg-food-intolerance-tests",
+    "category": "Allergies & asthma",
+    "myth": "A home IgG blood test can tell you which foods you're intolerant to.",
+    "rating": "false",
+    "fact": "IgG antibodies to foods are a normal response to eating them and do not show intolerance or allergy. There is no reliable test for most food intolerances; the usual approach is to keep a food and symptom diary and try cutting out a suspected food under guidance.",
+    "explanation": "These tests often list many everyday foods, leading people to cut out large parts of their diet unnecessarily, which can cause nutritional problems, especially in children. Food allergies are diagnosed differently, with skin-prick or specific IgE blood tests interpreted by a doctor. Coeliac disease also has its own specific tests.",
+    "keywords": ["food intolerance test", "igg test", "intolerance test", "home allergy test", "food sensitivity test", "york test", "blood test intolerance", "food sensitivity"],
+    "sources": [
+      { "label": "NHS — Food intolerance", "url": "https://www.nhs.uk/conditions/food-intolerance/" },
+      { "label": "NHS — Food allergy", "url": "https://www.nhs.uk/conditions/food-allergy/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "alternative-allergy-tests",
+    "category": "Allergies & asthma",
+    "myth": "Hair analysis, kinesiology or 'bioresonance' machines can diagnose your allergies.",
+    "rating": "false",
+    "fact": "These alternative tests have not been shown to diagnose allergies reliably and are not recommended by health services. Allergies are diagnosed by a doctor using your history together with skin-prick tests, specific blood tests or supervised food challenges.",
+    "explanation": "Results from unproven tests can wrongly label people as allergic, leading to needless diets, or miss a real and dangerous allergy. If you think you or your child has an allergy, ask a GP, who can refer you to an allergy service if needed.",
+    "keywords": ["hair analysis allergy", "kinesiology", "bioresonance", "vega test", "allergy testing", "muscle testing allergy", "alternative allergy test"],
+    "sources": [
+      { "label": "NHS — Allergies", "url": "https://www.nhs.uk/conditions/allergies/" },
+      { "label": "NHS — Food allergy", "url": "https://www.nhs.uk/conditions/food-allergy/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "asthma-is-psychological",
+    "category": "Allergies & asthma",
+    "myth": "Asthma is all in the mind and caused by nerves.",
+    "rating": "false",
+    "fact": "Asthma is a long-term condition of the airways, which become inflamed and narrow in response to triggers. It is a physical illness that needs proper treatment, usually with inhalers.",
+    "explanation": "Strong emotions and stress can trigger asthma symptoms in some people, which may be where the idea came from, but they are not the underlying cause. Common triggers include colds, pollen, dust mites, smoke, cold air and exercise. Treating asthma as 'just nerves' can lead to dangerous delays in getting help.",
+    "keywords": ["asthma psychological", "asthma in your head", "asthma nerves", "asthma anxiety", "asthma not real", "asthma causes", "asthma stress"],
+    "sources": [
+      { "label": "NHS — Asthma", "url": "https://www.nhs.uk/conditions/asthma/" },
+      { "label": "NHLBI — Asthma", "url": "https://www.nhlbi.nih.gov/health/asthma" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "allergy-immunotherapy-can-help",
+    "category": "Allergies & asthma",
+    "myth": "Allergy immunotherapy (desensitisation) can reduce allergies in the long term.",
+    "rating": "true",
+    "fact": "For some allergies, such as severe hay fever, insect venom allergy and some others, immunotherapy can lessen the body's reaction over time. It involves gradually giving small, increasing amounts of the allergen as injections or tablets under the tongue.",
+    "explanation": "Treatment usually lasts several years and is given or started under specialist supervision because it can cause reactions. It is generally offered when other treatments have not worked well enough. It is not a quick cure, and not every allergy can be treated this way.",
+    "keywords": ["immunotherapy", "desensitisation", "allergy shots", "allergy injections", "cure hay fever", "sublingual tablets", "allergy treatment"],
+    "sources": [
+      { "label": "NHS — Allergies", "url": "https://www.nhs.uk/conditions/allergies/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "hay-fever-only-in-spring",
+    "category": "Allergies & asthma",
+    "myth": "Hay fever only happens in spring.",
+    "rating": "false",
+    "fact": "Different pollens are released at different times: tree pollen mainly in spring, grass pollen in late spring and summer, and weed pollen into early autumn. Some people also have year-round allergic rhinitis from dust mites, pets or mould.",
+    "explanation": "Knowing which months your symptoms come on can help you work out your triggers. Starting treatments such as antihistamines or steroid nasal sprays before your usual season can help. A pharmacist is a good first point of advice.",
+    "keywords": ["hay fever", "pollen season", "hay fever summer", "allergic rhinitis", "autumn hay fever", "grass pollen", "year round allergies"],
+    "sources": [
+      { "label": "NHS — Hay fever", "url": "https://www.nhs.uk/conditions/hay-fever/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "hay-fever-causes-fever",
+    "category": "Allergies & asthma",
+    "myth": "Hay fever gives you a fever.",
+    "rating": "false",
+    "fact": "Despite its name, hay fever does not cause a raised temperature. Its symptoms include sneezing, a runny or blocked nose, itchy red or watery eyes and an itchy throat.",
+    "explanation": "If you have a high temperature, aching body or feel generally unwell, an infection such as a cold, flu or COVID-19 is more likely. Hay fever symptoms also tend to come with pollen exposure and last for weeks, rather than a few days.",
+    "keywords": ["hay fever fever", "hay fever temperature", "allergies fever", "hay fever or cold", "high temperature allergy", "allergy symptoms"],
+    "sources": [
+      { "label": "NHS — Hay fever", "url": "https://www.nhs.uk/conditions/hay-fever/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "anaphylaxis-always-has-rash",
+    "category": "Allergies & asthma",
+    "myth": "If there's no rash or hives, it can't be anaphylaxis.",
+    "rating": "false",
+    "fact": "Anaphylaxis can happen without any skin rash. Key signs are swelling of the throat or tongue, difficulty breathing or noisy breathing, wheezing, feeling faint or dizzy, and collapse.",
+    "explanation": "Waiting for a rash before acting can waste vital minutes. If someone has signs of anaphylaxis, use their adrenaline auto-injector if they have one and call emergency services straight away. Anaphylaxis can follow foods, insect stings, medicines or latex.",
+    "keywords": ["anaphylaxis", "anaphylaxis no rash", "allergic reaction signs", "severe allergic reaction", "anaphylactic shock", "hives", "throat swelling"],
+    "sources": [
+      { "label": "NHS — Anaphylaxis", "url": "https://www.nhs.uk/conditions/anaphylaxis/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "wait-before-using-adrenaline-pen",
+    "category": "Allergies & asthma",
+    "myth": "You should wait to see if a severe allergic reaction gets worse before using an adrenaline pen.",
+    "rating": "false",
+    "fact": "If anaphylaxis is suspected, the adrenaline auto-injector should be used straight away and emergency services called. If there is no improvement after about 5 minutes, a second auto-injector can be given if available.",
+    "explanation": "Anaphylaxis can get worse very quickly, and adrenaline works best when given early. Using it when it turns out not to be needed is much less risky than delaying it. Everyone prescribed an auto-injector, and those close to them, should learn how to use it and carry two at all times.",
+    "keywords": ["epipen", "adrenaline pen", "auto injector", "when to use epipen", "jext", "emerade", "epinephrine", "anaphylaxis treatment"],
+    "sources": [
+      { "label": "NHS — Anaphylaxis", "url": "https://www.nhs.uk/conditions/anaphylaxis/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "stand-up-during-anaphylaxis",
+    "category": "Allergies & asthma",
+    "myth": "Someone having a severe allergic reaction should stand up or walk around to keep their blood flowing.",
+    "rating": "false",
+    "fact": "During anaphylaxis, blood pressure can drop suddenly, and standing or walking can make this worse. Health services advise lying the person down with their legs raised, or sitting them up if they are struggling to breathe, and not letting them stand up suddenly.",
+    "explanation": "If the person becomes unconscious, place them on their side in the recovery position, and if they stop breathing start CPR. Always use their adrenaline auto-injector if they have one and call emergency services.",
+    "keywords": ["anaphylaxis position", "allergic reaction lie down", "stand up anaphylaxis", "walk around allergy", "legs raised", "anaphylaxis first aid"],
+    "sources": [
+      { "label": "NHS — Anaphylaxis", "url": "https://www.nhs.uk/conditions/anaphylaxis/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "paper-bag-for-asthma-attack",
+    "category": "Allergies & asthma",
+    "myth": "Breathing into a paper bag helps someone having an asthma attack.",
+    "rating": "false",
+    "fact": "An asthma attack needs the person's reliever inhaler, usually blue, not a paper bag. Health services advise sitting up straight, staying calm and taking one puff of the reliever every 30 to 60 seconds, up to 10 puffs, and calling emergency services if they are not improving or get worse.",
+    "explanation": "Breathing into a bag can reduce the oxygen someone gets, which is dangerous when their airways are already narrowed. If symptoms improve, the person should still get an urgent appointment with a doctor or nurse the same day. If no inhaler is available or the person is very breathless, call for help immediately.",
+    "keywords": ["paper bag", "asthma attack", "asthma first aid", "breathing into bag", "can't breathe asthma", "inhaler puffs", "asthma emergency"],
+    "sources": [
+      { "label": "NHS — Asthma", "url": "https://www.nhs.uk/conditions/asthma/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "strong-coffee-stops-asthma-attack",
+    "category": "Allergies & asthma",
+    "myth": "Drinking strong coffee can stop an asthma attack if you don't have your inhaler.",
+    "rating": "false",
+    "fact": "Caffeine has a weak, slow effect on the airways and is no substitute for a reliever inhaler. An asthma attack without access to an inhaler is an emergency, and you should call emergency services.",
+    "explanation": "Relying on coffee or other home remedies can cost valuable time. People with asthma should always carry their reliever inhaler and have a written asthma action plan. Needing your reliever more often than usual is a sign to get your asthma reviewed.",
+    "keywords": ["coffee asthma", "caffeine asthma", "no inhaler", "asthma without inhaler", "asthma home remedy", "asthma attack remedy"],
+    "sources": [
+      { "label": "NHS — Asthma", "url": "https://www.nhs.uk/conditions/asthma/" },
+      { "label": "NHLBI — Asthma", "url": "https://www.nhlbi.nih.gov/health/asthma" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "allergies-mean-weak-immune-system",
+    "category": "Allergies & asthma",
+    "myth": "Having allergies means your immune system is weak.",
+    "rating": "false",
+    "fact": "An allergy happens when the immune system overreacts to something that is usually harmless, such as pollen, dust mites or a food. It is a misdirected response, not a sign of a weak immune system.",
+    "explanation": "Allergies are very common and often run in families, along with eczema and asthma. Products that claim to 'boost' the immune system do not cure allergies. Treatments such as antihistamines, nasal sprays and immunotherapy target the allergic response itself.",
+    "keywords": ["allergies weak immune system", "immune system allergy", "boost immunity allergy", "why allergies", "allergic reaction cause", "overactive immune"],
+    "sources": [
+      { "label": "NHS — Allergies", "url": "https://www.nhs.uk/conditions/allergies/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "no-wheeze-no-asthma-attack",
+    "category": "Allergies & asthma",
+    "myth": "If someone isn't wheezing, they can't be having a serious asthma attack.",
+    "rating": "false",
+    "fact": "Signs of an asthma attack include worsening cough, breathlessness, a tight chest, being unable to finish sentences, and a reliever inhaler that is not helping. In a very severe attack, so little air moves that wheezing can become quiet or disappear.",
+    "explanation": "Blue or grey lips, confusion, drowsiness or exhaustion are emergency signs. Do not wait for wheezing before following an asthma action plan or calling for help.",
+    "keywords": ["asthma attack signs", "no wheeze", "silent chest", "asthma symptoms", "severe asthma attack", "wheezing", "asthma emergency signs"],
+    "sources": [
+      { "label": "NHS — Asthma", "url": "https://www.nhs.uk/conditions/asthma/" },
+      { "label": "NHLBI — Asthma", "url": "https://www.nhlbi.nih.gov/health/asthma" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "mild-allergic-reaction-next-also-mild",
+    "category": "Allergies & asthma",
+    "myth": "If your last allergic reaction to a food was mild, the next one will be mild too.",
+    "rating": "false",
+    "fact": "The severity of past reactions does not reliably predict future ones. Someone who has had only mild reactions can still go on to have anaphylaxis, especially with allergies such as peanuts, tree nuts and shellfish.",
+    "explanation": "Things like the amount eaten, exercise, alcohol, illness and asthma can make a reaction worse. Anyone with a diagnosed food allergy should follow their allergy action plan and carry any prescribed adrenaline auto-injectors.",
+    "keywords": ["allergic reaction severity", "mild allergy", "next reaction worse", "food allergy", "peanut allergy", "allergy getting worse", "anaphylaxis risk"],
+    "sources": [
+      { "label": "NHS — Food allergy", "url": "https://www.nhs.uk/conditions/food-allergy/" },
+      { "label": "NHS — Anaphylaxis", "url": "https://www.nhs.uk/conditions/anaphylaxis/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "children-outgrow-all-food-allergies",
+    "category": "Allergies & asthma",
+    "myth": "Children always grow out of their food allergies.",
+    "rating": "false",
+    "fact": "Many children outgrow allergies to milk and eggs, but allergies to peanuts and tree nuts are more likely to last into adulthood. Whether an allergy has gone should be checked with an allergy specialist, not by testing at home.",
+    "explanation": "A specialist may use tests and, when safe, a supervised food challenge to see whether a child can now eat a food. Trying the food at home without advice can be dangerous for some allergies.",
+    "keywords": ["outgrow food allergy", "children allergies", "peanut allergy kids", "milk allergy baby", "egg allergy outgrow", "grow out of allergy"],
+    "sources": [
+      { "label": "NHS — Food allergy", "url": "https://www.nhs.uk/conditions/food-allergy/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "asthma-cannot-kill",
+    "category": "Allergies & asthma",
+    "myth": "Asthma is a minor condition and nobody dies from it.",
+    "rating": "false",
+    "fact": "Asthma can usually be well controlled, but severe asthma attacks can be life-threatening. People still die from asthma each year, and many of these deaths are thought to be preventable with good routine care.",
+    "explanation": "Taking preventer medicine as prescribed, checking inhaler technique, having a written asthma action plan and attending asthma reviews all lower the risk. Needing a reliever inhaler more often, or waking at night with symptoms, are signs asthma is not well controlled.",
+    "keywords": ["asthma deaths", "can asthma kill", "asthma dangerous", "asthma minor", "asthma serious", "die from asthma", "asthma attack fatal"],
+    "sources": [
+      { "label": "NHS — Asthma", "url": "https://www.nhs.uk/conditions/asthma/" },
+      { "label": "NHLBI — Asthma", "url": "https://www.nhlbi.nih.gov/health/asthma" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "reliever-inhaler-several-times-week-normal",
+    "category": "Allergies & asthma",
+    "myth": "Needing your blue reliever inhaler several times a week is normal if you have asthma.",
+    "rating": "false",
+    "fact": "When asthma is well controlled, most people rarely need their reliever inhaler. Needing it 3 or more times a week is a sign that asthma is not well controlled and should be reviewed by a doctor or asthma nurse.",
+    "explanation": "Often the answer is a regular preventer inhaler, a different treatment or a better inhaler technique. Relying on a reliever alone leaves the underlying inflammation untreated and raises the risk of a serious attack.",
+    "keywords": ["blue inhaler", "reliever inhaler", "salbutamol", "ventolin", "using inhaler a lot", "asthma control", "how often inhaler"],
+    "sources": [
+      { "label": "NHS — Asthma", "url": "https://www.nhs.uk/conditions/asthma/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "decongestant-spray-rebound",
+    "category": "Allergies & asthma",
+    "myth": "Using a decongestant nasal spray for weeks can make your blocked nose worse.",
+    "rating": "true",
+    "fact": "Decongestant nasal sprays should only be used for a short time, usually no more than 5 to 7 days. Using them for longer can cause rebound congestion, where the nose becomes more blocked when the spray wears off.",
+    "explanation": "This is different from steroid nasal sprays, which are designed for longer-term use in conditions such as hay fever. If you find you can't stop using a decongestant spray, a pharmacist or GP can advise on how to come off it and on treating the underlying cause.",
+    "keywords": ["nasal spray", "decongestant spray", "rebound congestion", "otrivine", "oxymetazoline", "xylometazoline", "blocked nose spray", "nasal spray addiction"],
+    "sources": [
+      { "label": "NHS — Decongestants", "url": "https://www.nhs.uk/medicines/decongestants/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "hives-always-allergy",
+    "category": "Allergies & asthma",
+    "myth": "Hives are always caused by an allergy.",
+    "rating": "false",
+    "fact": "Hives (urticaria) can be triggered by an allergic reaction, but they can also follow infections, medicines, heat, pressure on the skin, stress or exercise, and often no cause is found. Long-lasting hives are rarely due to allergy.",
+    "explanation": "Most hives settle within a few days and can be eased with antihistamines from a pharmacy. Hives together with swelling of the lips, tongue or throat, or difficulty breathing, could be anaphylaxis and need emergency help. Hives lasting more than 6 weeks should be seen by a GP.",
+    "keywords": ["hives", "urticaria", "nettle rash", "hives cause", "itchy welts", "hives allergy", "chronic hives"],
+    "sources": [
+      { "label": "NHS — Hives", "url": "https://www.nhs.uk/conditions/hives/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]
