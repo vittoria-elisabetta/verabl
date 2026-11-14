@@ -1,0 +1,592 @@
+[
+  {
+    "id": "eating-late-makes-you-fat",
+    "category": "Weight",
+    "myth": "Eating after 8pm makes you put on weight.",
+    "rating": "misleading",
+    "fact": "Weight gain depends mainly on how much you eat and drink overall compared with how much energy you use, not on the clock. However, late-night eating is often linked to snacking on high-calorie foods, and some research suggests meal timing may have small effects.",
+    "explanation": "People who eat late often do so while tired or watching screens, which can lead to eating more. Shift workers have to eat at unusual times and can still manage their weight. Eating a large meal right before bed can also worsen heartburn for some people.",
+    "keywords": [
+      "eating late",
+      "eating at night",
+      "after 8pm",
+      "late night snacking",
+      "dinner time",
+      "night eating",
+      "eat before bed"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Healthy weight",
+        "url": "https://www.nhs.uk/live-well/healthy-weight/"
+      },
+      {
+        "label": "NIDDK — Weight management",
+        "url": "https://www.niddk.nih.gov/health-information/weight-management"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "skipping-breakfast-makes-you-fat",
+    "category": "Weight",
+    "myth": "Skipping breakfast makes you gain weight.",
+    "rating": "misleading",
+    "fact": "Studies linking breakfast skipping to higher weight are mostly observational, and randomised trials have not shown that eating breakfast helps people lose weight. What matters more is the overall quality and amount of food across the day.",
+    "explanation": "Breakfast has long been called the most important meal of the day, partly thanks to cereal advertising. Some people find a healthy breakfast helps them avoid unhealthy snacking later, which is a good reason to eat it. Children and teenagers are generally advised to eat breakfast.",
+    "keywords": [
+      "skipping breakfast",
+      "breakfast",
+      "most important meal",
+      "no breakfast",
+      "breakfast weight",
+      "skip meals"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Healthy weight",
+        "url": "https://www.nhs.uk/live-well/healthy-weight/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "fat-burning-pills-work",
+    "category": "Weight",
+    "myth": "Fat-burning pills and slimming teas help you lose weight safely.",
+    "rating": "false",
+    "fact": "There is little good evidence that over-the-counter weight-loss supplements or slimming teas lead to meaningful, lasting weight loss. Some have been found to contain hidden drugs or ingredients that can cause serious harm.",
+    "explanation": "These products are heavily advertised on social media, often with before-and-after photos. Many slimming teas act as laxatives, so any quick weight drop is mostly water, not fat. Products containing stimulants can raise blood pressure and heart rate.",
+    "keywords": [
+      "fat burner",
+      "fat burning pills",
+      "slimming tea",
+      "diet pills",
+      "weight loss pills",
+      "garcinia",
+      "skinny tea",
+      "weight loss supplement"
+    ],
+    "sources": [
+      {
+        "label": "NIH ODS — Dietary supplements for weight loss",
+        "url": "https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/"
+      },
+      {
+        "label": "FDA — Dietary supplements",
+        "url": "https://www.fda.gov/food/dietary-supplements"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "overweight-people-have-slow-metabolism",
+    "category": "Weight",
+    "myth": "People who are overweight have a slow metabolism.",
+    "rating": "false",
+    "fact": "People with a larger body usually burn more energy at rest, not less, because there is more body tissue to maintain. Differences in metabolism between people of similar size are generally small.",
+    "explanation": "Metabolism is often blamed for weight gain because it feels outside our control. Some medical conditions, such as an underactive thyroid, and some medicines can affect weight. Appetite, food environment, sleep, stress and activity levels all play a larger role for most people.",
+    "keywords": [
+      "slow metabolism",
+      "metabolism",
+      "fast metabolism",
+      "boost metabolism",
+      "metabolic rate",
+      "overweight metabolism"
+    ],
+    "sources": [
+      {
+        "label": "NIDDK — Weight management",
+        "url": "https://www.niddk.nih.gov/health-information/weight-management"
+      },
+      {
+        "label": "NHS — Obesity",
+        "url": "https://www.nhs.uk/conditions/obesity/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "lemon-water-burns-fat",
+    "category": "Weight",
+    "myth": "Drinking warm lemon water in the morning burns fat.",
+    "rating": "false",
+    "fact": "Lemon water does not burn fat or boost metabolism in any meaningful way. It can be a pleasant low-calorie drink and help you stay hydrated.",
+    "explanation": "Replacing sugary drinks with water, with or without lemon, can reduce calorie intake, which may be where the idea came from. Frequent acidic drinks can wear down tooth enamel, so drinking through a straw or rinsing with plain water afterwards can help.",
+    "keywords": [
+      "lemon water",
+      "warm lemon water",
+      "lemon fat",
+      "burn fat",
+      "morning drink",
+      "lemon detox",
+      "lemon weight loss"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Healthy weight",
+        "url": "https://www.nhs.uk/live-well/healthy-weight/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "sweating-burns-fat",
+    "category": "Weight",
+    "myth": "Sweating a lot in saunas or sweat suits burns fat.",
+    "rating": "false",
+    "fact": "Sweating loses water, not fat. Any weight lost through sweating returns as soon as you rehydrate, and losing too much fluid can be dangerous.",
+    "explanation": "The scales do show a drop after a sauna or sweaty workout, which makes the belief convincing. Exercising in heavy clothing in hot conditions increases the risk of heat exhaustion and heatstroke. How much you sweat is not a measure of how much fat you burn.",
+    "keywords": [
+      "sweating",
+      "sauna",
+      "sweat suit",
+      "sweat fat",
+      "burn fat sweating",
+      "water weight",
+      "waist trainer"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Healthy weight",
+        "url": "https://www.nhs.uk/live-well/healthy-weight/"
+      },
+      {
+        "label": "MedlinePlus — Dehydration",
+        "url": "https://medlineplus.gov/dehydration.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "low-fat-foods-always-healthier",
+    "category": "Weight",
+    "myth": "Low-fat or 'light' products are always healthier and help you lose weight.",
+    "rating": "misleading",
+    "fact": "Some low-fat products have extra sugar or other ingredients added to improve taste, so they may not be lower in calories. Reading nutrition labels gives a better picture than the 'low-fat' claim alone.",
+    "explanation": "Choosing lower-fat versions of some foods, like milk or cooking methods, can reduce saturated fat and calories. But a 'light' label can encourage eating larger amounts. Unsaturated fats from foods like nuts, olive oil and oily fish are part of a healthy diet.",
+    "keywords": [
+      "low fat",
+      "light products",
+      "diet products",
+      "fat free",
+      "reduced fat",
+      "low fat yoghurt",
+      "lite"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Eat well",
+        "url": "https://www.nhs.uk/live-well/eat-well/"
+      },
+      {
+        "label": "MedlinePlus — Dietary fats",
+        "url": "https://medlineplus.gov/dietaryfats.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "crash-diets-best-for-weight-loss",
+    "category": "Weight",
+    "myth": "Crash diets are the best way to lose weight for good.",
+    "rating": "false",
+    "fact": "Very restrictive diets can cause fast initial weight loss, but the weight is often regained once normal eating resumes. Gradual changes to eating and activity that you can keep up are more likely to lead to lasting results.",
+    "explanation": "Rapid results are motivating, which is why crash diets are popular. Severe restriction can cause tiredness, nutrient shortfalls and gallstones. Medically supervised very low-calorie programmes exist for specific situations, such as type 2 diabetes remission, but these include support and monitoring.",
+    "keywords": [
+      "crash diet",
+      "fad diet",
+      "lose weight fast",
+      "starvation diet",
+      "quick weight loss",
+      "very low calorie",
+      "juice diet"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Healthy weight",
+        "url": "https://www.nhs.uk/live-well/healthy-weight/"
+      },
+      {
+        "label": "NIDDK — Weight management",
+        "url": "https://www.niddk.nih.gov/health-information/weight-management"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "calories-dont-matter",
+    "category": "Weight",
+    "myth": "Calories don't matter as long as you eat 'clean' or the right kind of food.",
+    "rating": "false",
+    "fact": "Eating more energy than your body uses leads to weight gain, even if the food is healthy. Food quality matters a lot for health, and some foods are more filling than others, but quantity still counts.",
+    "explanation": "Healthy foods such as nuts, avocados, olive oil and smoothies can be high in calories. Focusing on whole, minimally processed foods often helps people eat less without counting, which may be why the idea feels true. Both quality and quantity matter.",
+    "keywords": [
+      "calories",
+      "calories don't matter",
+      "clean eating",
+      "calorie counting",
+      "calories in calories out",
+      "eat clean",
+      "healthy food weight"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Healthy weight",
+        "url": "https://www.nhs.uk/live-well/healthy-weight/"
+      },
+      {
+        "label": "WHO — Obesity and overweight",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "small-weight-loss-improves-health",
+    "category": "Weight",
+    "myth": "Losing even a small amount of weight can improve your health.",
+    "rating": "true",
+    "fact": "For people living with overweight or obesity, losing around 5 to 10% of body weight can improve blood pressure, cholesterol and blood sugar and lower the risk of type 2 diabetes.",
+    "explanation": "Many people feel discouraged because they are far from their 'ideal' weight. Health benefits start well before that point. Being more active and eating better can also improve health independently of weight change.",
+    "keywords": [
+      "small weight loss",
+      "5 percent weight loss",
+      "10 percent weight loss",
+      "modest weight loss",
+      "lose weight health",
+      "weight loss benefits"
+    ],
+    "sources": [
+      {
+        "label": "NIDDK — Weight management",
+        "url": "https://www.niddk.nih.gov/health-information/weight-management"
+      },
+      {
+        "label": "NHS — Obesity",
+        "url": "https://www.nhs.uk/conditions/obesity/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "starvation-mode-stops-weight-loss",
+    "category": "Weight",
+    "myth": "Eating too little puts your body into 'starvation mode' so you gain weight.",
+    "rating": "misleading",
+    "fact": "When you eat less and lose weight, your body does burn somewhat less energy, which can slow weight loss over time. But eating too little does not cause weight gain on its own.",
+    "explanation": "This idea is used to explain why weight loss stalls. The slowdown is real but modest, and stalls are often due to eating more than people realise or being less active. Very low intakes are still unwise without medical supervision because of nutrient shortfalls and muscle loss.",
+    "keywords": [
+      "starvation mode",
+      "metabolic adaptation",
+      "eating too little",
+      "weight loss plateau",
+      "not eating enough",
+      "stalled weight loss"
+    ],
+    "sources": [
+      {
+        "label": "NIDDK — Weight management",
+        "url": "https://www.niddk.nih.gov/health-information/weight-management"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "apple-cider-vinegar-weight-loss",
+    "category": "Weight",
+    "myth": "Drinking apple cider vinegar melts away fat.",
+    "rating": "false",
+    "fact": "There is no good evidence that apple cider vinegar causes meaningful fat loss. Studies have been small and short, with at most very modest effects.",
+    "explanation": "Apple cider vinegar is one of the most popular weight-loss tips on social media. Drinking it neat can damage teeth and the throat, and large amounts may lower potassium levels. Diluting it in food, such as a salad dressing, is a safer way to enjoy it.",
+    "keywords": [
+      "apple cider vinegar",
+      "acv",
+      "vinegar weight loss",
+      "acv fat",
+      "acv gummies",
+      "melt fat",
+      "vinegar shot"
+    ],
+    "sources": [
+      {
+        "label": "NIH ODS — Dietary supplements for weight loss",
+        "url": "https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "swallowed-gum-stays-seven-years",
+    "category": "Digestion",
+    "myth": "Swallowed chewing gum stays in your stomach for seven years.",
+    "rating": "false",
+    "fact": "Your body cannot digest gum base, but swallowed gum passes through the digestive system and leaves in your stool within days, like other undigestible material.",
+    "explanation": "This is a classic warning to children. Very rarely, swallowing large amounts of gum, especially with other objects, has caused blockages in young children. Swallowing a piece occasionally is not a concern.",
+    "keywords": [
+      "chewing gum",
+      "swallowed gum",
+      "gum seven years",
+      "gum stomach",
+      "swallow gum",
+      "bubble gum"
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus — Digestive diseases",
+        "url": "https://medlineplus.gov/digestivediseases.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "colon-cleanse-removes-toxins",
+    "category": "Digestion",
+    "myth": "Colon cleanses and colonic irrigation remove built-up toxins and waste.",
+    "rating": "false",
+    "fact": "There is no evidence that colon cleansing removes toxins or improves health. The bowel clears itself naturally, and colon cleansing can cause dehydration, mineral imbalances, infections and, rarely, bowel injury.",
+    "explanation": "The idea that waste 'builds up' and poisons the body is an old theory that has been disproven. Bowel preparation before a colonoscopy is a different, medically supervised procedure. Fibre, fluids and activity support healthy bowel function.",
+    "keywords": [
+      "colon cleanse",
+      "colonic",
+      "colonic irrigation",
+      "colon hydrotherapy",
+      "detox",
+      "bowel cleanse",
+      "toxins",
+      "enema"
+    ],
+    "sources": [
+      {
+        "label": "NCCIH — Detoxes and cleanses",
+        "url": "https://www.nccih.nih.gov/health/detoxes-and-cleanses-what-you-need-to-know"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "spicy-food-causes-ulcers",
+    "category": "Digestion",
+    "myth": "Spicy food causes stomach ulcers.",
+    "rating": "false",
+    "fact": "Most stomach ulcers are caused by infection with Helicobacter pylori bacteria or by long-term use of anti-inflammatory painkillers such as ibuprofen and aspirin. Spicy food does not cause ulcers, though it may worsen symptoms in some people.",
+    "explanation": "For decades, ulcers were blamed on diet and stress (stress may worsen symptoms but rarely causes ulcers on its own), until research in the 1980s showed the role of H. pylori, which earned a Nobel Prize. Ulcers caused by H. pylori can usually be cured with antibiotics and acid-reducing medicine. Black or bloody stools or vomiting blood need urgent medical attention.",
+    "keywords": [
+      "spicy food",
+      "ulcer",
+      "stomach ulcer",
+      "peptic ulcer",
+      "chilli",
+      "h pylori",
+      "helicobacter",
+      "spicy stomach",
+      "stress ulcer"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Stomach ulcer",
+        "url": "https://www.nhs.uk/conditions/stomach-ulcer/"
+      },
+      {
+        "label": "NIDDK — Peptic ulcers (stomach ulcers)",
+        "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/peptic-ulcers-stomach-ulcers"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "must-poop-every-day",
+    "category": "Digestion",
+    "myth": "You must have a bowel movement every day to be healthy.",
+    "rating": "false",
+    "fact": "Normal bowel habits vary widely, from about three times a day to three times a week. What matters more is what is normal for you and whether there is a lasting change.",
+    "explanation": "Worrying about daily bowel movements can lead to overuse of laxatives. Constipation usually means passing stools fewer than three times a week, or stools that are hard and difficult to pass. A lasting change in bowel habit, blood in the stool or unexplained weight loss should be checked by a doctor.",
+    "keywords": [
+      "bowel movement",
+      "poop every day",
+      "daily bowel movement",
+      "constipation",
+      "how often poop",
+      "regular bowels",
+      "stool frequency"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Constipation",
+        "url": "https://www.nhs.uk/conditions/constipation/"
+      },
+      {
+        "label": "NIDDK — Constipation",
+        "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/constipation"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "milk-soothes-ulcers",
+    "category": "Digestion",
+    "myth": "Drinking milk soothes and heals stomach ulcers.",
+    "rating": "false",
+    "fact": "Milk may briefly coat the stomach, but it then stimulates more acid production and does not heal ulcers. Ulcers are treated by addressing the cause, such as H. pylori infection or painkiller use, often with acid-reducing medicine.",
+    "explanation": "Milk-based diets were once a standard treatment for ulcers, so the advice lingers in many families. Short-term comfort from milk can make it feel helpful. Anyone with ongoing stomach pain should see a doctor rather than self-treating.",
+    "keywords": [
+      "milk ulcer",
+      "milk stomach",
+      "ulcer remedy",
+      "milk heartburn",
+      "soothe stomach",
+      "stomach ulcer treatment"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Stomach ulcer",
+        "url": "https://www.nhs.uk/conditions/stomach-ulcer/"
+      },
+      {
+        "label": "NIDDK — Peptic ulcers (stomach ulcers)",
+        "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/peptic-ulcers-stomach-ulcers"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "lactose-intolerant-avoid-all-dairy",
+    "category": "Digestion",
+    "myth": "If you're lactose intolerant, you must avoid all dairy.",
+    "rating": "misleading",
+    "fact": "Many people with lactose intolerance can manage small amounts of lactose, especially with meals. Hard cheeses and yoghurt often contain less lactose and may be tolerated, and lactose-free milk is widely available.",
+    "explanation": "Lactose intolerance is different from a milk allergy, which can be serious and does require avoiding milk. Cutting out dairy completely can reduce calcium intake unless other sources are included. A doctor or dietitian can help confirm the diagnosis and plan your diet.",
+    "keywords": [
+      "lactose intolerance",
+      "lactose intolerant",
+      "dairy",
+      "milk intolerance",
+      "lactose free",
+      "dairy free",
+      "cheese lactose"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Lactose intolerance",
+        "url": "https://www.nhs.uk/conditions/lactose-intolerance/"
+      },
+      {
+        "label": "NIDDK — Lactose intolerance",
+        "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/lactose-intolerance"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "fibre-and-fluids-help-constipation",
+    "category": "Digestion",
+    "myth": "Eating more fibre and drinking enough fluids helps prevent constipation.",
+    "rating": "true",
+    "fact": "Increasing fibre from foods such as fruit, vegetables, whole grains and pulses, drinking enough fluids and staying active are first-line ways to prevent and ease constipation.",
+    "explanation": "People often reach for laxatives first. Fibre should be increased gradually to avoid wind and bloating. If constipation persists despite these changes, or comes with blood, weight loss or severe pain, see a doctor.",
+    "keywords": [
+      "fibre",
+      "fiber",
+      "constipation",
+      "prunes",
+      "whole grains",
+      "drink water constipation",
+      "bowel health"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Constipation",
+        "url": "https://www.nhs.uk/conditions/constipation/"
+      },
+      {
+        "label": "MedlinePlus — Dietary fiber",
+        "url": "https://medlineplus.gov/dietaryfiber.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "fruit-after-meal-rots-in-stomach",
+    "category": "Digestion",
+    "myth": "Eating fruit after a meal makes it rot or ferment in your stomach.",
+    "rating": "false",
+    "fact": "Fruit does not rot or ferment in the stomach when eaten with or after a meal. Stomach acid and digestive enzymes break down all foods together, and the stomach's acidity prevents rotting.",
+    "explanation": "This claim is popular in WhatsApp messages and food-combining diets. Some people do feel bloated after certain fruits or large meals, which is a matter of individual tolerance. Fruit can be eaten at any time of day.",
+    "keywords": [
+      "fruit after meal",
+      "fruit empty stomach",
+      "food combining",
+      "fruit ferment",
+      "fruit rots",
+      "when to eat fruit"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Eat well",
+        "url": "https://www.nhs.uk/live-well/eat-well/"
+      },
+      {
+        "label": "MedlinePlus — Digestive diseases",
+        "url": "https://medlineplus.gov/digestivediseases.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "flat-cola-treats-diarrhoea",
+    "category": "Digestion",
+    "myth": "Flat cola or sports drinks are the best treatment for diarrhoea and vomiting.",
+    "rating": "misleading",
+    "fact": "Fizzy drinks and fruit juices contain a lot of sugar and too little salt, and can make diarrhoea worse, especially in children. Oral rehydration solutions are designed to replace lost fluid and salts and are recommended for people at risk of dehydration.",
+    "explanation": "Flat cola is a common home remedy, and for a healthy adult with mild illness small sips of any fluid are better than none. Babies and young children are at higher risk of dehydration and should keep feeding, with oral rehydration solution if advised. Seek help for signs of dehydration such as very little urine, drowsiness or a dry mouth.",
+    "keywords": [
+      "flat cola",
+      "coke diarrhoea",
+      "coke diarrhea",
+      "sports drink",
+      "stomach bug",
+      "rehydration",
+      "oral rehydration solution",
+      "dioralyte"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Diarrhoea and vomiting",
+        "url": "https://www.nhs.uk/conditions/diarrhoea-and-vomiting/"
+      },
+      {
+        "label": "MedlinePlus — Dehydration",
+        "url": "https://medlineplus.gov/dehydration.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "ibs-is-all-in-your-head",
+    "category": "Digestion",
+    "myth": "Irritable bowel syndrome (IBS) is all in your head.",
+    "rating": "false",
+    "fact": "IBS is a common, real condition affecting how the gut and brain communicate, causing symptoms such as stomach pain, bloating, diarrhoea and constipation. Stress can trigger or worsen symptoms but is not the only cause.",
+    "explanation": "Because tests often look normal in IBS, people are sometimes told nothing is wrong. Treatments include diet changes, medicines and psychological therapies, which work on the gut-brain connection rather than meaning symptoms are imagined. Blood in stool, unexplained weight loss or symptoms starting after 50 should be checked by a doctor.",
+    "keywords": [
+      "ibs",
+      "irritable bowel",
+      "irritable bowel syndrome",
+      "ibs in your head",
+      "ibs stress",
+      "bloating",
+      "ibs psychological"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Irritable bowel syndrome (IBS)",
+        "url": "https://www.nhs.uk/conditions/irritable-bowel-syndrome-ibs/"
+      },
+      {
+        "label": "NIDDK — Irritable bowel syndrome",
+        "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/irritable-bowel-syndrome"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]

@@ -1,0 +1,858 @@
+[
+  {
+    "id": "depression-is-weakness",
+    "category": "Mental health",
+    "myth": "Depression is just a sign of weakness and people should snap out of it.",
+    "rating": "false",
+    "fact": "Depression is a common medical condition involving changes in mood, thinking, sleep and energy. It is not a character flaw, and people cannot simply will themselves out of it.",
+    "explanation": "Depression can come from a mix of genetic, biological, psychological and life-event factors, and it can affect anyone. Telling someone to snap out of it can make them feel worse and less likely to seek help. Effective treatments include talking therapies and medication. If you are struggling, talking to a GP, a doctor or a mental health helpline is a good first step.",
+    "keywords": [
+      "depression",
+      "weakness",
+      "weak",
+      "snap out of it",
+      "lazy",
+      "character",
+      "willpower",
+      "just sad",
+      "pull yourself together"
+    ],
+    "sources": [
+      {
+        "label": "NIMH — Depression",
+        "url": "https://www.nimh.nih.gov/health/topics/depression"
+      },
+      {
+        "label": "WHO — Depressive disorder (fact sheet)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/depression"
+      },
+      {
+        "label": "NHS — Mental health",
+        "url": "https://www.nhs.uk/mental-health/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "exercise-helps-depression",
+    "category": "Mental health",
+    "myth": "Regular exercise can help with depression.",
+    "rating": "true",
+    "fact": "Physical activity can reduce symptoms of mild to moderate depression and is recommended alongside other treatments. It also lowers the risk of developing depression.",
+    "explanation": "Exercise does not replace professional care for moderate or severe depression, but it is a useful part of treatment and costs little. Even walking counts, and activity that fits your situation is easier to keep up. If you are struggling, talking to a GP, a doctor or a mental health helpline is a good first step.",
+    "keywords": [
+      "exercise",
+      "depression",
+      "mood",
+      "walking",
+      "physical activity",
+      "workout",
+      "low mood",
+      "mental health"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Physical activity (fact sheet)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
+      },
+      {
+        "label": "NHS — Mental health",
+        "url": "https://www.nhs.uk/mental-health/"
+      },
+      {
+        "label": "NIMH — Depression",
+        "url": "https://www.nimh.nih.gov/health/topics/depression"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "asking-about-suicide-plants-idea",
+    "category": "Mental health",
+    "myth": "Asking someone if they are thinking about suicide puts the idea in their head.",
+    "rating": "false",
+    "fact": "Research shows that asking directly about suicide does not increase suicidal thoughts and may reduce distress. It can open the door to getting help.",
+    "explanation": "Many people fear that raising the subject will make things worse, so they say nothing. A calm, caring question gives the person permission to talk. If someone is in immediate danger, call your local emergency number or a crisis line and stay with them.",
+    "keywords": [
+      "suicide",
+      "asking about suicide",
+      "suicidal",
+      "put the idea",
+      "talking about suicide",
+      "self-harm",
+      "kill themselves",
+      "crisis"
+    ],
+    "sources": [
+      {
+        "label": "NIMH — Suicide prevention",
+        "url": "https://www.nimh.nih.gov/health/topics/suicide-prevention"
+      },
+      {
+        "label": "WHO — Suicide (fact sheet)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/suicide"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "people-who-talk-about-suicide-wont-do-it",
+    "category": "Mental health",
+    "myth": "People who talk about suicide won't actually do it; they just want attention.",
+    "rating": "false",
+    "fact": "Many people who die by suicide have spoken about it beforehand. Talk of suicide should always be taken seriously.",
+    "explanation": "Talking about wanting to die or being a burden are recognised warning signs. Responding with care, listening and helping the person reach support can save a life. If there is immediate danger, contact emergency services or a crisis line.",
+    "keywords": [
+      "suicide",
+      "attention seeking",
+      "talking about suicide",
+      "warning signs",
+      "cry for help",
+      "wont do it",
+      "suicidal"
+    ],
+    "sources": [
+      {
+        "label": "NIMH — Suicide prevention",
+        "url": "https://www.nimh.nih.gov/health/topics/suicide-prevention"
+      },
+      {
+        "label": "WHO — Suicide (fact sheet)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/suicide"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "antidepressants-addictive",
+    "category": "Mental health",
+    "myth": "Antidepressants are addictive like drugs.",
+    "rating": "misleading",
+    "fact": "Antidepressants do not cause craving or the compulsive use seen with addictive drugs. However, stopping them suddenly can cause discontinuation (withdrawal) symptoms, so doses should be reduced gradually with a doctor.",
+    "explanation": "The worry is understandable because discontinuation symptoms such as dizziness, irritability or flu-like feelings are real for some people and can occasionally be long-lasting. That is different from addiction. Never stop an antidepressant abruptly without medical advice.",
+    "keywords": [
+      "antidepressants",
+      "addictive",
+      "addiction",
+      "hooked",
+      "withdrawal",
+      "ssri",
+      "stopping antidepressants",
+      "dependent"
+    ],
+    "sources": [
+      {
+        "label": "NIMH — Mental health medications",
+        "url": "https://www.nimh.nih.gov/health/topics/mental-health-medications"
+      },
+      {
+        "label": "NHS — Mental health",
+        "url": "https://www.nhs.uk/mental-health/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "antidepressants-change-personality",
+    "category": "Mental health",
+    "myth": "Antidepressants change who you are and turn you into a zombie.",
+    "rating": "misleading",
+    "fact": "Antidepressants are meant to relieve symptoms of depression or anxiety, not alter personality. Some people do notice side effects such as emotional numbness, which can often be managed by adjusting the dose or medicine.",
+    "explanation": "When treatment works, people often say they feel more like themselves again. If a medicine makes you feel flat or unlike yourself, tell your prescriber rather than stopping suddenly.",
+    "keywords": [
+      "antidepressants",
+      "personality",
+      "zombie",
+      "numb",
+      "emotionally flat",
+      "change who you are",
+      "ssri",
+      "side effects"
+    ],
+    "sources": [
+      {
+        "label": "NIMH — Mental health medications",
+        "url": "https://www.nimh.nih.gov/health/topics/mental-health-medications"
+      },
+      {
+        "label": "NHS — Mental health",
+        "url": "https://www.nhs.uk/mental-health/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "mental-illness-means-violent",
+    "category": "Mental health",
+    "myth": "People with mental illness are usually violent and dangerous.",
+    "rating": "false",
+    "fact": "Most people with mental health conditions are not violent. They are more likely to be victims of violence than to commit it.",
+    "explanation": "Media stories often link violence with mental illness, which feeds stigma. Factors such as substance misuse and past violence are stronger predictors of violence than a mental health diagnosis alone.",
+    "keywords": [
+      "mental illness",
+      "violent",
+      "dangerous",
+      "psycho",
+      "schizophrenia",
+      "crazy",
+      "stigma",
+      "aggressive"
+    ],
+    "sources": [
+      {
+        "label": "NIMH — Schizophrenia",
+        "url": "https://www.nimh.nih.gov/health/topics/schizophrenia"
+      },
+      {
+        "label": "NHS — Mental health",
+        "url": "https://www.nhs.uk/mental-health/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "mental-illness-never-recover",
+    "category": "Mental health",
+    "myth": "Once you have a mental illness you never get better.",
+    "rating": "false",
+    "fact": "Many people recover fully or manage their symptoms well with treatment and support. Recovery is common, though it can take time and may involve setbacks.",
+    "explanation": "Some conditions are long-term, but treatment, therapy, medication and social support can let people live full lives. Getting help early generally improves outcomes. If you are struggling, talking to a GP, a doctor or a mental health helpline is a good first step.",
+    "keywords": [
+      "mental illness",
+      "recover",
+      "recovery",
+      "never get better",
+      "permanent",
+      "cured",
+      "forever",
+      "hopeless"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Mental health",
+        "url": "https://www.nhs.uk/mental-health/"
+      },
+      {
+        "label": "NIMH — Psychotherapies",
+        "url": "https://www.nimh.nih.gov/health/topics/psychotherapies"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "therapy-only-for-serious-illness",
+    "category": "Mental health",
+    "myth": "Therapy is only for people who are seriously mentally ill.",
+    "rating": "false",
+    "fact": "Talking therapies help with a wide range of problems, including stress, anxiety, low mood, grief and relationship difficulties. You do not need a serious diagnosis to benefit.",
+    "explanation": "Approaches such as cognitive behavioural therapy have strong evidence for common problems. Many health services let people refer themselves for talking therapy.",
+    "keywords": [
+      "therapy",
+      "counselling",
+      "counseling",
+      "psychotherapy",
+      "cbt",
+      "therapist",
+      "talking therapy",
+      "only for crazy"
+    ],
+    "sources": [
+      {
+        "label": "NIMH — Psychotherapies",
+        "url": "https://www.nimh.nih.gov/health/topics/psychotherapies"
+      },
+      {
+        "label": "NHS — Mental health",
+        "url": "https://www.nhs.uk/mental-health/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "children-cannot-get-depression",
+    "category": "Mental health",
+    "myth": "Children and teenagers can't really get depression; it's just a phase.",
+    "rating": "false",
+    "fact": "Children and adolescents can develop depression, and it is one of the leading causes of illness in young people. It can look like irritability, withdrawal or falling school performance rather than sadness.",
+    "explanation": "Moodiness is normal in adolescence, which is why depression in young people is often missed. Persistent changes lasting more than a couple of weeks are worth discussing with a doctor. Young people in crisis should be helped to reach urgent support.",
+    "keywords": [
+      "children",
+      "teenagers",
+      "teens",
+      "depression",
+      "just a phase",
+      "moody",
+      "kids depression",
+      "adolescent"
+    ],
+    "sources": [
+      {
+        "label": "NIMH — Depression",
+        "url": "https://www.nimh.nih.gov/health/topics/depression"
+      },
+      {
+        "label": "WHO — Depressive disorder (fact sheet)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/depression"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "seasonal-affective-disorder-real",
+    "category": "Mental health",
+    "myth": "Winter depression (seasonal affective disorder) is a real condition.",
+    "rating": "true",
+    "fact": "Seasonal affective disorder is a recognised type of depression that comes and goes with the seasons, most often starting in autumn or winter.",
+    "explanation": "Reduced daylight is thought to affect the body clock and mood-related brain chemistry. Treatments include light therapy, talking therapy and antidepressants. Feeling a bit low in winter is common; persistent symptoms deserve a check-up.",
+    "keywords": [
+      "seasonal affective disorder",
+      "sad",
+      "winter depression",
+      "winter blues",
+      "dark months",
+      "light therapy",
+      "seasons"
+    ],
+    "sources": [
+      {
+        "label": "NIMH — Seasonal affective disorder",
+        "url": "https://www.nimh.nih.gov/health/publications/seasonal-affective-disorder"
+      },
+      {
+        "label": "NHS — Mental health",
+        "url": "https://www.nhs.uk/mental-health/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "ocd-means-tidy",
+    "category": "Mental health",
+    "myth": "OCD just means being very neat and tidy.",
+    "rating": "false",
+    "fact": "Obsessive-compulsive disorder is a mental health condition with unwanted, distressing thoughts (obsessions) and repetitive behaviours (compulsions) that take up a lot of time and interfere with life.",
+    "explanation": "Liking things orderly is a personality trait, not OCD. Obsessions in OCD can be about contamination, harm, doubt or many other themes, and treatments such as CBT with exposure and response prevention help.",
+    "keywords": [
+      "ocd",
+      "obsessive compulsive",
+      "neat",
+      "tidy",
+      "clean freak",
+      "perfectionist",
+      "organised",
+      "a bit ocd"
+    ],
+    "sources": [
+      {
+        "label": "NIMH — Obsessive-compulsive disorder",
+        "url": "https://www.nimh.nih.gov/health/topics/obsessive-compulsive-disorder-ocd"
+      },
+      {
+        "label": "NHS — Mental health",
+        "url": "https://www.nhs.uk/mental-health/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "bipolar-just-mood-swings",
+    "category": "Mental health",
+    "myth": "Bipolar disorder is just having mood swings like everyone does.",
+    "rating": "false",
+    "fact": "Bipolar disorder involves distinct episodes of mania or hypomania and depression that last days to weeks and affect energy, sleep and behaviour. This is very different from ordinary ups and downs.",
+    "explanation": "Everyday mood changes are normal. Bipolar disorder is a long-term condition that usually needs medical treatment, and with the right support many people do well.",
+    "keywords": [
+      "bipolar",
+      "mood swings",
+      "manic",
+      "mania",
+      "manic depression",
+      "moody",
+      "ups and downs"
+    ],
+    "sources": [
+      {
+        "label": "NIMH — Bipolar disorder",
+        "url": "https://www.nimh.nih.gov/health/topics/bipolar-disorder"
+      },
+      {
+        "label": "NHS — Mental health",
+        "url": "https://www.nhs.uk/mental-health/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "eating-disorders-only-young-women",
+    "category": "Mental health",
+    "myth": "Only young women get eating disorders.",
+    "rating": "false",
+    "fact": "Eating disorders affect people of all genders, ages, body sizes and backgrounds. Men and older adults are often under-diagnosed.",
+    "explanation": "The stereotype can stop people from recognising a problem or seeking help. A person does not have to look underweight to have a serious eating disorder. Early treatment improves recovery.",
+    "keywords": [
+      "eating disorder",
+      "anorexia",
+      "bulimia",
+      "binge eating",
+      "only girls",
+      "men",
+      "boys",
+      "young women"
+    ],
+    "sources": [
+      {
+        "label": "NIMH — Eating disorders",
+        "url": "https://www.nimh.nih.gov/health/topics/eating-disorders"
+      },
+      {
+        "label": "NHS — Mental health",
+        "url": "https://www.nhs.uk/mental-health/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "ptsd-only-soldiers",
+    "category": "Mental health",
+    "myth": "Only soldiers get PTSD.",
+    "rating": "false",
+    "fact": "Post-traumatic stress disorder can follow any traumatic event, such as an assault, accident, disaster, sudden loss or difficult childbirth.",
+    "explanation": "PTSD was first widely studied in veterans, which is why the link persists. Not everyone exposed to trauma develops PTSD, and effective therapies exist.",
+    "keywords": [
+      "ptsd",
+      "trauma",
+      "soldiers",
+      "veterans",
+      "war",
+      "flashbacks",
+      "post traumatic stress"
+    ],
+    "sources": [
+      {
+        "label": "NIMH — Post-traumatic stress disorder",
+        "url": "https://www.nimh.nih.gov/health/topics/post-traumatic-stress-disorder-ptsd"
+      },
+      {
+        "label": "NHS — Mental health",
+        "url": "https://www.nhs.uk/mental-health/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "adhd-not-real",
+    "category": "Mental health",
+    "myth": "ADHD isn't real; it's just bad behaviour or bad parenting.",
+    "rating": "false",
+    "fact": "ADHD is a well-studied neurodevelopmental condition affecting attention, activity and impulse control. It is not caused by bad parenting, though a supportive environment helps.",
+    "explanation": "ADHD is strongly influenced by genetics and often continues into adulthood. Diagnosis needs a careful assessment, and treatment can include behavioural support, education adjustments and medication.",
+    "keywords": [
+      "adhd",
+      "add",
+      "not real",
+      "bad parenting",
+      "naughty",
+      "hyperactive",
+      "attention deficit",
+      "made up"
+    ],
+    "sources": [
+      {
+        "label": "NIMH — ADHD",
+        "url": "https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd"
+      },
+      {
+        "label": "NHS — Mental health",
+        "url": "https://www.nhs.uk/mental-health/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "catch-up-sleep-weekends",
+    "category": "Sleep",
+    "myth": "You can fully catch up on lost sleep at the weekend.",
+    "rating": "misleading",
+    "fact": "Extra sleep can ease some short-term sleepiness, but regularly sleeping too little during the week and catching up at weekends does not fully undo the effects on attention, metabolism and health.",
+    "explanation": "A lie-in can help after a single short night. Irregular sleep times can also shift your body clock, making Monday harder. A consistent schedule with enough sleep each night works best.",
+    "keywords": [
+      "catch up on sleep",
+      "weekend",
+      "lie in",
+      "sleep debt",
+      "sleep in",
+      "recover sleep",
+      "oversleep"
+    ],
+    "sources": [
+      {
+        "label": "CDC — Sleep",
+        "url": "https://www.cdc.gov/sleep/"
+      },
+      {
+        "label": "Sleep Foundation",
+        "url": "https://www.sleepfoundation.org/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "alcohol-helps-sleep",
+    "category": "Sleep",
+    "myth": "A drink before bed helps you sleep better.",
+    "rating": "misleading",
+    "fact": "Alcohol may help you fall asleep faster, but it disrupts sleep later in the night, reduces sleep quality and can worsen snoring and sleep apnoea.",
+    "explanation": "Because the first effect is drowsiness, many people believe it helps. As alcohol wears off, sleep becomes lighter and more broken. Using alcohol to sleep can also lead to dependence.",
+    "keywords": [
+      "alcohol",
+      "nightcap",
+      "wine",
+      "drink before bed",
+      "sleep",
+      "beer",
+      "whisky",
+      "sleep better"
+    ],
+    "sources": [
+      {
+        "label": "Sleep Foundation",
+        "url": "https://www.sleepfoundation.org/"
+      },
+      {
+        "label": "NHS — Insomnia",
+        "url": "https://www.nhs.uk/conditions/insomnia/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "waking-sleepwalker-dangerous",
+    "category": "Sleep",
+    "myth": "Waking a sleepwalker can harm them or give them a heart attack.",
+    "rating": "false",
+    "fact": "Waking a sleepwalker is not dangerous, although they may be confused or startled. It is usually best to guide them gently back to bed.",
+    "explanation": "The bigger risk is injury while sleepwalking, such as falls or wandering outside. Securing doors and windows and removing hazards helps. Frequent episodes or risky behaviour are worth discussing with a doctor.",
+    "keywords": [
+      "sleepwalking",
+      "sleepwalker",
+      "wake",
+      "waking",
+      "dangerous",
+      "heart attack",
+      "sleep walking"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Sleepwalking",
+        "url": "https://www.nhs.uk/conditions/sleepwalking/"
+      },
+      {
+        "label": "Sleep Foundation",
+        "url": "https://www.sleepfoundation.org/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "older-people-need-less-sleep",
+    "category": "Sleep",
+    "myth": "Older people need less sleep.",
+    "rating": "false",
+    "fact": "Older adults need about the same amount of sleep as younger adults, around seven to nine hours. Sleep tends to become lighter and more broken with age, which can make it harder to get.",
+    "explanation": "Changes in body clock, health conditions, medicines and needing the toilet at night can reduce sleep in later life. Ongoing poor sleep is not something to accept as normal and can often be improved.",
+    "keywords": [
+      "older people",
+      "elderly",
+      "ageing",
+      "aging",
+      "need less sleep",
+      "seniors",
+      "old age sleep"
+    ],
+    "sources": [
+      {
+        "label": "National Institute on Aging — Health information",
+        "url": "https://www.nia.nih.gov/health"
+      },
+      {
+        "label": "CDC — Sleep",
+        "url": "https://www.cdc.gov/sleep/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "train-yourself-less-sleep",
+    "category": "Sleep",
+    "myth": "You can train your body to function well on five hours of sleep.",
+    "rating": "false",
+    "fact": "Most adults need at least seven hours of sleep. People who regularly sleep less usually adapt to feeling tired but still show reduced attention, memory and reaction time.",
+    "explanation": "Chronic short sleep is linked to higher risk of obesity, diabetes, heart disease and accidents. A very small number of people naturally need less sleep, but this cannot be learned.",
+    "keywords": [
+      "five hours",
+      "5 hours",
+      "less sleep",
+      "train yourself",
+      "short sleep",
+      "used to it",
+      "sleep deprivation"
+    ],
+    "sources": [
+      {
+        "label": "CDC — Sleep",
+        "url": "https://www.cdc.gov/sleep/"
+      },
+      {
+        "label": "MedlinePlus — Healthy sleep",
+        "url": "https://medlineplus.gov/healthysleep.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "snoring-always-harmless",
+    "category": "Sleep",
+    "myth": "Snoring is always harmless.",
+    "rating": "misleading",
+    "fact": "Snoring is common and often harmless, but loud snoring with pauses in breathing, gasping or daytime sleepiness can be a sign of obstructive sleep apnoea, which needs medical attention.",
+    "explanation": "Untreated sleep apnoea is linked to high blood pressure and accidents from sleepiness. If a partner notices you stop breathing at night, or you are very tired during the day, see a doctor.",
+    "keywords": [
+      "snoring",
+      "snore",
+      "harmless",
+      "sleep apnoea",
+      "sleep apnea",
+      "stop breathing",
+      "gasping"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Snoring",
+        "url": "https://www.nhs.uk/conditions/snoring/"
+      },
+      {
+        "label": "NHS — Obstructive sleep apnoea",
+        "url": "https://www.nhs.uk/conditions/obstructive-sleep-apnoea/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "cheese-causes-nightmares",
+    "category": "Sleep",
+    "myth": "Eating cheese before bed gives you nightmares.",
+    "rating": "false",
+    "fact": "There is no good scientific evidence that cheese causes nightmares.",
+    "explanation": "Heavy or rich meals close to bedtime can cause indigestion that disturbs sleep, which may explain the belief. Stress, some medicines and poor sleep are more common causes of bad dreams.",
+    "keywords": [
+      "cheese",
+      "nightmares",
+      "bad dreams",
+      "eating before bed",
+      "vivid dreams",
+      "late snack"
+    ],
+    "sources": [
+      {
+        "label": "Sleep Foundation",
+        "url": "https://www.sleepfoundation.org/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "screens-before-bed-affect-sleep",
+    "category": "Sleep",
+    "myth": "Using phones and screens in bed can make it harder to sleep.",
+    "rating": "mostly-true",
+    "fact": "Using screens before bed is linked to later bedtimes and poorer sleep, partly because content keeps the brain alert and bright light can delay the body clock.",
+    "explanation": "The effect of screen light alone may be smaller than often claimed; the stimulating content and lost sleep time matter too. Putting devices away for a while before bed is a common recommendation.",
+    "keywords": [
+      "phone",
+      "screens",
+      "blue light",
+      "bed",
+      "scrolling",
+      "tablet",
+      "sleep",
+      "night mode"
+    ],
+    "sources": [
+      {
+        "label": "CDC — Sleep",
+        "url": "https://www.cdc.gov/sleep/"
+      },
+      {
+        "label": "Sleep Foundation",
+        "url": "https://www.sleepfoundation.org/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "napping-always-bad",
+    "category": "Sleep",
+    "myth": "Napping during the day always ruins your night's sleep.",
+    "rating": "false",
+    "fact": "Short naps of around 20 to 30 minutes early in the afternoon can improve alertness without harming night sleep for most people.",
+    "explanation": "Long or late naps can make it harder to fall asleep at night, so people with insomnia are often advised to avoid them. A strong need to nap every day can also be a sign of poor night sleep worth looking into.",
+    "keywords": [
+      "nap",
+      "napping",
+      "daytime sleep",
+      "power nap",
+      "siesta",
+      "ruins sleep"
+    ],
+    "sources": [
+      {
+        "label": "Sleep Foundation",
+        "url": "https://www.sleepfoundation.org/"
+      },
+      {
+        "label": "CDC — Sleep",
+        "url": "https://www.cdc.gov/sleep/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "brain-switches-off-during-sleep",
+    "category": "Sleep",
+    "myth": "Your brain switches off while you sleep.",
+    "rating": "false",
+    "fact": "The brain stays very active during sleep, cycling through stages that are important for memory, learning and clearing waste products.",
+    "explanation": "Sleep is an active process, not just rest. During REM sleep, brain activity can be similar to being awake. This is one reason sleep is so important for thinking and mood.",
+    "keywords": [
+      "brain",
+      "sleep",
+      "switches off",
+      "shuts down",
+      "rem",
+      "brain rest",
+      "inactive"
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus — Healthy sleep",
+        "url": "https://medlineplus.gov/healthysleep.html"
+      },
+      {
+        "label": "Sleep Foundation",
+        "url": "https://www.sleepfoundation.org/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "stay-in-bed-until-asleep",
+    "category": "Sleep",
+    "myth": "If you can't sleep, it's best to stay in bed until you drift off.",
+    "rating": "false",
+    "fact": "Sleep experts usually advise getting up if you cannot sleep after a while, doing something calm in dim light, and returning to bed when sleepy.",
+    "explanation": "Lying awake for long periods can teach the brain to link the bed with frustration. This advice is part of cognitive behavioural therapy for insomnia, which is the recommended first treatment for long-term insomnia.",
+    "keywords": [
+      "cant sleep",
+      "insomnia",
+      "lying awake",
+      "stay in bed",
+      "toss and turn",
+      "awake at night"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Insomnia",
+        "url": "https://www.nhs.uk/conditions/insomnia/"
+      },
+      {
+        "label": "Sleep Foundation",
+        "url": "https://www.sleepfoundation.org/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "teenagers-lazy-sleeping-late",
+    "category": "Sleep",
+    "myth": "Teenagers who sleep late are just lazy.",
+    "rating": "false",
+    "fact": "During adolescence the body clock naturally shifts later, making it harder for teenagers to fall asleep early and wake early. Teens also need around eight to ten hours of sleep.",
+    "explanation": "Early school starts combined with a later body clock leave many teenagers short of sleep, which affects mood and learning. Regular sleep times and limiting late-night screens can help.",
+    "keywords": [
+      "teenagers",
+      "teens",
+      "lazy",
+      "sleep late",
+      "body clock",
+      "adolescents",
+      "lie in"
+    ],
+    "sources": [
+      {
+        "label": "CDC — Sleep",
+        "url": "https://www.cdc.gov/sleep/"
+      },
+      {
+        "label": "Sleep Foundation",
+        "url": "https://www.sleepfoundation.org/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "melatonin-harmless-for-everyone",
+    "category": "Sleep",
+    "myth": "Melatonin is a natural, harmless sleeping pill everyone can take.",
+    "rating": "misleading",
+    "fact": "Melatonin can help with some sleep problems, such as jet lag or certain body clock disorders, but its effect on general insomnia is modest. It can cause side effects and interact with medicines.",
+    "explanation": "In some countries melatonin is prescription-only; in others it is sold as a supplement whose actual content can differ from the label. Children and pregnant people should only use it on medical advice.",
+    "keywords": [
+      "melatonin",
+      "sleeping pill",
+      "sleep aid",
+      "natural",
+      "supplement",
+      "jet lag",
+      "gummies"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Insomnia",
+        "url": "https://www.nhs.uk/conditions/insomnia/"
+      },
+      {
+        "label": "Sleep Foundation",
+        "url": "https://www.sleepfoundation.org/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "short-sleep-harms-health",
+    "category": "Sleep",
+    "myth": "Regularly not getting enough sleep is bad for your health.",
+    "rating": "true",
+    "fact": "Ongoing short sleep is linked to higher risks of obesity, type 2 diabetes, heart disease, depression and accidents.",
+    "explanation": "Adults generally need at least seven hours a night. Occasional poor nights are normal, but if you regularly struggle to sleep or feel exhausted, it is worth speaking to a doctor.",
+    "keywords": [
+      "sleep deprivation",
+      "not enough sleep",
+      "lack of sleep",
+      "bad for you",
+      "tired",
+      "short sleep",
+      "sleep loss"
+    ],
+    "sources": [
+      {
+        "label": "CDC — Sleep",
+        "url": "https://www.cdc.gov/sleep/"
+      },
+      {
+        "label": "MedlinePlus — Healthy sleep",
+        "url": "https://medlineplus.gov/healthysleep.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]

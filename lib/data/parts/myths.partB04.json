@@ -1,0 +1,680 @@
+[
+  {
+    "id": "menopause-just-hot-flushes",
+    "category": "Women's health",
+    "myth": "Menopause is just hot flushes and periods stopping.",
+    "rating": "false",
+    "fact": "Menopause can bring a wide range of symptoms, including sleep problems, low mood, anxiety, brain fog, joint aches, vaginal dryness and reduced sex drive, as well as hot flushes.",
+    "explanation": "Lower oestrogen after menopause also increases the risk of osteoporosis. Symptoms vary a lot between people; treatments including hormone replacement therapy and non-hormonal options can help.",
+    "keywords": [
+      "menopause",
+      "hot flushes",
+      "hot flashes",
+      "symptoms",
+      "brain fog",
+      "perimenopause",
+      "night sweats",
+      "mood"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Menopause",
+        "url": "https://www.nhs.uk/conditions/menopause/"
+      },
+      {
+        "label": "MedlinePlus — Menopause",
+        "url": "https://medlineplus.gov/menopause.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "hrt-always-causes-breast-cancer",
+    "category": "Women's health",
+    "myth": "HRT gives you breast cancer.",
+    "rating": "misleading",
+    "fact": "Some types of hormone replacement therapy slightly increase the risk of breast cancer, depending on the type and how long it is taken. For many people the benefits for symptoms outweigh the small risks.",
+    "explanation": "Oestrogen-only HRT carries little or no increase in breast cancer risk, and vaginal oestrogen is not thought to increase it. Risks and benefits depend on age, health and family history, so the decision is best made with a doctor.",
+    "keywords": [
+      "hrt",
+      "hormone replacement therapy",
+      "breast cancer",
+      "menopause",
+      "oestrogen",
+      "estrogen",
+      "risk"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Menopause",
+        "url": "https://www.nhs.uk/conditions/menopause/"
+      },
+      {
+        "label": "National Cancer Institute — Breast cancer",
+        "url": "https://www.cancer.gov/types/breast"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "menopause-only-after-50",
+    "category": "Women's health",
+    "myth": "Menopause only happens in your fifties.",
+    "rating": "false",
+    "fact": "The average age of menopause is around 51, but it can happen earlier. Menopause before 45 is called early menopause and before 40 is premature ovarian insufficiency.",
+    "explanation": "Perimenopause symptoms can start several years before periods stop. Early menopause can also follow surgery or cancer treatment. Anyone with symptoms at a younger age should see a doctor, as treatment may protect bones and heart.",
+    "keywords": [
+      "menopause",
+      "age",
+      "early menopause",
+      "perimenopause",
+      "forties",
+      "premature ovarian insufficiency",
+      "too young"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Menopause",
+        "url": "https://www.nhs.uk/conditions/menopause/"
+      },
+      {
+        "label": "MedlinePlus — Menopause",
+        "url": "https://medlineplus.gov/menopause.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "no-pregnancy-in-perimenopause",
+    "category": "Women's health",
+    "myth": "You can't get pregnant once your periods become irregular in perimenopause.",
+    "rating": "false",
+    "fact": "Pregnancy is still possible during perimenopause. Contraception is usually advised until periods have stopped for one year if over 50, or two years if under 50.",
+    "explanation": "Ovulation can still happen even when periods are irregular. Some forms of contraception can also help manage perimenopausal symptoms.",
+    "keywords": [
+      "perimenopause",
+      "pregnant",
+      "irregular periods",
+      "contraception",
+      "menopause",
+      "change of life",
+      "still fertile"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Menopause",
+        "url": "https://www.nhs.uk/conditions/menopause/"
+      },
+      {
+        "label": "NHS — Contraception",
+        "url": "https://www.nhs.uk/contraception/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "periods-sync-up",
+    "category": "Women's health",
+    "myth": "Women who live together get their periods in sync.",
+    "rating": "false",
+    "fact": "Larger and better-designed studies have not found that menstrual cycles synchronise when people live together.",
+    "explanation": "Cycles vary in length, so periods of people living together will overlap by chance from time to time, which makes syncing seem real. The idea came from a 1970s study that later research could not reliably confirm.",
+    "keywords": [
+      "period sync",
+      "periods",
+      "synchronise",
+      "menstrual cycle",
+      "roommates",
+      "living together",
+      "sync"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Periods",
+        "url": "https://www.nhs.uk/conditions/periods/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "no-exercise-swimming-on-period",
+    "category": "Women's health",
+    "myth": "You shouldn't exercise or swim during your period.",
+    "rating": "false",
+    "fact": "It is safe to exercise and swim during a period. Physical activity may even help ease period pain for some people.",
+    "explanation": "Tampons or menstrual cups can be used for swimming. Rest is fine too if you feel unwell; listen to your body.",
+    "keywords": [
+      "period",
+      "exercise",
+      "swimming",
+      "menstruation",
+      "sport",
+      "tampon",
+      "gym",
+      "time of month"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Periods",
+        "url": "https://www.nhs.uk/conditions/periods/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "tampons-affect-virginity",
+    "category": "Women's health",
+    "myth": "Using tampons means you lose your virginity.",
+    "rating": "false",
+    "fact": "Using a tampon has nothing to do with virginity, which is a social idea about sexual activity, not a physical state that a tampon can change.",
+    "explanation": "The hymen naturally varies and often has an opening; it can stretch with everyday activities. Tampons are safe for most people from their first period, as long as they are changed regularly to reduce the rare risk of toxic shock syndrome.",
+    "keywords": [
+      "tampons",
+      "virginity",
+      "virgin",
+      "hymen",
+      "first period",
+      "teenager",
+      "menstrual cup"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Periods",
+        "url": "https://www.nhs.uk/conditions/periods/"
+      },
+      {
+        "label": "ACOG — Women's health",
+        "url": "https://www.acog.org/womens-health"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "period-pain-always-normal",
+    "category": "Women's health",
+    "myth": "Severe period pain is always normal and you just have to put up with it.",
+    "rating": "misleading",
+    "fact": "Mild to moderate period pain is common, but pain that stops you doing daily activities is not something to ignore. It can be a sign of conditions such as endometriosis or adenomyosis.",
+    "explanation": "Endometriosis often takes years to diagnose partly because severe pain is dismissed as normal. Pain relief, hormonal treatments and other options are available, so see a doctor if pain is severe or getting worse.",
+    "keywords": [
+      "period pain",
+      "cramps",
+      "endometriosis",
+      "severe pain",
+      "painful periods",
+      "dysmenorrhoea",
+      "normal"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Endometriosis",
+        "url": "https://www.nhs.uk/conditions/endometriosis/"
+      },
+      {
+        "label": "NHS — Periods",
+        "url": "https://www.nhs.uk/conditions/periods/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "hpv-vaccine-no-smear-needed",
+    "category": "Women's health",
+    "myth": "If you've had the HPV vaccine, you don't need cervical screening.",
+    "rating": "false",
+    "fact": "People who have had the HPV vaccine should still attend cervical screening when invited. The vaccine does not protect against every high-risk HPV type.",
+    "explanation": "The HPV vaccine greatly lowers the risk of cervical cancer, and screening catches changes the vaccine does not prevent. Together they offer the best protection.",
+    "keywords": [
+      "hpv vaccine",
+      "smear test",
+      "cervical screening",
+      "pap smear",
+      "cervical cancer",
+      "vaccinated",
+      "skip"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Cervical screening",
+        "url": "https://www.nhs.uk/conditions/cervical-screening/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "douching-keeps-vagina-clean",
+    "category": "Women's health",
+    "myth": "Vaginal douching or special washes keep the vagina clean and healthy.",
+    "rating": "false",
+    "fact": "The vagina cleans itself. Douching and perfumed washes can upset its natural balance and increase the risk of infections such as bacterial vaginosis.",
+    "explanation": "Washing the outside area (vulva) with water or a mild unperfumed soap is enough. Changes in discharge, smell or itching are worth checking with a doctor or sexual health clinic.",
+    "keywords": [
+      "douching",
+      "vaginal wash",
+      "feminine hygiene",
+      "clean",
+      "odour",
+      "bacterial vaginosis",
+      "intimate wash"
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus — Women's health",
+        "url": "https://medlineplus.gov/womenshealth.html"
+      },
+      {
+        "label": "ACOG — Women's health",
+        "url": "https://www.acog.org/womens-health"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "pcos-cannot-get-pregnant",
+    "category": "Women's health",
+    "myth": "Women with PCOS can't get pregnant.",
+    "rating": "false",
+    "fact": "Many people with polycystic ovary syndrome get pregnant, sometimes with help from lifestyle changes or fertility treatment.",
+    "explanation": "PCOS can make ovulation irregular, which may make conceiving take longer. Treatments to encourage ovulation are often effective. PCOS does not mean you can't get pregnant, so contraception is still needed if you don't want a pregnancy.",
+    "keywords": [
+      "pcos",
+      "polycystic ovaries",
+      "pregnant",
+      "infertile",
+      "fertility",
+      "conceive",
+      "polycystic ovary syndrome"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Polycystic ovary syndrome",
+        "url": "https://www.nhs.uk/conditions/polycystic-ovary-syndrome-pcos/"
+      },
+      {
+        "label": "NHS — Infertility",
+        "url": "https://www.nhs.uk/conditions/infertility/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "breast-cancer-only-family-history",
+    "category": "Women's health",
+    "myth": "You only get breast cancer if it runs in your family.",
+    "rating": "false",
+    "fact": "Most people diagnosed with breast cancer do not have a strong family history of it. Age is the biggest risk factor.",
+    "explanation": "Inherited gene changes such as BRCA1 and BRCA2 account for a small proportion of cases. Being breast aware and attending screening when invited is important for everyone.",
+    "keywords": [
+      "breast cancer",
+      "family history",
+      "genetic",
+      "brca",
+      "runs in family",
+      "risk",
+      "lump"
+    ],
+    "sources": [
+      {
+        "label": "National Cancer Institute — Breast cancer",
+        "url": "https://www.cancer.gov/types/breast"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "erectile-dysfunction-normal-ageing",
+    "category": "Men's health",
+    "myth": "Erectile dysfunction is just a normal part of getting old that you have to accept.",
+    "rating": "false",
+    "fact": "Erectile dysfunction becomes more common with age, but it is not inevitable and it is often treatable at any age.",
+    "explanation": "Causes include reduced blood flow, diabetes, medicines, stress and relationship issues. Treatments include lifestyle changes, medicines and talking therapies, so it is worth speaking to a doctor.",
+    "keywords": [
+      "erectile dysfunction",
+      "impotence",
+      "ed",
+      "getting old",
+      "erection problems",
+      "age",
+      "viagra"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Erectile dysfunction",
+        "url": "https://www.nhs.uk/conditions/erectile-dysfunction/"
+      },
+      {
+        "label": "MedlinePlus — Men's health",
+        "url": "https://medlineplus.gov/menshealth.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "ed-early-warning-heart-disease",
+    "category": "Men's health",
+    "myth": "Erectile dysfunction can be an early warning sign of heart disease.",
+    "rating": "mostly-true",
+    "fact": "Erectile dysfunction is often caused by reduced blood flow, and it can appear before other signs of narrowed arteries. Doctors may check blood pressure, cholesterol and blood sugar.",
+    "explanation": "Not everyone with ED has heart disease, and there are many other causes. It is a good reason to have a health check rather than a cause for alarm.",
+    "keywords": [
+      "erectile dysfunction",
+      "heart disease",
+      "warning sign",
+      "impotence",
+      "blood flow",
+      "arteries",
+      "cholesterol"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Erectile dysfunction",
+        "url": "https://www.nhs.uk/conditions/erectile-dysfunction/"
+      },
+      {
+        "label": "Mayo Clinic",
+        "url": "https://www.mayoclinic.org/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "prostate-cancer-always-symptoms",
+    "category": "Men's health",
+    "myth": "If you had prostate cancer, you'd definitely notice symptoms.",
+    "rating": "false",
+    "fact": "Early prostate cancer often causes no symptoms. Urinary symptoms are more commonly caused by a non-cancerous enlarged prostate.",
+    "explanation": "Because early disease is silent, men with concerns, a family history or higher risk can discuss testing with a doctor, including the pros and cons of a PSA test.",
+    "keywords": [
+      "prostate cancer",
+      "symptoms",
+      "psa",
+      "peeing",
+      "urination",
+      "enlarged prostate",
+      "silent"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Prostate cancer",
+        "url": "https://www.nhs.uk/conditions/prostate-cancer/"
+      },
+      {
+        "label": "National Cancer Institute — Prostate cancer",
+        "url": "https://www.cancer.gov/types/prostate"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "only-old-men-prostate-cancer",
+    "category": "Men's health",
+    "myth": "Only very old men need to think about prostate cancer.",
+    "rating": "misleading",
+    "fact": "Prostate cancer is most common in men over 50 and risk rises with age, but it can occur earlier, particularly in men with a family history or of Black ethnicity.",
+    "explanation": "Men in higher-risk groups are often advised to talk to a doctor about testing from a younger age. Many prostate cancers grow slowly, so decisions about testing and treatment are individual.",
+    "keywords": [
+      "prostate cancer",
+      "old men",
+      "age",
+      "family history",
+      "black men",
+      "over 50",
+      "risk"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Prostate cancer",
+        "url": "https://www.nhs.uk/conditions/prostate-cancer/"
+      },
+      {
+        "label": "National Cancer Institute — Prostate cancer",
+        "url": "https://www.cancer.gov/types/prostate"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "testicular-cancer-older-men",
+    "category": "Men's health",
+    "myth": "Testicular cancer only affects older men.",
+    "rating": "false",
+    "fact": "Testicular cancer is most common in younger men, roughly between 15 and 49 years old.",
+    "explanation": "It is one of the most treatable cancers, especially when found early. A painless lump, swelling or change in a testicle should be checked by a doctor.",
+    "keywords": [
+      "testicular cancer",
+      "testicles",
+      "lump",
+      "young men",
+      "balls",
+      "self check",
+      "older men"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Testicular cancer",
+        "url": "https://www.nhs.uk/conditions/testicular-cancer/"
+      },
+      {
+        "label": "National Cancer Institute — Testicular cancer",
+        "url": "https://www.cancer.gov/types/testicular"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "male-menopause",
+    "category": "Men's health",
+    "myth": "Men go through a menopause just like women.",
+    "rating": "misleading",
+    "fact": "Testosterone falls gradually in men, by a small amount each year from around 30 to 40, rather than dropping suddenly as oestrogen does at menopause. True testosterone deficiency is uncommon.",
+    "explanation": "Symptoms often blamed on a 'male menopause', such as low mood, tiredness or low sex drive, are frequently linked to stress, lifestyle, depression or other health problems. A doctor can check what is going on.",
+    "keywords": [
+      "male menopause",
+      "andropause",
+      "testosterone",
+      "men",
+      "midlife",
+      "low t",
+      "mid-life crisis"
+    ],
+    "sources": [
+      {
+        "label": "NHS — The 'male menopause'",
+        "url": "https://www.nhs.uk/conditions/male-menopause/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "vasectomy-lowers-sex-drive",
+    "category": "Men's health",
+    "myth": "A vasectomy will lower your sex drive or affect your erections.",
+    "rating": "false",
+    "fact": "A vasectomy does not affect testosterone, sex drive, erections or the amount of fluid ejaculated in any noticeable way.",
+    "explanation": "The procedure only blocks the tubes that carry sperm. It is meant to be permanent, so it is important to be sure before having it.",
+    "keywords": [
+      "vasectomy",
+      "sex drive",
+      "libido",
+      "erections",
+      "testosterone",
+      "snip",
+      "side effects"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Contraception",
+        "url": "https://www.nhs.uk/contraception/"
+      },
+      {
+        "label": "Mayo Clinic",
+        "url": "https://www.mayoclinic.org/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "vasectomy-works-immediately",
+    "category": "Men's health",
+    "myth": "A vasectomy works immediately.",
+    "rating": "false",
+    "fact": "After a vasectomy, sperm can remain in the tubes for some time. Other contraception is needed until a semen test confirms there is no sperm.",
+    "explanation": "This usually takes a couple of months. Skipping the follow-up test is a common reason for unexpected pregnancy after vasectomy.",
+    "keywords": [
+      "vasectomy",
+      "immediately",
+      "contraception",
+      "sperm test",
+      "snip",
+      "how long",
+      "after vasectomy"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Contraception",
+        "url": "https://www.nhs.uk/contraception/"
+      },
+      {
+        "label": "Mayo Clinic",
+        "url": "https://www.mayoclinic.org/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "tight-underwear-infertility",
+    "category": "Men's health",
+    "myth": "Wearing tight underwear makes men infertile.",
+    "rating": "misleading",
+    "fact": "Tight underwear does not make men infertile. Some research suggests looser underwear may be linked to slightly better sperm measures, because testicles work best a little cooler than body temperature.",
+    "explanation": "Any effect appears small. Smoking, heavy drinking, obesity and some medicines have clearer effects on sperm. Men having trouble conceiving with a partner can ask a doctor for a semen test.",
+    "keywords": [
+      "tight underwear",
+      "boxers",
+      "briefs",
+      "sperm count",
+      "male fertility",
+      "infertile",
+      "heat"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Infertility",
+        "url": "https://www.nhs.uk/conditions/infertility/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "men-cannot-get-breast-cancer",
+    "category": "Men's health",
+    "myth": "Men can't get breast cancer.",
+    "rating": "false",
+    "fact": "Men have breast tissue and can get breast cancer, although it is much rarer than in women.",
+    "explanation": "It usually affects older men. A lump, nipple changes or discharge should be checked by a doctor rather than ignored.",
+    "keywords": [
+      "breast cancer",
+      "men",
+      "male breast cancer",
+      "lump",
+      "chest lump",
+      "nipple"
+    ],
+    "sources": [
+      {
+        "label": "National Cancer Institute — Breast cancer",
+        "url": "https://www.cancer.gov/types/breast"
+      },
+      {
+        "label": "Mayo Clinic",
+        "url": "https://www.mayoclinic.org/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "men-dont-get-depression",
+    "category": "Men's health",
+    "myth": "Men don't really get depression; real men just tough it out.",
+    "rating": "false",
+    "fact": "Men do get depression, but they are less likely to be diagnosed or to seek help. In many countries men die by suicide at higher rates than women.",
+    "explanation": "In men, depression may show as anger, irritability, risk-taking, heavy drinking or overworking. Asking for help is a strength. Talking to a GP, doctor or helpline is a good first step, and anyone in crisis should contact emergency services or a crisis line.",
+    "keywords": [
+      "men",
+      "depression",
+      "tough it out",
+      "man up",
+      "real men",
+      "suicide",
+      "boys dont cry",
+      "male mental health"
+    ],
+    "sources": [
+      {
+        "label": "NIMH — Depression",
+        "url": "https://www.nimh.nih.gov/health/topics/depression"
+      },
+      {
+        "label": "WHO — Suicide (fact sheet)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/suicide"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "testosterone-boosters-work",
+    "category": "Men's health",
+    "myth": "Over-the-counter testosterone booster supplements reliably raise testosterone and build muscle.",
+    "rating": "false",
+    "fact": "There is little good evidence that most testosterone booster supplements meaningfully raise testosterone or build muscle in healthy men.",
+    "explanation": "Supplements are not tested like medicines, and some have been found to contain undeclared ingredients. Men worried about low testosterone should see a doctor, who can test levels and look for underlying causes.",
+    "keywords": [
+      "testosterone booster",
+      "supplements",
+      "low testosterone",
+      "low t",
+      "muscle",
+      "libido",
+      "tribulus"
+    ],
+    "sources": [
+      {
+        "label": "NHS — The 'male menopause'",
+        "url": "https://www.nhs.uk/conditions/male-menopause/"
+      },
+      {
+        "label": "Harvard Health Publishing",
+        "url": "https://www.health.harvard.edu/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "bald-men-more-testosterone",
+    "category": "Men's health",
+    "myth": "Bald men have more testosterone.",
+    "rating": "misleading",
+    "fact": "Male-pattern baldness is mainly due to inherited sensitivity of hair follicles to DHT, a hormone made from testosterone. Bald men do not generally have higher testosterone levels.",
+    "explanation": "Because hormones are involved, the idea has a grain of truth, but it is the follicles' genetic sensitivity that matters, not the amount of testosterone.",
+    "keywords": [
+      "bald",
+      "baldness",
+      "testosterone",
+      "virile",
+      "dht",
+      "hair loss",
+      "men"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Hair loss",
+        "url": "https://www.nhs.uk/conditions/hair-loss/"
+      },
+      {
+        "label": "MedlinePlus — Hair loss",
+        "url": "https://medlineplus.gov/hairloss.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]

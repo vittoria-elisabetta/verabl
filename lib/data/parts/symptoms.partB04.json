@@ -1,0 +1,1409 @@
+[
+  {
+    "id": "skin-rash",
+    "name": "Skin rash in adults",
+    "aliases": [
+      "rash",
+      "red spots on skin",
+      "red blotchy skin",
+      "skin irritation",
+      "bumpy rash",
+      "rash all over body"
+    ],
+    "bodyArea": "Skin, hair & nails",
+    "summary": "Most rashes are harmless and caused by irritation, allergy, eczema or a viral infection. A rash that does not fade under pressure or comes with feeling very unwell needs urgent help.",
+    "redFlags": [
+      "A rash that does not fade when you press a glass against it, especially with a high temperature",
+      "A rash with swelling of the lips, tongue or throat, or difficulty breathing",
+      "Skin that is blistering, peeling off in sheets or painful over large areas, especially after starting a new medicine",
+      "A rash with a stiff neck, sensitivity to light, confusion or extreme drowsiness",
+      "A rash with cold, blotchy or blue-tinged skin, fast breathing or feeling very unwell"
+    ],
+    "urgentFlags": [
+      "A rash with a high temperature",
+      "A rash that is spreading quickly",
+      "A painful rash on one side of the body or near the eye",
+      "A rash that is hot, swollen and painful",
+      "A new rash after starting a medicine"
+    ],
+    "commonCauses": [
+      {
+        "title": "Contact dermatitis",
+        "detail": "A red, itchy rash where the skin touched something irritating or that you are allergic to."
+      },
+      {
+        "title": "Eczema",
+        "detail": "Dry, itchy, cracked patches that come and go."
+      },
+      {
+        "title": "Hives",
+        "detail": "Raised, itchy welts that move around and fade within a day."
+      },
+      {
+        "title": "Viral infection",
+        "detail": "Many viruses cause a widespread blotchy rash with mild illness."
+      },
+      {
+        "title": "Psoriasis or fungal infection",
+        "detail": "Scaly patches, or a ring-shaped itchy rash."
+      }
+    ],
+    "selfCare": [
+      "Avoid anything you think might be irritating your skin",
+      "Use a plain moisturiser (emollient) and mild, unperfumed soap",
+      "Cool compresses can soothe itching",
+      "Ask a pharmacist about antihistamines or mild steroid creams for itchy rashes"
+    ],
+    "avoid": [
+      "Scratching, which can cause infection",
+      "Hot baths and perfumed products",
+      "Strong steroid creams on the face or for long periods without advice"
+    ],
+    "seeDoctorIf": [
+      "A rash has not improved after 2 weeks",
+      "A rash keeps coming back",
+      "You are worried about a rash, or self-care has not helped",
+      "A rash is affecting your sleep or daily life"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {
+        "label": "MedlinePlus: Rashes",
+        "url": "https://medlineplus.gov/rashes.html"
+      },
+      {
+        "label": "NHS: Contact dermatitis",
+        "url": "https://www.nhs.uk/conditions/contact-dermatitis/"
+      },
+      {
+        "label": "NHS: Meningitis",
+        "url": "https://www.nhs.uk/conditions/meningitis/"
+      }
+    ]
+  },
+  {
+    "id": "itchy-skin",
+    "name": "Itchy skin",
+    "aliases": [
+      "itching all over",
+      "itchy body",
+      "pruritus",
+      "skin itching at night",
+      "itchy with no rash"
+    ],
+    "bodyArea": "Skin, hair & nails",
+    "summary": "Itchy skin is very common and is often caused by dry skin, eczema or an allergy. It usually improves with moisturising and avoiding irritants.",
+    "redFlags": [
+      "Itching with swelling of the lips, tongue or throat, wheezing or difficulty breathing"
+    ],
+    "urgentFlags": [
+      "Itching with yellowing of the skin or the whites of the eyes",
+      "Itching all over during pregnancy, especially on the hands and feet"
+    ],
+    "commonCauses": [
+      {
+        "title": "Dry skin",
+        "detail": "Very common in older people and in cold weather."
+      },
+      {
+        "title": "Eczema or contact dermatitis",
+        "detail": "Itchy, red, dry patches."
+      },
+      {
+        "title": "Allergic reaction or hives",
+        "detail": "Itchy raised welts after contact with an allergen or medicine."
+      },
+      {
+        "title": "Scabies or lice",
+        "detail": "Intense itching, often worse at night, sometimes in family members too."
+      },
+      {
+        "title": "Underlying conditions",
+        "detail": "Itching without a rash can sometimes be due to liver, kidney or thyroid problems, iron deficiency or pregnancy."
+      }
+    ],
+    "selfCare": [
+      "Use a plain, unperfumed moisturiser (emollient) often",
+      "Take short, lukewarm baths or showers and pat skin dry",
+      "Wear loose cotton clothing",
+      "Ask a pharmacist about antihistamines or soothing creams"
+    ],
+    "avoid": [
+      "Scratching; keep nails short and try patting instead",
+      "Perfumed soaps, bubble bath and hot water",
+      "Unproven 'detox' supplements"
+    ],
+    "seeDoctorIf": [
+      "Itching lasts more than 2 weeks and self-care has not helped",
+      "Itching affects your whole body",
+      "You also have weight loss, tiredness or night sweats",
+      "Itching is affecting your sleep"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {
+        "label": "NHS: Itchy skin",
+        "url": "https://www.nhs.uk/conditions/itchy-skin/"
+      },
+      {
+        "label": "MedlinePlus: Itching",
+        "url": "https://medlineplus.gov/itching.html"
+      }
+    ]
+  },
+  {
+    "id": "hives",
+    "name": "Hives",
+    "aliases": [
+      "urticaria",
+      "welts",
+      "nettle rash",
+      "raised itchy bumps",
+      "allergic rash",
+      "wheals"
+    ],
+    "bodyArea": "Skin, hair & nails",
+    "summary": "Hives are raised, itchy welts on the skin that usually fade within a day and clear up in a few days. They can be a sign of an allergic reaction.",
+    "redFlags": [
+      "Swelling of the lips, tongue, mouth or throat",
+      "Difficulty breathing, wheezing or a tight throat",
+      "Feeling faint, dizzy or collapsing",
+      "Hives with severe stomach pain or vomiting after a known allergen"
+    ],
+    "urgentFlags": [
+      "Hives with a high temperature and feeling unwell",
+      "Hives spreading quickly or not improving with antihistamines",
+      "Swelling around the eyes or lips without breathing problems"
+    ],
+    "commonCauses": [
+      {
+        "title": "Allergic reaction",
+        "detail": "To foods, medicines, insect stings, latex or plants."
+      },
+      {
+        "title": "Viral infection",
+        "detail": "Common in children, often with a cold."
+      },
+      {
+        "title": "Physical triggers",
+        "detail": "Heat, cold, pressure, exercise or scratching."
+      },
+      {
+        "title": "Unknown cause",
+        "detail": "Often no trigger is found, especially when hives last for weeks."
+      }
+    ],
+    "selfCare": [
+      "Ask a pharmacist about non-drowsy antihistamines, following the pack instructions",
+      "Apply cool compresses and wear loose clothing",
+      "Try to identify and avoid triggers",
+      "Keep a diary if hives keep coming back"
+    ],
+    "avoid": [
+      "Hot showers, alcohol and tight clothing, which can make hives worse",
+      "Anti-inflammatory painkillers such as ibuprofen or aspirin if they seem to trigger hives"
+    ],
+    "seeDoctorIf": [
+      "Hives have not gone after 2 days",
+      "Hives keep coming back",
+      "You think a medicine or food is causing them",
+      "Hives last more than 6 weeks"
+    ],
+    "selfCareMaxDays": 2,
+    "sources": [
+      {
+        "label": "NHS: Hives",
+        "url": "https://www.nhs.uk/conditions/hives/"
+      },
+      {
+        "label": "NHS: Anaphylaxis",
+        "url": "https://www.nhs.uk/conditions/anaphylaxis/"
+      }
+    ]
+  },
+  {
+    "id": "acne",
+    "name": "Acne and spots",
+    "aliases": [
+      "spots",
+      "pimples",
+      "zits",
+      "breakouts",
+      "blackheads",
+      "whiteheads",
+      "back acne"
+    ],
+    "bodyArea": "Skin, hair & nails",
+    "summary": "Acne is very common, especially in teenagers, and causes spots on the face, back and chest. Mild acne can be treated with pharmacy products, and effective treatments are available from a doctor.",
+    "redFlags": [
+      "A spreading, hot, red, painful area of skin with a high temperature and feeling very unwell"
+    ],
+    "urgentFlags": [
+      "A painful, swollen, hot spot or lump that is spreading",
+      "Severe acne with fever and joint pain"
+    ],
+    "commonCauses": [
+      {
+        "title": "Hormonal changes",
+        "detail": "Puberty, periods, pregnancy and polycystic ovary syndrome increase oil production."
+      },
+      {
+        "title": "Blocked hair follicles",
+        "detail": "Oil and dead skin block pores and bacteria cause inflammation."
+      },
+      {
+        "title": "Family history",
+        "detail": "Acne often runs in families."
+      },
+      {
+        "title": "Cosmetics and medicines",
+        "detail": "Oily make-up and some medicines can trigger spots."
+      }
+    ],
+    "selfCare": [
+      "Wash affected areas twice a day with a mild cleanser and lukewarm water",
+      "Use non-comedogenic (non-pore-blocking) make-up and moisturisers",
+      "Ask a pharmacist about creams or gels containing benzoyl peroxide",
+      "Give treatments 2 to 3 months to work"
+    ],
+    "avoid": [
+      "Squeezing or picking spots, which can cause scarring",
+      "Washing more than twice a day or scrubbing hard",
+      "Unproven remedies such as toothpaste on spots"
+    ],
+    "seeDoctorIf": [
+      "Pharmacy treatments have not helped after 2 to 3 months",
+      "You have painful, deep spots or lumps (nodules or cysts)",
+      "Acne is leaving scars or dark marks",
+      "Acne is affecting your confidence or mood"
+    ],
+    "selfCareMaxDays": 60,
+    "sources": [
+      {
+        "label": "NHS: Acne",
+        "url": "https://www.nhs.uk/conditions/acne/"
+      },
+      {
+        "label": "AAD: Acne",
+        "url": "https://www.aad.org/public/diseases/acne"
+      }
+    ]
+  },
+  {
+    "id": "hair-loss",
+    "name": "Hair loss",
+    "aliases": [
+      "hair falling out",
+      "thinning hair",
+      "bald patches",
+      "losing hair",
+      "receding hairline",
+      "alopecia"
+    ],
+    "bodyArea": "Skin, hair & nails",
+    "summary": "Losing some hair every day is normal. Gradual thinning is often genetic, while sudden shedding can follow illness, stress or childbirth and usually grows back.",
+    "redFlags": [
+      "Sudden hair loss with a severe rash, swelling of the face or difficulty breathing"
+    ],
+    "urgentFlags": [
+      "Hair loss with a painful, red, swollen or pus-filled scalp and a high temperature"
+    ],
+    "commonCauses": [
+      {
+        "title": "Male or female pattern hair loss",
+        "detail": "Gradual thinning that runs in families."
+      },
+      {
+        "title": "Telogen effluvium",
+        "detail": "Shedding a few months after illness, stress, surgery, childbirth or weight loss; usually recovers."
+      },
+      {
+        "title": "Alopecia areata",
+        "detail": "Round bald patches caused by the immune system."
+      },
+      {
+        "title": "Iron deficiency or thyroid problems",
+        "detail": "Can cause diffuse thinning."
+      },
+      {
+        "title": "Hairstyles and treatments",
+        "detail": "Tight braids, ponytails or harsh chemical treatments damage hair."
+      }
+    ],
+    "selfCare": [
+      "Be gentle with your hair: use wide-toothed combs and avoid tight styles",
+      "Eat a balanced diet with enough protein and iron",
+      "Ask a pharmacist about over-the-counter treatments for pattern hair loss"
+    ],
+    "avoid": [
+      "Expensive 'miracle' hair-growth supplements and devices without evidence",
+      "Harsh chemical treatments and excessive heat styling"
+    ],
+    "seeDoctorIf": [
+      "You have sudden hair loss or bald patches",
+      "Hair is coming out in clumps after combing or brushing",
+      "Your scalp burns, itches or is scaly",
+      "You also feel tired, cold or have heavy periods",
+      "Hair loss is upsetting you"
+    ],
+    "selfCareMaxDays": 30,
+    "sources": [
+      {
+        "label": "NHS: Hair loss",
+        "url": "https://www.nhs.uk/conditions/hair-loss/"
+      },
+      {
+        "label": "AAD: Hair loss",
+        "url": "https://www.aad.org/public/diseases/hair-loss"
+      }
+    ]
+  },
+  {
+    "id": "itchy-scalp",
+    "name": "Itchy or flaky scalp",
+    "aliases": [
+      "dandruff",
+      "flaky scalp",
+      "dry scalp",
+      "scaly scalp",
+      "itchy head"
+    ],
+    "bodyArea": "Skin, hair & nails",
+    "summary": "An itchy, flaky scalp is usually caused by dandruff or seborrhoeic dermatitis and can be controlled with medicated shampoos. Head lice are another common cause, especially in children.",
+    "redFlags": [
+      "A painful, swollen scalp with a high temperature and feeling very unwell"
+    ],
+    "urgentFlags": [
+      "A red, swollen, painful or pus-filled area on the scalp",
+      "A painful, blistering rash on one side of the head or forehead"
+    ],
+    "commonCauses": [
+      {
+        "title": "Dandruff and seborrhoeic dermatitis",
+        "detail": "White or yellow flakes and itching; often comes and goes."
+      },
+      {
+        "title": "Head lice",
+        "detail": "Itching with lice or eggs (nits) visible near the scalp."
+      },
+      {
+        "title": "Psoriasis or eczema",
+        "detail": "Thick, scaly or red patches on the scalp."
+      },
+      {
+        "title": "Reaction to hair products",
+        "detail": "Dyes and shampoos can irritate the scalp."
+      },
+      {
+        "title": "Fungal infection (ringworm)",
+        "detail": "Scaly patches with hair breaking off; more common in children."
+      }
+    ],
+    "selfCare": [
+      "Use an anti-dandruff shampoo regularly, following the instructions",
+      "Try different active ingredients if one does not work after a month",
+      "Check for head lice with a detection comb if anyone in the household has itching"
+    ],
+    "avoid": [
+      "Scratching the scalp",
+      "New hair dyes or products that seem to cause irritation"
+    ],
+    "seeDoctorIf": [
+      "Anti-dandruff shampoo has not helped after a month",
+      "Your scalp is very red, swollen or sore",
+      "You have bald patches or hair breaking off",
+      "You think you have psoriasis or ringworm"
+    ],
+    "selfCareMaxDays": 30,
+    "sources": [
+      {
+        "label": "NHS: Dandruff",
+        "url": "https://www.nhs.uk/conditions/dandruff/"
+      },
+      {
+        "label": "NHS: Head lice and nits",
+        "url": "https://www.nhs.uk/conditions/head-lice-and-nits/"
+      }
+    ]
+  },
+  {
+    "id": "nail-changes",
+    "name": "Nail changes",
+    "aliases": [
+      "discoloured nails",
+      "thick toenails",
+      "yellow nails",
+      "nail fungus",
+      "brittle nails",
+      "dark line on nail",
+      "spoon shaped nails"
+    ],
+    "bodyArea": "Skin, hair & nails",
+    "summary": "Nail changes are common and are often caused by a fungal infection, injury or ageing. Some changes can be a sign of other health problems.",
+    "redFlags": [
+      "Nails or fingertips that suddenly turn blue or grey, with difficulty breathing or feeling very unwell"
+    ],
+    "urgentFlags": [
+      "Red, hot, swollen skin around a nail that is spreading, with a high temperature",
+      "A painful, pus-filled swelling next to a nail"
+    ],
+    "commonCauses": [
+      {
+        "title": "Fungal nail infection",
+        "detail": "Thickened, discoloured, brittle nails, more often on toenails."
+      },
+      {
+        "title": "Injury",
+        "detail": "Bruising under the nail or white marks after knocks."
+      },
+      {
+        "title": "Psoriasis or eczema",
+        "detail": "Pitting, ridges or nails lifting from the nail bed."
+      },
+      {
+        "title": "Other health conditions",
+        "detail": "Spoon-shaped nails can be linked to iron deficiency; clubbing can be linked to heart or lung problems."
+      },
+      {
+        "title": "Melanoma under the nail",
+        "detail": "Rarely, a new dark streak that widens or spreads to the skin around the nail."
+      }
+    ],
+    "selfCare": [
+      "Keep nails short, clean and dry",
+      "Wear well-fitting shoes and change socks daily",
+      "Ask a pharmacist about antifungal nail paints for mild fungal infections; treatment can take months",
+      "Moisturise brittle nails and wear gloves for wet work"
+    ],
+    "avoid": [
+      "Sharing nail clippers or towels",
+      "Cutting cuticles or picking at nails"
+    ],
+    "seeDoctorIf": [
+      "You notice a new dark streak or spot under a nail that was not caused by an injury",
+      "A nail infection has not improved with pharmacy treatment or is spreading",
+      "The shape of your nails changes, such as curving or clubbing",
+      "Nails are lifting off without a clear reason"
+    ],
+    "selfCareMaxDays": 60,
+    "sources": [
+      {
+        "label": "NHS: Nail problems",
+        "url": "https://www.nhs.uk/conditions/nail-problems/"
+      },
+      {
+        "label": "NHS: Fungal nail infection",
+        "url": "https://www.nhs.uk/conditions/fungal-nail-infection/"
+      }
+    ]
+  },
+  {
+    "id": "ingrown-toenail",
+    "name": "Ingrown toenail",
+    "aliases": [
+      "ingrowing toenail",
+      "toenail digging in",
+      "sore big toe",
+      "infected toenail"
+    ],
+    "bodyArea": "Skin, hair & nails",
+    "summary": "An ingrown toenail happens when the edge of the nail grows into the skin, usually on the big toe. It often improves with simple care, but infection needs treatment.",
+    "redFlags": [
+      "Red, hot, swollen skin spreading up the foot or leg with a high temperature and feeling very unwell"
+    ],
+    "urgentFlags": [
+      "Pus, spreading redness or a high temperature",
+      "An ingrown toenail if you have diabetes or poor circulation"
+    ],
+    "commonCauses": [
+      {
+        "title": "Cutting nails too short or curved",
+        "detail": "Encourages the edge of the nail to grow into the skin."
+      },
+      {
+        "title": "Tight shoes",
+        "detail": "Pressure pushes the skin onto the nail."
+      },
+      {
+        "title": "Sweaty feet and nail shape",
+        "detail": "Naturally curved nails are more prone to growing in."
+      }
+    ],
+    "selfCare": [
+      "Soak your foot in warm water for 10 to 15 minutes, a few times a day",
+      "Gently push the skin away from the nail with a cotton bud",
+      "Wear wide, comfortable shoes",
+      "Take paracetamol or ibuprofen for pain, following the pack instructions",
+      "Cut toenails straight across and not too short"
+    ],
+    "avoid": [
+      "Cutting the nail edge out yourself",
+      "Picking at the nail",
+      "Tight or pointed shoes"
+    ],
+    "seeDoctorIf": [
+      "The toe is not getting better after a few days of self-care",
+      "It keeps coming back",
+      "You have diabetes or problems with your feet's circulation"
+    ],
+    "selfCareMaxDays": 5,
+    "sources": [
+      {
+        "label": "NHS: Ingrown toenail",
+        "url": "https://www.nhs.uk/conditions/ingrown-toenail/"
+      }
+    ]
+  },
+  {
+    "id": "lump-under-skin",
+    "name": "New lump under the skin",
+    "aliases": [
+      "lump on body",
+      "bump under skin",
+      "lump on neck",
+      "fatty lump",
+      "cyst",
+      "hard lump"
+    ],
+    "bodyArea": "Skin, hair & nails",
+    "summary": "Most lumps under the skin are harmless, such as cysts, fatty lumps or swollen glands. A new lump that does not go away, grows or feels hard should be checked by a doctor.",
+    "redFlags": [
+      "A lump with rapidly spreading redness, severe pain and feeling very unwell or confused",
+      "A lump in the groin or tummy that is suddenly very painful and cannot be pushed back, with vomiting"
+    ],
+    "urgentFlags": [
+      "A lump that is red, hot, painful and swelling, especially with a high temperature",
+      "A lump in the neck with difficulty swallowing or breathing"
+    ],
+    "commonCauses": [
+      {
+        "title": "Swollen glands",
+        "detail": "Soft, tender lumps in the neck, armpit or groin during an infection; usually go down within 2 weeks."
+      },
+      {
+        "title": "Cysts",
+        "detail": "Smooth, round lumps under the skin that may have a small dark spot in the middle."
+      },
+      {
+        "title": "Lipoma",
+        "detail": "A soft, rubbery, movable fatty lump that grows slowly."
+      },
+      {
+        "title": "Abscess or boil",
+        "detail": "A painful, red, swollen lump filled with pus."
+      },
+      {
+        "title": "Cancer",
+        "detail": "Less commonly, a hard, painless lump that grows or does not move."
+      }
+    ],
+    "selfCare": [
+      "Note the size, position and whether it is painful, and check it again over the following weeks",
+      "For a boil, hold a warm compress on it a few times a day",
+      "Make an appointment for any lump that worries you"
+    ],
+    "avoid": [
+      "Squeezing or trying to cut open a lump or boil",
+      "Ignoring a lump that is growing or hard"
+    ],
+    "seeDoctorIf": [
+      "A lump is bigger than about 2cm or getting bigger",
+      "A lump is hard and does not move",
+      "A lump has lasted more than 2 weeks",
+      "A lump comes back after removal",
+      "You also have night sweats, weight loss or feel generally unwell"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {
+        "label": "NHS: Lumps",
+        "url": "https://www.nhs.uk/conditions/lumps/"
+      },
+      {
+        "label": "NHS: Lipoma",
+        "url": "https://www.nhs.uk/conditions/lipoma/"
+      }
+    ]
+  },
+  {
+    "id": "changing-mole",
+    "name": "Changing or new mole",
+    "aliases": [
+      "mole changed",
+      "mole getting bigger",
+      "itchy mole",
+      "bleeding mole",
+      "dark spot on skin",
+      "skin cancer worry",
+      "new mole"
+    ],
+    "bodyArea": "Skin, hair & nails",
+    "summary": "Most moles are harmless, but a new mole or one that changes in size, shape or colour should be checked, as it can be an early sign of melanoma skin cancer.",
+    "redFlags": [
+      "A mole or skin spot that is bleeding heavily and will not stop"
+    ],
+    "urgentFlags": [
+      "A mole that is growing quickly",
+      "A mole that has started bleeding, crusting or oozing"
+    ],
+    "commonCauses": [
+      {
+        "title": "Normal mole changes",
+        "detail": "Moles can change slowly over many years, especially in younger people and during pregnancy."
+      },
+      {
+        "title": "Seborrhoeic keratosis",
+        "detail": "Harmless, warty brown 'stuck-on' spots that become more common with age."
+      },
+      {
+        "title": "Melanoma",
+        "detail": "A mole with an uneven shape or border, several colours, a size over 6mm, or that is changing."
+      },
+      {
+        "title": "Other skin cancers",
+        "detail": "A shiny lump, a sore that does not heal or a scaly patch on sun-exposed skin."
+      }
+    ],
+    "selfCare": [
+      "Check your skin every month, using a mirror or asking someone to help",
+      "Take photos to compare changes over time",
+      "Protect your skin from the sun: shade, clothing, sunscreen of SPF 30 or more, and no sunbeds"
+    ],
+    "avoid": [
+      "Using sunbeds",
+      "Trying to remove a mole yourself, including with creams sold online",
+      "Relying on apps alone to decide whether a mole is safe"
+    ],
+    "seeDoctorIf": [
+      "A mole changes size, shape or colour",
+      "A mole has an uneven border or more than 2 colours",
+      "A mole is itchy, crusty, bleeds or looks inflamed",
+      "You notice a new mole as an adult that looks different from your other moles",
+      "You have a sore that has not healed within 4 weeks"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {
+        "label": "NHS: Moles",
+        "url": "https://www.nhs.uk/conditions/moles/"
+      },
+      {
+        "label": "NHS: Melanoma skin cancer",
+        "url": "https://www.nhs.uk/conditions/melanoma-skin-cancer/"
+      }
+    ]
+  },
+  {
+    "id": "bruising-easily",
+    "name": "Bruising easily",
+    "aliases": [
+      "unexplained bruises",
+      "bruise easily",
+      "random bruises",
+      "tiny red spots on skin",
+      "purple spots"
+    ],
+    "bodyArea": "Skin, hair & nails",
+    "summary": "Bruising more easily is common with age and with some medicines. Unexplained bruising, especially with other symptoms, should be checked by a doctor.",
+    "redFlags": [
+      "Tiny red or purple spots or bruises that do not fade when pressed, with a high temperature or feeling very unwell",
+      "Bruising with bleeding that will not stop",
+      "A bruise after a head injury with drowsiness, confusion or vomiting",
+      "Bruising with vomiting blood or black poo"
+    ],
+    "urgentFlags": [
+      "Lots of unexplained bruises or tiny red-purple spots appearing",
+      "Bruising with nosebleeds or bleeding gums",
+      "Bruising while taking blood thinners",
+      "Unexplained bruises on a child or a vulnerable adult"
+    ],
+    "commonCauses": [
+      {
+        "title": "Ageing skin",
+        "detail": "Skin and blood vessels become thinner, so bruises appear with minor knocks."
+      },
+      {
+        "title": "Medicines",
+        "detail": "Blood thinners, aspirin, anti-inflammatory painkillers and long-term steroids increase bruising."
+      },
+      {
+        "title": "Unnoticed knocks",
+        "detail": "Many bruises come from bumps you do not remember."
+      },
+      {
+        "title": "Blood or clotting disorders",
+        "detail": "Less commonly, low platelets, liver disease or blood cancers."
+      }
+    ],
+    "selfCare": [
+      "Use a cold pack wrapped in a towel on a new bruise",
+      "Rest and raise the bruised area if you can",
+      "Make a list of all medicines and supplements you take to show the doctor"
+    ],
+    "avoid": [
+      "Stopping a prescribed blood thinner without talking to your doctor",
+      "Supplements that can affect bleeding, such as high-dose fish oil or ginkgo, without advice"
+    ],
+    "seeDoctorIf": [
+      "You bruise easily for no obvious reason",
+      "You have large or frequent bruises",
+      "You also feel very tired, have night sweats or weight loss",
+      "A bruise has not improved after 4 weeks"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {
+        "label": "MedlinePlus: Bruises",
+        "url": "https://medlineplus.gov/bruises.html"
+      },
+      {
+        "label": "NHS: Sepsis",
+        "url": "https://www.nhs.uk/conditions/sepsis/"
+      }
+    ]
+  },
+  {
+    "id": "dry-skin",
+    "name": "Dry, cracked or eczema-prone skin",
+    "aliases": [
+      "dry skin",
+      "cracked skin",
+      "eczema",
+      "flaky skin",
+      "rough patches",
+      "cracked hands"
+    ],
+    "bodyArea": "Skin, hair & nails",
+    "summary": "Dry skin and eczema are very common and usually improve with regular moisturising and avoiding soaps and irritants.",
+    "redFlags": [
+      "Eczema with painful, clustered blisters or punched-out sores and a high temperature, feeling very unwell"
+    ],
+    "urgentFlags": [
+      "Eczema that is suddenly much worse, weeping, crusted or painful",
+      "Red, hot, swollen skin that is spreading"
+    ],
+    "commonCauses": [
+      {
+        "title": "Weather and washing",
+        "detail": "Cold weather, central heating and frequent hand washing dry the skin."
+      },
+      {
+        "title": "Atopic eczema",
+        "detail": "Itchy, dry, cracked skin that often starts in childhood and comes and goes."
+      },
+      {
+        "title": "Contact dermatitis",
+        "detail": "Irritation from soaps, detergents or chemicals."
+      },
+      {
+        "title": "Underactive thyroid or ageing",
+        "detail": "Can make skin drier."
+      }
+    ],
+    "selfCare": [
+      "Apply a plain moisturiser (emollient) generously and often, especially after washing",
+      "Use an emollient soap substitute instead of soap",
+      "Take shorter, lukewarm showers",
+      "Wear gloves for cleaning and in cold weather"
+    ],
+    "avoid": [
+      "Perfumed soaps, bubble bath and products with fragrance",
+      "Scratching",
+      "Stopping a steroid cream suddenly or using strong ones for long periods without advice"
+    ],
+    "seeDoctorIf": [
+      "Moisturising has not helped after 2 weeks",
+      "Eczema is affecting your sleep or daily life",
+      "Your skin is cracked and bleeding",
+      "You think your skin might be infected"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {
+        "label": "NHS: Atopic eczema",
+        "url": "https://www.nhs.uk/conditions/atopic-eczema/"
+      },
+      {
+        "url": "https://medlineplus.gov/skinconditions.html",
+        "label": "MedlinePlus — Skin conditions"
+      }
+    ]
+  },
+  {
+    "id": "blisters",
+    "name": "Blisters",
+    "aliases": [
+      "blister on foot",
+      "friction blister",
+      "fluid-filled bubble on skin",
+      "burst blister",
+      "water blister"
+    ],
+    "bodyArea": "Skin, hair & nails",
+    "summary": "Blisters are small pockets of fluid, usually caused by friction, burns or sunburn. Most heal on their own within a week.",
+    "redFlags": [
+      "Widespread blistering or skin peeling in sheets, especially after starting a new medicine",
+      "Blisters in the mouth, eyes or genitals with a high temperature and feeling very unwell"
+    ],
+    "urgentFlags": [
+      "A blister that looks infected: hot, swollen, very painful, or filled with yellow or green pus",
+      "Blisters from a burn that are larger than your hand",
+      "Blisters that keep appearing for no clear reason",
+      "Blisters on the feet if you have diabetes"
+    ],
+    "commonCauses": [
+      {
+        "title": "Friction",
+        "detail": "From shoes, tools or exercise."
+      },
+      {
+        "title": "Burns and sunburn",
+        "detail": "Heat, chemicals or too much sun."
+      },
+      {
+        "title": "Skin conditions or infections",
+        "detail": "Eczema, chickenpox, shingles, impetigo or allergic reactions."
+      }
+    ],
+    "selfCare": [
+      "Leave the blister to heal on its own if possible",
+      "Cover it with a soft plaster or padded dressing",
+      "If it bursts, wash the area, leave the loose skin in place and cover it",
+      "Wear comfortable, well-fitting shoes and moisture-wicking socks"
+    ],
+    "avoid": [
+      "Popping or peeling a blister",
+      "Wearing the shoes or doing the activity that caused it until healed"
+    ],
+    "seeDoctorIf": [
+      "A blister has not healed after a week",
+      "You keep getting blisters with no clear cause",
+      "You have blisters in unusual places, such as the eyelids or mouth"
+    ],
+    "selfCareMaxDays": 7,
+    "sources": [
+      {
+        "label": "NHS: Blisters",
+        "url": "https://www.nhs.uk/conditions/blisters/"
+      }
+    ]
+  },
+  {
+    "id": "insect-bite",
+    "name": "Insect bite or sting",
+    "aliases": [
+      "bug bite",
+      "bee sting",
+      "wasp sting",
+      "mosquito bite",
+      "swollen bite",
+      "tick bite",
+      "spider bite"
+    ],
+    "bodyArea": "Skin, hair & nails",
+    "summary": "Most insect bites and stings cause a small, red, itchy lump that settles within a few days. Rarely, they can cause a serious allergic reaction or become infected.",
+    "redFlags": [
+      "Swelling of the lips, tongue, mouth or throat",
+      "Wheezing, difficulty breathing or a tight throat",
+      "Feeling faint, dizzy, confused or collapsing",
+      "A fast heartbeat with widespread hives or swelling",
+      "Being stung in the mouth or throat"
+    ],
+    "urgentFlags": [
+      "Redness and swelling spreading from the bite, or pus",
+      "A high temperature, swollen glands or flu-like symptoms after a bite",
+      "A circular red rash spreading around a tick bite",
+      "A large area of swelling, more than 10cm, around the bite"
+    ],
+    "commonCauses": [
+      {
+        "title": "Local reaction",
+        "detail": "A red, itchy lump that may blister; common with mosquitoes, midges and fleas."
+      },
+      {
+        "title": "Large local reaction",
+        "detail": "Swelling that spreads over a wider area for a few days, more common with wasp and bee stings."
+      },
+      {
+        "title": "Infection",
+        "detail": "Scratching can let bacteria in, causing increasing redness, pain and pus."
+      },
+      {
+        "title": "Tick-borne infection",
+        "detail": "Lyme disease can follow a tick bite, often with a spreading circular rash."
+      }
+    ],
+    "selfCare": [
+      "Remove any sting or tick carefully; scrape a sting out sideways and use fine tweezers close to the skin for a tick",
+      "Wash the area with soap and water",
+      "Hold a cold compress on it for at least 10 minutes and raise the area if swollen",
+      "Ask a pharmacist about antihistamines or creams for itching and swelling"
+    ],
+    "avoid": [
+      "Scratching or bursting blisters",
+      "Squeezing a tick's body or using heat, petroleum jelly or alcohol to remove it",
+      "Traditional home remedies such as vinegar or bicarbonate of soda, which are unlikely to help"
+    ],
+    "seeDoctorIf": [
+      "Symptoms have not improved after a few days",
+      "You have been stung or bitten in the mouth, throat or near the eyes",
+      "You have had a bad reaction to a bite or sting before",
+      "You were bitten by a tick and develop a rash or feel unwell in the following weeks"
+    ],
+    "selfCareMaxDays": 3,
+    "sources": [
+      {
+        "label": "NHS: Insect bites and stings",
+        "url": "https://www.nhs.uk/conditions/insect-bites-and-stings/"
+      },
+      {
+        "label": "NHS: Lyme disease",
+        "url": "https://www.nhs.uk/conditions/lyme-disease/"
+      }
+    ]
+  },
+  {
+    "id": "sunburn",
+    "name": "Sunburn",
+    "aliases": [
+      "burnt by the sun",
+      "sun burn blisters",
+      "red skin after sun",
+      "peeling skin after sun",
+      "sun poisoning"
+    ],
+    "bodyArea": "Skin, hair & nails",
+    "summary": "Sunburn makes the skin red, hot, sore and sometimes blistered, and usually improves within a week. Severe sunburn or heat illness needs medical help.",
+    "redFlags": [
+      "Confusion, fainting, seizures or loss of consciousness",
+      "A temperature of 40C (104F) or higher with hot skin that has stopped sweating",
+      "Fast breathing or breathlessness with feeling very unwell"
+    ],
+    "urgentFlags": [
+      "Large areas of blistering or swelling",
+      "Sunburn with a high temperature, chills, headache, dizziness or feeling sick",
+      "Sunburn in a baby or young child",
+      "Signs of dehydration such as very dark pee or not peeing"
+    ],
+    "commonCauses": [
+      {
+        "title": "Too much UV exposure",
+        "detail": "From the sun or sunbeds, especially between 11am and 3pm and near water or snow."
+      },
+      {
+        "title": "Not enough sun protection",
+        "detail": "Missed areas, too little sunscreen or not reapplying after swimming."
+      },
+      {
+        "title": "Medicines",
+        "detail": "Some medicines make skin more sensitive to sunlight."
+      }
+    ],
+    "selfCare": [
+      "Get out of the sun and cool the skin with a cool shower, bath or damp towel",
+      "Apply aftersun or an unperfumed moisturiser",
+      "Drink plenty of water",
+      "Take paracetamol or ibuprofen for pain, following the pack instructions"
+    ],
+    "avoid": [
+      "Further sun exposure until the skin has healed",
+      "Popping blisters or picking peeling skin",
+      "Putting ice, butter or petroleum jelly on sunburnt skin"
+    ],
+    "seeDoctorIf": [
+      "Sunburn has not improved after a week",
+      "You keep getting sunburnt easily despite protection",
+      "You notice changes in moles afterwards"
+    ],
+    "selfCareMaxDays": 7,
+    "sources": [
+      {
+        "label": "NHS: Sunburn",
+        "url": "https://www.nhs.uk/conditions/sunburn/"
+      },
+      {
+        "label": "NHS: Heat exhaustion and heatstroke",
+        "url": "https://www.nhs.uk/conditions/heat-exhaustion-heatstroke/"
+      }
+    ]
+  },
+  {
+    "id": "red-hot-swollen-skin",
+    "name": "Red, hot, swollen skin",
+    "aliases": [
+      "skin infection",
+      "cellulitis",
+      "red swollen leg",
+      "infected cut",
+      "skin hot to touch",
+      "spreading redness"
+    ],
+    "bodyArea": "Skin, hair & nails",
+    "summary": "Skin that is red or darker than usual, hot, swollen and painful can be a bacterial skin infection called cellulitis, which usually needs antibiotics.",
+    "redFlags": [
+      "Feeling confused, very drowsy or very unwell with the skin infection",
+      "Cold, blotchy or blue-tinged skin elsewhere, fast breathing or a fast heartbeat",
+      "Severe pain out of proportion to how the skin looks, or skin turning dark, purple or black",
+      "Swelling around the eye with pain moving the eye or changes in vision"
+    ],
+    "urgentFlags": [
+      "Red, hot, swollen, painful skin that is spreading",
+      "Skin infection with a high temperature or shivering",
+      "Swelling around the eye or on the face",
+      "A skin infection if you have diabetes or a weakened immune system"
+    ],
+    "commonCauses": [
+      {
+        "title": "Cellulitis",
+        "detail": "A bacterial infection, often in the legs, through a cut, bite, crack or athlete's foot."
+      },
+      {
+        "title": "Infected wound or bite",
+        "detail": "Increasing pain, redness and pus at the site."
+      },
+      {
+        "title": "Abscess",
+        "detail": "A painful, swollen lump filled with pus."
+      },
+      {
+        "title": "Gout or a blood clot",
+        "detail": "A hot, red, swollen joint, or a swollen, painful calf, can look similar."
+      }
+    ],
+    "selfCare": [
+      "Get medical advice the same day",
+      "Raise the affected area and rest",
+      "Drink plenty of fluids",
+      "Take paracetamol or ibuprofen for pain, following the pack instructions",
+      "Draw around the edge of the redness with a pen to see whether it is spreading"
+    ],
+    "avoid": [
+      "Waiting to see if spreading redness gets better on its own",
+      "Squeezing or lancing a swollen area yourself",
+      "Tight clothing over the area"
+    ],
+    "seeDoctorIf": [
+      "You keep getting skin infections",
+      "Redness has not improved after 2 to 3 days of antibiotics",
+      "You have dry, cracked skin or athlete's foot that may let infection in"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {
+        "label": "NHS: Cellulitis",
+        "url": "https://www.nhs.uk/conditions/cellulitis/"
+      },
+      {
+        "label": "NHS: Sepsis",
+        "url": "https://www.nhs.uk/conditions/sepsis/"
+      }
+    ]
+  },
+  {
+    "id": "itchy-feet",
+    "name": "Itchy, peeling skin between the toes",
+    "aliases": [
+      "athlete's foot",
+      "itchy feet",
+      "peeling toes",
+      "cracked skin between toes",
+      "foot fungus"
+    ],
+    "bodyArea": "Skin, hair & nails",
+    "summary": "Itchy, cracked or peeling skin between the toes is usually athlete's foot, a common fungal infection that can be treated with pharmacy products.",
+    "redFlags": [
+      "Red, hot, swollen skin spreading up the foot or leg with a high temperature and feeling very unwell"
+    ],
+    "urgentFlags": [
+      "Red, hot, painful swelling spreading from the foot",
+      "Foot skin problems if you have diabetes"
+    ],
+    "commonCauses": [
+      {
+        "title": "Athlete's foot",
+        "detail": "A fungal infection, spread in damp places such as changing rooms."
+      },
+      {
+        "title": "Eczema or contact dermatitis",
+        "detail": "Itchy, dry skin from irritation or allergy to footwear materials."
+      },
+      {
+        "title": "Sweaty feet",
+        "detail": "Warm, damp skin encourages fungal infection."
+      }
+    ],
+    "selfCare": [
+      "Ask a pharmacist about antifungal creams, sprays or powders and use them for the full recommended time",
+      "Wash and thoroughly dry your feet, especially between the toes",
+      "Wear clean cotton socks and change them daily",
+      "Wear flip-flops in communal showers and changing rooms"
+    ],
+    "avoid": [
+      "Sharing towels, socks or shoes",
+      "Walking barefoot in communal areas",
+      "Stopping treatment as soon as itching stops"
+    ],
+    "seeDoctorIf": [
+      "Pharmacy treatment has not worked after 2 weeks",
+      "It has spread to your nails",
+      "You have diabetes or a weakened immune system"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {
+        "label": "NHS: Athlete's foot",
+        "url": "https://www.nhs.uk/conditions/athletes-foot/"
+      }
+    ]
+  },
+  {
+    "id": "excessive-sweating",
+    "name": "Excessive sweating",
+    "aliases": [
+      "sweating a lot",
+      "hyperhidrosis",
+      "sweaty hands",
+      "sweaty armpits",
+      "sweating for no reason"
+    ],
+    "bodyArea": "Skin, hair & nails",
+    "summary": "Sweating more than usual is often harmless and may run in families. New sweating, sweating at night or sweating with other symptoms can have an underlying cause.",
+    "redFlags": [
+      "Sweating with chest pain, pain spreading to the arm, neck, jaw or back, or breathlessness",
+      "Sweating with confusion, shakiness and drowsiness, especially if you have diabetes"
+    ],
+    "urgentFlags": [
+      "Sweating with a high temperature and feeling unwell",
+      "Sweating with a racing heartbeat, tremor and weight loss"
+    ],
+    "commonCauses": [
+      {
+        "title": "Primary hyperhidrosis",
+        "detail": "Excessive sweating of the hands, feet, armpits or face with no other cause; often starts young."
+      },
+      {
+        "title": "Menopause",
+        "detail": "Hot flushes and night sweats."
+      },
+      {
+        "title": "Anxiety",
+        "detail": "Stress and worry increase sweating."
+      },
+      {
+        "title": "Medicines or medical conditions",
+        "detail": "Some antidepressants, an overactive thyroid, infections, low blood sugar or, rarely, cancer."
+      }
+    ],
+    "selfCare": [
+      "Use a strong antiperspirant, applied at night to dry skin",
+      "Wear loose, breathable clothing and moisture-wicking socks",
+      "Change socks often and avoid tight footwear",
+      "Cut down on alcohol, caffeine and spicy food if they are triggers"
+    ],
+    "avoid": [
+      "Clothes made from synthetic fibres that trap sweat",
+      "Unregulated tablets or devices sold online"
+    ],
+    "seeDoctorIf": [
+      "Sweating is affecting your daily life",
+      "You sweat at night for no obvious reason",
+      "You started sweating more suddenly",
+      "You also have weight loss or a high temperature"
+    ],
+    "selfCareMaxDays": 30,
+    "sources": [
+      {
+        "label": "NHS: Excessive sweating (hyperhidrosis)",
+        "url": "https://www.nhs.uk/conditions/hyperhidrosis/"
+      }
+    ]
+  },
+  {
+    "id": "minor-burn",
+    "name": "Burn or scald",
+    "aliases": [
+      "burnt my hand",
+      "scald",
+      "burn blister",
+      "kitchen burn",
+      "hot water burn",
+      "minor burn"
+    ],
+    "bodyArea": "Skin, hair & nails",
+    "summary": "Small, minor burns can be treated at home after cooling them under running water. Larger, deep or chemical burns, and burns in young children, need medical care.",
+    "redFlags": [
+      "A large or deep burn, bigger than the injured person's hand",
+      "A burn that is white, charred or leathery, or has no pain",
+      "Burns to the face, hands, feet, genitals, or across a joint, that are more than minor",
+      "Chemical or electrical burns",
+      "Breathing difficulty, a hoarse voice or soot around the mouth or nose after a fire",
+      "A burn in someone who is confused, very drowsy or in shock"
+    ],
+    "urgentFlags": [
+      "Any burn with blisters in a child under 5 or a pregnant person",
+      "A burn that looks infected: increasing pain, redness, swelling or pus",
+      "A burn in someone with diabetes or a weakened immune system"
+    ],
+    "commonCauses": [
+      {
+        "title": "Hot liquids and steam",
+        "detail": "Scalds from drinks, kettles and baths are the most common burns in children."
+      },
+      {
+        "title": "Hot surfaces and flames",
+        "detail": "Cookers, irons, hair straighteners and fires."
+      },
+      {
+        "title": "Chemicals and electricity",
+        "detail": "These can cause deeper damage than they appear."
+      }
+    ],
+    "selfCare": [
+      "Cool the burn under cool or lukewarm running water for 20 minutes as soon as possible",
+      "Remove clothing or jewellery near the burn unless stuck to the skin",
+      "Cover loosely with cling film or a clean plastic bag",
+      "Take paracetamol or ibuprofen for pain, following the pack instructions",
+      "Keep the person warm, while cooling the burn"
+    ],
+    "avoid": [
+      "Ice, iced water, butter, toothpaste or creams on the burn",
+      "Popping blisters",
+      "Sticky or fluffy dressings that may stick to the burn"
+    ],
+    "seeDoctorIf": [
+      "A burn has not healed within 2 weeks",
+      "A minor burn is very painful or you are unsure how bad it is",
+      "You are unsure if your tetanus vaccination is up to date"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {
+        "label": "NHS: Burns and scalds",
+        "url": "https://www.nhs.uk/conditions/burns-and-scalds/"
+      }
+    ]
+  },
+  {
+    "id": "painful-blistering-rash",
+    "name": "Painful blistering rash on one side",
+    "aliases": [
+      "shingles",
+      "band of blisters",
+      "burning rash one side",
+      "rash on one side of body",
+      "herpes zoster"
+    ],
+    "bodyArea": "Skin, hair & nails",
+    "summary": "A painful rash of blisters on one side of the body is often shingles. Antiviral treatment works best if started within 3 days of the rash appearing.",
+    "redFlags": [
+      "Rash with confusion, a stiff neck, severe headache or weakness on one side of the body",
+      "Rash with difficulty breathing or feeling very unwell with cold, blotchy skin"
+    ],
+    "urgentFlags": [
+      "A rash on the face, near the eye or on the tip of the nose, or eye pain or vision changes",
+      "Shingles if you are pregnant or have a weakened immune system",
+      "Severe pain or a rash that is widespread",
+      "Pain and tingling on one side with a rash just starting, if you are over 50"
+    ],
+    "commonCauses": [
+      {
+        "title": "Shingles",
+        "detail": "The chickenpox virus reawakens, causing tingling or pain followed by a band of blisters on one side."
+      },
+      {
+        "title": "Contact dermatitis",
+        "detail": "An itchy, blistering rash where the skin touched an irritant or plant."
+      },
+      {
+        "title": "Cold sores or impetigo",
+        "detail": "Clusters of blisters, usually around the mouth or nose."
+      }
+    ],
+    "selfCare": [
+      "Contact a doctor or pharmacist quickly, as early antiviral treatment can help",
+      "Take paracetamol for pain, following the pack instructions",
+      "Keep the rash clean and dry and wear loose clothing",
+      "Use a cool compress a few times a day"
+    ],
+    "avoid": [
+      "Contact with pregnant people who have not had chickenpox, newborn babies and people with weakened immune systems until the blisters have crusted over",
+      "Sharing towels",
+      "Covering the rash with plasters, which can slow healing"
+    ],
+    "seeDoctorIf": [
+      "Pain continues after the rash has healed",
+      "The rash is not crusting over after 10 days",
+      "You want to ask about the shingles vaccine"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {
+        "label": "NHS: Shingles",
+        "url": "https://www.nhs.uk/conditions/shingles/"
+      },
+      {
+        "label": "CDC: Shingles",
+        "url": "https://www.cdc.gov/shingles/"
+      }
+    ]
+  },
+  {
+    "id": "cuts-and-grazes",
+    "name": "Cuts and grazes",
+    "aliases": [
+      "cut finger",
+      "graze",
+      "scrape",
+      "small wound",
+      "bleeding cut",
+      "deep cut"
+    ],
+    "bodyArea": "Skin, hair & nails",
+    "summary": "Most small cuts and grazes can be treated at home and heal within a few days. Deep cuts, heavy bleeding or signs of infection need medical attention.",
+    "redFlags": [
+      "Bleeding that is heavy, spurting, or will not stop after 10 minutes of firm pressure",
+      "A deep wound to the chest, tummy, neck or head",
+      "An object stuck in the wound",
+      "Numbness, tingling or being unable to move the area beyond the cut"
+    ],
+    "urgentFlags": [
+      "A cut that is gaping, longer than about 5cm or that may need stitches",
+      "A cut from a human or animal bite",
+      "Dirt or debris that you cannot clean out",
+      "Signs of infection: increasing pain, swelling, redness, pus or a high temperature"
+    ],
+    "commonCauses": [
+      {
+        "title": "Everyday accidents",
+        "detail": "Knives, glass, falls and sports injuries."
+      },
+      {
+        "title": "Bites",
+        "detail": "Human and animal bites carry a high risk of infection."
+      }
+    ],
+    "selfCare": [
+      "Stop the bleeding by pressing firmly with a clean cloth and raising the area",
+      "Clean the wound under running tap water",
+      "Pat dry and cover with a plaster or sterile dressing",
+      "Take paracetamol or ibuprofen for pain, following the pack instructions"
+    ],
+    "avoid": [
+      "Using antiseptic on the wound, which can damage tissue; clean water is enough",
+      "Removing an object stuck deep in a wound",
+      "Picking at scabs"
+    ],
+    "seeDoctorIf": [
+      "A wound has not healed after 2 weeks",
+      "You are unsure if your tetanus vaccination is up to date and the wound is dirty",
+      "You have diabetes and a cut on your foot"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {
+        "label": "NHS: Cuts and grazes",
+        "url": "https://www.nhs.uk/conditions/cuts-and-grazes/"
+      }
+    ]
+  }
+]

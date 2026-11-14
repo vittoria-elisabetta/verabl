@@ -1,0 +1,911 @@
+[
+  {
+    "id": "kidney-stones",
+    "name": "Kidney stones",
+    "aliases": [
+      "renal stones",
+      "nephrolithiasis",
+      "renal colic"
+    ],
+    "category": "Kidneys & urinary",
+    "overview": "Kidney stones are hard deposits that form in the kidneys from waste products in the blood. Small stones often pass out in urine on their own, but larger ones can cause severe pain and may need treatment.",
+    "symptoms": [
+      "Severe pain in the side of the tummy or back that may spread to the groin",
+      "Pain that comes in waves",
+      "Feeling restless and unable to get comfortable",
+      "Feeling sick or being sick",
+      "Blood in urine",
+      "Needing to pee more often or pain when peeing"
+    ],
+    "causes": [
+      "Waste chemicals such as calcium or uric acid building up and forming crystals",
+      "Not drinking enough fluids, making urine concentrated"
+    ],
+    "riskFactors": [
+      "Not drinking enough fluids",
+      "A diet high in salt or animal protein",
+      "Family history or previous kidney stones",
+      "Some medical conditions and medicines",
+      "Overweight"
+    ],
+    "diagnosis": "Kidney stones are diagnosed with urine and blood tests and a scan, usually a CT scan.",
+    "treatment": [
+      "Painkillers and anti-sickness medicines",
+      "Medicines to help stones pass",
+      "Procedures to break up or remove larger stones, such as shockwave treatment or ureteroscopy"
+    ],
+    "selfCare": [
+      "Drink plenty of water throughout the day so urine is pale",
+      "Strain your urine if advised, to collect the stone for testing"
+    ],
+    "prevention": [
+      "Drink enough fluids every day",
+      "Reduce salt intake",
+      "Eat a balanced diet",
+      "Follow specific diet advice for your stone type"
+    ],
+    "whenToSeeDoctor": [
+      "Pain in the side or back that comes and goes",
+      "Blood in urine",
+      "Recurring urine infections"
+    ],
+    "emergencySigns": [
+      "Severe pain with high temperature and shivering",
+      "Pain so severe you cannot get comfortable or stop vomiting",
+      "Unable to pee"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Kidney stones",
+        "url": "https://www.nhs.uk/conditions/kidney-stones/"
+      },
+      {
+        "label": "MedlinePlus: Kidney Stones",
+        "url": "https://medlineplus.gov/kidneystones.html"
+      }
+    ]
+  },
+  {
+    "id": "chronic-kidney-disease",
+    "name": "Chronic kidney disease (CKD)",
+    "aliases": [
+      "CKD",
+      "kidney disease",
+      "kidney failure",
+      "renal disease"
+    ],
+    "category": "Kidneys & urinary",
+    "overview": "Chronic kidney disease is a long-term condition where the kidneys do not work as well as they should. It is common, especially in older people, and often causes no symptoms in the early stages. Treatment can slow it down and lower the risk of heart disease.",
+    "symptoms": [
+      "Usually no symptoms in early stages",
+      "Tiredness",
+      "Swollen ankles, feet or hands",
+      "Shortness of breath",
+      "Feeling sick",
+      "Blood in urine or needing to pee more at night"
+    ],
+    "causes": [
+      "High blood pressure",
+      "Diabetes",
+      "High cholesterol",
+      "Kidney infections, inflammation or inherited kidney conditions",
+      "Long-term use of some medicines such as anti-inflammatory painkillers"
+    ],
+    "riskFactors": [
+      "Diabetes",
+      "High blood pressure",
+      "Heart disease",
+      "Older age",
+      "Family history",
+      "Being of South Asian, African or African-Caribbean descent"
+    ],
+    "diagnosis": "CKD is diagnosed with blood tests (to estimate kidney function) and urine tests, often found during routine checks for people at risk.",
+    "treatment": [
+      "Controlling blood pressure and blood sugar",
+      "Medicines to protect the kidneys and heart",
+      "Dialysis or kidney transplant for kidney failure"
+    ],
+    "selfCare": [
+      "Stop smoking",
+      "Healthy diet with less salt",
+      "Be physically active",
+      "Limit alcohol",
+      "Check with a doctor or pharmacist before taking new medicines"
+    ],
+    "prevention": [
+      "Control blood pressure and diabetes",
+      "Do not smoke",
+      "Healthy weight and regular activity"
+    ],
+    "whenToSeeDoctor": [
+      "You have diabetes or high blood pressure and have not had kidney checks",
+      "Persistent symptoms such as swollen ankles or tiredness",
+      "Blood in urine"
+    ],
+    "emergencySigns": [
+      "Severe shortness of breath",
+      "Passing very little or no urine",
+      "Chest pain or confusion"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Chronic kidney disease",
+        "url": "https://www.nhs.uk/conditions/kidney-disease/"
+      },
+      {
+        "label": "MedlinePlus: Chronic Kidney Disease",
+        "url": "https://medlineplus.gov/chronickidneydisease.html"
+      }
+    ]
+  },
+  {
+    "id": "urinary-incontinence",
+    "name": "Urinary incontinence",
+    "aliases": [
+      "bladder leakage",
+      "stress incontinence",
+      "urge incontinence",
+      "overactive bladder"
+    ],
+    "category": "Kidneys & urinary",
+    "overview": "Urinary incontinence means accidentally passing urine. It is common, especially in women and older people, and is often treatable. Many people feel embarrassed, but doctors can help.",
+    "symptoms": [
+      "Leaking urine when coughing, sneezing, laughing or exercising (stress incontinence)",
+      "A sudden, intense urge to pee, with leaking before reaching the toilet (urge incontinence)",
+      "Needing to pee often, including at night"
+    ],
+    "causes": [
+      "Weakened pelvic floor muscles, often after pregnancy and childbirth",
+      "Overactive bladder muscles",
+      "Menopause",
+      "An enlarged prostate in men",
+      "Some medicines or neurological conditions"
+    ],
+    "riskFactors": [
+      "Pregnancy and vaginal birth",
+      "Menopause",
+      "Overweight",
+      "Older age",
+      "Family history",
+      "Constipation"
+    ],
+    "diagnosis": "A GP asks about symptoms, may examine you, and may test your urine or ask you to keep a bladder diary.",
+    "treatment": [
+      "Pelvic floor muscle exercises",
+      "Bladder training",
+      "Medicines for urge incontinence",
+      "Surgery or procedures in some cases"
+    ],
+    "selfCare": [
+      "Do pelvic floor exercises daily",
+      "Cut down on caffeine and alcohol",
+      "Keep to a healthy weight",
+      "Avoid constipation"
+    ],
+    "prevention": [
+      "Regular pelvic floor exercises",
+      "Healthy weight",
+      "Do not smoke"
+    ],
+    "whenToSeeDoctor": [
+      "Any leaking of urine that affects your life",
+      "Incontinence starting suddenly",
+      "Blood in urine or pain when peeing"
+    ],
+    "emergencySigns": [
+      "Sudden loss of bladder control with numbness around the bottom or weakness in the legs",
+      "Unable to pee at all with tummy pain"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Urinary incontinence",
+        "url": "https://www.nhs.uk/conditions/urinary-incontinence/"
+      },
+      {
+        "label": "MedlinePlus: Urinary Incontinence",
+        "url": "https://medlineplus.gov/urinaryincontinence.html"
+      }
+    ]
+  },
+  {
+    "id": "benign-prostate-enlargement",
+    "name": "Benign prostate enlargement (BPH)",
+    "aliases": [
+      "BPH",
+      "enlarged prostate",
+      "benign prostatic hyperplasia"
+    ],
+    "category": "Kidneys & urinary",
+    "overview": "Benign prostate enlargement is when the prostate gland gets bigger, which is common in men over 50. It is not cancer and does not raise the risk of prostate cancer, but it can affect how you pee.",
+    "symptoms": [
+      "Difficulty starting to pee",
+      "A weak flow of urine",
+      "Straining when peeing",
+      "Needing to pee more often or urgently",
+      "Waking at night to pee",
+      "Feeling that the bladder has not fully emptied"
+    ],
+    "causes": [
+      "Hormonal changes linked to ageing",
+      "The exact cause is not fully understood"
+    ],
+    "riskFactors": [
+      "Age over 50",
+      "Family history",
+      "Obesity and diabetes"
+    ],
+    "diagnosis": "A GP asks about symptoms and may do a urine test, a blood test (PSA) and a rectal examination to check the prostate.",
+    "treatment": [
+      "Lifestyle changes",
+      "Medicines to relax the prostate or shrink it",
+      "Surgery for more severe symptoms"
+    ],
+    "selfCare": [
+      "Drink less in the evening",
+      "Cut down on caffeine and alcohol",
+      "Empty your bladder twice in a row (double voiding)",
+      "Bladder training"
+    ],
+    "prevention": [
+      "There is no proven way to prevent it; a healthy lifestyle may help"
+    ],
+    "whenToSeeDoctor": [
+      "Any changes in how you pee",
+      "Symptoms affecting sleep or daily life",
+      "Blood in urine"
+    ],
+    "emergencySigns": [
+      "Unable to pee at all, with a painful, swollen tummy",
+      "Pee problems with high temperature and shivering"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "url": "https://www.nhs.uk/conditions/enlarged-prostate/",
+        "label": "NHS — Enlarged prostate"
+      },
+      {
+        "label": "MedlinePlus: Enlarged Prostate (BPH)",
+        "url": "https://medlineplus.gov/enlargedprostatebph.html"
+      }
+    ]
+  },
+  {
+    "id": "endometriosis",
+    "name": "Endometriosis",
+    "aliases": [
+      "endo"
+    ],
+    "category": "Sexual & reproductive health",
+    "overview": "Endometriosis is a long-term condition where tissue similar to the lining of the womb grows in other places, such as the ovaries and fallopian tubes. It can cause painful periods and pelvic pain, and can affect fertility. Treatments can help manage symptoms.",
+    "symptoms": [
+      "Period pain that stops you doing normal activities",
+      "Pain in the lower tummy or back (pelvic pain)",
+      "Pain during or after sex",
+      "Pain when pooing or peeing during a period",
+      "Heavy periods",
+      "Difficulty getting pregnant"
+    ],
+    "causes": [
+      "The exact cause is unknown",
+      "Possible factors include genetics, immune system problems and menstrual blood flowing backwards into the pelvis"
+    ],
+    "riskFactors": [
+      "Family history of endometriosis",
+      "Starting periods at a young age",
+      "Short menstrual cycles"
+    ],
+    "diagnosis": "Endometriosis can be suspected from symptoms and scans, but is often confirmed by keyhole surgery (laparoscopy).",
+    "treatment": [
+      "Painkillers",
+      "Hormone treatments such as the contraceptive pill or other hormonal medicines",
+      "Surgery to remove endometriosis tissue",
+      "Fertility treatment if needed"
+    ],
+    "selfCare": [
+      "Use heat pads or warm baths for pain",
+      "Keep a symptom diary",
+      "Gentle exercise",
+      "Join a support group"
+    ],
+    "prevention": [
+      "There is no known way to prevent endometriosis"
+    ],
+    "whenToSeeDoctor": [
+      "Period pain that affects daily life",
+      "Pain during sex",
+      "Difficulty getting pregnant",
+      "Symptoms not improving with treatment"
+    ],
+    "emergencySigns": [
+      "Sudden, severe pelvic pain with fainting or feeling very unwell"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Endometriosis",
+        "url": "https://www.nhs.uk/conditions/endometriosis/"
+      },
+      {
+        "label": "MedlinePlus: Endometriosis",
+        "url": "https://medlineplus.gov/endometriosis.html"
+      }
+    ]
+  },
+  {
+    "id": "polycystic-ovary-syndrome",
+    "name": "Polycystic ovary syndrome (PCOS)",
+    "aliases": [
+      "PCOS",
+      "polycystic ovaries"
+    ],
+    "category": "Hormones & metabolism",
+    "overview": "PCOS is a common condition that affects how the ovaries work. It can cause irregular periods, excess hair growth and difficulty getting pregnant. Symptoms can be managed, and it is linked to a higher risk of type 2 diabetes.",
+    "symptoms": [
+      "Irregular or no periods",
+      "Difficulty getting pregnant",
+      "Excess hair growth on the face, chest, back or buttocks",
+      "Weight gain",
+      "Thinning hair or hair loss from the head",
+      "Oily skin or acne"
+    ],
+    "causes": [
+      "The exact cause is unknown",
+      "Linked to higher levels of hormones such as testosterone, and insulin resistance",
+      "Often runs in families"
+    ],
+    "riskFactors": [
+      "Family history",
+      "Overweight",
+      "Insulin resistance"
+    ],
+    "diagnosis": "PCOS is diagnosed from symptoms, blood tests for hormones, and sometimes an ultrasound scan of the ovaries.",
+    "treatment": [
+      "Lifestyle changes such as weight loss if overweight",
+      "Hormonal contraceptives to regulate periods",
+      "Medicines for excess hair or acne",
+      "Fertility treatments if trying to get pregnant"
+    ],
+    "selfCare": [
+      "Eat a healthy diet",
+      "Exercise regularly",
+      "Keep to a healthy weight"
+    ],
+    "prevention": [
+      "Healthy weight and regular activity can reduce symptoms and long-term risks"
+    ],
+    "whenToSeeDoctor": [
+      "Irregular or missed periods",
+      "Difficulty getting pregnant",
+      "Excess hair growth or hair loss"
+    ],
+    "emergencySigns": [],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Polycystic ovary syndrome",
+        "url": "https://www.nhs.uk/conditions/polycystic-ovary-syndrome-pcos/"
+      },
+      {
+        "label": "MedlinePlus: Polycystic Ovary Syndrome",
+        "url": "https://medlineplus.gov/polycysticovarysyndrome.html"
+      }
+    ]
+  },
+  {
+    "id": "menopause",
+    "name": "Menopause",
+    "aliases": [
+      "perimenopause",
+      "the change",
+      "climacteric"
+    ],
+    "category": "Sexual & reproductive health",
+    "overview": "Menopause is when periods stop due to lower hormone levels, usually between ages 45 and 55. Perimenopause is the time before, when symptoms often start. Symptoms can be managed with lifestyle changes and treatments such as hormone replacement therapy.",
+    "symptoms": [
+      "Changes to periods, becoming irregular before stopping",
+      "Hot flushes and night sweats",
+      "Difficulty sleeping",
+      "Low mood, anxiety or mood swings",
+      "Problems with memory or concentration",
+      "Vaginal dryness and reduced sex drive"
+    ],
+    "causes": [
+      "Natural fall in oestrogen and other hormones with age",
+      "Surgery to remove the ovaries",
+      "Some cancer treatments"
+    ],
+    "riskFactors": [
+      "Age 45 to 55",
+      "Early menopause can run in families"
+    ],
+    "diagnosis": "Menopause is usually diagnosed from symptoms in people over 45; blood tests may be used in younger people.",
+    "treatment": [
+      "Hormone replacement therapy (HRT)",
+      "Non-hormonal medicines for hot flushes",
+      "Vaginal oestrogen or lubricants for dryness",
+      "Talking therapies such as CBT for mood and sleep"
+    ],
+    "selfCare": [
+      "Regular exercise",
+      "Healthy diet with enough calcium and vitamin D",
+      "Wear light layers and keep the bedroom cool",
+      "Limit caffeine, alcohol and spicy food if they trigger flushes"
+    ],
+    "prevention": [
+      "Menopause is natural and cannot be prevented, but bone and heart health can be protected with exercise and a healthy diet"
+    ],
+    "whenToSeeDoctor": [
+      "Symptoms affecting your daily life",
+      "Symptoms of menopause before age 45",
+      "Bleeding after periods have stopped for 12 months"
+    ],
+    "emergencySigns": [],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Menopause",
+        "url": "https://www.nhs.uk/conditions/menopause/"
+      },
+      {
+        "label": "MedlinePlus: Menopause",
+        "url": "https://medlineplus.gov/menopause.html"
+      }
+    ]
+  },
+  {
+    "id": "erectile-dysfunction",
+    "name": "Erectile dysfunction",
+    "aliases": [
+      "ED",
+      "impotence"
+    ],
+    "category": "Sexual & reproductive health",
+    "overview": "Erectile dysfunction is when you cannot get or keep an erection. It is very common, especially with age, and can be a sign of other health problems such as heart disease or diabetes. Effective treatments are available.",
+    "symptoms": [
+      "Difficulty getting an erection",
+      "Difficulty keeping an erection during sex",
+      "Reduced sexual desire in some cases"
+    ],
+    "causes": [
+      "Physical causes such as narrowed blood vessels, high blood pressure, diabetes or hormone problems",
+      "Psychological causes such as stress, anxiety or depression",
+      "Alcohol, smoking or some medicines"
+    ],
+    "riskFactors": [
+      "Older age",
+      "Heart disease, diabetes or high blood pressure",
+      "Smoking",
+      "Heavy alcohol use",
+      "Overweight",
+      "Stress or relationship problems"
+    ],
+    "diagnosis": "A GP or sexual health clinic asks about symptoms and may check blood pressure, blood sugar, cholesterol and hormone levels.",
+    "treatment": [
+      "Medicines that increase blood flow to the penis, prescribed by a doctor or pharmacist",
+      "Treating underlying conditions",
+      "Counselling or sex therapy",
+      "Vacuum pumps or other devices"
+    ],
+    "selfCare": [
+      "Stop smoking",
+      "Limit alcohol",
+      "Keep to a healthy weight",
+      "Exercise regularly",
+      "Manage stress"
+    ],
+    "prevention": [
+      "Healthy lifestyle",
+      "Control blood pressure, cholesterol and diabetes"
+    ],
+    "whenToSeeDoctor": [
+      "Erection problems that keep happening",
+      "You have other symptoms such as chest pain or breathlessness on exertion"
+    ],
+    "emergencySigns": [
+      "An erection lasting more than 4 hours (priapism)",
+      "Chest pain during sexual activity"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Erectile dysfunction (impotence)",
+        "url": "https://www.nhs.uk/conditions/erection-problems-erectile-dysfunction/"
+      },
+      {
+        "label": "MedlinePlus: Erectile Dysfunction",
+        "url": "https://medlineplus.gov/erectiledysfunction.html"
+      }
+    ]
+  },
+  {
+    "id": "vaginal-thrush",
+    "name": "Vaginal thrush",
+    "aliases": [
+      "yeast infection",
+      "candida",
+      "candidiasis"
+    ],
+    "category": "Sexual & reproductive health",
+    "overview": "Vaginal thrush is a common yeast infection. It is not usually serious, is not a sexually transmitted infection, and can be treated with pharmacy medicines.",
+    "symptoms": [
+      "White vaginal discharge, often like cottage cheese, which does not usually smell",
+      "Itching and irritation around the vagina",
+      "Soreness and stinging during sex or when peeing"
+    ],
+    "causes": [
+      "Overgrowth of Candida yeast, which normally lives harmlessly in the body",
+      "Changes that upset the natural balance in the vagina, such as antibiotics, hormone changes or high blood sugar"
+    ],
+    "riskFactors": [
+      "Taking antibiotics",
+      "Pregnancy",
+      "Poorly controlled diabetes",
+      "A weakened immune system",
+      "Hormone changes"
+    ],
+    "diagnosis": "Thrush is often recognised from symptoms; a GP or sexual health clinic may take a swab if it keeps coming back or the diagnosis is unclear.",
+    "treatment": [
+      "Antifungal pessaries, creams or tablets from a pharmacy or prescribed by a doctor",
+      "Longer treatment for recurring thrush"
+    ],
+    "selfCare": [
+      "Use water and emollient instead of soap to wash",
+      "Dry properly after washing",
+      "Wear cotton underwear",
+      "Avoid perfumed products and douching"
+    ],
+    "prevention": [
+      "Avoid perfumed soaps and douches",
+      "Wear loose cotton underwear",
+      "Control blood sugar if you have diabetes"
+    ],
+    "whenToSeeDoctor": [
+      "It is your first time having symptoms",
+      "You are pregnant or under 16",
+      "Treatment has not worked or thrush keeps coming back",
+      "Unusual discharge, smell, bleeding or sores"
+    ],
+    "emergencySigns": [],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Thrush",
+        "url": "https://www.nhs.uk/conditions/thrush-in-men-and-women/"
+      },
+      {
+        "url": "https://medlineplus.gov/yeastinfections.html",
+        "label": "MedlinePlus — Yeast infections"
+      }
+    ]
+  },
+  {
+    "id": "glaucoma",
+    "name": "Glaucoma",
+    "aliases": [
+      "open-angle glaucoma",
+      "raised eye pressure"
+    ],
+    "category": "Eyes & ears",
+    "overview": "Glaucoma is a group of eye conditions where the optic nerve is damaged, usually by fluid building up in the eye. It often develops slowly without symptoms, so regular eye tests are important. Early treatment can prevent sight loss.",
+    "symptoms": [
+      "Often no symptoms at first",
+      "Gradual loss of side (peripheral) vision",
+      "Blurred vision",
+      "Seeing rings around lights",
+      "In acute glaucoma: sudden intense eye pain, red eye and headache"
+    ],
+    "causes": [
+      "Build-up of fluid in the eye that increases pressure and damages the optic nerve",
+      "Sometimes damage occurs with normal eye pressure"
+    ],
+    "riskFactors": [
+      "Older age",
+      "Family history of glaucoma",
+      "Being of African, Caribbean or Asian descent",
+      "Short or long sight",
+      "Diabetes"
+    ],
+    "diagnosis": "Glaucoma is detected during eye tests by measuring eye pressure, examining the optic nerve, and testing the field of vision.",
+    "treatment": [
+      "Eye drops to lower eye pressure",
+      "Laser treatment",
+      "Surgery to improve fluid drainage"
+    ],
+    "selfCare": [
+      "Use eye drops exactly as prescribed",
+      "Attend all follow-up appointments",
+      "Tell the driving authority if required in your country"
+    ],
+    "prevention": [
+      "Regular eye tests, especially if over 40 or with a family history"
+    ],
+    "whenToSeeDoctor": [
+      "You have a family history of glaucoma and have not had an eye test recently",
+      "Gradual changes in vision"
+    ],
+    "emergencySigns": [
+      "Sudden intense eye pain with a red eye",
+      "Sudden blurred vision or seeing halos around lights with headache, nausea or vomiting"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Glaucoma",
+        "url": "https://www.nhs.uk/conditions/glaucoma/"
+      },
+      {
+        "label": "National Eye Institute: Glaucoma",
+        "url": "https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/glaucoma"
+      }
+    ]
+  },
+  {
+    "id": "cataracts",
+    "name": "Cataracts",
+    "aliases": [
+      "cataract",
+      "cloudy lens"
+    ],
+    "category": "Eyes & ears",
+    "overview": "Cataracts are when the lens inside the eye becomes cloudy, causing blurred or misty vision. They are very common in older people. Surgery to replace the cloudy lens is safe and effective.",
+    "symptoms": [
+      "Blurred, cloudy or misty vision",
+      "Finding lights too bright or glaring",
+      "Difficulty seeing in low light",
+      "Colours looking faded",
+      "Seeing halos around lights"
+    ],
+    "causes": [
+      "Natural changes in the lens with age",
+      "Diabetes, eye injury, long-term steroid use, or sun exposure"
+    ],
+    "riskFactors": [
+      "Older age",
+      "Diabetes",
+      "Smoking",
+      "Heavy alcohol use",
+      "Long-term steroid use",
+      "Family history"
+    ],
+    "diagnosis": "Cataracts are diagnosed during an eye test by an optometrist or eye specialist.",
+    "treatment": [
+      "Stronger glasses and brighter lighting in early stages",
+      "Surgery to replace the cloudy lens with an artificial one"
+    ],
+    "selfCare": [
+      "Use brighter lights at home",
+      "Wear sunglasses",
+      "Have regular eye tests"
+    ],
+    "prevention": [
+      "Stop smoking",
+      "Wear sunglasses in bright sunlight",
+      "Control diabetes"
+    ],
+    "whenToSeeDoctor": [
+      "Vision is becoming blurry or cloudy",
+      "Vision problems affecting daily life such as reading or driving"
+    ],
+    "emergencySigns": [
+      "Sudden loss of vision",
+      "Severe eye pain or redness after cataract surgery"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Cataracts",
+        "url": "https://www.nhs.uk/conditions/cataracts/"
+      },
+      {
+        "label": "National Eye Institute: Cataracts",
+        "url": "https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/cataracts"
+      }
+    ]
+  },
+  {
+    "id": "age-related-macular-degeneration",
+    "name": "Age-related macular degeneration (AMD)",
+    "aliases": [
+      "AMD",
+      "macular degeneration",
+      "wet AMD",
+      "dry AMD"
+    ],
+    "category": "Eyes & ears",
+    "overview": "Age-related macular degeneration affects the middle part of your vision. It usually affects people over 50 and does not cause total blindness, but it can make everyday activities like reading and recognising faces difficult. Wet AMD can be treated if found early.",
+    "symptoms": [
+      "Blurred or distorted central vision",
+      "Straight lines looking wavy",
+      "Difficulty reading or recognising faces",
+      "Objects looking smaller than normal",
+      "Colours looking less bright"
+    ],
+    "causes": [
+      "Damage to the macula, part of the retina, with ageing",
+      "Dry AMD develops slowly; wet AMD is caused by abnormal blood vessels and can develop quickly"
+    ],
+    "riskFactors": [
+      "Age over 50",
+      "Smoking",
+      "Family history",
+      "High blood pressure",
+      "Overweight"
+    ],
+    "diagnosis": "AMD is diagnosed during an eye examination, usually with a scan of the back of the eye (OCT).",
+    "treatment": [
+      "Injections into the eye for wet AMD",
+      "No treatment yet to reverse dry AMD; support and low-vision aids help",
+      "Light therapy in some cases"
+    ],
+    "selfCare": [
+      "Stop smoking",
+      "Eat a healthy diet with leafy greens",
+      "Use magnifiers and good lighting",
+      "Regular eye tests"
+    ],
+    "prevention": [
+      "Do not smoke",
+      "Healthy diet and weight",
+      "Regular eye tests"
+    ],
+    "whenToSeeDoctor": [
+      "Gradual changes in central vision",
+      "Difficulty reading or seeing fine detail"
+    ],
+    "emergencySigns": [
+      "Sudden distortion of vision or straight lines appearing wavy (get seen urgently by an eye specialist)",
+      "Sudden loss of vision"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Age-related macular degeneration (AMD)",
+        "url": "https://www.nhs.uk/conditions/age-related-macular-degeneration-amd/"
+      },
+      {
+        "label": "MedlinePlus: Macular Degeneration",
+        "url": "https://medlineplus.gov/maculardegeneration.html"
+      }
+    ]
+  },
+  {
+    "id": "tinnitus",
+    "name": "Tinnitus",
+    "aliases": [
+      "ringing in the ears",
+      "buzzing in the ears"
+    ],
+    "category": "Eyes & ears",
+    "overview": "Tinnitus is hearing noises such as ringing or buzzing that are not caused by an outside source. It is common and often linked to hearing loss. It may improve over time, and there are ways to manage it.",
+    "symptoms": [
+      "Ringing, buzzing, humming, whooshing or hissing sounds",
+      "Sounds that come and go or are constant",
+      "Difficulty concentrating or sleeping"
+    ],
+    "causes": [
+      "Hearing loss from ageing or loud noise",
+      "Earwax build-up",
+      "Ear infections",
+      "Ménière's disease",
+      "Anxiety or stress",
+      "Some medicines"
+    ],
+    "riskFactors": [
+      "Exposure to loud noise",
+      "Older age",
+      "Hearing loss",
+      "Anxiety or depression"
+    ],
+    "diagnosis": "A GP looks in the ears and may refer you for hearing tests with an audiologist or ear specialist.",
+    "treatment": [
+      "Treating the cause, such as removing earwax",
+      "Hearing aids if hearing loss is present",
+      "Sound therapy",
+      "Talking therapies such as CBT"
+    ],
+    "selfCare": [
+      "Use relaxing background sounds, especially at night",
+      "Avoid very quiet environments",
+      "Manage stress",
+      "Protect your ears from loud noise"
+    ],
+    "prevention": [
+      "Use ear protection around loud noise",
+      "Keep headphone volume low"
+    ],
+    "whenToSeeDoctor": [
+      "Tinnitus that does not go away or is getting worse",
+      "Tinnitus affecting sleep, concentration or mood",
+      "Tinnitus in one ear only",
+      "Tinnitus that beats in time with your pulse"
+    ],
+    "emergencySigns": [
+      "Tinnitus after a head injury",
+      "Sudden hearing loss, dizziness or weakness in the face"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Tinnitus",
+        "url": "https://www.nhs.uk/conditions/tinnitus/"
+      },
+      {
+        "label": "NIDCD: Tinnitus",
+        "url": "https://www.nidcd.nih.gov/health/tinnitus"
+      }
+    ]
+  },
+  {
+    "id": "hearing-loss",
+    "name": "Hearing loss",
+    "aliases": [
+      "deafness",
+      "hard of hearing",
+      "age-related hearing loss",
+      "presbycusis"
+    ],
+    "category": "Eyes & ears",
+    "overview": "Hearing loss is very common, especially as people get older. It can happen gradually or suddenly. Sometimes it is temporary and treatable, such as from earwax, and hearing aids help many people with long-term hearing loss.",
+    "symptoms": [
+      "Difficulty hearing other people clearly or misunderstanding them",
+      "Asking people to repeat themselves",
+      "Turning the TV up louder than others want",
+      "Difficulty hearing on the phone or in noisy places"
+    ],
+    "causes": [
+      "Ageing",
+      "Exposure to loud noise",
+      "Earwax build-up",
+      "Ear infections or glue ear",
+      "Some medicines or conditions such as Ménière's disease"
+    ],
+    "riskFactors": [
+      "Older age",
+      "Loud noise exposure at work or leisure",
+      "Family history",
+      "Some medicines"
+    ],
+    "diagnosis": "A GP looks in the ears and refers for hearing tests by an audiologist if needed.",
+    "treatment": [
+      "Removing earwax",
+      "Treating infections",
+      "Hearing aids",
+      "Cochlear implants for severe hearing loss"
+    ],
+    "selfCare": [
+      "Protect ears from loud noise",
+      "Do not use cotton buds in the ears",
+      "Ask people to face you when speaking"
+    ],
+    "prevention": [
+      "Use ear protection",
+      "Keep music volume low",
+      "Have hearing checked if you notice changes"
+    ],
+    "whenToSeeDoctor": [
+      "Hearing is gradually getting worse",
+      "Hearing loss in one ear",
+      "Hearing loss with ear pain or discharge"
+    ],
+    "emergencySigns": [
+      "Sudden hearing loss in one or both ears (seek urgent help the same day)",
+      "Hearing loss after a head injury",
+      "Hearing loss with sudden dizziness, weakness or facial drooping"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Hearing loss",
+        "url": "https://www.nhs.uk/conditions/hearing-loss/"
+      },
+      {
+        "label": "WHO: Deafness and hearing loss",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/deafness-and-hearing-loss"
+      }
+    ]
+  }
+]

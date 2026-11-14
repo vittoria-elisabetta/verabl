@@ -1,0 +1,847 @@
+[
+  {
+    "id": "fever-adults",
+    "name": "Fever in adults",
+    "aliases": [
+      "high temperature",
+      "fever",
+      "feeling hot",
+      "temperature of 38",
+      "running a temperature",
+      "feverish"
+    ],
+    "bodyArea": "Whole body",
+    "summary": "A high temperature is usually 38C (100.4F) or above and is most often caused by a viral infection. It usually gets better on its own within 3 days.",
+    "redFlags": [
+      "A rash that does not fade when you press a glass against it",
+      "A stiff neck, pain when looking at bright lights, or a severe headache",
+      "Confusion, slurred speech, extreme drowsiness or difficulty waking",
+      "Cold, blotchy, pale or blue-tinged skin, lips or tongue",
+      "Difficulty breathing, breathing very fast, or chest pain",
+      "Not peeing all day, or shivering uncontrollably with feeling very unwell",
+      "A seizure (fit)"
+    ],
+    "urgentFlags": [
+      "A temperature of 40C (104F) or higher",
+      "A high temperature with a weakened immune system, such as during chemotherapy",
+      "A high temperature after recent travel abroad, especially to an area with malaria",
+      "Pain when peeing, pain in your back or side, or a red, hot, swollen area of skin",
+      "A high temperature during pregnancy or after recently giving birth",
+      "Symptoms getting worse after starting to improve"
+    ],
+    "commonCauses": [
+      {
+        "title": "Viral infections",
+        "detail": "Colds, flu, COVID-19 and stomach bugs are the most common causes."
+      },
+      {
+        "title": "Bacterial infections",
+        "detail": "Urine, chest, skin or throat infections may need antibiotics."
+      },
+      {
+        "title": "Vaccinations",
+        "detail": "A mild temperature for a day or two after a vaccine is common."
+      },
+      {
+        "title": "Other conditions",
+        "detail": "Less commonly, inflammatory conditions or medicines can cause fever."
+      }
+    ],
+    "selfCare": [
+      "Rest and drink plenty of fluids such as water so your pee is pale",
+      "Take paracetamol or ibuprofen if you feel uncomfortable, following the pack instructions",
+      "Wear light clothing and keep the room comfortably cool",
+      "Stay at home and avoid contact with others while you have a high temperature"
+    ],
+    "avoid": [
+      "Cold baths or sponging with cold water, which can make you shiver",
+      "Taking paracetamol and combination cold remedies together, which can lead to taking too much paracetamol",
+      "Antibiotics left over from a previous illness"
+    ],
+    "seeDoctorIf": [
+      "Your temperature has lasted more than 3 days",
+      "You keep getting high temperatures",
+      "You have night sweats or weight loss with a temperature",
+      "You are worried about your symptoms"
+    ],
+    "selfCareMaxDays": 3,
+    "sources": [
+      {
+        "label": "NHS: High temperature (fever) in adults",
+        "url": "https://www.nhs.uk/conditions/fever-in-adults/"
+      },
+      {
+        "label": "NHS: Sepsis",
+        "url": "https://www.nhs.uk/conditions/sepsis/"
+      },
+      {
+        "label": "MedlinePlus: Fever",
+        "url": "https://medlineplus.gov/fever.html"
+      }
+    ]
+  },
+  {
+    "id": "fatigue",
+    "name": "Tiredness and fatigue",
+    "aliases": [
+      "always tired",
+      "exhausted",
+      "no energy",
+      "tired all the time",
+      "fatigue",
+      "feeling drained",
+      "weakness"
+    ],
+    "bodyArea": "Whole body",
+    "summary": "Feeling tired is very common and is often linked to sleep, stress, diet or a recent illness. Tiredness that lasts weeks without a clear reason is worth checking.",
+    "redFlags": [
+      "Sudden weakness or numbness on one side, a drooping face or slurred speech",
+      "Extreme tiredness with chest pain, severe breathlessness or fainting",
+      "Extreme drowsiness or confusion with a high temperature",
+      "Thoughts of harming yourself or ending your life"
+    ],
+    "urgentFlags": [
+      "Tiredness with vomiting blood or black, tar-like poo",
+      "Tiredness with breathlessness, a racing heart or looking very pale",
+      "Tiredness with extreme thirst, peeing a lot and weight loss"
+    ],
+    "commonCauses": [
+      {
+        "title": "Lifestyle",
+        "detail": "Not enough sleep, irregular hours, alcohol, caffeine, too little or too much exercise."
+      },
+      {
+        "title": "Stress, anxiety or low mood",
+        "detail": "Emotional strain and depression commonly cause exhaustion."
+      },
+      {
+        "title": "Recent infection",
+        "detail": "Tiredness can last several weeks after viral illnesses such as flu or COVID-19."
+      },
+      {
+        "title": "Anaemia or thyroid problems",
+        "detail": "Iron deficiency and an underactive thyroid are common, treatable causes."
+      },
+      {
+        "title": "Other conditions",
+        "detail": "Diabetes, sleep apnoea, chronic fatigue syndrome (ME/CFS), medicines, and less commonly cancer."
+      }
+    ],
+    "selfCare": [
+      "Go to bed and get up at the same time every day",
+      "Eat regular, balanced meals and drink enough water",
+      "Be active every day, starting gently if needed",
+      "Cut down on caffeine and alcohol, especially in the evening",
+      "Talk to someone or seek support if stress or worry is the cause"
+    ],
+    "avoid": [
+      "Energy drinks and large amounts of caffeine",
+      "Unproven 'energy-boosting' or 'adrenal fatigue' supplements",
+      "Napping for long periods during the day"
+    ],
+    "seeDoctorIf": [
+      "You have felt tired for several weeks without an obvious reason",
+      "Tiredness is affecting your daily life",
+      "You have also lost weight without trying",
+      "You have other symptoms such as heavy periods, night sweats or swollen glands",
+      "You snore loudly and stop breathing in your sleep"
+    ],
+    "selfCareMaxDays": 28,
+    "sources": [
+      {
+        "label": "NHS: Tiredness and fatigue",
+        "url": "https://www.nhs.uk/conditions/tiredness-and-fatigue/"
+      },
+      {
+        "label": "NHS: Iron deficiency anaemia",
+        "url": "https://www.nhs.uk/conditions/iron-deficiency-anaemia/"
+      }
+    ]
+  },
+  {
+    "id": "unexplained-weight-loss",
+    "name": "Unexplained weight loss",
+    "aliases": [
+      "losing weight without trying",
+      "weight loss for no reason",
+      "sudden weight loss",
+      "getting thinner",
+      "clothes getting loose"
+    ],
+    "bodyArea": "Whole body",
+    "summary": "Losing weight without trying, especially 5% or more of your body weight over 6 to 12 months, should always be checked by a doctor.",
+    "redFlags": [
+      "Weight loss with vomiting blood or passing black, tar-like poo",
+      "Weight loss with extreme thirst, peeing a lot, vomiting, fast breathing or confusion"
+    ],
+    "urgentFlags": [
+      "Weight loss with difficulty swallowing",
+      "Weight loss with yellowing of the skin or the whites of the eyes",
+      "Weight loss with being very thirsty and peeing a lot"
+    ],
+    "commonCauses": [
+      {
+        "title": "Stress, anxiety or depression",
+        "detail": "Can reduce appetite and lead to weight loss."
+      },
+      {
+        "title": "Overactive thyroid",
+        "detail": "Weight loss with a fast heartbeat, sweating and anxiety."
+      },
+      {
+        "title": "Diabetes",
+        "detail": "Weight loss with thirst, peeing a lot and tiredness."
+      },
+      {
+        "title": "Digestive problems",
+        "detail": "Coeliac disease, inflammatory bowel disease or other conditions that affect absorption."
+      },
+      {
+        "title": "Cancer or long-term infections",
+        "detail": "Less common, but the reason unexplained weight loss needs checking."
+      }
+    ],
+    "selfCare": [
+      "Weigh yourself and record it so you can show the doctor how much you have lost and over what time",
+      "Note any other symptoms such as changes in appetite, bowel habit, sweating or tiredness",
+      "Eat regular meals and snacks while waiting to be seen"
+    ],
+    "avoid": [
+      "Waiting to see if it stops",
+      "Assuming weight loss is due to stress without being checked"
+    ],
+    "seeDoctorIf": [
+      "You have lost weight without trying",
+      "You have also had a change in bowel habits, night sweats or tiredness",
+      "You have a lump anywhere in your body"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {
+        "label": "MedlinePlus: Weight loss - unintentional",
+        "url": "https://medlineplus.gov/ency/article/003107.htm"
+      },
+      {
+        "label": "NHS: Overactive thyroid",
+        "url": "https://www.nhs.uk/conditions/overactive-thyroid-hyperthyroidism/"
+      }
+    ]
+  },
+  {
+    "id": "night-sweats",
+    "name": "Night sweats",
+    "aliases": [
+      "sweating at night",
+      "waking up soaked",
+      "drenched in sweat",
+      "sweaty at night",
+      "wet sheets from sweat"
+    ],
+    "bodyArea": "Whole body",
+    "summary": "Night sweats are often caused by the menopause, infections, anxiety or medicines. Regular night sweats with weight loss or other symptoms should be checked.",
+    "redFlags": [
+      "Night sweats with confusion, fast breathing or cold, blotchy skin",
+      "Sweating with chest pain or breathlessness"
+    ],
+    "urgentFlags": [
+      "Night sweats with a high temperature and feeling very unwell",
+      "Night sweats with coughing up blood",
+      "Night sweats after travel abroad"
+    ],
+    "commonCauses": [
+      {
+        "title": "Menopause",
+        "detail": "Hot flushes and night sweats are very common around the menopause."
+      },
+      {
+        "title": "Infections",
+        "detail": "Flu and other infections; less commonly tuberculosis or HIV."
+      },
+      {
+        "title": "Anxiety",
+        "detail": "Stress and worry can cause sweating at night."
+      },
+      {
+        "title": "Medicines, alcohol or drugs",
+        "detail": "Antidepressants, steroids and alcohol are common causes."
+      },
+      {
+        "title": "Lymphoma or other conditions",
+        "detail": "Less commonly, night sweats with weight loss and swollen glands."
+      }
+    ],
+    "selfCare": [
+      "Keep your bedroom cool and use light, breathable bedding",
+      "Wear loose cotton nightwear",
+      "Cut down on alcohol, caffeine and spicy food, especially in the evening"
+    ],
+    "avoid": [
+      "Heavy duvets and synthetic bedding",
+      "Alcohol before bed"
+    ],
+    "seeDoctorIf": [
+      "You have regular night sweats that wake you up",
+      "You also have a high temperature, weight loss or swollen glands",
+      "You have a cough that has lasted more than 3 weeks",
+      "Night sweats are affecting your sleep"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {
+        "label": "NHS: Night sweats",
+        "url": "https://www.nhs.uk/conditions/night-sweats/"
+      }
+    ]
+  },
+  {
+    "id": "swollen-glands",
+    "name": "Swollen glands",
+    "aliases": [
+      "swollen lymph nodes",
+      "lumps in neck",
+      "swollen neck glands",
+      "armpit gland swollen",
+      "lump in groin",
+      "glands up"
+    ],
+    "bodyArea": "Whole body",
+    "summary": "Swollen glands are usually a sign the body is fighting an infection, such as a cold or sore throat, and normally go down within 2 weeks.",
+    "redFlags": [
+      "Swelling in the neck with difficulty breathing or swallowing",
+      "Swollen glands with a rash that does not fade when pressed under a glass"
+    ],
+    "urgentFlags": [
+      "Swollen glands with a high temperature and feeling very unwell",
+      "A gland that is red, hot, very painful or getting bigger quickly"
+    ],
+    "commonCauses": [
+      {
+        "title": "Viral infections",
+        "detail": "Colds, flu and sore throats commonly cause tender glands in the neck."
+      },
+      {
+        "title": "Bacterial infections",
+        "detail": "Throat, tooth, skin or ear infections."
+      },
+      {
+        "title": "Glandular fever",
+        "detail": "Swollen glands with a sore throat and severe tiredness, often in teenagers and young adults."
+      },
+      {
+        "title": "Lymphoma or other cancers",
+        "detail": "Less common; usually painless, hard glands that do not go down."
+      }
+    ],
+    "selfCare": [
+      "Rest and drink plenty of fluids",
+      "Take paracetamol or ibuprofen for pain, following the pack instructions",
+      "Check the gland over the next 2 weeks to see if it goes down"
+    ],
+    "avoid": [
+      "Squeezing or massaging the gland",
+      "Antibiotics without a diagnosis"
+    ],
+    "seeDoctorIf": [
+      "Swollen glands are still there after 2 weeks",
+      "A gland feels hard or does not move when you press it",
+      "Glands are getting bigger",
+      "You also have night sweats, weight loss or a high temperature with no obvious cause"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {
+        "label": "NHS: Swollen glands",
+        "url": "https://www.nhs.uk/conditions/swollen-glands/"
+      },
+      {
+        "label": "MedlinePlus: Lymphatic diseases",
+        "url": "https://medlineplus.gov/lymphaticdiseases.html"
+      }
+    ]
+  },
+  {
+    "id": "chills",
+    "name": "Chills and shivering",
+    "aliases": [
+      "chills",
+      "shivering",
+      "shaking with cold",
+      "feeling cold and shivery",
+      "rigors",
+      "goosebumps and fever"
+    ],
+    "bodyArea": "Whole body",
+    "summary": "Shivering and feeling cold are often the body's way of raising its temperature at the start of an infection. Uncontrollable shaking with feeling very unwell can be a sign of sepsis.",
+    "redFlags": [
+      "Shivering uncontrollably with feeling very unwell, confused or very drowsy",
+      "Cold, blotchy, pale or blue-tinged skin, lips or tongue",
+      "Fast breathing, breathlessness or a very fast heartbeat",
+      "A rash that does not fade when you press a glass against it",
+      "Not peeing all day",
+      "Very low body temperature after being outside in the cold, with confusion or slurred speech"
+    ],
+    "urgentFlags": [
+      "Shivering with pain when peeing or pain in your back or side",
+      "Shivering with a red, hot, swollen area of skin",
+      "Shivering with a weakened immune system, such as during chemotherapy",
+      "Chills after travel abroad"
+    ],
+    "commonCauses": [
+      {
+        "title": "Viral infection",
+        "detail": "Flu and other viruses often cause chills along with a high temperature."
+      },
+      {
+        "title": "Bacterial infection",
+        "detail": "Kidney, chest or skin infections can cause severe shivering (rigors)."
+      },
+      {
+        "title": "Cold exposure",
+        "detail": "Being cold or wet for a long time."
+      },
+      {
+        "title": "Malaria",
+        "detail": "Chills and fever after visiting an area with malaria, even months later."
+      }
+    ],
+    "selfCare": [
+      "Rest and drink plenty of fluids",
+      "Use a light blanket while shivering, and remove extra layers once you feel hot",
+      "Take paracetamol or ibuprofen if you feel unwell, following the pack instructions",
+      "Check your temperature and other symptoms regularly"
+    ],
+    "avoid": [
+      "Piling on lots of blankets if you have a high temperature",
+      "Hot baths when feeling faint or very unwell"
+    ],
+    "seeDoctorIf": [
+      "Chills keep coming back",
+      "You have had chills and a temperature for more than 3 days",
+      "You also have night sweats or weight loss"
+    ],
+    "selfCareMaxDays": 3,
+    "sources": [
+      {
+        "label": "NHS: Sepsis",
+        "url": "https://www.nhs.uk/conditions/sepsis/"
+      },
+      {
+        "label": "NHS: High temperature (fever) in adults",
+        "url": "https://www.nhs.uk/conditions/fever-in-adults/"
+      }
+    ]
+  },
+  {
+    "id": "dehydration",
+    "name": "Dehydration",
+    "aliases": [
+      "dehydrated",
+      "not drinking enough",
+      "dry mouth and thirsty",
+      "dark pee and dizzy",
+      "lost too much fluid"
+    ],
+    "bodyArea": "Whole body",
+    "summary": "Dehydration means your body loses more fluid than it takes in. It is common with vomiting, diarrhoea, heat or exercise and can usually be treated by drinking more.",
+    "redFlags": [
+      "Confusion, extreme drowsiness or fainting",
+      "Not peeing all day",
+      "A fast heartbeat or fast breathing with feeling very unwell",
+      "Sunken eyes, cold hands and feet, or blotchy skin in a child",
+      "A seizure (fit)"
+    ],
+    "urgentFlags": [
+      "Being unable to keep fluids down",
+      "Feeling dizzy or lightheaded when standing that does not go away",
+      "Dark pee or not peeing for 8 hours or more",
+      "Dehydration in a baby, young child, older person or someone with diabetes or kidney disease"
+    ],
+    "commonCauses": [
+      {
+        "title": "Diarrhoea and vomiting",
+        "detail": "The most common cause, especially in children and older people."
+      },
+      {
+        "title": "Heat and exercise",
+        "detail": "Sweating a lot in hot weather or during exercise."
+      },
+      {
+        "title": "Fever",
+        "detail": "A high temperature increases fluid loss."
+      },
+      {
+        "title": "Alcohol and medicines",
+        "detail": "Alcohol and diuretics make you pee more."
+      },
+      {
+        "title": "High blood sugar",
+        "detail": "Uncontrolled diabetes causes thirst and peeing a lot."
+      }
+    ],
+    "selfCare": [
+      "Drink fluids often in small sips, aiming for pale yellow pee",
+      "Use oral rehydration solution from a pharmacy if you have diarrhoea or vomiting",
+      "Rest somewhere cool",
+      "Keep giving breast or formula milk to babies, little and often"
+    ],
+    "avoid": [
+      "Alcohol and lots of caffeine while dehydrated",
+      "Sugary fizzy drinks or undiluted fruit juice if you have diarrhoea",
+      "Giving young children sports drinks instead of oral rehydration solution"
+    ],
+    "seeDoctorIf": [
+      "Symptoms have not improved after drinking more fluids",
+      "You often feel very thirsty",
+      "You are peeing a lot or losing weight"
+    ],
+    "selfCareMaxDays": 1,
+    "sources": [
+      {
+        "label": "NHS: Dehydration",
+        "url": "https://www.nhs.uk/conditions/dehydration/"
+      },
+      {
+        "label": "MedlinePlus: Dehydration",
+        "url": "https://medlineplus.gov/dehydration.html"
+      }
+    ]
+  },
+  {
+    "id": "yellow-skin-or-eyes",
+    "name": "Yellow skin or eyes (jaundice)",
+    "aliases": [
+      "jaundice",
+      "yellow eyes",
+      "yellow skin",
+      "whites of eyes yellow",
+      "yellowish skin"
+    ],
+    "bodyArea": "Whole body",
+    "summary": "Yellowing of the skin or the whites of the eyes is called jaundice and can be a sign of a problem with the liver, gallbladder or pancreas. It always needs to be checked by a doctor.",
+    "redFlags": [
+      "Jaundice with confusion, extreme drowsiness or vomiting blood",
+      "Jaundice with severe stomach pain and a high temperature or shivering"
+    ],
+    "urgentFlags": [
+      "Any new yellowing of the skin or the whites of the eyes",
+      "Jaundice with dark pee, pale poo or itchy skin",
+      "Jaundice in a newborn baby that starts in the first 24 hours or lasts more than 2 weeks"
+    ],
+    "commonCauses": [
+      {
+        "title": "Gallstones",
+        "detail": "A stone blocking the bile duct, often with pain under the right ribs."
+      },
+      {
+        "title": "Hepatitis",
+        "detail": "Liver inflammation from viruses, alcohol or medicines."
+      },
+      {
+        "title": "Gilbert's syndrome",
+        "detail": "A common, harmless condition causing mild jaundice during illness or fasting."
+      },
+      {
+        "title": "Pancreatic or liver cancer",
+        "detail": "Less common; often painless jaundice with weight loss."
+      }
+    ],
+    "selfCare": [
+      "Get medical advice the same day",
+      "Avoid alcohol until you have been checked",
+      "Make a list of all medicines and supplements you take"
+    ],
+    "avoid": [
+      "Alcohol",
+      "Herbal remedies or supplements that may affect the liver",
+      "Taking more paracetamol than the pack allows"
+    ],
+    "seeDoctorIf": [
+      "You have been told you have mild jaundice before and it comes back often",
+      "You have ongoing itchy skin",
+      "You are worried about your liver"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {
+        "label": "NHS: Jaundice",
+        "url": "https://www.nhs.uk/conditions/jaundice/"
+      },
+      {
+        "url": "https://medlineplus.gov/jaundice.html",
+        "label": "MedlinePlus — Jaundice"
+      }
+    ]
+  },
+  {
+    "id": "allergic-reaction",
+    "name": "Allergic reaction",
+    "aliases": [
+      "allergy",
+      "swollen lips",
+      "swollen face",
+      "anaphylaxis",
+      "food allergy reaction",
+      "reaction to medicine"
+    ],
+    "bodyArea": "Whole body",
+    "summary": "Mild allergic reactions cause itching, sneezing or a rash. A severe reaction (anaphylaxis) affects breathing or circulation and is a medical emergency: call your local emergency number (such as 911, 999 or 112).",
+    "redFlags": [
+      "Swelling of the lips, tongue, mouth or throat",
+      "Difficulty breathing, wheezing, a hoarse voice or a tight throat",
+      "Feeling faint, dizzy, confused or collapsing",
+      "Pale, cold or blue-tinged skin, or a fast, weak pulse",
+      "Severe reaction after a sting, food or medicine in someone with a known severe allergy"
+    ],
+    "urgentFlags": [
+      "Swelling of the face or eyes without breathing problems",
+      "A widespread itchy rash after a new medicine",
+      "Symptoms that are getting worse despite antihistamines"
+    ],
+    "commonCauses": [
+      {
+        "title": "Foods",
+        "detail": "Peanuts, tree nuts, milk, eggs, fish, shellfish and sesame are common triggers."
+      },
+      {
+        "title": "Insect stings",
+        "detail": "Bee and wasp stings."
+      },
+      {
+        "title": "Medicines",
+        "detail": "Antibiotics such as penicillin, anti-inflammatory painkillers and others."
+      },
+      {
+        "title": "Latex, pollen, pets or dust mites",
+        "detail": "Usually cause milder reactions such as hay fever symptoms or hives."
+      }
+    ],
+    "selfCare": [
+      "If you have an adrenaline auto-injector, use it at the first signs of a severe reaction and call your local emergency number",
+      "Lie down with legs raised if feeling faint, or sit up if struggling to breathe",
+      "For mild reactions, ask a pharmacist about antihistamines",
+      "Avoid the trigger once identified"
+    ],
+    "avoid": [
+      "Waiting to see if a severe reaction gets better",
+      "Standing up or walking during a severe reaction, even if you feel better",
+      "Unproven allergy tests such as hair analysis or applied kinesiology"
+    ],
+    "seeDoctorIf": [
+      "You have had an allergic reaction and do not know the cause",
+      "You have had a severe reaction and do not have an allergy plan or auto-injector",
+      "Mild symptoms keep coming back"
+    ],
+    "selfCareMaxDays": 2,
+    "sources": [
+      {
+        "label": "NHS: Anaphylaxis",
+        "url": "https://www.nhs.uk/conditions/anaphylaxis/"
+      },
+      {
+        "label": "NHS: Allergies",
+        "url": "https://www.nhs.uk/conditions/allergies/"
+      }
+    ]
+  },
+  {
+    "id": "heat-exhaustion",
+    "name": "Heat exhaustion",
+    "aliases": [
+      "overheating",
+      "heatstroke",
+      "too hot and dizzy",
+      "sun stroke",
+      "heat illness"
+    ],
+    "bodyArea": "Whole body",
+    "summary": "Heat exhaustion causes headache, dizziness, sweating and feeling sick after getting too hot. It should improve within 30 minutes of cooling down; if not, it can turn into heatstroke, which is an emergency.",
+    "redFlags": [
+      "Still unwell after 30 minutes of resting in a cool place and drinking water",
+      "A temperature of 40C (104F) or higher, or hot skin that is not sweating",
+      "Confusion, fainting, seizures or loss of consciousness",
+      "Fast breathing or breathlessness"
+    ],
+    "urgentFlags": [
+      "Heat symptoms in a baby, young child, older person or someone with a long-term condition",
+      "Vomiting that stops you keeping fluids down"
+    ],
+    "commonCauses": [
+      {
+        "title": "Hot weather",
+        "detail": "Especially during heatwaves, and in older people and young children."
+      },
+      {
+        "title": "Exercise or physical work in heat",
+        "detail": "Without enough rest, shade or fluids."
+      },
+      {
+        "title": "Hot environments",
+        "detail": "Hot cars, kitchens or rooms without ventilation."
+      }
+    ],
+    "selfCare": [
+      "Move to a cool place",
+      "Lie down and raise the feet slightly",
+      "Drink plenty of water, sports drinks or rehydration drinks",
+      "Cool the skin with cool water, a wet cloth or a fan; cold packs around the armpits or neck help"
+    ],
+    "avoid": [
+      "Alcohol and caffeine in hot weather",
+      "Exercising in the hottest part of the day",
+      "Leaving anyone, especially children or pets, in a parked car"
+    ],
+    "seeDoctorIf": [
+      "You get heat symptoms easily or often",
+      "You take medicines and are unsure if they affect how you cope with heat"
+    ],
+    "selfCareMaxDays": 1,
+    "sources": [
+      {
+        "label": "NHS: Heat exhaustion and heatstroke",
+        "url": "https://www.nhs.uk/conditions/heat-exhaustion-heatstroke/"
+      },
+      {
+        "label": "CDC: Heat-related illness",
+        "url": "https://www.cdc.gov/heat-health/"
+      }
+    ]
+  },
+  {
+    "id": "excessive-thirst",
+    "name": "Feeling very thirsty",
+    "aliases": [
+      "always thirsty",
+      "excessive thirst",
+      "dry mouth all the time",
+      "drinking a lot of water",
+      "polydipsia"
+    ],
+    "bodyArea": "Whole body",
+    "summary": "Feeling thirsty is normal after exercise, heat or salty food. Being thirsty all the time, especially with peeing a lot, tiredness or weight loss, can be a sign of diabetes.",
+    "redFlags": [
+      "Thirst and peeing a lot with vomiting, stomach pain, deep or fast breathing, breath that smells fruity, or confusion",
+      "Extreme thirst with confusion or extreme drowsiness"
+    ],
+    "urgentFlags": [
+      "Thirst, peeing a lot and weight loss in a child",
+      "Thirst with feeling very unwell, dizziness or blurred vision",
+      "Thirst with a very high blood sugar reading if you have diabetes"
+    ],
+    "commonCauses": [
+      {
+        "title": "Not drinking enough",
+        "detail": "Especially in hot weather or with exercise."
+      },
+      {
+        "title": "Diet",
+        "detail": "Salty or spicy food and alcohol."
+      },
+      {
+        "title": "Diabetes",
+        "detail": "High blood sugar causes thirst, peeing a lot, tiredness and weight loss."
+      },
+      {
+        "title": "Medicines",
+        "detail": "Some medicines cause a dry mouth or make you pee more."
+      },
+      {
+        "title": "Other conditions",
+        "detail": "Less commonly, kidney problems or high calcium levels."
+      }
+    ],
+    "selfCare": [
+      "Drink water regularly through the day",
+      "Cut down on salty food, alcohol and sugary drinks",
+      "Notice whether you are also peeing more, tired or losing weight"
+    ],
+    "avoid": [
+      "Quenching thirst with sugary drinks",
+      "Ignoring persistent thirst with weight loss"
+    ],
+    "seeDoctorIf": [
+      "You are always thirsty and peeing a lot",
+      "You also feel tired, have blurred vision or have lost weight",
+      "You get infections such as thrush or cuts that heal slowly"
+    ],
+    "selfCareMaxDays": 7,
+    "sources": [
+      {
+        "label": "NHS: Type 2 diabetes",
+        "url": "https://www.nhs.uk/conditions/type-2-diabetes/"
+      },
+      {
+        "label": "NHS: Type 1 diabetes",
+        "url": "https://www.nhs.uk/conditions/type-1-diabetes/"
+      }
+    ]
+  },
+  {
+    "id": "unexplained-weight-gain",
+    "name": "Unexplained weight gain or puffiness",
+    "aliases": [
+      "gaining weight for no reason",
+      "sudden weight gain",
+      "puffy face",
+      "putting on weight",
+      "fluid retention"
+    ],
+    "bodyArea": "Whole body",
+    "summary": "Weight gain is usually linked to diet, activity, medicines or life changes. Rapid weight gain with swelling, or with tiredness and feeling cold, should be checked.",
+    "redFlags": [
+      "Rapid swelling with breathlessness, especially when lying down, or chest pain",
+      "Sudden swelling of the face, hands or feet in pregnancy with severe headache or vision problems"
+    ],
+    "urgentFlags": [
+      "Gaining a lot of weight over a few days with swollen legs or tummy",
+      "Puffiness with peeing much less than usual or foamy pee"
+    ],
+    "commonCauses": [
+      {
+        "title": "Diet and activity",
+        "detail": "Eating more or moving less than usual, including after stopping smoking."
+      },
+      {
+        "title": "Medicines",
+        "detail": "Steroids, some antidepressants, diabetes medicines and others."
+      },
+      {
+        "title": "Underactive thyroid",
+        "detail": "Weight gain with tiredness, feeling cold, constipation and dry skin."
+      },
+      {
+        "title": "Fluid retention",
+        "detail": "Heart, kidney or liver problems can cause rapid weight gain from fluid."
+      },
+      {
+        "title": "Hormonal changes",
+        "detail": "Menopause, polycystic ovary syndrome and, rarely, Cushing's syndrome."
+      }
+    ],
+    "selfCare": [
+      "Keep a food and activity diary for a couple of weeks",
+      "Eat a balanced diet and be active most days",
+      "Weigh yourself once a week at the same time"
+    ],
+    "avoid": [
+      "Crash diets and unregulated weight-loss pills",
+      "Stopping a prescribed medicine without talking to your doctor"
+    ],
+    "seeDoctorIf": [
+      "You are gaining weight without a clear reason",
+      "You also feel tired, cold or low",
+      "You have swelling in your legs or tummy",
+      "You think a medicine is causing it"
+    ],
+    "selfCareMaxDays": 30,
+    "sources": [
+      {
+        "label": "NHS: Underactive thyroid",
+        "url": "https://www.nhs.uk/conditions/underactive-thyroid-hypothyroidism/"
+      },
+      {
+        "url": "https://www.nhs.uk/conditions/oedema/",
+        "label": "NHS — Oedema (swelling)"
+      }
+    ]
+  }
+]

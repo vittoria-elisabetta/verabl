@@ -1,0 +1,869 @@
+[
+  {
+    "id": "iron-deficiency-anaemia",
+    "name": "Iron deficiency anaemia",
+    "aliases": [
+      "anaemia",
+      "anemia",
+      "low iron",
+      "low haemoglobin"
+    ],
+    "category": "Blood & immune system",
+    "overview": "Iron deficiency anaemia is when a lack of iron means the body cannot make enough healthy red blood cells. It is common and can make you feel tired and short of breath. It is usually easy to treat, but the cause should be found.",
+    "symptoms": [
+      "Tiredness and lack of energy",
+      "Shortness of breath",
+      "Noticeable heartbeats (palpitations)",
+      "Pale skin",
+      "Headaches",
+      "Craving non-food items such as ice (pica)"
+    ],
+    "causes": [
+      "Heavy periods",
+      "Pregnancy",
+      "Bleeding in the gut, for example from ulcers or bowel cancer",
+      "Not enough iron in the diet",
+      "Conditions that stop the body absorbing iron, such as coeliac disease"
+    ],
+    "riskFactors": [
+      "Heavy periods",
+      "Pregnancy",
+      "Vegetarian or vegan diet without enough iron-rich foods",
+      "Regular use of anti-inflammatory painkillers",
+      "Frequent blood donation"
+    ],
+    "diagnosis": "Anaemia is diagnosed with a blood test; further tests may be needed to find the cause of the iron deficiency.",
+    "treatment": [
+      "Iron tablets or liquid prescribed by a doctor",
+      "Iron given into a vein in some cases",
+      "Treating the underlying cause, such as heavy periods or bleeding"
+    ],
+    "selfCare": [
+      "Eat iron-rich foods such as dark green leafy vegetables, beans, fortified cereals, meat and dried fruit",
+      "Take iron supplements as directed",
+      "Avoid tea or coffee with meals, which can reduce iron absorption"
+    ],
+    "prevention": [
+      "Balanced diet rich in iron",
+      "Seek help for heavy periods"
+    ],
+    "whenToSeeDoctor": [
+      "Symptoms of anaemia such as tiredness and breathlessness",
+      "Heavy periods",
+      "Symptoms not improving after treatment"
+    ],
+    "emergencySigns": [
+      "Chest pain or severe breathlessness",
+      "Vomiting blood or black, tarry stools",
+      "Fainting"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Iron deficiency anaemia",
+        "url": "https://www.nhs.uk/conditions/iron-deficiency-anaemia/"
+      },
+      {
+        "label": "MedlinePlus: Anemia",
+        "url": "https://medlineplus.gov/anemia.html"
+      }
+    ]
+  },
+  {
+    "id": "hay-fever",
+    "name": "Hay fever",
+    "aliases": [
+      "allergic rhinitis",
+      "pollen allergy",
+      "seasonal allergies"
+    ],
+    "category": "Blood & immune system",
+    "overview": "Hay fever is an allergic reaction to pollen, usually worse between late March and September in temperate climates. It causes sneezing, a runny nose and itchy eyes. It cannot be cured, but symptoms can be eased with pharmacy treatments.",
+    "symptoms": [
+      "Sneezing and coughing",
+      "Runny or blocked nose",
+      "Itchy, red or watery eyes",
+      "Itchy throat, mouth, nose and ears",
+      "Headache or tiredness",
+      "Loss of smell"
+    ],
+    "causes": [
+      "An allergic reaction to pollen from trees, grass or weeds",
+      "The immune system overreacting to a harmless substance"
+    ],
+    "riskFactors": [
+      "Family history of allergies",
+      "Asthma or eczema",
+      "Living in areas with high pollen"
+    ],
+    "diagnosis": "Hay fever is usually diagnosed from symptoms and when they happen; allergy testing is rarely needed.",
+    "treatment": [
+      "Antihistamine tablets, drops or nasal sprays",
+      "Steroid nasal sprays",
+      "Immunotherapy for severe cases, under a specialist"
+    ],
+    "selfCare": [
+      "Check pollen forecasts",
+      "Put petroleum jelly around nostrils to trap pollen",
+      "Wear wraparound sunglasses",
+      "Shower and change clothes after being outside",
+      "Keep windows and doors shut on high pollen days"
+    ],
+    "prevention": [
+      "Avoid pollen where possible",
+      "Start treatment before the pollen season if advised"
+    ],
+    "whenToSeeDoctor": [
+      "Symptoms not improving with pharmacy medicines",
+      "Breathing problems such as wheezing or a tight chest"
+    ],
+    "emergencySigns": [
+      "Severe difficulty breathing or wheezing",
+      "Swelling of the lips, tongue or throat"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Hay fever",
+        "url": "https://www.nhs.uk/conditions/hay-fever/"
+      },
+      {
+        "label": "MedlinePlus: Hay Fever",
+        "url": "https://medlineplus.gov/hayfever.html"
+      }
+    ]
+  },
+  {
+    "id": "food-allergy",
+    "name": "Food allergy",
+    "aliases": [
+      "peanut allergy",
+      "nut allergy",
+      "milk allergy",
+      "egg allergy",
+      "shellfish allergy"
+    ],
+    "category": "Blood & immune system",
+    "overview": "A food allergy is when the immune system reacts to a food as if it were harmful. Reactions can be mild or, sometimes, severe and life-threatening (anaphylaxis). Common triggers include peanuts, tree nuts, milk, eggs, fish, shellfish, wheat and sesame.",
+    "symptoms": [
+      "Itching or tingling in the mouth",
+      "Itchy rash or hives",
+      "Swelling of the lips, face, tongue or throat",
+      "Sneezing, runny nose or itchy eyes",
+      "Tummy pain, feeling sick, vomiting or diarrhoea",
+      "Severe reactions: difficulty breathing, wheezing, dizziness or collapse"
+    ],
+    "causes": [
+      "The immune system wrongly reacting to proteins in certain foods",
+      "Common triggers include milk, eggs, peanuts, tree nuts, fish, shellfish, wheat, soya and sesame"
+    ],
+    "riskFactors": [
+      "Eczema in infancy",
+      "Other allergies or asthma",
+      "Family history of allergies"
+    ],
+    "diagnosis": "A doctor or allergy specialist uses your history of reactions, skin prick tests, blood tests and sometimes supervised food challenges.",
+    "treatment": [
+      "Avoiding the food",
+      "Antihistamines for mild reactions",
+      "Adrenaline auto-injectors for people at risk of anaphylaxis",
+      "Specialist allergy care, sometimes including desensitisation treatment"
+    ],
+    "selfCare": [
+      "Read food labels carefully",
+      "Tell restaurants and schools about the allergy",
+      "Carry prescribed adrenaline auto-injectors at all times if you have them",
+      "Have an allergy action plan"
+    ],
+    "prevention": [
+      "Avoid known allergens",
+      "For babies, follow current advice on introducing allergenic foods; ask a health professional if your baby has eczema or a known allergy"
+    ],
+    "whenToSeeDoctor": [
+      "You or your child react after eating a food",
+      "Mild reactions that keep happening"
+    ],
+    "emergencySigns": [
+      "Difficulty breathing or wheezing",
+      "Swelling of the throat or tongue, or difficulty swallowing",
+      "Feeling faint, dizzy or collapsing",
+      "Signs of anaphylaxis: use an adrenaline auto-injector if available and call emergency services"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Food allergy",
+        "url": "https://www.nhs.uk/conditions/food-allergy/"
+      },
+      {
+        "label": "MedlinePlus: Food Allergy",
+        "url": "https://medlineplus.gov/foodallergy.html"
+      }
+    ]
+  },
+  {
+    "id": "anaphylaxis",
+    "name": "Anaphylaxis",
+    "aliases": [
+      "anaphylactic shock",
+      "severe allergic reaction"
+    ],
+    "category": "Blood & immune system",
+    "overview": "Anaphylaxis is a severe, life-threatening allergic reaction that happens very quickly. It is a medical emergency. Adrenaline is the main treatment and should be given straight away if available.",
+    "symptoms": [
+      "Swelling of the throat and tongue",
+      "Difficulty breathing, wheezing or noisy breathing",
+      "Feeling lightheaded or faint",
+      "Tight throat or trouble swallowing",
+      "Skin that feels cold to the touch or a rash",
+      "Collapsing or losing consciousness"
+    ],
+    "causes": [
+      "Foods such as nuts, milk, fish, shellfish and eggs",
+      "Insect stings, such as wasp or bee stings",
+      "Some medicines, such as certain antibiotics",
+      "Latex"
+    ],
+    "riskFactors": [
+      "Previous severe allergic reaction",
+      "Food allergy with asthma",
+      "Known allergy to stings or medicines"
+    ],
+    "diagnosis": "Anaphylaxis is diagnosed from symptoms during the reaction; an allergy specialist then tests for the trigger.",
+    "treatment": [
+      "Adrenaline injection straight away, using an auto-injector if available",
+      "Emergency hospital treatment",
+      "Referral to an allergy specialist afterwards"
+    ],
+    "selfCare": [
+      "Call emergency services immediately",
+      "Use an adrenaline auto-injector if available; a second dose may be given after 5 minutes if no improvement",
+      "Lie down with legs raised, or sit up if breathing is difficult",
+      "Carry two auto-injectors at all times if prescribed"
+    ],
+    "prevention": [
+      "Avoid known triggers",
+      "Carry prescribed adrenaline auto-injectors and know how to use them",
+      "Wear a medical alert bracelet"
+    ],
+    "whenToSeeDoctor": [
+      "After any severe allergic reaction, for referral to an allergy specialist",
+      "If you have had a reaction and have not been tested"
+    ],
+    "emergencySigns": [
+      "Difficulty breathing or swallowing",
+      "Swelling of the throat or tongue",
+      "Feeling faint, dizzy or collapsing",
+      "Confusion or loss of consciousness"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Anaphylaxis",
+        "url": "https://www.nhs.uk/conditions/anaphylaxis/"
+      },
+      {
+        "label": "MedlinePlus: Anaphylaxis",
+        "url": "https://medlineplus.gov/anaphylaxis.html"
+      }
+    ]
+  },
+  {
+    "id": "lupus",
+    "name": "Lupus (SLE)",
+    "aliases": [
+      "SLE",
+      "systemic lupus erythematosus"
+    ],
+    "category": "Blood & immune system",
+    "overview": "Lupus is a long-term condition where the immune system attacks healthy tissue, causing inflammation in the joints, skin and other organs. Symptoms often come and go in flares. Treatment can control symptoms and protect organs.",
+    "symptoms": [
+      "Joint and muscle pain",
+      "Extreme tiredness",
+      "Rashes, often across the cheeks and nose or on sun-exposed skin",
+      "High temperature",
+      "Hair loss and mouth ulcers",
+      "Swollen glands"
+    ],
+    "causes": [
+      "The immune system attacking the body's own tissues (an autoimmune condition)",
+      "A combination of genetic, hormonal and environmental factors such as sunlight or infections"
+    ],
+    "riskFactors": [
+      "Female sex",
+      "Age 15 to 45",
+      "Being of African, Caribbean, Asian or Hispanic descent",
+      "Family history"
+    ],
+    "diagnosis": "Lupus is diagnosed by a specialist using symptoms, examination and blood and urine tests, including antibody tests.",
+    "treatment": [
+      "Antimalarial medicines used to treat lupus",
+      "Anti-inflammatory medicines and steroids",
+      "Immunosuppressants and biological medicines",
+      "Regular monitoring of kidneys and other organs"
+    ],
+    "selfCare": [
+      "Protect skin from the sun",
+      "Balance activity with rest",
+      "Stop smoking",
+      "Learn to spot signs of a flare"
+    ],
+    "prevention": [
+      "Sun protection and avoiding known triggers can reduce flares"
+    ],
+    "whenToSeeDoctor": [
+      "Ongoing joint pain, tiredness and rashes",
+      "Symptoms of a flare if you have lupus",
+      "Swelling of the legs or foamy urine"
+    ],
+    "emergencySigns": [
+      "Chest pain or severe breathlessness",
+      "Seizures or sudden confusion",
+      "Signs of stroke",
+      "High fever with feeling very unwell while on immune-suppressing medicines"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Lupus",
+        "url": "https://www.nhs.uk/conditions/lupus/"
+      },
+      {
+        "label": "MedlinePlus: Lupus",
+        "url": "https://medlineplus.gov/lupus.html"
+      }
+    ]
+  },
+  {
+    "id": "sickle-cell-disease",
+    "name": "Sickle cell disease",
+    "aliases": [
+      "sickle cell anaemia",
+      "SCD",
+      "sickle cell crisis"
+    ],
+    "category": "Blood & immune system",
+    "overview": "Sickle cell disease is an inherited condition that affects red blood cells, making them an unusual shape. It can cause painful episodes, anaemia and a higher risk of infections. Treatment and care can help people live well.",
+    "symptoms": [
+      "Painful episodes (sickle cell crises)",
+      "Tiredness and shortness of breath from anaemia",
+      "Increased risk of serious infections",
+      "Delayed growth in children",
+      "Yellowing of the skin or eyes"
+    ],
+    "causes": [
+      "An inherited change in the gene for haemoglobin",
+      "A child must inherit the gene from both parents to have the disease"
+    ],
+    "riskFactors": [
+      "Both parents carrying the sickle cell gene",
+      "Family origins in Africa, the Caribbean, the Middle East, India or the Mediterranean"
+    ],
+    "diagnosis": "Sickle cell disease is diagnosed with a blood test; many countries screen newborns and offer screening in pregnancy.",
+    "treatment": [
+      "Painkillers and fluids for crises",
+      "Medicines to reduce crises",
+      "Antibiotics and vaccines to prevent infections",
+      "Blood transfusions, and stem cell or gene therapies for some people"
+    ],
+    "selfCare": [
+      "Drink plenty of fluids",
+      "Avoid extreme temperatures",
+      "Avoid overexertion",
+      "Keep up with vaccines and prescribed medicines"
+    ],
+    "prevention": [
+      "Carrier screening and genetic counselling for couples who may both carry the gene"
+    ],
+    "whenToSeeDoctor": [
+      "Pain not controlled at home",
+      "Signs of infection",
+      "Increasing tiredness or paleness"
+    ],
+    "emergencySigns": [
+      "High temperature",
+      "Chest pain or difficulty breathing",
+      "Severe pain not relieved by usual medicine",
+      "Sudden weakness, confusion or problems speaking",
+      "A painful erection lasting more than 2 hours"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Sickle cell disease",
+        "url": "https://www.nhs.uk/conditions/sickle-cell-disease/"
+      },
+      {
+        "label": "MedlinePlus: Sickle Cell Disease",
+        "url": "https://medlineplus.gov/sicklecelldisease.html"
+      }
+    ]
+  },
+  {
+    "id": "breast-cancer",
+    "name": "Breast cancer",
+    "aliases": [
+      "breast tumour",
+      "breast lump"
+    ],
+    "category": "Cancer",
+    "overview": "Breast cancer is one of the most common cancers. It mostly affects women but can also affect men. Finding it early through screening and checking your breasts improves the chance of successful treatment.",
+    "symptoms": [
+      "A new lump or thickening in the breast or armpit",
+      "A change in the size or shape of a breast",
+      "Skin changes such as dimpling, puckering or redness",
+      "Changes to the nipple, such as turning inwards",
+      "Discharge or bleeding from the nipple",
+      "A rash on or around the nipple"
+    ],
+    "causes": [
+      "Changes in breast cells that make them grow uncontrollably",
+      "Influenced by age, genes, hormones and lifestyle"
+    ],
+    "riskFactors": [
+      "Older age",
+      "Family history or inherited gene changes such as BRCA1 or BRCA2",
+      "Previous breast cancer",
+      "Overweight after menopause",
+      "Drinking alcohol",
+      "Some types of hormone therapy"
+    ],
+    "diagnosis": "Breast cancer is diagnosed with a breast examination, a mammogram or ultrasound, and a biopsy.",
+    "treatment": [
+      "Surgery",
+      "Radiotherapy",
+      "Chemotherapy",
+      "Hormone therapy and targeted medicines"
+    ],
+    "selfCare": [
+      "Get to know how your breasts normally look and feel",
+      "Attend screening when invited"
+    ],
+    "prevention": [
+      "Limit alcohol",
+      "Keep to a healthy weight",
+      "Be physically active",
+      "Attend breast screening"
+    ],
+    "whenToSeeDoctor": [
+      "Any new lump or change in the breast or armpit",
+      "Nipple changes or discharge",
+      "Skin changes on the breast"
+    ],
+    "emergencySigns": [],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Breast cancer in women",
+        "url": "https://www.nhs.uk/conditions/breast-cancer/"
+      },
+      {
+        "label": "National Cancer Institute: Breast Cancer",
+        "url": "https://www.cancer.gov/types/breast"
+      },
+      {
+        "label": "WHO: Breast cancer",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/breast-cancer"
+      }
+    ]
+  },
+  {
+    "id": "lung-cancer",
+    "name": "Lung cancer",
+    "aliases": [
+      "lung tumour",
+      "non-small cell lung cancer",
+      "small cell lung cancer"
+    ],
+    "category": "Cancer",
+    "overview": "Lung cancer is one of the most common and serious cancers. Smoking is the main cause, but people who have never smoked can also get it. It often has no symptoms early on, so getting persistent symptoms checked is important.",
+    "symptoms": [
+      "A cough that lasts more than 3 weeks or changes",
+      "Chest infections that keep coming back",
+      "Coughing up blood",
+      "Pain when breathing or coughing",
+      "Persistent breathlessness",
+      "Tiredness and unexplained weight loss"
+    ],
+    "causes": [
+      "Smoking, the main cause",
+      "Exposure to second-hand smoke, radon gas, asbestos and air pollution"
+    ],
+    "riskFactors": [
+      "Smoking, now or in the past",
+      "Second-hand smoke",
+      "Workplace exposure to asbestos and other chemicals",
+      "Radon gas",
+      "Family history",
+      "Older age"
+    ],
+    "diagnosis": "Lung cancer is diagnosed with a chest X-ray, CT scan and a biopsy; some countries offer lung screening for people at high risk.",
+    "treatment": [
+      "Surgery",
+      "Radiotherapy",
+      "Chemotherapy",
+      "Targeted medicines and immunotherapy"
+    ],
+    "selfCare": [
+      "Stop smoking, at any stage",
+      "Stay active and eat well during treatment"
+    ],
+    "prevention": [
+      "Do not smoke and avoid second-hand smoke",
+      "Test your home for radon where advised",
+      "Follow workplace safety rules",
+      "Attend lung screening if invited"
+    ],
+    "whenToSeeDoctor": [
+      "A cough lasting more than 3 weeks",
+      "Coughing up blood",
+      "Unexplained breathlessness, weight loss or tiredness"
+    ],
+    "emergencySigns": [
+      "Coughing up a lot of blood",
+      "Severe difficulty breathing",
+      "Sudden swelling of the face and neck"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Lung cancer",
+        "url": "https://www.nhs.uk/conditions/lung-cancer/"
+      },
+      {
+        "label": "National Cancer Institute: Lung Cancer",
+        "url": "https://www.cancer.gov/types/lung"
+      },
+      {
+        "label": "WHO: Lung cancer",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/lung-cancer"
+      }
+    ]
+  },
+  {
+    "id": "bowel-cancer",
+    "name": "Bowel cancer",
+    "aliases": [
+      "colorectal cancer",
+      "colon cancer",
+      "rectal cancer"
+    ],
+    "category": "Cancer",
+    "overview": "Bowel cancer is cancer of the large bowel (colon) or back passage (rectum). It is one of the most common cancers. Screening can find it early or even prevent it by removing growths called polyps.",
+    "symptoms": [
+      "Changes in your poo, such as looser poo, pooing more often or constipation",
+      "Blood in your poo or bleeding from the bottom",
+      "Needing to poo more or less often than usual",
+      "Tummy pain or a lump in the tummy",
+      "Bloating",
+      "Losing weight without trying and tiredness"
+    ],
+    "causes": [
+      "Changes in bowel cells, often starting in non-cancerous growths called polyps",
+      "Influenced by age, genes, diet and lifestyle"
+    ],
+    "riskFactors": [
+      "Age over 50",
+      "Family history of bowel cancer",
+      "Diet high in red and processed meat and low in fibre",
+      "Overweight and inactivity",
+      "Smoking and alcohol",
+      "Inflammatory bowel disease"
+    ],
+    "diagnosis": "Bowel cancer is diagnosed with a stool test (FIT), a colonoscopy with biopsy, and scans.",
+    "treatment": [
+      "Surgery",
+      "Chemotherapy",
+      "Radiotherapy",
+      "Targeted medicines and immunotherapy"
+    ],
+    "selfCare": [
+      "Attend bowel screening when invited",
+      "Report changes in bowel habits"
+    ],
+    "prevention": [
+      "Eat plenty of fibre and less red and processed meat",
+      "Be active",
+      "Keep to a healthy weight",
+      "Do not smoke and limit alcohol",
+      "Take part in screening"
+    ],
+    "whenToSeeDoctor": [
+      "Changes in bowel habits lasting 3 weeks or more",
+      "Blood in your poo",
+      "Unexplained weight loss or tiredness",
+      "A lump in your tummy"
+    ],
+    "emergencySigns": [
+      "Heavy bleeding from the bottom",
+      "Unable to poo or pass wind with a swollen tummy and vomiting",
+      "Severe tummy pain"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Bowel cancer",
+        "url": "https://www.nhs.uk/conditions/bowel-cancer/"
+      },
+      {
+        "label": "National Cancer Institute: Colorectal Cancer",
+        "url": "https://www.cancer.gov/types/colorectal"
+      },
+      {
+        "label": "WHO: Colorectal cancer",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/colorectal-cancer"
+      }
+    ]
+  },
+  {
+    "id": "prostate-cancer",
+    "name": "Prostate cancer",
+    "aliases": [
+      "prostate tumour"
+    ],
+    "category": "Cancer",
+    "overview": "Prostate cancer is one of the most common cancers in men. It often grows slowly and may not cause symptoms for many years. Some prostate cancers need treatment, while others can be safely monitored.",
+    "symptoms": [
+      "Often no symptoms in early stages",
+      "Needing to pee more often, especially at night",
+      "Needing to rush to the toilet",
+      "Difficulty starting to pee or a weak flow",
+      "Feeling that the bladder has not emptied fully",
+      "Blood in urine or semen"
+    ],
+    "causes": [
+      "Changes in prostate cells",
+      "Influenced by age, genes and ethnicity"
+    ],
+    "riskFactors": [
+      "Age over 50",
+      "Black ethnicity",
+      "Family history of prostate or breast cancer",
+      "Inherited gene changes such as BRCA2",
+      "Overweight"
+    ],
+    "diagnosis": "Prostate cancer is investigated with a PSA blood test, an examination, an MRI scan and a biopsy.",
+    "treatment": [
+      "Active surveillance (monitoring) for low-risk cancer",
+      "Surgery",
+      "Radiotherapy",
+      "Hormone therapy and other medicines for advanced cancer"
+    ],
+    "selfCare": [
+      "Discuss the benefits and risks of PSA testing with a doctor",
+      "Stay active and keep to a healthy weight"
+    ],
+    "prevention": [
+      "There is no proven way to prevent prostate cancer; a healthy lifestyle is recommended"
+    ],
+    "whenToSeeDoctor": [
+      "Changes in how you pee",
+      "Blood in urine or semen",
+      "You are at higher risk and want to discuss testing"
+    ],
+    "emergencySigns": [
+      "Unable to pee",
+      "New back pain with numbness or weakness in the legs, or loss of bladder or bowel control"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Prostate cancer",
+        "url": "https://www.nhs.uk/conditions/prostate-cancer/"
+      },
+      {
+        "label": "National Cancer Institute: Prostate Cancer",
+        "url": "https://www.cancer.gov/types/prostate"
+      }
+    ]
+  },
+  {
+    "id": "melanoma",
+    "name": "Melanoma skin cancer",
+    "aliases": [
+      "melanoma",
+      "malignant melanoma",
+      "skin cancer"
+    ],
+    "category": "Cancer",
+    "overview": "Melanoma is a type of skin cancer that can spread to other parts of the body. It often appears as a new mole or a change in an existing mole. The main cause is ultraviolet light from the sun or sunbeds, and it is very treatable when found early.",
+    "symptoms": [
+      "A new mole or a change in an existing mole",
+      "A mole with an uneven shape or border",
+      "A mole with several colours",
+      "A mole that is getting bigger",
+      "A mole that is itchy, crusting or bleeding",
+      "Can appear anywhere, including under nails and on the soles of the feet"
+    ],
+    "causes": [
+      "Damage to skin cells from ultraviolet (UV) light from the sun or sunbeds",
+      "Genetic factors"
+    ],
+    "riskFactors": [
+      "Lots of moles or unusual moles",
+      "Pale skin that burns easily",
+      "Red or blonde hair",
+      "History of sunburn or sunbed use",
+      "Family history of melanoma"
+    ],
+    "diagnosis": "A doctor examines the skin and refers to a skin specialist, who may remove the mole for testing (biopsy).",
+    "treatment": [
+      "Surgery to remove the melanoma",
+      "Immunotherapy and targeted medicines for advanced melanoma",
+      "Radiotherapy in some cases"
+    ],
+    "selfCare": [
+      "Check your skin regularly for new or changing moles",
+      "Use sunscreen and protective clothing"
+    ],
+    "prevention": [
+      "Avoid sunburn: seek shade, cover up and use high-factor sunscreen",
+      "Never use sunbeds",
+      "Check your skin regularly"
+    ],
+    "whenToSeeDoctor": [
+      "A new mole or a change in an existing mole",
+      "A mole that is bleeding, itchy or crusting",
+      "A dark streak under a nail"
+    ],
+    "emergencySigns": [],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Melanoma skin cancer",
+        "url": "https://www.nhs.uk/conditions/melanoma-skin-cancer/"
+      },
+      {
+        "label": "National Cancer Institute: Skin Cancer (Including Melanoma)",
+        "url": "https://www.cancer.gov/types/skin"
+      }
+    ]
+  },
+  {
+    "id": "non-melanoma-skin-cancer",
+    "name": "Non-melanoma skin cancer",
+    "aliases": [
+      "basal cell carcinoma",
+      "squamous cell carcinoma",
+      "BCC",
+      "SCC",
+      "skin cancer"
+    ],
+    "category": "Cancer",
+    "overview": "Non-melanoma skin cancers, mainly basal cell and squamous cell carcinomas, are the most common types of skin cancer. They usually develop on skin often exposed to the sun and are very treatable, especially when found early.",
+    "symptoms": [
+      "A lump or discoloured patch on the skin that does not heal after 4 weeks",
+      "A scab or sore that keeps coming back",
+      "A shiny, pearly lump",
+      "A scaly, crusted patch that may bleed",
+      "Often on the face, ears, neck, lips, scalp or backs of the hands"
+    ],
+    "causes": [
+      "Long-term exposure to ultraviolet (UV) light from the sun or sunbeds, which damages skin cells",
+      "Less commonly, other factors such as previous radiotherapy or long-term immune suppression"
+    ],
+    "riskFactors": [
+      "Pale skin that burns easily",
+      "Lots of sun exposure or sunbed use",
+      "Older age",
+      "Previous skin cancer",
+      "A weakened immune system, for example after an organ transplant"
+    ],
+    "diagnosis": "A doctor examines the skin and may refer to a skin specialist for a biopsy.",
+    "treatment": [
+      "Surgery to remove the cancer",
+      "Creams or freezing treatment for some early cancers",
+      "Radiotherapy or other treatments in some cases"
+    ],
+    "selfCare": [
+      "Check your skin regularly",
+      "Protect your skin from the sun"
+    ],
+    "prevention": [
+      "Seek shade, cover up and use high-factor sunscreen",
+      "Never use sunbeds"
+    ],
+    "whenToSeeDoctor": [
+      "A skin lump, patch or sore that has not healed after 4 weeks",
+      "A sore that keeps coming back or bleeding"
+    ],
+    "emergencySigns": [],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Non-melanoma skin cancer",
+        "url": "https://www.nhs.uk/conditions/non-melanoma-skin-cancer/"
+      },
+      {
+        "label": "National Cancer Institute: Skin Cancer (Including Melanoma)",
+        "url": "https://www.cancer.gov/types/skin"
+      }
+    ]
+  },
+  {
+    "id": "cervical-cancer",
+    "name": "Cervical cancer",
+    "aliases": [
+      "cancer of the cervix"
+    ],
+    "category": "Cancer",
+    "overview": "Cervical cancer develops in the cervix, the entrance to the womb from the vagina. Almost all cases are caused by long-lasting infection with high-risk types of HPV. HPV vaccination and cervical screening can prevent most cases.",
+    "symptoms": [
+      "Often no symptoms in early stages",
+      "Vaginal bleeding that is unusual, such as after sex, between periods or after menopause",
+      "Changes to vaginal discharge",
+      "Pain during sex",
+      "Pain in the lower back or pelvis"
+    ],
+    "causes": [
+      "Persistent infection with high-risk types of human papillomavirus (HPV)",
+      "Abnormal cell changes in the cervix that develop over years"
+    ],
+    "riskFactors": [
+      "Not attending cervical screening",
+      "Not having the HPV vaccine",
+      "Smoking",
+      "A weakened immune system, such as with HIV"
+    ],
+    "diagnosis": "Cervical cancer is diagnosed through screening (HPV test), a colposcopy to look at the cervix, and a biopsy.",
+    "treatment": [
+      "Surgery",
+      "Radiotherapy",
+      "Chemotherapy",
+      "Treatment of abnormal cells before they become cancer"
+    ],
+    "selfCare": [
+      "Attend cervical screening when invited",
+      "Report unusual bleeding promptly"
+    ],
+    "prevention": [
+      "HPV vaccination",
+      "Regular cervical screening",
+      "Do not smoke",
+      "Use condoms"
+    ],
+    "whenToSeeDoctor": [
+      "Bleeding after sex, between periods or after menopause",
+      "Unusual vaginal discharge",
+      "Pain during sex"
+    ],
+    "emergencySigns": [
+      "Heavy vaginal bleeding that will not stop"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Cervical cancer",
+        "url": "https://www.nhs.uk/conditions/cervical-cancer/"
+      },
+      {
+        "label": "WHO: Cervical cancer",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/cervical-cancer"
+      },
+      {
+        "label": "National Cancer Institute: Cervical Cancer",
+        "url": "https://www.cancer.gov/types/cervical"
+      }
+    ]
+  }
+]

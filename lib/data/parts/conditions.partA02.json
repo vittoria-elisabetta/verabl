@@ -1,0 +1,1089 @@
+[
+  {
+    "id": "tuberculosis",
+    "name": "Tuberculosis (TB)",
+    "aliases": [
+      "TB",
+      "consumption",
+      "latent TB",
+      "pulmonary tuberculosis"
+    ],
+    "category": "Infections",
+    "overview": "Tuberculosis is a bacterial infection that mainly affects the lungs but can affect other parts of the body. It spreads through the air when someone with active TB in the lungs coughs. It is curable with a long course of antibiotics taken exactly as prescribed.",
+    "symptoms": [
+      "A cough lasting more than 3 weeks, which may bring up mucus or blood",
+      "High temperature and night sweats",
+      "Weight loss and loss of appetite",
+      "Tiredness",
+      "Swellings in the neck or other glands"
+    ],
+    "causes": [
+      "Infection with Mycobacterium tuberculosis bacteria",
+      "Breathing in bacteria from the coughs or sneezes of someone with active lung TB, usually after prolonged close contact"
+    ],
+    "riskFactors": [
+      "Close contact with someone with active TB",
+      "Living in or travelling to areas where TB is common",
+      "HIV or another cause of a weakened immune system",
+      "Diabetes, malnutrition or smoking",
+      "Crowded or poor living conditions"
+    ],
+    "diagnosis": "Doctors use a chest X-ray, tests on samples of mucus, and skin or blood tests to look for TB infection.",
+    "treatment": [
+      "A combination of antibiotics taken for several months",
+      "Taking every dose for the full course to cure TB and prevent drug resistance",
+      "Treatment of latent TB to stop it becoming active in some people"
+    ],
+    "selfCare": [
+      "Take medicines exactly as prescribed",
+      "Cover your mouth when coughing and ventilate rooms while infectious",
+      "Eat well and avoid alcohol and smoking"
+    ],
+    "prevention": [
+      "BCG vaccine for people at higher risk, as offered",
+      "Screening and treatment of close contacts",
+      "Early diagnosis and full treatment of people with TB"
+    ],
+    "whenToSeeDoctor": [
+      "A cough lasting more than 3 weeks",
+      "Unexplained weight loss, fever or night sweats",
+      "You have been in close contact with someone with TB"
+    ],
+    "emergencySigns": [
+      "Coughing up a lot of blood",
+      "Severe difficulty breathing",
+      "Severe headache with a stiff neck or confusion"
+    ],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: Tuberculosis (TB)",
+        "url": "https://www.nhs.uk/conditions/tuberculosis-tb/"
+      },
+      {
+        "label": "WHO: Tuberculosis",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis"
+      }
+    ]
+  },
+  {
+    "id": "malaria",
+    "name": "Malaria",
+    "aliases": [],
+    "category": "Infections",
+    "overview": "Malaria is a serious infection caused by parasites spread through the bites of infected mosquitoes. It is common in parts of Africa, Asia and South and Central America. It can be life-threatening but is preventable and curable if treated promptly.",
+    "symptoms": [
+      "High temperature, sweats and chills",
+      "Headache",
+      "Muscle pains",
+      "Feeling sick, vomiting or diarrhoea",
+      "Generally feeling unwell",
+      "Symptoms can appear weeks or even months after travel"
+    ],
+    "causes": [
+      "Plasmodium parasites passed on by the bite of infected Anopheles mosquitoes",
+      "Rarely, through blood transfusion or from mother to baby during pregnancy"
+    ],
+    "riskFactors": [
+      "Living in or travelling to areas where malaria is common",
+      "Not taking antimalarial tablets when advised",
+      "Young children and pregnant people",
+      "A weakened immune system"
+    ],
+    "diagnosis": "Malaria is diagnosed with a blood test, either under a microscope or with a rapid diagnostic test; mention any recent travel.",
+    "treatment": [
+      "Antimalarial medicines prescribed by a doctor, chosen by the type of parasite and where it was caught",
+      "Hospital treatment for severe malaria"
+    ],
+    "selfCare": [
+      "Seek medical help urgently if you develop a fever during or after travel to a malaria area",
+      "Finish all medicines as prescribed"
+    ],
+    "prevention": [
+      "Get travel health advice before travelling",
+      "Antimalarial tablets if recommended",
+      "Use insect repellent, cover up and sleep under a mosquito net",
+      "Malaria vaccines for children in some high-risk countries"
+    ],
+    "whenToSeeDoctor": [
+      "Fever or flu-like symptoms during or within a year of visiting a malaria area: get medical help the same day",
+      "You are planning travel to a malaria area (get advice on prevention before you go)"
+    ],
+    "emergencySigns": [
+      "Confusion, drowsiness or seizures",
+      "Difficulty breathing",
+      "Yellowing of the skin or eyes with feeling very unwell",
+      "Dark urine or passing little urine",
+      "Collapse"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Malaria",
+        "url": "https://www.nhs.uk/conditions/malaria/"
+      },
+      {
+        "label": "WHO: Malaria",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/malaria"
+      }
+    ]
+  },
+  {
+    "id": "dengue",
+    "name": "Dengue",
+    "aliases": [
+      "dengue fever",
+      "breakbone fever",
+      "severe dengue"
+    ],
+    "category": "Infections",
+    "overview": "Dengue is a viral infection spread by mosquitoes in tropical and subtropical regions. Many people have no or mild symptoms, but a small number develop severe dengue, which needs urgent hospital care.",
+    "symptoms": [
+      "High fever",
+      "Severe headache and pain behind the eyes",
+      "Muscle and joint pain",
+      "Feeling sick or vomiting",
+      "Swollen glands",
+      "Rash"
+    ],
+    "causes": [
+      "Dengue virus passed on by bites of infected Aedes mosquitoes, which bite mainly during the day",
+      "The same mosquitoes can spread other infections such as Zika and chikungunya, which can cause similar symptoms"
+    ],
+    "riskFactors": [
+      "Living in or travelling to tropical and subtropical areas",
+      "Previous dengue infection (raises the risk of severe dengue with a second infection)"
+    ],
+    "diagnosis": "Dengue is diagnosed with blood tests, alongside your symptoms and travel history.",
+    "treatment": [
+      "There is no specific antiviral treatment; care focuses on rest, fluids and paracetamol for pain and fever",
+      "Avoid aspirin and ibuprofen-type painkillers, which can increase bleeding risk",
+      "Hospital care for severe dengue"
+    ],
+    "selfCare": [
+      "Rest and drink plenty of fluids",
+      "Use paracetamol rather than anti-inflammatory painkillers",
+      "Watch closely for warning signs as the fever goes down"
+    ],
+    "prevention": [
+      "Use insect repellent and cover up, especially during the day",
+      "Remove standing water where mosquitoes breed",
+      "Vaccination for some people, depending on country and past infection"
+    ],
+    "whenToSeeDoctor": [
+      "Fever during or after travel to an area with dengue",
+      "Symptoms not improving after a few days"
+    ],
+    "emergencySigns": [
+      "Severe stomach pain",
+      "Persistent vomiting",
+      "Bleeding gums or nose, or blood in vomit or stool",
+      "Fast breathing",
+      "Restlessness, extreme tiredness or cold clammy skin"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "WHO: Dengue and severe dengue",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue"
+      },
+      {
+        "label": "NHS: Dengue",
+        "url": "https://www.nhs.uk/conditions/dengue/"
+      }
+    ]
+  },
+  {
+    "id": "hepatitis-a",
+    "name": "Hepatitis A",
+    "aliases": [
+      "hep A"
+    ],
+    "category": "Infections",
+    "overview": "Hepatitis A is a liver infection caused by a virus spread through contaminated food, water or close contact. It usually clears up on its own within a few months and does not cause long-term liver disease. A vaccine is available.",
+    "symptoms": [
+      "Flu-like symptoms such as tiredness, fever and aches",
+      "Loss of appetite and feeling sick",
+      "Pain in the upper right tummy",
+      "Yellowing of the skin or eyes (jaundice)",
+      "Dark urine and pale stools",
+      "Itchy skin"
+    ],
+    "causes": [
+      "Hepatitis A virus spread when tiny amounts of infected stool get into the mouth",
+      "Contaminated food or water, especially in areas with poor sanitation",
+      "Close contact with an infected person"
+    ],
+    "riskFactors": [
+      "Travel to areas where hepatitis A is common",
+      "Close contact with someone who has it",
+      "Men who have sex with men",
+      "People who inject drugs"
+    ],
+    "diagnosis": "Hepatitis A is diagnosed with a blood test.",
+    "treatment": [
+      "No specific treatment; the infection usually clears on its own",
+      "Rest, fluids and relief of symptoms",
+      "Avoid alcohol and check with a doctor before taking medicines"
+    ],
+    "selfCare": [
+      "Rest and eat small, light meals",
+      "Avoid alcohol",
+      "Wash hands thoroughly and do not prepare food for others while infectious"
+    ],
+    "prevention": [
+      "Hepatitis A vaccine for travellers and people at higher risk",
+      "Wash hands after the toilet and before preparing food",
+      "Drink safe water when travelling"
+    ],
+    "whenToSeeDoctor": [
+      "Yellowing of the skin or eyes",
+      "Symptoms of hepatitis after travel or contact with an infected person"
+    ],
+    "emergencySigns": [
+      "Confusion or extreme drowsiness",
+      "Vomiting blood or black stools",
+      "Severe tummy pain"
+    ],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: Hepatitis A",
+        "url": "https://www.nhs.uk/conditions/hepatitis-a/"
+      },
+      {
+        "label": "WHO: Hepatitis A",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-a"
+      }
+    ]
+  },
+  {
+    "id": "hepatitis-b",
+    "name": "Hepatitis B",
+    "aliases": [
+      "hep B",
+      "HBV"
+    ],
+    "category": "Infections",
+    "overview": "Hepatitis B is a liver infection caused by a virus spread through blood and body fluids. Adults usually clear it within a few months, but it can become a long-term (chronic) infection, especially when caught in infancy. A safe and effective vaccine is available.",
+    "symptoms": [
+      "Often no symptoms",
+      "Flu-like symptoms such as tiredness and fever",
+      "Pain in the tummy",
+      "Feeling and being sick",
+      "Yellowing of the skin or eyes (jaundice)",
+      "Dark urine and pale stools"
+    ],
+    "causes": [
+      "Hepatitis B virus passed on through blood, semen and vaginal fluids",
+      "From mother to baby around birth",
+      "Unprotected sex or sharing needles"
+    ],
+    "riskFactors": [
+      "Being born to a mother with hepatitis B",
+      "Unprotected sex with an infected partner",
+      "Sharing needles or drug equipment",
+      "Living in or coming from an area where hepatitis B is common",
+      "Unsterile tattooing, piercing or medical equipment"
+    ],
+    "diagnosis": "Hepatitis B is diagnosed with blood tests, which also show whether the infection is recent or chronic.",
+    "treatment": [
+      "Short-term infections often need only symptom relief",
+      "Antiviral medicines for chronic hepatitis B to control the virus and protect the liver",
+      "Regular monitoring of liver health"
+    ],
+    "selfCare": [
+      "Avoid alcohol",
+      "Use condoms and do not share razors or toothbrushes",
+      "Attend regular check-ups"
+    ],
+    "prevention": [
+      "Hepatitis B vaccine, including for babies",
+      "Vaccination and treatment of babies born to mothers with hepatitis B",
+      "Use condoms and never share needles"
+    ],
+    "whenToSeeDoctor": [
+      "You may have been exposed (urgent vaccination can help prevent infection)",
+      "Symptoms of hepatitis such as jaundice",
+      "You are pregnant and have not been tested"
+    ],
+    "emergencySigns": [
+      "Confusion or extreme drowsiness",
+      "Vomiting blood or black, tarry stools",
+      "Severe tummy swelling or pain"
+    ],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: Hepatitis B",
+        "url": "https://www.nhs.uk/conditions/hepatitis-b/"
+      },
+      {
+        "label": "WHO: Hepatitis B",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-b"
+      }
+    ]
+  },
+  {
+    "id": "hepatitis-c",
+    "name": "Hepatitis C",
+    "aliases": [
+      "hep C",
+      "HCV"
+    ],
+    "category": "Infections",
+    "overview": "Hepatitis C is a virus spread mainly through blood that can infect and damage the liver. It often causes no symptoms for many years. Modern antiviral tablets can cure most people.",
+    "symptoms": [
+      "Often no symptoms for years",
+      "Tiredness",
+      "Flu-like symptoms or aches",
+      "Problems with memory or concentration",
+      "Tummy pain or feeling sick",
+      "Yellowing of the skin or eyes in later stages"
+    ],
+    "causes": [
+      "Hepatitis C virus spread through blood-to-blood contact",
+      "Sharing needles or drug equipment",
+      "Unsterile tattooing, piercing or medical procedures"
+    ],
+    "riskFactors": [
+      "Injecting drugs, now or in the past",
+      "Blood transfusions or medical treatment in countries where screening is limited",
+      "Sharing razors or toothbrushes with an infected person",
+      "Unprotected sex, less commonly"
+    ],
+    "diagnosis": "Hepatitis C is diagnosed with blood tests: an antibody test, then a test for the virus itself.",
+    "treatment": [
+      "Antiviral tablets taken for several weeks, which cure most people",
+      "Monitoring and care for any liver damage"
+    ],
+    "selfCare": [
+      "Avoid alcohol",
+      "Do not share razors, toothbrushes or needles",
+      "Keep a healthy weight"
+    ],
+    "prevention": [
+      "Never share needles or drug equipment",
+      "Use licensed tattoo and piercing studios",
+      "Testing for people at higher risk"
+    ],
+    "whenToSeeDoctor": [
+      "You have ever been at risk of infection and have not been tested",
+      "Persistent tiredness or symptoms of liver problems"
+    ],
+    "emergencySigns": [
+      "Vomiting blood or black stools",
+      "Confusion or extreme drowsiness",
+      "Rapidly swelling tummy"
+    ],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: Hepatitis C",
+        "url": "https://www.nhs.uk/conditions/hepatitis-c/"
+      },
+      {
+        "label": "WHO: Hepatitis C",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-c"
+      }
+    ]
+  },
+  {
+    "id": "hiv",
+    "name": "HIV",
+    "aliases": [
+      "human immunodeficiency virus",
+      "HIV/AIDS",
+      "AIDS"
+    ],
+    "category": "Infections",
+    "overview": "HIV is a virus that damages the immune system. There is no cure, but effective treatment keeps the virus under control so people can live long, healthy lives. People on effective treatment with an undetectable viral load cannot pass HIV on through sex.",
+    "symptoms": [
+      "Many people have no symptoms for years",
+      "A short flu-like illness a few weeks after infection: fever, sore throat and rash",
+      "Without treatment, later: weight loss, recurring infections, night sweats and swollen glands"
+    ],
+    "causes": [
+      "HIV passed on through blood, semen, vaginal and anal fluids, and breast milk",
+      "Most commonly through sex without a condom",
+      "Sharing needles",
+      "From mother to baby during pregnancy, birth or breastfeeding if untreated"
+    ],
+    "riskFactors": [
+      "Sex without a condom with a partner of unknown or detectable HIV status",
+      "Sharing needles or drug equipment",
+      "Having another sexually transmitted infection"
+    ],
+    "diagnosis": "HIV is diagnosed with a blood test or a finger-prick or saliva test; testing is free and confidential at sexual health clinics.",
+    "treatment": [
+      "Antiretroviral medicines taken every day for life",
+      "Regular check-ups to monitor the immune system and viral load"
+    ],
+    "selfCare": [
+      "Take treatment every day as prescribed",
+      "Stay up to date with recommended vaccines",
+      "Keep a healthy lifestyle and attend check-ups"
+    ],
+    "prevention": [
+      "Use condoms",
+      "Pre-exposure prophylaxis (PrEP) for people at higher risk",
+      "Post-exposure prophylaxis (PEP) within 72 hours of possible exposure",
+      "Never share needles",
+      "Regular testing"
+    ],
+    "whenToSeeDoctor": [
+      "You think you have been exposed to HIV (go within 72 hours for PEP)",
+      "You have had unprotected sex or shared needles and have not been tested",
+      "Flu-like illness after a possible exposure"
+    ],
+    "emergencySigns": [
+      "Severe difficulty breathing",
+      "Seizures, confusion or severe headache",
+      "Very high fever with feeling extremely unwell"
+    ],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: HIV and AIDS",
+        "url": "https://www.nhs.uk/conditions/hiv-and-aids/"
+      },
+      {
+        "label": "WHO: HIV and AIDS",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/hiv-aids"
+      }
+    ]
+  },
+  {
+    "id": "chlamydia",
+    "name": "Chlamydia",
+    "aliases": [
+      "chlamydia infection",
+      "STI",
+      "STD"
+    ],
+    "category": "Sexual & reproductive health",
+    "overview": "Chlamydia is one of the most common sexually transmitted infections. Most people have no symptoms, so testing is the only way to know. It is easily treated with antibiotics, but untreated it can cause long-term problems such as infertility.",
+    "symptoms": [
+      "Often no symptoms",
+      "Pain when peeing",
+      "Unusual discharge from the vagina, penis or bottom",
+      "Pain in the tummy, bleeding after sex or between periods",
+      "Pain and swelling in the testicles"
+    ],
+    "causes": [
+      "Chlamydia trachomatis bacteria passed on through unprotected vaginal, anal or oral sex",
+      "Sharing sex toys",
+      "From mother to baby during birth"
+    ],
+    "riskFactors": [
+      "Sex without a condom",
+      "A new sexual partner or multiple partners",
+      "Being under 25 and sexually active"
+    ],
+    "diagnosis": "Chlamydia is diagnosed with a urine test or a swab, available at sexual health clinics, GPs and via home testing kits.",
+    "treatment": [
+      "Antibiotics prescribed by a doctor or nurse",
+      "Avoid sex until you and your partner(s) have finished treatment",
+      "Partners should be tested and treated"
+    ],
+    "selfCare": [
+      "Finish the full course of antibiotics",
+      "Tell recent sexual partners so they can get tested"
+    ],
+    "prevention": [
+      "Use condoms",
+      "Regular STI testing, especially with new partners"
+    ],
+    "whenToSeeDoctor": [
+      "You have symptoms of an STI",
+      "A partner has an STI",
+      "You have had sex without a condom with a new partner"
+    ],
+    "emergencySigns": [
+      "Severe tummy pain with fever",
+      "Severe pain in one side of the lower tummy with a missed period (possible ectopic pregnancy)"
+    ],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: Chlamydia",
+        "url": "https://www.nhs.uk/conditions/chlamydia/"
+      },
+      {
+        "label": "MedlinePlus: Chlamydia Infections",
+        "url": "https://medlineplus.gov/chlamydiainfections.html"
+      }
+    ]
+  },
+  {
+    "id": "gonorrhoea",
+    "name": "Gonorrhoea",
+    "aliases": [
+      "gonorrhea",
+      "the clap",
+      "STI"
+    ],
+    "category": "Sexual & reproductive health",
+    "overview": "Gonorrhoea is a sexually transmitted infection caused by bacteria. Many people have no symptoms. It is treated with antibiotics, but resistance to some antibiotics is a growing concern, so follow-up testing may be advised.",
+    "symptoms": [
+      "Often no symptoms, especially in women",
+      "Thick green or yellow discharge from the vagina or penis",
+      "Pain when peeing",
+      "Bleeding between periods",
+      "Pain or discomfort in the bottom",
+      "Pain in the testicles"
+    ],
+    "causes": [
+      "Neisseria gonorrhoeae bacteria passed on through unprotected vaginal, oral or anal sex",
+      "Sharing sex toys",
+      "From mother to baby during birth"
+    ],
+    "riskFactors": [
+      "Sex without a condom",
+      "New or multiple sexual partners",
+      "Having had an STI before"
+    ],
+    "diagnosis": "Gonorrhoea is diagnosed with a swab or urine test at a sexual health clinic or GP.",
+    "treatment": [
+      "Antibiotics, usually given by injection, at a sexual health clinic",
+      "A follow-up test may be advised to confirm the infection has gone",
+      "Partners should be tested and treated"
+    ],
+    "selfCare": [
+      "Avoid sex until treatment is complete and you have been told the infection has cleared",
+      "Tell recent sexual partners"
+    ],
+    "prevention": [
+      "Use condoms",
+      "Regular STI testing"
+    ],
+    "whenToSeeDoctor": [
+      "You have symptoms of an STI",
+      "A partner has gonorrhoea",
+      "You have had unprotected sex with a new partner"
+    ],
+    "emergencySigns": [
+      "Severe tummy pain with fever",
+      "Hot, swollen, painful joints with fever and skin spots"
+    ],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: Gonorrhoea",
+        "url": "https://www.nhs.uk/conditions/gonorrhoea/"
+      },
+      {
+        "label": "MedlinePlus: Gonorrhea",
+        "url": "https://medlineplus.gov/gonorrhea.html"
+      }
+    ]
+  },
+  {
+    "id": "genital-herpes",
+    "name": "Genital herpes",
+    "aliases": [
+      "herpes",
+      "HSV",
+      "herpes simplex"
+    ],
+    "category": "Sexual & reproductive health",
+    "overview": "Genital herpes is a common sexually transmitted infection caused by the herpes simplex virus. The virus stays in the body and can cause outbreaks of sores from time to time. There is no cure, but treatment can ease outbreaks and reduce how often they happen.",
+    "symptoms": [
+      "Small blisters that burst to leave red, open sores around the genitals, bottom or thighs",
+      "Tingling, burning or itching around the genitals",
+      "Pain when peeing",
+      "Flu-like symptoms during the first outbreak",
+      "Some people have no symptoms"
+    ],
+    "causes": [
+      "Herpes simplex virus passed on through skin-to-skin contact during vaginal, anal or oral sex",
+      "Oral sex with someone who has a cold sore"
+    ],
+    "riskFactors": [
+      "Sex without a condom",
+      "Multiple sexual partners",
+      "Partner with herpes"
+    ],
+    "diagnosis": "A doctor or nurse at a sexual health clinic may diagnose herpes by looking at the sores and taking a swab.",
+    "treatment": [
+      "Antiviral medicine to shorten outbreaks",
+      "Longer-term antiviral treatment for frequent outbreaks",
+      "Painkillers and soothing creams as advised"
+    ],
+    "selfCare": [
+      "Keep the area clean and dry",
+      "Apply ice wrapped in a cloth or petroleum jelly to sores",
+      "Pee in a bath or with water poured over the area to reduce pain",
+      "Avoid sex from first tingling until sores have fully healed"
+    ],
+    "prevention": [
+      "Use condoms or dental dams",
+      "Avoid sex during outbreaks",
+      "Avoid oral sex when you or a partner has a cold sore"
+    ],
+    "whenToSeeDoctor": [
+      "You think you have genital herpes",
+      "You are pregnant and have symptoms",
+      "Outbreaks are frequent or severe"
+    ],
+    "emergencySigns": [
+      "Unable to pee",
+      "Severe headache with a stiff neck or confusion"
+    ],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: Genital herpes",
+        "url": "https://www.nhs.uk/conditions/genital-herpes/"
+      },
+      {
+        "label": "MedlinePlus: Genital Herpes",
+        "url": "https://medlineplus.gov/genitalherpes.html"
+      }
+    ]
+  },
+  {
+    "id": "hpv-genital-warts",
+    "name": "HPV and genital warts",
+    "aliases": [
+      "HPV",
+      "human papillomavirus",
+      "genital warts"
+    ],
+    "category": "Sexual & reproductive health",
+    "overview": "HPV is a very common group of viruses spread through skin-to-skin contact, including during sex. Most infections cause no symptoms and clear on their own, but some types cause genital warts and others can lead to cancers such as cervical cancer. The HPV vaccine protects against the most harmful types.",
+    "symptoms": [
+      "Usually no symptoms",
+      "Genital warts: small, painless growths or lumps around the genitals or anus",
+      "Itching or bleeding from warts"
+    ],
+    "causes": [
+      "Human papillomavirus spread through skin-to-skin contact of the genital area",
+      "Vaginal, anal or oral sex and sharing sex toys"
+    ],
+    "riskFactors": [
+      "Not having the HPV vaccine",
+      "Sex without a condom",
+      "Multiple sexual partners",
+      "Smoking or a weakened immune system (harder to clear the virus)"
+    ],
+    "diagnosis": "Genital warts are diagnosed by examination at a sexual health clinic; high-risk HPV is checked through cervical screening.",
+    "treatment": [
+      "Creams or liquids applied to warts, prescribed by a clinician",
+      "Freezing, heating or removing warts at a clinic",
+      "Follow-up of abnormal cervical screening results"
+    ],
+    "selfCare": [
+      "Do not use over-the-counter wart treatments meant for hands or feet on genital warts",
+      "Use condoms during treatment"
+    ],
+    "prevention": [
+      "HPV vaccination",
+      "Use condoms (reduces but does not fully remove risk)",
+      "Attend cervical screening when invited"
+    ],
+    "whenToSeeDoctor": [
+      "You notice lumps or growths around the genitals or anus",
+      "You are invited for cervical screening",
+      "Unusual bleeding, such as after sex or between periods"
+    ],
+    "emergencySigns": [],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: Genital warts",
+        "url": "https://www.nhs.uk/conditions/genital-warts/"
+      },
+      {
+        "label": "MedlinePlus: HPV",
+        "url": "https://medlineplus.gov/hpv.html"
+      }
+    ]
+  },
+  {
+    "id": "syphilis",
+    "name": "Syphilis",
+    "aliases": [
+      "STI"
+    ],
+    "category": "Sexual & reproductive health",
+    "overview": "Syphilis is a bacterial sexually transmitted infection. It often starts with a painless sore and can be easily missed. It is cured with antibiotics, but without treatment it can cause serious problems years later.",
+    "symptoms": [
+      "A small, usually painless sore or ulcer on the genitals, anus or mouth",
+      "Later, a blotchy rash, often on the palms and soles",
+      "White patches in the mouth",
+      "Flu-like symptoms and swollen glands",
+      "Patchy hair loss"
+    ],
+    "causes": [
+      "Treponema pallidum bacteria passed on through close contact with a sore, usually during sex",
+      "From mother to baby during pregnancy"
+    ],
+    "riskFactors": [
+      "Sex without a condom",
+      "Multiple sexual partners",
+      "Men who have sex with men",
+      "Having HIV"
+    ],
+    "diagnosis": "Syphilis is diagnosed with a blood test and sometimes a swab from a sore, at a sexual health clinic.",
+    "treatment": [
+      "Antibiotics, usually by injection",
+      "Follow-up blood tests to check treatment worked",
+      "Partners should be tested and treated"
+    ],
+    "selfCare": [
+      "Avoid sex until treatment is finished and sores have healed",
+      "Tell recent sexual partners"
+    ],
+    "prevention": [
+      "Use condoms",
+      "Regular STI testing",
+      "Screening in pregnancy"
+    ],
+    "whenToSeeDoctor": [
+      "A sore or rash on the genitals, anus or mouth",
+      "A partner has syphilis",
+      "You are pregnant and have not been screened"
+    ],
+    "emergencySigns": [
+      "Sudden changes in vision",
+      "Severe headache, confusion or weakness"
+    ],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: Syphilis",
+        "url": "https://www.nhs.uk/conditions/syphilis/"
+      },
+      {
+        "label": "MedlinePlus: Syphilis",
+        "url": "https://medlineplus.gov/syphilis.html"
+      }
+    ]
+  },
+  {
+    "id": "whooping-cough",
+    "name": "Whooping cough",
+    "aliases": [
+      "pertussis",
+      "100-day cough"
+    ],
+    "category": "Infections",
+    "overview": "Whooping cough is a bacterial infection of the lungs and breathing tubes that causes long bouts of coughing. It can be very serious for young babies. Vaccination in pregnancy and childhood helps protect babies.",
+    "symptoms": [
+      "Cold-like symptoms at first, such as runny nose and sore throat",
+      "Coughing bouts lasting a few minutes, worse at night",
+      "A 'whoop' sound when breathing in between coughs",
+      "Bringing up thick mucus or vomiting after coughing",
+      "Babies may not whoop but may stop breathing briefly or turn blue"
+    ],
+    "causes": [
+      "Bordetella pertussis bacteria",
+      "Spread through coughs and sneezes"
+    ],
+    "riskFactors": [
+      "Babies too young to be fully vaccinated",
+      "Not being vaccinated",
+      "Close contact with someone with whooping cough"
+    ],
+    "diagnosis": "A doctor may suspect it from the cough and confirm it with a nose or throat swab or a blood test.",
+    "treatment": [
+      "Antibiotics if diagnosed early, to reduce spread",
+      "Hospital treatment for babies with severe whooping cough"
+    ],
+    "selfCare": [
+      "Rest and drink plenty of fluids",
+      "Stay away from nursery, school or work until 48 hours after starting antibiotics, or 3 weeks after coughing started",
+      "Keep away from babies"
+    ],
+    "prevention": [
+      "Whooping cough vaccine in pregnancy to protect newborns",
+      "Routine childhood vaccinations"
+    ],
+    "whenToSeeDoctor": [
+      "A baby under 6 months has symptoms",
+      "Coughing bouts that are getting worse",
+      "You are pregnant and have been in contact with whooping cough",
+      "A cough that lasts for weeks"
+    ],
+    "emergencySigns": [
+      "Lips, tongue or skin turning blue or grey",
+      "Pauses in breathing or difficulty breathing",
+      "Seizures",
+      "A baby who is floppy or unresponsive"
+    ],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: Whooping cough",
+        "url": "https://www.nhs.uk/conditions/whooping-cough/"
+      },
+      {
+        "label": "MedlinePlus: Whooping Cough",
+        "url": "https://medlineplus.gov/whoopingcough.html"
+      }
+    ]
+  },
+  {
+    "id": "meningitis",
+    "name": "Meningitis",
+    "aliases": [
+      "bacterial meningitis",
+      "viral meningitis",
+      "meningococcal disease"
+    ],
+    "category": "Infections",
+    "overview": "Meningitis is an infection of the protective layers around the brain and spinal cord. Bacterial meningitis is a medical emergency and can be life-threatening, while viral meningitis is usually milder. Vaccines protect against several causes.",
+    "symptoms": [
+      "High temperature",
+      "Being sick",
+      "Headache",
+      "A rash that does not fade when a glass is rolled over it (not always present)",
+      "Stiff neck and dislike of bright lights",
+      "Drowsiness, confusion or seizures"
+    ],
+    "causes": [
+      "Bacteria such as meningococcus or pneumococcus",
+      "Viruses",
+      "Spread by coughs, sneezes, kissing or close contact"
+    ],
+    "riskFactors": [
+      "Babies and young children",
+      "Teenagers and young adults",
+      "Not being vaccinated",
+      "A weakened immune system",
+      "Living in crowded settings such as student halls"
+    ],
+    "diagnosis": "Meningitis is diagnosed in hospital with blood tests and a lumbar puncture, where fluid is taken from the spine.",
+    "treatment": [
+      "Urgent antibiotics in hospital for bacterial meningitis",
+      "Fluids, oxygen and other support in hospital",
+      "Viral meningitis usually gets better on its own with rest"
+    ],
+    "selfCare": [
+      "Do not wait for a rash to appear before getting help",
+      "Trust your instincts if someone seems seriously ill"
+    ],
+    "prevention": [
+      "Routine vaccines including MenB, MenACWY, Hib and pneumococcal",
+      "Antibiotics may be offered to close contacts of someone with bacterial meningitis"
+    ],
+    "whenToSeeDoctor": [
+      "Any suspicion of meningitis: get medical help immediately rather than waiting for a routine appointment",
+      "You have been in close contact with someone with bacterial meningitis",
+      "Ongoing problems such as hearing loss or headaches after recovery"
+    ],
+    "emergencySigns": [
+      "Rash that does not fade when a glass is pressed against it",
+      "Stiff neck and severe headache",
+      "Drowsiness, confusion or being hard to wake",
+      "Seizures",
+      "In babies: a bulging soft spot, floppiness or a high-pitched cry"
+    ],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: Meningitis",
+        "url": "https://www.nhs.uk/conditions/meningitis/"
+      },
+      {
+        "label": "WHO: Meningitis",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/meningitis"
+      }
+    ]
+  },
+  {
+    "id": "sepsis",
+    "name": "Sepsis",
+    "aliases": [
+      "septicaemia",
+      "blood poisoning",
+      "septic shock"
+    ],
+    "category": "Infections",
+    "overview": "Sepsis is a life-threatening reaction to an infection, where the body's response damages its own tissues and organs. It needs emergency treatment. It can start from any infection, such as a chest or urine infection.",
+    "symptoms": [
+      "Acting confused, slurred speech or not making sense",
+      "Blue, grey, pale or blotchy skin, lips or tongue",
+      "A rash that does not fade when a glass is rolled over it",
+      "Difficulty breathing or very fast breathing",
+      "Fast heartbeat, high or very low temperature, shivering",
+      "Passing little or no urine"
+    ],
+    "causes": [
+      "The body's overreaction to an infection, often of the lungs, urinary tract, tummy or skin",
+      "Infections from wounds, burns or recent surgery, or from medical devices such as catheters"
+    ],
+    "riskFactors": [
+      "Babies under 1 and people over 75",
+      "Diabetes or a weakened immune system",
+      "Recent surgery, serious illness or wounds",
+      "Pregnancy or recently giving birth"
+    ],
+    "diagnosis": "Sepsis is diagnosed in hospital from checks of temperature, heart rate, breathing and blood pressure, plus blood tests.",
+    "treatment": [
+      "Emergency treatment in hospital with antibiotics",
+      "Fluids given into a vein and oxygen",
+      "Intensive care support if organs are affected"
+    ],
+    "selfCare": [
+      "Do not wait: call emergency services if you suspect sepsis",
+      "Follow rehabilitation advice after recovery, as some people have lasting effects"
+    ],
+    "prevention": [
+      "Keep up to date with vaccinations",
+      "Treat infections promptly",
+      "Clean wounds and wash hands"
+    ],
+    "whenToSeeDoctor": [
+      "Feeling very unwell with an infection that is not improving or is getting worse",
+      "A child or adult with an infection who seems much more unwell than expected"
+    ],
+    "emergencySigns": [
+      "Confusion, slurred speech or not making sense",
+      "Blue, grey, pale or blotchy skin, lips or tongue",
+      "Rash that does not fade under a glass",
+      "Difficulty breathing or very fast breathing",
+      "Not passing urine all day"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Sepsis",
+        "url": "https://www.nhs.uk/conditions/sepsis/"
+      },
+      {
+        "label": "WHO: Sepsis",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/sepsis"
+      }
+    ]
+  },
+  {
+    "id": "urinary-tract-infection",
+    "name": "Urinary tract infection (UTI)",
+    "aliases": [
+      "UTI",
+      "cystitis",
+      "bladder infection",
+      "water infection"
+    ],
+    "category": "Kidneys & urinary",
+    "overview": "Urinary tract infections affect the bladder, urethra or kidneys. They are very common, especially in women. Mild bladder infections may get better on their own, but many are treated with antibiotics.",
+    "symptoms": [
+      "Pain or burning when peeing",
+      "Needing to pee more often or more urgently",
+      "Cloudy, smelly or bloody urine",
+      "Pain low in the tummy",
+      "Feeling tired and unwell",
+      "Confusion or agitation in older people"
+    ],
+    "causes": [
+      "Bacteria, usually from the bowel, getting into the urethra and bladder",
+      "Things that make it easier for bacteria to enter or stay in the bladder, such as sex, catheters, or not emptying the bladder fully"
+    ],
+    "riskFactors": [
+      "Being female",
+      "Sexual activity",
+      "Pregnancy or menopause",
+      "Using a urinary catheter",
+      "Diabetes",
+      "Conditions that block the flow of urine, such as kidney stones or an enlarged prostate"
+    ],
+    "diagnosis": "A GP or pharmacist usually diagnoses a UTI from symptoms; a urine test may be used, especially for men, children, pregnant people or repeated infections.",
+    "treatment": [
+      "Antibiotics prescribed by a doctor, nurse or pharmacist",
+      "Paracetamol or ibuprofen for pain"
+    ],
+    "selfCare": [
+      "Drink plenty of water to pee regularly",
+      "Rest",
+      "Avoid sex until you feel better"
+    ],
+    "prevention": [
+      "Wipe from front to back after using the toilet",
+      "Pee as soon as possible after sex",
+      "Drink enough fluids so urine is pale",
+      "Do not hold in pee"
+    ],
+    "whenToSeeDoctor": [
+      "You are a man, pregnant, or have a child with symptoms",
+      "Symptoms are not improving or keep coming back",
+      "Blood in your urine",
+      "Symptoms after surgery or with a catheter"
+    ],
+    "emergencySigns": [
+      "High temperature with shivering and pain in the back or side (possible kidney infection)",
+      "Confusion, drowsiness or difficulty speaking",
+      "Not passing any urine all day",
+      "Very fast breathing or heartbeat"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Urinary tract infections (UTIs)",
+        "url": "https://www.nhs.uk/conditions/urinary-tract-infections-utis/"
+      },
+      {
+        "label": "MedlinePlus: Urinary Tract Infections",
+        "url": "https://medlineplus.gov/urinarytractinfections.html"
+      }
+    ]
+  },
+  {
+    "id": "lyme-disease",
+    "name": "Lyme disease",
+    "aliases": [
+      "Lyme borreliosis",
+      "tick-borne infection"
+    ],
+    "category": "Infections",
+    "overview": "Lyme disease is a bacterial infection spread to humans by infected ticks. It is easier to treat if diagnosed early. The classic first sign is a circular red rash around a tick bite.",
+    "symptoms": [
+      "A circular or oval rash around a tick bite, which may look like a bull's-eye and spreads over days",
+      "Flu-like symptoms such as high temperature, headache and tiredness",
+      "Muscle and joint pain",
+      "Later, if untreated: facial weakness, nerve pain or joint swelling"
+    ],
+    "causes": [
+      "Borrelia bacteria passed on by the bite of an infected tick",
+      "Ticks are found in grassy and wooded areas and are more active in spring and summer"
+    ],
+    "riskFactors": [
+      "Spending time in woodland, heath or long grass where ticks live",
+      "Not checking for and removing ticks promptly"
+    ],
+    "diagnosis": "A doctor can diagnose Lyme disease from the typical rash; blood tests may be used if there is no rash.",
+    "treatment": [
+      "Antibiotics prescribed by a doctor, usually for a few weeks",
+      "Longer or intravenous antibiotics for some later-stage symptoms, guided by a specialist"
+    ],
+    "selfCare": [
+      "Remove ticks promptly with fine-tipped tweezers or a tick-removal tool, gripping close to the skin",
+      "Clean the bite area and watch for a rash over the following weeks"
+    ],
+    "prevention": [
+      "Cover skin and use insect repellent in tick areas",
+      "Keep to clear paths",
+      "Check skin and clothing for ticks after being outdoors"
+    ],
+    "whenToSeeDoctor": [
+      "A rash appears after a tick bite",
+      "Flu-like symptoms after a tick bite or time in tick areas"
+    ],
+    "emergencySigns": [
+      "Chest pain, palpitations or fainting",
+      "Weakness of the face with severe headache or stiff neck"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Lyme disease",
+        "url": "https://www.nhs.uk/conditions/lyme-disease/"
+      },
+      {
+        "label": "MedlinePlus: Lyme Disease",
+        "url": "https://medlineplus.gov/lymedisease.html"
+      }
+    ]
+  }
+]

@@ -1,4 +1,3 @@
-import { Analytics } from '@vercel/analytics/next'
 import type { Metadata, Viewport } from 'next'
 import { Plus_Jakarta_Sans, Inter } from 'next/font/google'
 import './globals.css'
@@ -18,8 +17,7 @@ const body = Inter({
 export const metadata: Metadata = {
   title: 'Verabl — Health information you can trust',
   description:
-    'Evidence-based medical guidance, an AI symptom guide, and a fact-checker to separate health facts from social media myths.',
-  generator: 'v0.app',
+    'Evidence-based medical guidance, a guided symptom checker, a library of common conditions, and a fact-checker to separate health facts from social media myths.',
 }
 
 export const viewport: Viewport = {
@@ -36,7 +34,6 @@ export default function RootLayout({
     <html lang="en" className={`${heading.variable} ${body.variable} bg-background`}>
       <body className="font-sans antialiased">
         {children}
-        {process.env.NODE_ENV === 'production' && <Analytics />}
       </body>
     </html>
   )

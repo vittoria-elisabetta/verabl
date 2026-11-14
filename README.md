@@ -1,33 +1,48 @@
-# verabl
+# Verabl
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [v0](https://v0.app).
+Evidence-based health information you can trust: a guided symptom checker, a health-claim fact checker,
+a myth-vs-fact library and plain-language guides to common conditions.
 
-## Built with v0
+**No AI at runtime.** Every answer on the site comes from hand-curated data in `lib/data/`, with links to
+the NHS, CDC, WHO, NIH, MedlinePlus and other reputable publishers. The symptom checker applies fixed
+rules (red flags, urgent flags, how long, how bad, higher-risk groups), and the fact checker matches
+claims against reviewed entries by keywords. A claim that has not been reviewed gets
+"not in our database", never a guess.
 
-This repository is linked to a [v0](https://v0.app) project. You can continue developing by visiting the link below -- start new chats to make changes, and v0 will push commits directly to this repo. Every merge to `main` will automatically deploy.
+The site is a fully static Next.js export, hosted on GitHub Pages.
 
-[Continue working on v0 →](https://v0.app/chat/projects/prj_bt4BXGaUOqfFpmRRXeCPl91DWvdb)
+## Data
 
-## Getting Started
+| File | What |
+| --- | --- |
+| `lib/data/symptoms.json` | Symptoms with red flags, urgent flags, common causes, self-care, when to see a doctor |
+| `lib/data/myths.json` | Health claims with a rating (false / misleading / mostly true / true), the facts and sources |
+| `lib/data/conditions.json` | Common conditions: symptoms, causes, treatment, prevention, emergency signs |
+| `lib/data/types.ts` | The shape of each record and the allowed categories |
 
-First, run the development server:
+To add or edit an entry, edit the JSON and run:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
+pnpm validate      # checks every record against the schema and the source allow-list
+pnpm check-links   # checks that every source URL still resolves
+```
+
+## Develop
+
+```bash
+pnpm install
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Deploy
 
-## Learn More
+Every push to `main` builds the site and publishes it to GitHub Pages (`.github/workflows/deploy.yml`).
+One-time setup: repository **Settings → Pages → Source: GitHub Actions**. For a custom domain, add it in
+the same Pages settings and point the domain's DNS at GitHub Pages.
 
-To learn more, take a look at the following resources:
+## Disclaimer
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-- [v0 Documentation](https://v0.app/docs) - learn about v0 and how to use it.
+Verabl provides general educational information, not medical advice, diagnosis or treatment. In an
+emergency, call your local emergency number.

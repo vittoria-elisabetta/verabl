@@ -1,0 +1,1071 @@
+[
+  {
+    "id": "gerd",
+    "name": "Acid reflux and GORD",
+    "aliases": [
+      "GERD",
+      "GORD",
+      "heartburn",
+      "acid reflux",
+      "gastro-oesophageal reflux disease",
+      "indigestion"
+    ],
+    "category": "Digestive system",
+    "overview": "Acid reflux is when stomach acid flows back up into the food pipe, causing heartburn. It is very common and can often be eased with lifestyle changes and pharmacy medicines. When it happens often, it is called gastro-oesophageal reflux disease (GORD).",
+    "symptoms": [
+      "Heartburn: a burning feeling in the middle of the chest",
+      "An unpleasant sour taste in the mouth from stomach acid",
+      "Cough or hiccups that keep coming back",
+      "A hoarse voice",
+      "Bad breath",
+      "Bloating and feeling sick"
+    ],
+    "causes": [
+      "Weakness of the muscle ring at the bottom of the food pipe",
+      "Certain foods and drinks such as coffee, alcohol, spicy or fatty foods",
+      "Some medicines, such as anti-inflammatory painkillers",
+      "A hiatus hernia"
+    ],
+    "riskFactors": [
+      "Overweight",
+      "Smoking",
+      "Pregnancy",
+      "Stress and anxiety",
+      "Large meals or eating late at night"
+    ],
+    "diagnosis": "Reflux is usually diagnosed from symptoms; tests such as an endoscopy may be used if symptoms are severe, persistent or there are warning signs.",
+    "treatment": [
+      "Antacids and alginates from a pharmacy",
+      "Acid-reducing medicines prescribed by a doctor or bought from a pharmacy",
+      "Treatment for H. pylori infection if found",
+      "Surgery rarely, for severe cases"
+    ],
+    "selfCare": [
+      "Eat smaller, more frequent meals",
+      "Raise the head of your bed slightly",
+      "Avoid eating within 3 to 4 hours of bedtime",
+      "Lose weight if overweight, stop smoking, and cut down on trigger foods and alcohol"
+    ],
+    "prevention": [
+      "Healthy weight",
+      "Avoid trigger foods and large late meals",
+      "Do not smoke"
+    ],
+    "whenToSeeDoctor": [
+      "Heartburn most days for 3 weeks or more",
+      "Pharmacy medicines are not helping",
+      "Other symptoms such as food getting stuck, being sick or losing weight without trying"
+    ],
+    "emergencySigns": [
+      "Chest pain that spreads to the arm, jaw or back, or with breathlessness or sweating (could be a heart attack)",
+      "Vomiting blood or black, tarry stools",
+      "Difficulty swallowing that is getting worse quickly"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Heartburn and acid reflux",
+        "url": "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/"
+      },
+      {
+        "label": "MedlinePlus: GERD",
+        "url": "https://medlineplus.gov/gerd.html"
+      }
+    ]
+  },
+  {
+    "id": "irritable-bowel-syndrome",
+    "name": "Irritable bowel syndrome (IBS)",
+    "aliases": [
+      "IBS",
+      "spastic colon"
+    ],
+    "category": "Digestive system",
+    "overview": "IBS is a common, long-term condition of the digestive system that causes tummy pain, bloating and changes in bowel habit. It does not damage the gut, and symptoms often come and go. Diet and lifestyle changes help many people.",
+    "symptoms": [
+      "Tummy pain or cramps, often eased by pooing",
+      "Bloating",
+      "Diarrhoea, constipation, or both at different times",
+      "Wind",
+      "Mucus in poo",
+      "Tiredness"
+    ],
+    "causes": [
+      "The exact cause is unknown",
+      "Linked to how the gut and brain communicate, gut sensitivity and how quickly food moves through the gut",
+      "Can start after a gut infection"
+    ],
+    "riskFactors": [
+      "Family history",
+      "Stress or anxiety",
+      "A previous gut infection",
+      "Being female"
+    ],
+    "diagnosis": "A GP diagnoses IBS from symptoms and may do blood and stool tests to rule out other conditions such as coeliac disease or inflammatory bowel disease.",
+    "treatment": [
+      "Diet changes, sometimes with help from a dietitian (for example a low FODMAP diet)",
+      "Medicines for diarrhoea, constipation or cramps",
+      "Talking therapies such as CBT or gut-directed hypnotherapy"
+    ],
+    "selfCare": [
+      "Keep a food and symptom diary",
+      "Eat regular meals and do not skip them",
+      "Adjust fibre intake depending on symptoms",
+      "Exercise and find ways to manage stress"
+    ],
+    "prevention": [
+      "Manage stress",
+      "Identify and limit trigger foods"
+    ],
+    "whenToSeeDoctor": [
+      "You think you have IBS",
+      "Symptoms change or get worse",
+      "Pharmacy remedies are not helping"
+    ],
+    "emergencySigns": [
+      "Bleeding from the bottom or bloody diarrhoea",
+      "Severe tummy pain that does not go away",
+      "Unexplained weight loss with feeling very unwell"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Irritable bowel syndrome (IBS)",
+        "url": "https://www.nhs.uk/conditions/irritable-bowel-syndrome-ibs/"
+      },
+      {
+        "label": "MedlinePlus: Irritable Bowel Syndrome",
+        "url": "https://medlineplus.gov/irritablebowelsyndrome.html"
+      }
+    ]
+  },
+  {
+    "id": "crohns-disease",
+    "name": "Crohn's disease",
+    "aliases": [
+      "Crohn's",
+      "IBD",
+      "inflammatory bowel disease"
+    ],
+    "category": "Digestive system",
+    "overview": "Crohn's disease is a lifelong condition where parts of the digestive system become inflamed. It is a type of inflammatory bowel disease. Symptoms come and go in flare-ups, and treatment aims to control inflammation and keep it in remission.",
+    "symptoms": [
+      "Diarrhoea",
+      "Tummy pain and cramps",
+      "Blood in poo",
+      "Tiredness",
+      "Weight loss",
+      "Mouth ulcers"
+    ],
+    "causes": [
+      "The exact cause is unknown",
+      "Thought to involve genes, the immune system and gut bacteria",
+      "Smoking increases the risk and makes it worse"
+    ],
+    "riskFactors": [
+      "Family history of inflammatory bowel disease",
+      "Smoking",
+      "Often starts between the teens and 30s"
+    ],
+    "diagnosis": "Crohn's disease is diagnosed with blood and stool tests, a colonoscopy with biopsies, and sometimes scans.",
+    "treatment": [
+      "Medicines to reduce inflammation, such as steroids",
+      "Immunosuppressant and biological medicines to keep it under control",
+      "Surgery to remove damaged parts of the bowel in some cases",
+      "Dietary support"
+    ],
+    "selfCare": [
+      "Stop smoking",
+      "Keep a symptom diary to spot triggers",
+      "Eat a balanced diet with dietitian advice",
+      "Attend regular check-ups"
+    ],
+    "prevention": [
+      "Not smoking can reduce flare-ups",
+      "Take maintenance medicines as prescribed"
+    ],
+    "whenToSeeDoctor": [
+      "Blood in your poo",
+      "Diarrhoea for more than 7 days",
+      "Frequent tummy pain or unexplained weight loss",
+      "Signs of a flare-up if you already have Crohn's"
+    ],
+    "emergencySigns": [
+      "Severe tummy pain",
+      "Vomiting and unable to keep fluids down",
+      "Heavy bleeding from the bottom",
+      "High fever with tummy pain"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Crohn's disease",
+        "url": "https://www.nhs.uk/conditions/crohns-disease/"
+      },
+      {
+        "label": "MedlinePlus: Crohn's Disease",
+        "url": "https://medlineplus.gov/crohnsdisease.html"
+      }
+    ]
+  },
+  {
+    "id": "ulcerative-colitis",
+    "name": "Ulcerative colitis",
+    "aliases": [
+      "UC",
+      "IBD",
+      "colitis"
+    ],
+    "category": "Digestive system",
+    "overview": "Ulcerative colitis is a long-term condition where the colon and rectum become inflamed and develop ulcers. It is a type of inflammatory bowel disease. Symptoms come and go, and treatment helps control flare-ups and keep the condition in remission.",
+    "symptoms": [
+      "Diarrhoea, often with blood, mucus or pus",
+      "Needing to poo urgently and often",
+      "Tummy pain",
+      "Tiredness",
+      "Weight loss",
+      "Loss of appetite"
+    ],
+    "causes": [
+      "The exact cause is unknown",
+      "Thought to be an immune system problem combined with genes and environment"
+    ],
+    "riskFactors": [
+      "Family history of inflammatory bowel disease",
+      "Often begins between ages 15 and 30"
+    ],
+    "diagnosis": "It is diagnosed with blood and stool tests and a colonoscopy or sigmoidoscopy with biopsies.",
+    "treatment": [
+      "Anti-inflammatory medicines",
+      "Steroids for flare-ups",
+      "Immunosuppressants and biological medicines",
+      "Surgery to remove the colon in severe cases"
+    ],
+    "selfCare": [
+      "Keep a food and symptom diary",
+      "Drink enough fluids during flare-ups",
+      "Take medicines as prescribed even when well",
+      "Join a support group"
+    ],
+    "prevention": [
+      "Take maintenance treatment as prescribed to reduce flare-ups"
+    ],
+    "whenToSeeDoctor": [
+      "Blood in your poo or diarrhoea for more than 7 days",
+      "Signs of a flare-up if you already have UC"
+    ],
+    "emergencySigns": [
+      "Passing a lot of blood",
+      "Severe tummy pain or swelling",
+      "Fever with fast heartbeat and feeling very unwell",
+      "More than 6 bloody poos a day"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Ulcerative colitis",
+        "url": "https://www.nhs.uk/conditions/ulcerative-colitis/"
+      },
+      {
+        "label": "MedlinePlus: Ulcerative Colitis",
+        "url": "https://medlineplus.gov/ulcerativecolitis.html"
+      }
+    ]
+  },
+  {
+    "id": "coeliac-disease",
+    "name": "Coeliac disease",
+    "aliases": [
+      "celiac disease",
+      "gluten intolerance",
+      "gluten-sensitive enteropathy"
+    ],
+    "category": "Digestive system",
+    "overview": "Coeliac disease is a lifelong condition where the immune system attacks the body's own tissues when gluten is eaten. This damages the lining of the gut. A strict gluten-free diet controls the condition.",
+    "symptoms": [
+      "Diarrhoea",
+      "Tummy pain and bloating",
+      "Indigestion or wind",
+      "Constipation",
+      "Tiredness",
+      "Unexplained weight loss or poor growth in children",
+      "Anaemia or an itchy rash"
+    ],
+    "causes": [
+      "An autoimmune reaction to gluten, a protein in wheat, barley and rye",
+      "Genes play a part: it is more common in people with a close relative who has it"
+    ],
+    "riskFactors": [
+      "Close family member with coeliac disease",
+      "Type 1 diabetes or autoimmune thyroid disease",
+      "Down's syndrome"
+    ],
+    "diagnosis": "Coeliac disease is diagnosed with a blood test followed by a biopsy of the small bowel; you must keep eating gluten until testing is complete.",
+    "treatment": [
+      "A lifelong strict gluten-free diet",
+      "Support from a dietitian",
+      "Supplements if you have low iron, vitamin or mineral levels"
+    ],
+    "selfCare": [
+      "Read food labels carefully",
+      "Avoid cross-contamination with gluten when preparing food",
+      "Attend regular check-ups"
+    ],
+    "prevention": [
+      "There is no known way to prevent coeliac disease; testing family members can find it early"
+    ],
+    "whenToSeeDoctor": [
+      "Persistent diarrhoea, bloating or tummy pain",
+      "Unexplained tiredness, weight loss or anaemia",
+      "A close relative has coeliac disease"
+    ],
+    "emergencySigns": [],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Coeliac disease",
+        "url": "https://www.nhs.uk/conditions/coeliac-disease/"
+      },
+      {
+        "label": "MedlinePlus: Celiac Disease",
+        "url": "https://medlineplus.gov/celiacdisease.html"
+      }
+    ]
+  },
+  {
+    "id": "gallstones",
+    "name": "Gallstones",
+    "aliases": [
+      "gall bladder stones",
+      "biliary colic",
+      "cholecystitis"
+    ],
+    "category": "Digestive system",
+    "overview": "Gallstones are small stones that form in the gallbladder. They often cause no symptoms, but if one blocks a duct it can cause sudden, intense tummy pain. Surgery to remove the gallbladder may be recommended if they cause problems.",
+    "symptoms": [
+      "Often no symptoms",
+      "Sudden intense pain in the upper right or centre of the tummy that can last minutes to hours",
+      "Pain spreading to the right shoulder or back",
+      "Feeling sick",
+      "High temperature, yellowing skin or eyes, or dark urine if complications develop"
+    ],
+    "causes": [
+      "An imbalance in the substances that make up bile, such as too much cholesterol",
+      "The gallbladder not emptying properly"
+    ],
+    "riskFactors": [
+      "Overweight or obesity",
+      "Female sex",
+      "Age 40 or over",
+      "Pregnancy",
+      "Rapid weight loss",
+      "Family history"
+    ],
+    "diagnosis": "Gallstones are usually diagnosed with an ultrasound scan, alongside blood tests.",
+    "treatment": [
+      "No treatment if there are no symptoms",
+      "Painkillers for attacks",
+      "Keyhole surgery to remove the gallbladder",
+      "Procedures to remove stones from the bile duct"
+    ],
+    "selfCare": [
+      "Eat a healthy, balanced diet",
+      "Lose weight gradually rather than quickly"
+    ],
+    "prevention": [
+      "Healthy weight",
+      "Avoid crash diets and rapid weight loss",
+      "Balanced diet with fibre"
+    ],
+    "whenToSeeDoctor": [
+      "Tummy pain that comes and goes, especially after eating",
+      "Repeated attacks of upper tummy pain"
+    ],
+    "emergencySigns": [
+      "Tummy pain lasting longer than 8 hours",
+      "High temperature with shivering",
+      "Yellowing of the skin or the whites of the eyes",
+      "Pain so intense you cannot find a comfortable position"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Gallstones",
+        "url": "https://www.nhs.uk/conditions/gallstones/"
+      },
+      {
+        "label": "MedlinePlus: Gallstones",
+        "url": "https://medlineplus.gov/gallstones.html"
+      }
+    ]
+  },
+  {
+    "id": "appendicitis",
+    "name": "Appendicitis",
+    "aliases": [
+      "inflamed appendix",
+      "burst appendix"
+    ],
+    "category": "Digestive system",
+    "overview": "Appendicitis is a painful swelling of the appendix, a small pouch attached to the large intestine. It is a medical emergency that usually needs surgery to remove the appendix. Without treatment, the appendix can burst.",
+    "symptoms": [
+      "Pain that starts in the middle of the tummy and moves to the lower right side",
+      "Pain that gets worse when coughing, walking or pressing on the area",
+      "Feeling or being sick",
+      "Loss of appetite",
+      "High temperature",
+      "Constipation or diarrhoea"
+    ],
+    "causes": [
+      "Often unclear",
+      "Thought to be caused by a blockage of the appendix, which then becomes infected"
+    ],
+    "riskFactors": [
+      "Most common between ages 10 and 20, but can happen at any age"
+    ],
+    "diagnosis": "A doctor examines the tummy and may use blood and urine tests and an ultrasound or CT scan.",
+    "treatment": [
+      "Surgery to remove the appendix, usually by keyhole surgery",
+      "Antibiotics, sometimes before or after surgery"
+    ],
+    "selfCare": [
+      "Do not eat or drink if you suspect appendicitis, as you may need surgery",
+      "Avoid painkillers that may mask symptoms until seen, unless advised"
+    ],
+    "prevention": [
+      "There is no known way to prevent appendicitis"
+    ],
+    "whenToSeeDoctor": [
+      "Tummy pain that gets steadily worse, especially on the lower right side: get urgent help the same day",
+      "Tummy pain with fever, being sick or loss of appetite",
+      "A child with tummy pain who will not walk normally or eat"
+    ],
+    "emergencySigns": [
+      "Pain that suddenly spreads across the whole tummy",
+      "Tummy pain that is getting worse with high temperature",
+      "Feeling very unwell, with fast heartbeat or collapse"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Appendicitis",
+        "url": "https://www.nhs.uk/conditions/appendicitis/"
+      },
+      {
+        "label": "MedlinePlus: Appendicitis",
+        "url": "https://medlineplus.gov/appendicitis.html"
+      }
+    ]
+  },
+  {
+    "id": "haemorrhoids",
+    "name": "Haemorrhoids (piles)",
+    "aliases": [
+      "piles",
+      "hemorrhoids"
+    ],
+    "category": "Digestive system",
+    "overview": "Haemorrhoids are lumps inside and around the bottom (anus) made of swollen blood vessels. They are very common and often get better by themselves after a few days. Simple self-care and pharmacy treatments usually help.",
+    "symptoms": [
+      "Bright red blood after pooing",
+      "Itchy bottom",
+      "Feeling like you still need to poo after going",
+      "Slimy mucus in underwear or on toilet paper",
+      "Lumps around the anus",
+      "Pain around the anus"
+    ],
+    "causes": [
+      "Straining on the toilet, often due to constipation",
+      "Pressure on the veins in the bottom"
+    ],
+    "riskFactors": [
+      "Constipation",
+      "Pregnancy",
+      "Overweight",
+      "Heavy lifting",
+      "Older age",
+      "Persistent cough or diarrhoea"
+    ],
+    "diagnosis": "A GP may examine the bottom, sometimes with a gloved finger, to check for piles and rule out other causes of bleeding.",
+    "treatment": [
+      "Creams, ointments or suppositories from a pharmacy",
+      "Laxatives for constipation",
+      "Hospital procedures such as banding for persistent piles",
+      "Surgery in some cases"
+    ],
+    "selfCare": [
+      "Drink lots of fluids and eat high-fibre foods to keep poo soft",
+      "Wipe gently with damp toilet paper",
+      "Take a warm bath to ease itching and pain",
+      "Do not strain or delay going to the toilet"
+    ],
+    "prevention": [
+      "High-fibre diet and plenty of fluids",
+      "Regular exercise",
+      "Avoid straining"
+    ],
+    "whenToSeeDoctor": [
+      "No improvement after 7 days of treatment",
+      "Piles keep coming back",
+      "Blood in your poo, or poo that is dark or black, to rule out other causes",
+      "A change in bowel habits"
+    ],
+    "emergencySigns": [
+      "Bleeding that will not stop",
+      "Lots of blood, such as the toilet water turning red or large clots",
+      "Severe pain with high temperature"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Piles (haemorrhoids)",
+        "url": "https://www.nhs.uk/conditions/piles-haemorrhoids/"
+      },
+      {
+        "label": "MedlinePlus: Hemorrhoids",
+        "url": "https://medlineplus.gov/hemorrhoids.html"
+      }
+    ]
+  },
+  {
+    "id": "constipation",
+    "name": "Constipation",
+    "aliases": [
+      "blocked bowels",
+      "can't poo",
+      "difficulty pooing"
+    ],
+    "category": "Digestive system",
+    "overview": "Constipation means pooing less often than usual or finding it hard to poo. It is common at all ages and can usually be eased with changes to diet and lifestyle.",
+    "symptoms": [
+      "Pooing fewer than 3 times a week",
+      "Poo that is large, dry, hard or lumpy",
+      "Straining or pain when pooing",
+      "Tummy ache and bloating",
+      "Feeling that you have not fully emptied your bowels"
+    ],
+    "causes": [
+      "Not eating enough fibre",
+      "Not drinking enough fluids",
+      "Not moving enough",
+      "Ignoring the urge to poo",
+      "Some medicines, such as certain painkillers",
+      "Pregnancy or conditions such as IBS or an underactive thyroid"
+    ],
+    "riskFactors": [
+      "Older age",
+      "Pregnancy",
+      "Low-fibre diet",
+      "Inactivity",
+      "Some medicines"
+    ],
+    "diagnosis": "Constipation is usually recognised from symptoms; a GP may examine you or arrange tests if it is persistent or there are warning signs.",
+    "treatment": [
+      "Diet and lifestyle changes",
+      "Laxatives from a pharmacy or prescribed by a doctor",
+      "Treating any underlying cause"
+    ],
+    "selfCare": [
+      "Eat more fibre such as fruit, vegetables and wholegrains",
+      "Drink plenty of water",
+      "Exercise more",
+      "Do not delay going to the toilet; raising feet on a stool may help"
+    ],
+    "prevention": [
+      "High-fibre diet",
+      "Drink enough fluids",
+      "Stay active"
+    ],
+    "whenToSeeDoctor": [
+      "Constipation is not improving with treatment",
+      "You are often constipated or bloated",
+      "Blood in your poo",
+      "Unexplained weight loss or tiredness",
+      "A baby or child is constipated and it is not getting better"
+    ],
+    "emergencySigns": [
+      "Unable to poo or pass wind with a swollen tummy and vomiting",
+      "Severe tummy pain",
+      "Bleeding heavily from the bottom"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Constipation",
+        "url": "https://www.nhs.uk/conditions/constipation/"
+      },
+      {
+        "label": "MedlinePlus: Constipation",
+        "url": "https://medlineplus.gov/constipation.html"
+      }
+    ]
+  },
+  {
+    "id": "diverticular-disease",
+    "name": "Diverticular disease and diverticulitis",
+    "aliases": [
+      "diverticulosis",
+      "diverticulitis",
+      "diverticula"
+    ],
+    "category": "Digestive system",
+    "overview": "Diverticula are small bulges or pockets in the lining of the large intestine, which are common with age. When they cause symptoms it is called diverticular disease, and when they become inflamed or infected it is called diverticulitis.",
+    "symptoms": [
+      "Tummy pain, usually in the lower left side, that may come and go",
+      "Bloating",
+      "Constipation or diarrhoea",
+      "Blood in poo",
+      "With diverticulitis: constant, severe pain, high temperature and feeling sick"
+    ],
+    "causes": [
+      "Weak spots in the bowel wall that bulge out under pressure",
+      "Linked to a low-fibre diet and ageing"
+    ],
+    "riskFactors": [
+      "Age over 50",
+      "Low-fibre diet",
+      "Overweight",
+      "Smoking",
+      "Some medicines such as anti-inflammatory painkillers"
+    ],
+    "diagnosis": "It is diagnosed from symptoms, blood tests and sometimes a CT scan or colonoscopy.",
+    "treatment": [
+      "High-fibre diet and painkillers such as paracetamol for diverticular disease",
+      "Antibiotics may be used for diverticulitis",
+      "Hospital treatment or surgery for complications"
+    ],
+    "selfCare": [
+      "Eat a high-fibre diet and increase fibre gradually",
+      "Drink plenty of fluids",
+      "Avoid anti-inflammatory painkillers unless advised"
+    ],
+    "prevention": [
+      "High-fibre diet",
+      "Healthy weight",
+      "Regular exercise",
+      "Do not smoke"
+    ],
+    "whenToSeeDoctor": [
+      "Lower tummy pain that comes and goes",
+      "Changes in bowel habit",
+      "Blood in your poo"
+    ],
+    "emergencySigns": [
+      "Severe or constant tummy pain with high temperature",
+      "Heavy bleeding from the bottom",
+      "Vomiting and unable to keep fluids down"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Diverticular disease and diverticulitis",
+        "url": "https://www.nhs.uk/conditions/diverticular-disease-and-diverticulitis/"
+      },
+      {
+        "label": "MedlinePlus: Diverticulosis and Diverticulitis",
+        "url": "https://medlineplus.gov/diverticulosisanddiverticulitis.html"
+      }
+    ]
+  },
+  {
+    "id": "stomach-ulcer",
+    "name": "Stomach ulcer",
+    "aliases": [
+      "peptic ulcer",
+      "gastric ulcer",
+      "duodenal ulcer"
+    ],
+    "category": "Digestive system",
+    "overview": "Stomach ulcers are open sores in the lining of the stomach or the first part of the small intestine. They are usually caused by H. pylori infection or anti-inflammatory painkillers, and are usually treatable.",
+    "symptoms": [
+      "Burning or gnawing pain in the centre of the tummy",
+      "Indigestion and heartburn",
+      "Feeling sick",
+      "Bloating or feeling full quickly",
+      "Some people have no symptoms until bleeding occurs"
+    ],
+    "causes": [
+      "Infection with Helicobacter pylori (H. pylori) bacteria",
+      "Taking anti-inflammatory painkillers such as ibuprofen or aspirin, especially long term"
+    ],
+    "riskFactors": [
+      "Regular use of anti-inflammatory painkillers",
+      "H. pylori infection",
+      "Smoking",
+      "Heavy alcohol use",
+      "Older age"
+    ],
+    "diagnosis": "Ulcers are diagnosed with tests for H. pylori (breath, stool or blood test) and sometimes an endoscopy.",
+    "treatment": [
+      "Acid-reducing medicines prescribed by a doctor",
+      "Antibiotics to clear H. pylori infection",
+      "Stopping or changing anti-inflammatory painkillers where possible"
+    ],
+    "selfCare": [
+      "Avoid anti-inflammatory painkillers unless advised",
+      "Stop smoking",
+      "Cut down on alcohol"
+    ],
+    "prevention": [
+      "Use anti-inflammatory painkillers only as needed and with advice",
+      "Do not smoke",
+      "Limit alcohol"
+    ],
+    "whenToSeeDoctor": [
+      "Ongoing tummy pain or indigestion",
+      "Symptoms that keep coming back",
+      "You take anti-inflammatory painkillers regularly and have tummy pain"
+    ],
+    "emergencySigns": [
+      "Vomiting blood or vomit that looks like coffee grounds",
+      "Black, sticky, tarry poo",
+      "Sudden, sharp tummy pain that gets steadily worse"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Stomach ulcer",
+        "url": "https://www.nhs.uk/conditions/stomach-ulcer/"
+      },
+      {
+        "label": "MedlinePlus: Peptic Ulcer",
+        "url": "https://medlineplus.gov/pepticulcer.html"
+      }
+    ]
+  },
+  {
+    "id": "type-1-diabetes",
+    "name": "Type 1 diabetes",
+    "aliases": [
+      "T1D",
+      "insulin-dependent diabetes",
+      "juvenile diabetes"
+    ],
+    "category": "Hormones & metabolism",
+    "overview": "Type 1 diabetes is a lifelong condition where the immune system destroys the cells that make insulin, so blood sugar becomes too high. It often starts in childhood or young adulthood but can begin at any age. It is managed with insulin and regular glucose monitoring.",
+    "symptoms": [
+      "Feeling very thirsty",
+      "Peeing more than usual, especially at night",
+      "Feeling very tired",
+      "Losing weight without trying",
+      "Thrush that keeps coming back",
+      "Blurred vision"
+    ],
+    "causes": [
+      "The immune system attacking the insulin-producing cells in the pancreas",
+      "Genetic and possibly environmental triggers, which are not fully understood"
+    ],
+    "riskFactors": [
+      "Family history of type 1 diabetes",
+      "Other autoimmune conditions"
+    ],
+    "diagnosis": "Type 1 diabetes is diagnosed with blood tests for sugar levels, along with tests for ketones and sometimes antibodies; it needs urgent same-day assessment.",
+    "treatment": [
+      "Insulin by injection or pump",
+      "Regular blood glucose checks or continuous glucose monitoring",
+      "Education on carbohydrate counting and adjusting insulin",
+      "Regular checks for complications affecting eyes, feet and kidneys"
+    ],
+    "selfCare": [
+      "Check blood sugar regularly",
+      "Learn to recognise and treat low blood sugar (hypos)",
+      "Eat a healthy diet and stay active",
+      "Attend annual reviews including eye screening"
+    ],
+    "prevention": [
+      "There is currently no known way to prevent type 1 diabetes"
+    ],
+    "whenToSeeDoctor": [
+      "Symptoms of diabetes such as thirst, peeing a lot or weight loss (seek same-day advice)",
+      "Frequent hypos or high blood sugar readings",
+      "Problems with feet, eyes or injection sites"
+    ],
+    "emergencySigns": [
+      "Vomiting, tummy pain, fast breathing or a fruity smell on the breath (possible diabetic ketoacidosis)",
+      "Confusion, drowsiness or unconsciousness",
+      "A severe hypo that does not respond to treatment"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Type 1 diabetes",
+        "url": "https://www.nhs.uk/conditions/type-1-diabetes/"
+      },
+      {
+        "label": "MedlinePlus: Diabetes Type 1",
+        "url": "https://medlineplus.gov/diabetestype1.html"
+      }
+    ]
+  },
+  {
+    "id": "type-2-diabetes",
+    "name": "Type 2 diabetes",
+    "aliases": [
+      "T2D",
+      "adult-onset diabetes",
+      "diabetes mellitus",
+      "high blood sugar",
+      "prediabetes"
+    ],
+    "category": "Hormones & metabolism",
+    "overview": "Type 2 diabetes is a common condition where the body does not make enough insulin or the insulin does not work properly, so blood sugar becomes too high. It develops gradually and often has no symptoms at first. It can be managed with lifestyle changes and medicines, and is linked to being overweight.",
+    "symptoms": [
+      "Often no symptoms at first",
+      "Peeing more than usual, especially at night",
+      "Feeling thirsty all the time",
+      "Feeling very tired",
+      "Losing weight without trying",
+      "Cuts or wounds that heal slowly, blurred vision, or itching around the genitals"
+    ],
+    "causes": [
+      "The body becoming resistant to insulin or not making enough of it",
+      "Strongly linked to excess weight, inactivity and genes"
+    ],
+    "riskFactors": [
+      "Overweight or obesity",
+      "Age over 40 (over 25 for people of South Asian, Chinese, African-Caribbean or Black African descent)",
+      "Family history of diabetes",
+      "Inactivity",
+      "High blood pressure",
+      "Previous gestational diabetes"
+    ],
+    "diagnosis": "Type 2 diabetes is diagnosed with a blood test, usually an HbA1c test that shows average blood sugar over the past few months.",
+    "treatment": [
+      "Healthy diet, weight loss and exercise",
+      "Medicines to lower blood sugar, prescribed by a doctor",
+      "Insulin in some people",
+      "Regular checks of eyes, feet, kidneys, blood pressure and cholesterol"
+    ],
+    "selfCare": [
+      "Eat a healthy, balanced diet",
+      "Be physically active",
+      "Lose weight if overweight",
+      "Stop smoking and limit alcohol",
+      "Check your feet daily"
+    ],
+    "prevention": [
+      "Keep to a healthy weight",
+      "Be active",
+      "Eat a diet low in sugar and processed foods and high in fibre",
+      "Join a diabetes prevention programme if offered"
+    ],
+    "whenToSeeDoctor": [
+      "Symptoms of diabetes",
+      "You are at high risk and have not been tested",
+      "Foot problems such as cuts or sores that are not healing"
+    ],
+    "emergencySigns": [
+      "Confusion, extreme drowsiness or unconsciousness",
+      "Very high blood sugar with vomiting, severe thirst and dehydration",
+      "A severe hypo (low blood sugar) on insulin or certain tablets that does not respond to treatment"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Type 2 diabetes",
+        "url": "https://www.nhs.uk/conditions/type-2-diabetes/"
+      },
+      {
+        "label": "WHO: Diabetes",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes"
+      }
+    ]
+  },
+  {
+    "id": "hypothyroidism",
+    "name": "Underactive thyroid (hypothyroidism)",
+    "aliases": [
+      "hypothyroidism",
+      "underactive thyroid",
+      "Hashimoto's thyroiditis"
+    ],
+    "category": "Hormones & metabolism",
+    "overview": "An underactive thyroid means the thyroid gland does not make enough thyroid hormone. Symptoms develop slowly and can be mistaken for other things. It is common, especially in women, and is treated with daily hormone replacement tablets.",
+    "symptoms": [
+      "Tiredness",
+      "Being sensitive to cold",
+      "Weight gain",
+      "Constipation",
+      "Depression or low mood",
+      "Dry skin, brittle hair and muscle aches"
+    ],
+    "causes": [
+      "The immune system attacking the thyroid (Hashimoto's thyroiditis)",
+      "Previous thyroid surgery or radioactive iodine treatment",
+      "Some medicines",
+      "Iodine deficiency in some parts of the world"
+    ],
+    "riskFactors": [
+      "Female sex",
+      "Older age",
+      "Family history of thyroid disease",
+      "Other autoimmune conditions such as type 1 diabetes"
+    ],
+    "diagnosis": "An underactive thyroid is diagnosed with a blood test measuring thyroid hormone levels (TSH and T4).",
+    "treatment": [
+      "Daily thyroid hormone replacement tablets",
+      "Regular blood tests to check the dose"
+    ],
+    "selfCare": [
+      "Take tablets as advised, usually at the same time each day",
+      "Attend regular blood tests",
+      "Tell your doctor if you become pregnant"
+    ],
+    "prevention": [
+      "There is usually no way to prevent it, but early testing helps"
+    ],
+    "whenToSeeDoctor": [
+      "Ongoing tiredness, weight gain or feeling cold",
+      "Symptoms do not improve on treatment",
+      "You are pregnant or planning pregnancy and have a thyroid condition"
+    ],
+    "emergencySigns": [
+      "Extreme drowsiness, confusion or very low body temperature (rare but serious)"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Underactive thyroid (hypothyroidism)",
+        "url": "https://www.nhs.uk/conditions/underactive-thyroid-hypothyroidism/"
+      },
+      {
+        "label": "MedlinePlus: Hypothyroidism",
+        "url": "https://medlineplus.gov/hypothyroidism.html"
+      }
+    ]
+  },
+  {
+    "id": "hyperthyroidism",
+    "name": "Overactive thyroid (hyperthyroidism)",
+    "aliases": [
+      "hyperthyroidism",
+      "overactive thyroid",
+      "Graves' disease",
+      "thyrotoxicosis"
+    ],
+    "category": "Hormones & metabolism",
+    "overview": "An overactive thyroid means the thyroid gland makes too much thyroid hormone. It can speed up many body functions. It is treatable with medicines, radioactive iodine or surgery.",
+    "symptoms": [
+      "Nervousness, anxiety or irritability",
+      "Fast or irregular heartbeat",
+      "Weight loss",
+      "Feeling hot and sweating",
+      "Trembling hands",
+      "Swelling in the neck (goitre) or bulging eyes"
+    ],
+    "causes": [
+      "Graves' disease, where the immune system makes the thyroid overactive",
+      "Lumps (nodules) on the thyroid",
+      "Inflammation of the thyroid",
+      "Some medicines"
+    ],
+    "riskFactors": [
+      "Female sex",
+      "Family history",
+      "Other autoimmune conditions",
+      "Smoking (for Graves' eye disease)"
+    ],
+    "diagnosis": "An overactive thyroid is diagnosed with blood tests of thyroid hormone levels, sometimes with a scan.",
+    "treatment": [
+      "Medicines that reduce thyroid hormone production",
+      "Medicines to control symptoms such as a fast heartbeat",
+      "Radioactive iodine treatment",
+      "Surgery to remove some or all of the thyroid"
+    ],
+    "selfCare": [
+      "Take medicines as prescribed",
+      "Attend regular blood tests",
+      "Stop smoking, especially if eyes are affected"
+    ],
+    "prevention": [
+      "There is no known way to prevent most causes"
+    ],
+    "whenToSeeDoctor": [
+      "Symptoms such as weight loss, a fast heartbeat or feeling anxious",
+      "Swelling in the neck",
+      "Eye problems such as bulging, sore or dry eyes"
+    ],
+    "emergencySigns": [
+      "Very fast heartbeat with high temperature, confusion or agitation (thyroid storm)",
+      "Chest pain or fainting",
+      "Sudden loss of vision or severe eye pain"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Overactive thyroid (hyperthyroidism)",
+        "url": "https://www.nhs.uk/conditions/overactive-thyroid-hyperthyroidism/"
+      },
+      {
+        "label": "MedlinePlus: Hyperthyroidism",
+        "url": "https://medlineplus.gov/hyperthyroidism.html"
+      }
+    ]
+  },
+  {
+    "id": "obesity",
+    "name": "Obesity",
+    "aliases": [
+      "overweight",
+      "high BMI"
+    ],
+    "category": "Hormones & metabolism",
+    "overview": "Obesity means having a lot of body fat, enough to affect health. It raises the risk of conditions such as type 2 diabetes, heart disease, some cancers and joint problems. It is usually measured with body mass index (BMI) and waist size, and support is available to help.",
+    "symptoms": [
+      "High BMI and large waist measurement",
+      "Breathlessness or tiredness",
+      "Joint and back pain",
+      "Snoring or sleep apnoea",
+      "Increased sweating"
+    ],
+    "causes": [
+      "Taking in more energy from food and drink than the body uses",
+      "Inactivity",
+      "Genes and some medical conditions or medicines",
+      "Environment and access to healthy food"
+    ],
+    "riskFactors": [
+      "Diet high in processed and sugary foods",
+      "Inactivity",
+      "Poor sleep",
+      "Family history",
+      "Some medicines and conditions such as an underactive thyroid"
+    ],
+    "diagnosis": "A doctor measures height, weight and waist size to calculate BMI and assess health risks.",
+    "treatment": [
+      "Healthy eating and increased physical activity",
+      "Weight management programmes and behavioural support",
+      "Weight-loss medicines prescribed by a doctor for some people",
+      "Weight-loss surgery in some cases"
+    ],
+    "selfCare": [
+      "Set realistic goals and aim for gradual weight loss",
+      "Eat more vegetables, fruit and wholegrains",
+      "Be active most days",
+      "Get support from local services or a GP"
+    ],
+    "prevention": [
+      "Balanced diet",
+      "Regular physical activity",
+      "Limit sugary drinks and processed foods",
+      "Good sleep"
+    ],
+    "whenToSeeDoctor": [
+      "You are worried about your weight",
+      "You want support to lose weight",
+      "Symptoms such as breathlessness, joint pain or snoring"
+    ],
+    "emergencySigns": [],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Obesity",
+        "url": "https://www.nhs.uk/conditions/obesity/"
+      },
+      {
+        "label": "WHO: Obesity and overweight",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1306 @@
+[
+  {
+    "id": "stomach-ache",
+    "name": "Stomach ache",
+    "aliases": [
+      "tummy ache",
+      "belly pain",
+      "abdominal pain",
+      "stomach cramps",
+      "pain in my stomach",
+      "sore tummy"
+    ],
+    "bodyArea": "Stomach & digestion",
+    "summary": "Most stomach aches are caused by something minor such as indigestion, trapped wind or a stomach bug, and settle within a few days. Sudden, severe or persistent pain needs to be checked.",
+    "redFlags": [
+      "Sudden, severe stomach pain that does not ease",
+      "Stomach pain with vomiting blood or material that looks like coffee grounds",
+      "Black, sticky or bloody poo with stomach pain",
+      "Stomach that is hard and very tender to touch",
+      "Pain after a recent injury to the stomach area",
+      "Collapsing, fainting, or cold, clammy, pale or blue-tinged skin",
+      "Severe pain in early pregnancy or a possible pregnancy, especially on one side"
+    ],
+    "urgentFlags": [
+      "Pain that keeps getting worse or is still there after several hours",
+      "Pain that started around the belly button and moved to the lower right side",
+      "Stomach pain with a high temperature or feeling hot and shivery",
+      "Pain with being unable to keep any fluids down",
+      "Pain when passing urine or a need to pee much more often",
+      "Yellowing of the skin or the whites of the eyes"
+    ],
+    "commonCauses": [
+      {
+        "title": "Indigestion or trapped wind",
+        "detail": "Often linked to eating, rich or fatty food, or swallowing air, and usually eases on its own."
+      },
+      {
+        "title": "Stomach bug (gastroenteritis)",
+        "detail": "Cramping pain with diarrhoea or vomiting that usually gets better within a few days."
+      },
+      {
+        "title": "Constipation",
+        "detail": "Cramps and bloating when poo is hard or infrequent."
+      },
+      {
+        "title": "Period pain or other pelvic causes",
+        "detail": "Low cramping pain linked to the menstrual cycle."
+      },
+      {
+        "title": "Conditions needing treatment",
+        "detail": "Less commonly, appendicitis, gallstones, a stomach ulcer or a urine infection can cause stomach pain."
+      }
+    ],
+    "selfCare": [
+      "Rest and sip water or other fluids regularly",
+      "Eat small, plain meals and stop eating if it makes the pain worse",
+      "A hot water bottle or warm (not hot) pad on the stomach may ease cramping",
+      "Over-the-counter paracetamol can help, following the pack instructions",
+      "Cut down on alcohol, caffeine, fatty and spicy food until you feel better"
+    ],
+    "avoid": [
+      "Taking ibuprofen or aspirin for stomach pain unless a pharmacist or doctor has advised it, as they can irritate the stomach",
+      "Lying flat straight after eating if the pain feels like indigestion",
+      "Strong laxatives unless constipation is clearly the cause"
+    ],
+    "seeDoctorIf": [
+      "The pain keeps coming back",
+      "You have lost weight without trying",
+      "Your bowel habits have changed for more than a few weeks",
+      "You have difficulty swallowing",
+      "You are over 55 and have new, persistent indigestion or stomach pain"
+    ],
+    "selfCareMaxDays": 7,
+    "sources": [
+      {
+        "label": "NHS: Stomach ache",
+        "url": "https://www.nhs.uk/conditions/stomach-ache/"
+      },
+      {
+        "label": "MedlinePlus: Abdominal pain",
+        "url": "https://medlineplus.gov/abdominalpain.html"
+      }
+    ]
+  },
+  {
+    "id": "lower-right-abdominal-pain",
+    "name": "Pain in the lower right side of the stomach",
+    "aliases": [
+      "pain lower right side",
+      "right side tummy pain",
+      "appendix pain",
+      "pain near belly button moving right",
+      "right lower belly pain"
+    ],
+    "bodyArea": "Stomach & digestion",
+    "summary": "Pain low on the right side can come from wind, constipation or the ovaries, but appendicitis is an important cause that needs prompt medical assessment.",
+    "redFlags": [
+      "Pain that suddenly gets much worse or spreads across the whole stomach",
+      "Stomach that is hard and very tender to touch",
+      "Fainting, collapsing or feeling very unwell with a fast heartbeat",
+      "Severe one-sided pain in early pregnancy or a possible pregnancy",
+      "Vomiting blood or passing blood with severe pain"
+    ],
+    "urgentFlags": [
+      "Pain that started around the belly button and moved to the lower right side",
+      "Pain that is worse when you move, cough, walk or press on the area",
+      "Pain with a high temperature, loss of appetite, nausea or vomiting",
+      "Pain that is getting steadily worse over a few hours"
+    ],
+    "commonCauses": [
+      {
+        "title": "Trapped wind or constipation",
+        "detail": "Cramping pain that comes and goes and often eases after passing wind or poo."
+      },
+      {
+        "title": "Appendicitis",
+        "detail": "Pain often starts near the belly button, moves to the lower right side and gets worse over hours; it usually needs treatment in hospital."
+      },
+      {
+        "title": "Ovary or period-related pain",
+        "detail": "Pain mid-cycle (ovulation) or from an ovarian cyst can be felt on one side."
+      },
+      {
+        "title": "Gastroenteritis or a urine infection",
+        "detail": "Stomach bugs and urine or kidney infections can cause pain that is felt on the right side."
+      }
+    ],
+    "selfCare": [
+      "Rest and sip fluids while you arrange to be checked",
+      "Paracetamol can be used for pain, following the pack instructions",
+      "Note when the pain started, where it began and whether it has moved, to tell the doctor"
+    ],
+    "avoid": [
+      "Waiting to see if suspected appendicitis settles on its own",
+      "Laxatives, which can be harmful if this is appendicitis",
+      "Putting a hot water bottle on the area if appendicitis is possible"
+    ],
+    "seeDoctorIf": [
+      "Mild pain on the right side keeps coming back",
+      "You have one-sided pelvic pain around the same time each month",
+      "You have mild pain along with changes in your bowel habits"
+    ],
+    "selfCareMaxDays": 1,
+    "sources": [
+      {
+        "label": "NHS: Appendicitis",
+        "url": "https://www.nhs.uk/conditions/appendicitis/"
+      },
+      {
+        "label": "NHS: Stomach ache",
+        "url": "https://www.nhs.uk/conditions/stomach-ache/"
+      }
+    ]
+  },
+  {
+    "id": "upper-right-abdominal-pain",
+    "name": "Pain under the right ribs",
+    "aliases": [
+      "pain under right rib cage",
+      "upper right stomach pain",
+      "gallbladder pain",
+      "pain after fatty food",
+      "right upper belly pain"
+    ],
+    "bodyArea": "Stomach & digestion",
+    "summary": "Pain under the right ribs, especially after a fatty meal, is often linked to the gallbladder. Episodes that come and go should be checked by a doctor.",
+    "redFlags": [
+      "Severe pain with yellowing of the skin or the whites of the eyes and a high temperature or shivering",
+      "Pain with fainting, confusion or a very fast heartbeat",
+      "Vomiting blood or material that looks like coffee grounds"
+    ],
+    "urgentFlags": [
+      "Pain that lasts longer than 8 hours",
+      "Pain with a high temperature or feeling hot and shivery",
+      "Yellowing of the skin or the whites of the eyes",
+      "Dark urine, pale poo or itchy skin with the pain",
+      "Pain so bad you cannot find a comfortable position"
+    ],
+    "commonCauses": [
+      {
+        "title": "Gallstones",
+        "detail": "Sudden pain under the right ribs or in the centre of the upper stomach, often after eating, that can last from minutes to hours."
+      },
+      {
+        "title": "Indigestion or trapped wind",
+        "detail": "Discomfort in the upper stomach, often after eating or with bloating."
+      },
+      {
+        "title": "Muscle strain",
+        "detail": "Pain that is worse with movement or when pressing on the ribs."
+      },
+      {
+        "title": "Liver problems",
+        "detail": "Less commonly, inflammation of the liver (hepatitis) can cause discomfort in this area."
+      }
+    ],
+    "selfCare": [
+      "Eat smaller meals and cut down on fatty food",
+      "Paracetamol can help with pain, following the pack instructions",
+      "Keep a note of when pain happens and what you ate beforehand"
+    ],
+    "avoid": [
+      "Gallbladder 'flushes' or 'liver cleanses', which are unproven and can cause harm",
+      "Drinking alcohol while you have unexplained pain in this area"
+    ],
+    "seeDoctorIf": [
+      "You have had one or more episodes of pain after eating that have now settled",
+      "You have ongoing indigestion or discomfort in the upper stomach",
+      "You have lost weight without trying"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {
+        "label": "NHS: Gallstones",
+        "url": "https://www.nhs.uk/conditions/gallstones/"
+      },
+      {
+        "label": "MedlinePlus: Gallstones",
+        "url": "https://medlineplus.gov/gallstones.html"
+      }
+    ]
+  },
+  {
+    "id": "heartburn",
+    "name": "Heartburn and acid reflux",
+    "aliases": [
+      "acid reflux",
+      "burning in chest after eating",
+      "acid in throat",
+      "sour taste in mouth",
+      "reflux",
+      "GERD",
+      "GORD"
+    ],
+    "bodyArea": "Stomach & digestion",
+    "summary": "Heartburn is a burning feeling in the chest caused by stomach acid travelling up towards the throat. It is very common and often improves with diet and lifestyle changes.",
+    "redFlags": [
+      "Chest pain that spreads to the arm, neck, jaw or back, or comes with breathlessness, sweating or feeling sick",
+      "Vomiting blood or material that looks like coffee grounds",
+      "Black, sticky, tar-like poo"
+    ],
+    "urgentFlags": [
+      "Food getting stuck when you swallow or pain when swallowing",
+      "Being sick repeatedly",
+      "Chest discomfort that you are unsure is heartburn"
+    ],
+    "commonCauses": [
+      {
+        "title": "Food and drink triggers",
+        "detail": "Coffee, alcohol, chocolate, fatty or spicy food and large meals can all bring on symptoms."
+      },
+      {
+        "title": "Being overweight",
+        "detail": "Extra pressure on the stomach makes acid more likely to come up."
+      },
+      {
+        "title": "Pregnancy",
+        "detail": "Hormone changes and the growing baby often cause heartburn, especially later in pregnancy."
+      },
+      {
+        "title": "Hiatus hernia",
+        "detail": "Part of the stomach moves up into the chest, which can make reflux worse."
+      },
+      {
+        "title": "Smoking and some medicines",
+        "detail": "Smoking and anti-inflammatory painkillers such as ibuprofen can make reflux worse."
+      }
+    ],
+    "selfCare": [
+      "Eat smaller, more frequent meals and avoid eating within 3 to 4 hours of bedtime",
+      "Raise the head of your bed by 10 to 20cm so your chest and head are above your waist",
+      "Cut down on foods and drinks that trigger your symptoms",
+      "Lose weight if you are overweight, and stop smoking",
+      "Ask a pharmacist about over-the-counter antacids or acid-reducing medicines, following the pack instructions"
+    ],
+    "avoid": [
+      "Lying down straight after eating",
+      "Tight clothing around the waist",
+      "Drinking milk to 'soothe' heartburn, which gives only brief relief",
+      "Baking soda remedies, which can be harmful if used often"
+    ],
+    "seeDoctorIf": [
+      "You have heartburn most days for 3 weeks or more",
+      "Pharmacy medicines are not helping",
+      "You are 55 or over with new heartburn",
+      "You have lost weight without trying",
+      "You have heartburn and a feeling of a lump in your throat"
+    ],
+    "selfCareMaxDays": 21,
+    "sources": [
+      {
+        "label": "NHS: Heartburn and acid reflux",
+        "url": "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/"
+      },
+      {
+        "label": "MedlinePlus: GERD",
+        "url": "https://medlineplus.gov/gerd.html"
+      }
+    ]
+  },
+  {
+    "id": "indigestion",
+    "name": "Indigestion",
+    "aliases": [
+      "upset stomach",
+      "dyspepsia",
+      "feeling full after eating",
+      "stomach discomfort after meals",
+      "bloated after eating",
+      "acid stomach"
+    ],
+    "bodyArea": "Stomach & digestion",
+    "summary": "Indigestion is discomfort or a feeling of fullness in the upper stomach, often after eating. It is common and usually mild.",
+    "redFlags": [
+      "Vomiting blood or material that looks like coffee grounds",
+      "Black, sticky, tar-like poo",
+      "Sudden severe stomach pain",
+      "Chest pain that spreads to the arm, neck, jaw or back, or comes with breathlessness or sweating"
+    ],
+    "urgentFlags": [
+      "Difficulty swallowing or food getting stuck",
+      "Being sick repeatedly",
+      "Indigestion with feeling very tired and looking pale, which can be a sign of bleeding"
+    ],
+    "commonCauses": [
+      {
+        "title": "Eating habits",
+        "detail": "Large, rich or fatty meals, eating quickly or eating late at night."
+      },
+      {
+        "title": "Alcohol, coffee and smoking",
+        "detail": "These can irritate the stomach lining."
+      },
+      {
+        "title": "Medicines",
+        "detail": "Anti-inflammatory painkillers such as ibuprofen and aspirin are a common cause."
+      },
+      {
+        "title": "Stomach ulcer or infection",
+        "detail": "A stomach ulcer or H. pylori infection can cause ongoing indigestion."
+      }
+    ],
+    "selfCare": [
+      "Eat smaller meals and slow down when eating",
+      "Cut down on alcohol, coffee, fatty and spicy food",
+      "Stop smoking",
+      "Ask a pharmacist about antacids, following the pack instructions"
+    ],
+    "avoid": [
+      "Taking anti-inflammatory painkillers on an empty stomach",
+      "Eating within 3 to 4 hours of going to bed",
+      "Relying on antacids for weeks without getting checked"
+    ],
+    "seeDoctorIf": [
+      "You keep getting indigestion",
+      "You are 55 or over and have new indigestion",
+      "You have lost weight without trying",
+      "Pharmacy medicines have not helped after 2 to 3 weeks"
+    ],
+    "selfCareMaxDays": 21,
+    "sources": [
+      {
+        "label": "NHS: Indigestion",
+        "url": "https://www.nhs.uk/conditions/indigestion/"
+      },
+      {
+        "label": "MedlinePlus: Indigestion",
+        "url": "https://medlineplus.gov/indigestion.html"
+      }
+    ]
+  },
+  {
+    "id": "nausea",
+    "name": "Feeling sick (nausea)",
+    "aliases": [
+      "feeling sick",
+      "nauseous",
+      "queasy",
+      "want to throw up",
+      "sick to my stomach",
+      "nausea"
+    ],
+    "bodyArea": "Stomach & digestion",
+    "summary": "Feeling sick is common and usually caused by a stomach bug, motion sickness, pregnancy or medicines. It usually passes within a few days.",
+    "redFlags": [
+      "Chest pain, or pain spreading to the arm, jaw or back, with nausea",
+      "A sudden, very severe headache with nausea",
+      "A stiff neck, sensitivity to light or a rash that does not fade when a glass is pressed on it",
+      "Severe stomach pain",
+      "Vomiting blood or material that looks like coffee grounds",
+      "Confusion or extreme drowsiness"
+    ],
+    "urgentFlags": [
+      "Being unable to keep fluids down for more than a day",
+      "Signs of dehydration such as passing little or no urine, or dark urine",
+      "Nausea in pregnancy that stops you keeping food or drink down",
+      "Nausea after a head injury"
+    ],
+    "commonCauses": [
+      {
+        "title": "Stomach bug or food poisoning",
+        "detail": "Often comes with vomiting or diarrhoea and settles within a few days."
+      },
+      {
+        "title": "Pregnancy",
+        "detail": "Morning sickness is common in the first 3 months but can happen at any time of day."
+      },
+      {
+        "title": "Motion sickness",
+        "detail": "Travelling by car, boat or plane."
+      },
+      {
+        "title": "Medicines, alcohol or migraine",
+        "detail": "Many medicines, a hangover or a migraine can make you feel sick."
+      },
+      {
+        "title": "Indigestion or reflux",
+        "detail": "Discomfort in the upper stomach with feeling sick, especially after eating."
+      }
+    ],
+    "selfCare": [
+      "Get plenty of fresh air and rest",
+      "Sip small amounts of cold water or other fluids often",
+      "Eat small, plain meals such as crackers or toast when you feel able",
+      "Ginger may help some people with mild nausea",
+      "Ask a pharmacist about medicines for motion sickness if travel is the trigger"
+    ],
+    "avoid": [
+      "Large, greasy or strongly flavoured meals",
+      "Lying down straight after eating",
+      "Alcohol"
+    ],
+    "seeDoctorIf": [
+      "You keep feeling sick for more than a few days",
+      "You have also lost weight without trying",
+      "You think a medicine is causing it",
+      "You keep feeling sick and might be pregnant"
+    ],
+    "selfCareMaxDays": 7,
+    "sources": [
+      {
+        "label": "NHS: Feeling sick (nausea)",
+        "url": "https://www.nhs.uk/conditions/feeling-sick-nausea/"
+      },
+      {
+        "label": "MedlinePlus: Nausea and vomiting",
+        "url": "https://medlineplus.gov/nauseaandvomiting.html"
+      }
+    ]
+  },
+  {
+    "id": "vomiting",
+    "name": "Vomiting in adults",
+    "aliases": [
+      "being sick",
+      "throwing up",
+      "puking",
+      "can't stop vomiting",
+      "sick all night",
+      "stomach bug"
+    ],
+    "bodyArea": "Stomach & digestion",
+    "summary": "Vomiting is usually caused by a stomach bug or food poisoning and stops within 1 to 2 days. The main risk is losing too much fluid.",
+    "redFlags": [
+      "Vomiting blood or material that looks like coffee grounds",
+      "Green vomit, or vomit that smells like poo",
+      "Sudden, severe stomach pain or a hard, swollen stomach",
+      "A stiff neck with pain when looking at bright lights",
+      "A sudden, severe headache",
+      "Confusion, extreme drowsiness or fainting",
+      "Signs of sepsis such as cold, blotchy or blue-tinged skin, fast breathing or a rash that does not fade when a glass is pressed on it"
+    ],
+    "urgentFlags": [
+      "Being unable to keep fluids down for 24 hours or more",
+      "Signs of dehydration such as dizziness, very dark urine or not peeing for 8 hours or more",
+      "Vomiting with bloody diarrhoea",
+      "Vomiting for more than 2 days",
+      "Vomiting with a weakened immune system, diabetes or kidney disease, or during pregnancy"
+    ],
+    "commonCauses": [
+      {
+        "title": "Gastroenteritis (stomach bug)",
+        "detail": "Often with diarrhoea; usually caused by a virus such as norovirus."
+      },
+      {
+        "title": "Food poisoning",
+        "detail": "Starts within hours to days of eating contaminated food."
+      },
+      {
+        "title": "Alcohol or medicines",
+        "detail": "Drinking too much or side effects of some medicines."
+      },
+      {
+        "title": "Migraine or motion sickness",
+        "detail": "Vomiting can accompany a migraine or travel sickness."
+      },
+      {
+        "title": "Pregnancy",
+        "detail": "Vomiting is common in early pregnancy."
+      }
+    ],
+    "selfCare": [
+      "Stay at home and rest",
+      "Take small, frequent sips of water; oral rehydration solution from a pharmacy can help replace lost salts",
+      "Eat when you feel able, starting with plain foods",
+      "Wash your hands often and clean surfaces to avoid spreading a stomach bug",
+      "Stay off work or school until 48 hours after the last episode of vomiting or diarrhoea"
+    ],
+    "avoid": [
+      "Fruit juice and fizzy drinks, which can make diarrhoea worse",
+      "Preparing food for others while unwell",
+      "Alcohol"
+    ],
+    "seeDoctorIf": [
+      "Vomiting keeps coming back over several weeks",
+      "You have lost weight without trying",
+      "You think a medicine is causing it"
+    ],
+    "selfCareMaxDays": 2,
+    "sources": [
+      {
+        "label": "NHS: Diarrhoea and vomiting",
+        "url": "https://www.nhs.uk/conditions/diarrhoea-and-vomiting/"
+      },
+      {
+        "label": "MedlinePlus: Nausea and vomiting",
+        "url": "https://medlineplus.gov/nauseaandvomiting.html"
+      }
+    ]
+  },
+  {
+    "id": "diarrhoea",
+    "name": "Diarrhoea",
+    "aliases": [
+      "diarrhea",
+      "runny poo",
+      "loose stools",
+      "watery poop",
+      "the runs",
+      "travellers diarrhoea"
+    ],
+    "bodyArea": "Stomach & digestion",
+    "summary": "Diarrhoea is loose, watery poo, usually caused by a stomach bug. In adults it normally gets better within 5 to 7 days.",
+    "redFlags": [
+      "Vomiting blood or material that looks like coffee grounds",
+      "Bleeding from the bottom that is heavy or will not stop",
+      "Severe stomach pain or a hard, swollen stomach",
+      "Confusion, fainting or extreme drowsiness",
+      "Signs of sepsis such as cold, blotchy or blue-tinged skin, fast breathing or a rash that does not fade when a glass is pressed on it"
+    ],
+    "urgentFlags": [
+      "Bloody or black poo",
+      "Signs of dehydration such as dizziness, very dark urine or not peeing for 8 hours or more",
+      "Being unable to keep fluids down",
+      "Diarrhoea after recent travel abroad or a recent hospital stay or course of antibiotics",
+      "Diarrhoea with a weakened immune system, kidney disease or diabetes"
+    ],
+    "commonCauses": [
+      {
+        "title": "Stomach bug (gastroenteritis)",
+        "detail": "The most common cause; often with vomiting, cramps and a mild temperature."
+      },
+      {
+        "title": "Food poisoning",
+        "detail": "Starts within hours to days of eating contaminated food."
+      },
+      {
+        "title": "Medicines",
+        "detail": "Antibiotics and several other medicines can cause loose poo."
+      },
+      {
+        "title": "Food intolerance or irritable bowel syndrome",
+        "detail": "Diarrhoea that comes and goes may be linked to certain foods or IBS."
+      },
+      {
+        "title": "Inflammatory bowel disease",
+        "detail": "Less commonly, ongoing diarrhoea with blood or mucus can be due to Crohn's disease or ulcerative colitis."
+      }
+    ],
+    "selfCare": [
+      "Drink plenty of fluids such as water in small sips; oral rehydration solution from a pharmacy helps replace lost salts",
+      "Eat when you feel able; plain foods are usually easiest",
+      "Wash your hands with soap and water after the toilet and before preparing food",
+      "Stay off work or school until 48 hours after the last episode",
+      "A pharmacist can advise if anti-diarrhoea medicine is suitable for you"
+    ],
+    "avoid": [
+      "Fruit juice and fizzy drinks, which can make diarrhoea worse",
+      "Anti-diarrhoea medicine if you have a high temperature or blood in your poo, unless a doctor advises it",
+      "Swimming pools for 2 weeks after the diarrhoea stops"
+    ],
+    "seeDoctorIf": [
+      "Diarrhoea lasts more than 7 days",
+      "Diarrhoea keeps coming back",
+      "You have lost weight without trying",
+      "Your bowel habits have changed for 3 weeks or more"
+    ],
+    "selfCareMaxDays": 7,
+    "sources": [
+      {
+        "label": "NHS: Diarrhoea and vomiting",
+        "url": "https://www.nhs.uk/conditions/diarrhoea-and-vomiting/"
+      },
+      {
+        "label": "MedlinePlus: Diarrhea",
+        "url": "https://medlineplus.gov/diarrhea.html"
+      }
+    ]
+  },
+  {
+    "id": "constipation",
+    "name": "Constipation",
+    "aliases": [
+      "can't poo",
+      "hard stools",
+      "not pooping",
+      "blocked up",
+      "straining on the toilet",
+      "bunged up"
+    ],
+    "bodyArea": "Stomach & digestion",
+    "summary": "Constipation means pooing less often than usual or having hard, difficult-to-pass poo. It is common and usually improves with more fibre, fluids and activity.",
+    "redFlags": [
+      "Not passing any poo or wind at all, with a swollen stomach and vomiting",
+      "Severe stomach pain",
+      "Heavy bleeding from the bottom"
+    ],
+    "urgentFlags": [
+      "Constipation with a high temperature and feeling very unwell",
+      "Blood in your poo",
+      "Constipation with severe tiredness and weight loss"
+    ],
+    "commonCauses": [
+      {
+        "title": "Not enough fibre or fluid",
+        "detail": "A diet low in fruit, vegetables and wholegrains, or not drinking enough."
+      },
+      {
+        "title": "Lack of activity",
+        "detail": "Sitting or lying down for long periods slows the bowel."
+      },
+      {
+        "title": "Medicines",
+        "detail": "Strong painkillers, iron tablets and some other medicines commonly cause constipation."
+      },
+      {
+        "title": "Pregnancy or changes in routine",
+        "detail": "Hormone changes, travel or ignoring the urge to go."
+      },
+      {
+        "title": "Irritable bowel syndrome",
+        "detail": "Constipation that alternates with diarrhoea and bloating."
+      }
+    ],
+    "selfCare": [
+      "Gradually add more fibre such as fruit, vegetables, beans and wholegrains",
+      "Drink plenty of fluids throughout the day",
+      "Be more active, even a daily walk can help",
+      "Go to the toilet when you feel the urge and resting your feet on a low stool can make pooing easier",
+      "Ask a pharmacist about laxatives if these changes do not help, following the pack instructions"
+    ],
+    "avoid": [
+      "Using laxatives every day for long periods without advice",
+      "Colon cleansing or 'detox' products, which are unproven",
+      "Ignoring the urge to poo"
+    ],
+    "seeDoctorIf": [
+      "You are not getting better with self-care",
+      "You are often constipated",
+      "You have a persistent change in bowel habit lasting 3 weeks or more",
+      "You have lost weight without trying, or feel tired all the time",
+      "You need to take laxatives regularly"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {
+        "label": "NHS: Constipation",
+        "url": "https://www.nhs.uk/conditions/constipation/"
+      },
+      {
+        "label": "MedlinePlus: Constipation",
+        "url": "https://medlineplus.gov/constipation.html"
+      }
+    ]
+  },
+  {
+    "id": "bloating",
+    "name": "Bloating",
+    "aliases": [
+      "bloated stomach",
+      "swollen belly",
+      "distended abdomen",
+      "puffy tummy",
+      "stomach feels full and tight"
+    ],
+    "bodyArea": "Stomach & digestion",
+    "summary": "Bloating is when your stomach feels full, tight or swollen. It is usually caused by wind or diet and often eases on its own.",
+    "redFlags": [
+      "A swollen stomach with severe pain and being unable to pass poo or wind",
+      "Bloating with vomiting that will not stop",
+      "Vomiting blood or passing black, tar-like poo"
+    ],
+    "urgentFlags": [
+      "A stomach that is swollen and getting bigger quickly",
+      "Bloating with a high temperature or feeling very unwell"
+    ],
+    "commonCauses": [
+      {
+        "title": "Wind and diet",
+        "detail": "Beans, onions, fizzy drinks and swallowing air can all cause bloating."
+      },
+      {
+        "title": "Constipation",
+        "detail": "Hard or infrequent poo often comes with bloating."
+      },
+      {
+        "title": "Irritable bowel syndrome",
+        "detail": "Bloating that comes and goes with cramps and changes in bowel habit."
+      },
+      {
+        "title": "Food intolerance",
+        "detail": "For example lactose (milk sugar) or wheat intolerance."
+      },
+      {
+        "title": "Ovarian problems",
+        "detail": "Rarely, bloating that is there most days can be a sign of ovarian cancer."
+      }
+    ],
+    "selfCare": [
+      "Exercise regularly to help your bowel move",
+      "Eat smaller meals and eat slowly",
+      "Cut down on fizzy drinks, chewing gum and foods that give you wind",
+      "Keep a food diary to spot triggers",
+      "Ask a pharmacist about remedies for wind or constipation"
+    ],
+    "avoid": [
+      "Cutting out whole food groups without advice",
+      "Unproven 'detox' teas and supplements"
+    ],
+    "seeDoctorIf": [
+      "You have been bloated most days for 3 weeks or more",
+      "You have bloating that keeps coming back",
+      "You also have weight loss, blood in your poo or a change in bowel habit",
+      "You are over 50 and have new, persistent bloating"
+    ],
+    "selfCareMaxDays": 21,
+    "sources": [
+      {
+        "label": "NHS: Bloating",
+        "url": "https://www.nhs.uk/conditions/bloating/"
+      },
+      {
+        "label": "NHS: Ovarian cancer symptoms",
+        "url": "https://www.nhs.uk/conditions/ovarian-cancer/symptoms/"
+      }
+    ]
+  },
+  {
+    "id": "excess-wind",
+    "name": "Farting and burping a lot",
+    "aliases": [
+      "farting",
+      "passing wind",
+      "flatulence",
+      "gas",
+      "burping a lot",
+      "belching",
+      "trapped wind"
+    ],
+    "bodyArea": "Stomach & digestion",
+    "summary": "Passing wind and burping are normal, but some foods and habits can make them happen more often. Changes to diet and eating habits usually help.",
+    "redFlags": [
+      "Not passing any poo or wind at all, with a swollen stomach and vomiting",
+      "Severe stomach pain"
+    ],
+    "urgentFlags": [
+      "Wind with blood in your poo",
+      "Wind with a high temperature and diarrhoea that is getting worse"
+    ],
+    "commonCauses": [
+      {
+        "title": "Diet",
+        "detail": "Beans, lentils, cabbage, onions, dried fruit and fizzy drinks produce more gas."
+      },
+      {
+        "title": "Swallowing air",
+        "detail": "Eating quickly, chewing gum and smoking can make you swallow air."
+      },
+      {
+        "title": "Constipation or irritable bowel syndrome",
+        "detail": "Both commonly cause trapped wind and bloating."
+      },
+      {
+        "title": "Food intolerance",
+        "detail": "For example lactose intolerance or coeliac disease."
+      }
+    ],
+    "selfCare": [
+      "Eat smaller meals slowly and chew with your mouth closed",
+      "Cut down on foods that give you wind",
+      "Exercise regularly to help your digestion",
+      "Ask a pharmacist about remedies such as charcoal tablets or simeticone"
+    ],
+    "avoid": [
+      "Fizzy drinks, chewing gum and sucking sweets",
+      "Smoking"
+    ],
+    "seeDoctorIf": [
+      "Changes to your diet have not helped",
+      "You also have ongoing stomach pain, bloating or diarrhoea",
+      "You have lost weight without trying or noticed blood in your poo"
+    ],
+    "selfCareMaxDays": 21,
+    "sources": [
+      {
+        "label": "NHS: Farting (flatulence)",
+        "url": "https://www.nhs.uk/conditions/flatulence/"
+      },
+      {
+        "label": "MedlinePlus: Gas",
+        "url": "https://medlineplus.gov/gas.html"
+      }
+    ]
+  },
+  {
+    "id": "rectal-bleeding",
+    "name": "Bleeding from the bottom",
+    "aliases": [
+      "blood in stool",
+      "blood in poo",
+      "rectal bleeding",
+      "blood on toilet paper",
+      "bloody poop",
+      "bleeding when I poo"
+    ],
+    "bodyArea": "Stomach & digestion",
+    "summary": "Bright red blood on toilet paper is often caused by piles or a small tear, but blood in your poo should always be checked by a doctor.",
+    "redFlags": [
+      "Bleeding that is heavy or will not stop",
+      "Large amounts of blood or blood clots in the toilet",
+      "Bleeding with dizziness, fainting, a fast heartbeat or cold, clammy skin",
+      "Black, sticky, tar-like poo with feeling faint or unwell",
+      "Bleeding with severe stomach pain"
+    ],
+    "urgentFlags": [
+      "Black or dark red poo",
+      "Bloody diarrhoea, especially with a high temperature",
+      "Bleeding that has lasted more than a day or two",
+      "Bleeding in a child"
+    ],
+    "commonCauses": [
+      {
+        "title": "Piles (haemorrhoids)",
+        "detail": "Bright red blood after pooing, sometimes with itching or a lump around the bottom."
+      },
+      {
+        "title": "Anal fissure",
+        "detail": "A small tear in the skin of the bottom, causing sharp pain when pooing and bright red blood."
+      },
+      {
+        "title": "Infection",
+        "detail": "Some stomach bugs cause bloody diarrhoea."
+      },
+      {
+        "title": "Inflammatory bowel disease",
+        "detail": "Crohn's disease or ulcerative colitis can cause blood and mucus with diarrhoea."
+      },
+      {
+        "title": "Bowel polyps or cancer",
+        "detail": "Less common, but the reason any blood in poo should be checked, especially if you are older or your bowel habits have changed."
+      }
+    ],
+    "selfCare": [
+      "Eat more fibre and drink plenty of fluids to keep poo soft",
+      "Do not strain on the toilet",
+      "Gently pat the area clean with moist toilet paper",
+      "Ask a pharmacist about creams for piles if that is the likely cause, while waiting to see a doctor"
+    ],
+    "avoid": [
+      "Assuming bleeding is piles without being checked",
+      "Pushing or straining when pooing",
+      "Ignoring bleeding because it has stopped"
+    ],
+    "seeDoctorIf": [
+      "You have any blood in your poo, even once, that has not been checked",
+      "You have a change in bowel habits lasting 3 weeks or more",
+      "You have lost weight without trying or feel very tired",
+      "You have a lump in or around your bottom"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {
+        "label": "NHS: Bleeding from the bottom",
+        "url": "https://www.nhs.uk/conditions/bleeding-from-the-bottom-rectal-bleeding/"
+      },
+      {
+        "label": "NHS: Piles (haemorrhoids)",
+        "url": "https://www.nhs.uk/conditions/piles-haemorrhoids/"
+      },
+      {
+        "label": "MedlinePlus: Rectal disorders",
+        "url": "https://medlineplus.gov/rectaldisorders.html"
+      }
+    ]
+  },
+  {
+    "id": "black-stools",
+    "name": "Black or very dark poo",
+    "aliases": [
+      "black poop",
+      "tarry stools",
+      "dark stool",
+      "black sticky poo",
+      "melena"
+    ],
+    "bodyArea": "Stomach & digestion",
+    "summary": "Iron tablets, bismuth stomach medicines and some foods can turn poo black. Black, sticky, tar-like poo can also mean bleeding in the stomach and must be checked quickly.",
+    "redFlags": [
+      "Black, sticky, tar-like poo with dizziness, fainting, a fast heartbeat or cold, clammy skin",
+      "Vomiting blood or material that looks like coffee grounds",
+      "Black poo with severe stomach pain"
+    ],
+    "urgentFlags": [
+      "Black, sticky or tar-like poo that is not explained by iron tablets, bismuth medicines or food",
+      "Black poo with stomach pain or indigestion",
+      "Black poo while taking blood thinners or anti-inflammatory painkillers"
+    ],
+    "commonCauses": [
+      {
+        "title": "Iron tablets or bismuth medicines",
+        "detail": "These commonly turn poo dark green or black and are harmless in that case."
+      },
+      {
+        "title": "Foods",
+        "detail": "Black liquorice, blueberries and beetroot can darken poo."
+      },
+      {
+        "title": "Bleeding in the stomach or upper bowel",
+        "detail": "A stomach ulcer or inflamed stomach lining can bleed, giving sticky, tar-like black poo."
+      }
+    ],
+    "selfCare": [
+      "Check whether you have recently started iron tablets, bismuth medicines or eaten dark foods",
+      "If none of these explain it, get medical advice the same day",
+      "Keep a note of any medicines you take, including painkillers, to tell the doctor"
+    ],
+    "avoid": [
+      "Taking anti-inflammatory painkillers such as ibuprofen or aspirin until you have been checked",
+      "Waiting to see if unexplained black, sticky poo goes away",
+      "Alcohol until you have been checked"
+    ],
+    "seeDoctorIf": [
+      "Your poo stays dark and you are unsure why",
+      "You feel tired and look pale",
+      "You have ongoing indigestion or stomach pain"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {
+        "label": "NHS: Stomach ulcer",
+        "url": "https://www.nhs.uk/conditions/stomach-ulcer/"
+      },
+      {
+        "label": "NHS: Bleeding from the bottom",
+        "url": "https://www.nhs.uk/conditions/bleeding-from-the-bottom-rectal-bleeding/"
+      }
+    ]
+  },
+  {
+    "id": "change-in-bowel-habits",
+    "name": "Change in bowel habits",
+    "aliases": [
+      "bowel habits changed",
+      "pooing more often",
+      "looser poo for weeks",
+      "change in stools",
+      "mucus in poo",
+      "thin stools"
+    ],
+    "bodyArea": "Stomach & digestion",
+    "summary": "A change in how often you poo or what it looks like that lasts for weeks is worth getting checked. Most causes are not serious, but it can be an early sign of bowel cancer.",
+    "redFlags": [
+      "Heavy bleeding from the bottom",
+      "Not passing any poo or wind at all, with a swollen stomach and vomiting",
+      "Severe stomach pain"
+    ],
+    "urgentFlags": [
+      "Black, sticky, tar-like poo",
+      "Bloody diarrhoea with a high temperature",
+      "Feeling very unwell with ongoing diarrhoea"
+    ],
+    "commonCauses": [
+      {
+        "title": "Diet or lifestyle changes",
+        "detail": "Changes in food, fluids, activity or stress can alter bowel habits for a while."
+      },
+      {
+        "title": "Irritable bowel syndrome",
+        "detail": "Diarrhoea, constipation or both, with cramps and bloating that come and go."
+      },
+      {
+        "title": "Medicines",
+        "detail": "New medicines can cause constipation or diarrhoea."
+      },
+      {
+        "title": "Coeliac disease or inflammatory bowel disease",
+        "detail": "Ongoing diarrhoea, weight loss or blood and mucus need tests."
+      },
+      {
+        "title": "Bowel cancer",
+        "detail": "Less common, but the reason a persistent change, especially with blood or weight loss, should be checked."
+      }
+    ],
+    "selfCare": [
+      "Keep a diary of your bowel habits, diet and any symptoms to show the doctor",
+      "Eat a balanced diet with plenty of fibre and drink enough fluids",
+      "Take part in bowel cancer screening when invited"
+    ],
+    "avoid": [
+      "Waiting months to see if a persistent change settles",
+      "Self-treating with laxatives or anti-diarrhoea medicines for weeks without advice"
+    ],
+    "seeDoctorIf": [
+      "A change in bowel habits has lasted 3 weeks or more",
+      "You have blood in your poo",
+      "You have lost weight without trying",
+      "You have a lump in your stomach or bottom, or feel very tired for no reason"
+    ],
+    "selfCareMaxDays": 21,
+    "sources": [
+      {
+        "label": "NHS: Bowel cancer symptoms",
+        "url": "https://www.nhs.uk/conditions/bowel-cancer/symptoms/"
+      },
+      {
+        "label": "NHS: Irritable bowel syndrome (IBS)",
+        "url": "https://www.nhs.uk/conditions/irritable-bowel-syndrome-ibs/"
+      }
+    ]
+  },
+  {
+    "id": "itchy-bottom",
+    "name": "Itchy bottom",
+    "aliases": [
+      "itchy anus",
+      "itchy bum",
+      "anal itching",
+      "itching around bottom",
+      "itchy butt at night"
+    ],
+    "bodyArea": "Stomach & digestion",
+    "summary": "An itchy bottom is common and often caused by sweating, irritation from soaps or wiping, piles or threadworms. It usually improves with simple hygiene measures.",
+    "redFlags": [
+      "Heavy bleeding from the bottom that will not stop"
+    ],
+    "urgentFlags": [
+      "Itching with a painful, hot, swollen lump near the bottom and a high temperature",
+      "Bleeding from the bottom with a change in bowel habits"
+    ],
+    "commonCauses": [
+      {
+        "title": "Skin irritation",
+        "detail": "Sweating, scented soaps, wet wipes or wiping too hard."
+      },
+      {
+        "title": "Threadworms",
+        "detail": "Very common in children and families; itching is usually worse at night."
+      },
+      {
+        "title": "Piles or a small tear",
+        "detail": "Piles and anal fissures can cause itching as well as bleeding or pain."
+      },
+      {
+        "title": "Skin conditions or thrush",
+        "detail": "Eczema, psoriasis or a fungal infection can affect the skin around the bottom."
+      }
+    ],
+    "selfCare": [
+      "Wash the area with water and pat dry gently after pooing",
+      "Use plain, unperfumed soap and wear loose cotton underwear",
+      "Try not to scratch; keep nails short",
+      "Ask a pharmacist about treatment for threadworms or soothing creams if the cause seems clear"
+    ],
+    "avoid": [
+      "Scented soaps, bubble bath and wet wipes",
+      "Scratching, which damages the skin and makes itching worse",
+      "Using steroid creams for long periods without advice"
+    ],
+    "seeDoctorIf": [
+      "Itching has not improved after a few weeks of self-care",
+      "You have a lump in or around your bottom",
+      "You have bleeding or a change in bowel habits",
+      "It keeps coming back"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {
+        "url": "https://www.nhs.uk/conditions/threadworms/",
+        "label": "NHS — Threadworms"
+      },
+      {
+        "label": "NHS: Threadworms",
+        "url": "https://www.nhs.uk/conditions/threadworms/"
+      }
+    ]
+  },
+  {
+    "id": "anal-pain",
+    "name": "Pain or a lump in the bottom",
+    "aliases": [
+      "sore bottom",
+      "pain when pooing",
+      "lump near anus",
+      "painful bum",
+      "piles pain",
+      "sore anus"
+    ],
+    "bodyArea": "Stomach & digestion",
+    "summary": "Pain around the bottom is often due to piles or a small tear in the skin, and these usually get better with soft poo and simple care.",
+    "redFlags": [
+      "Heavy bleeding from the bottom that will not stop",
+      "Severe pain with a high temperature, feeling very unwell, and spreading redness around the bottom or groin"
+    ],
+    "urgentFlags": [
+      "A painful, hot, swollen lump near the bottom, especially with a high temperature",
+      "Severe pain that stops you sitting or walking",
+      "A pile that is very painful and has turned purple or cannot be pushed back"
+    ],
+    "commonCauses": [
+      {
+        "title": "Piles (haemorrhoids)",
+        "detail": "Swollen blood vessels in and around the bottom, causing lumps, itching and bleeding."
+      },
+      {
+        "title": "Anal fissure",
+        "detail": "A small tear causing sharp pain during and after pooing."
+      },
+      {
+        "title": "Anal abscess",
+        "detail": "A painful collection of pus near the bottom that usually needs draining."
+      },
+      {
+        "title": "Constipation",
+        "detail": "Straining with hard poo can cause or worsen pain."
+      }
+    ],
+    "selfCare": [
+      "Keep poo soft with more fibre and fluids",
+      "Do not strain and do not delay when you need to go",
+      "A warm bath can ease pain and itching",
+      "Paracetamol can help with pain, following the pack instructions",
+      "Ask a pharmacist about creams for piles"
+    ],
+    "avoid": [
+      "Straining on the toilet or sitting on it for long periods",
+      "Painkillers containing codeine, which can cause constipation",
+      "Scented wipes or soaps around the bottom"
+    ],
+    "seeDoctorIf": [
+      "Pain has not improved after 7 days of self-care",
+      "You have blood in your poo that has not been checked",
+      "You have a lump that does not go away",
+      "Your symptoms keep coming back"
+    ],
+    "selfCareMaxDays": 7,
+    "sources": [
+      {
+        "label": "NHS: Piles (haemorrhoids)",
+        "url": "https://www.nhs.uk/conditions/piles-haemorrhoids/"
+      },
+      {
+        "label": "NHS: Anal fissure",
+        "url": "https://www.nhs.uk/conditions/anal-fissure/"
+      }
+    ]
+  },
+  {
+    "id": "loss-of-appetite",
+    "name": "Loss of appetite",
+    "aliases": [
+      "not hungry",
+      "no appetite",
+      "can't eat",
+      "off my food",
+      "don't feel like eating"
+    ],
+    "bodyArea": "Stomach & digestion",
+    "summary": "Losing your appetite for a few days is common during an illness, with stress or after starting a medicine. If it lasts or comes with weight loss, it should be checked.",
+    "redFlags": [
+      "Not eating or drinking at all with confusion, extreme drowsiness or fainting",
+      "Vomiting blood or passing black, tar-like poo"
+    ],
+    "urgentFlags": [
+      "Not being able to keep fluids down",
+      "Signs of dehydration such as very dark urine or not peeing for 8 hours or more",
+      "Yellowing of the skin or the whites of the eyes"
+    ],
+    "commonCauses": [
+      {
+        "title": "Short-term illness",
+        "detail": "Infections such as colds, flu or stomach bugs often reduce appetite for a few days."
+      },
+      {
+        "title": "Stress, anxiety or low mood",
+        "detail": "Emotional strain commonly affects appetite."
+      },
+      {
+        "title": "Medicines",
+        "detail": "Many medicines can reduce appetite or change taste."
+      },
+      {
+        "title": "Longer-term conditions",
+        "detail": "Thyroid, liver, kidney or bowel problems and some cancers can cause ongoing appetite loss."
+      }
+    ],
+    "selfCare": [
+      "Eat small, frequent meals or snacks rather than large meals",
+      "Choose foods you enjoy and that are easy to eat",
+      "Keep drinking fluids even if you do not feel like eating",
+      "Light activity and fresh air can help stimulate appetite"
+    ],
+    "avoid": [
+      "Skipping fluids along with food",
+      "Appetite-boosting supplements sold online, which are often unproven"
+    ],
+    "seeDoctorIf": [
+      "Your appetite has not returned after 2 weeks",
+      "You are losing weight without trying",
+      "You also feel low, anxious or hopeless",
+      "You have other ongoing symptoms such as tiredness, pain or night sweats"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {
+        "label": "MedlinePlus: Appetite - decreased",
+        "url": "https://medlineplus.gov/ency/article/003121.htm"
+      }
+    ]
+  },
+  {
+    "id": "lump-in-groin",
+    "name": "Lump in the groin or tummy (hernia)",
+    "aliases": [
+      "hernia",
+      "groin lump",
+      "bulge in groin",
+      "lump near belly button",
+      "swelling in groin"
+    ],
+    "bodyArea": "Stomach & digestion",
+    "summary": "A soft lump in the groin or near the belly button that gets bigger when you cough or strain is often a hernia. Most are not urgent but should be checked.",
+    "redFlags": [
+      "A hernia or groin lump that is suddenly very painful, hard or cannot be pushed back",
+      "A painful lump with vomiting and being unable to poo or pass wind",
+      "A lump that has turned red, purple or dark"
+    ],
+    "urgentFlags": [
+      "A groin lump with a high temperature and tenderness",
+      "A lump that is becoming more painful",
+      "A painful lump or swelling in the scrotum"
+    ],
+    "commonCauses": [
+      {
+        "title": "Inguinal hernia",
+        "detail": "Part of the bowel or fat pushes through a weak spot in the groin; more common in men."
+      },
+      {
+        "title": "Umbilical or incisional hernia",
+        "detail": "A bulge at the belly button or near a previous operation scar."
+      },
+      {
+        "title": "Swollen lymph glands",
+        "detail": "Glands in the groin can swell with an infection in the leg, foot or genitals."
+      },
+      {
+        "title": "Skin lumps",
+        "detail": "Cysts or lipomas (fatty lumps) under the skin."
+      }
+    ],
+    "selfCare": [
+      "Avoid heavy lifting and straining until the lump has been checked",
+      "Keep poo soft to avoid straining",
+      "Note whether the lump disappears when you lie down"
+    ],
+    "avoid": [
+      "Forcing a lump back in if it is painful",
+      "Relying on a support belt instead of getting it checked"
+    ],
+    "seeDoctorIf": [
+      "You have a new lump in your groin or tummy",
+      "A lump gets bigger over time",
+      "A lump causes discomfort when you lift, cough or strain"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {
+        "label": "NHS: Hernia",
+        "url": "https://www.nhs.uk/conditions/hernia/"
+      },
+      {
+        "label": "MedlinePlus: Hernia",
+        "url": "https://medlineplus.gov/hernia.html"
+      }
+    ]
+  }
+]

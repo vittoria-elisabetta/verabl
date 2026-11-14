@@ -1,0 +1,17 @@
+[
+  {
+    "id": "5g-spreads-covid",
+    "category": "Infections & colds",
+    "myth": "5G mobile networks spread COVID-19 or cause its symptoms.",
+    "rating": "false",
+    "fact": "Viruses cannot travel on radio waves or mobile networks. COVID-19 is caused by the SARS-CoV-2 virus and spreads between people, mainly through droplets and tiny particles in the air when an infected person breathes, talks, coughs or sneezes.",
+    "explanation": "The rumour began in early 2020 because 5G was being rolled out at the same time as the pandemic, but COVID-19 also spread widely in countries with no 5G network at all. The radio waves used by mobile networks are low-energy and, at the levels allowed by international limits, have not been shown to harm health. Believing the myth can lead people to skip measures that really do reduce spread, such as vaccination, ventilation and staying home when ill.",
+    "keywords": ["5g", "5g towers", "5g masts", "mobile network", "phone masts", "radio waves", "covid", "coronavirus", "covid-19", "spreads covid", "causes covid"],
+    "sources": [
+      { "label": "WHO — Coronavirus disease (COVID-19) mythbusters", "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters" },
+      { "label": "WHO — Radiation: 5G mobile networks and health", "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-5g-mobile-networks-and-health" },
+      { "label": "WHO — Coronavirus disease (COVID-19) fact sheet", "url": "https://www.who.int/news-room/fact-sheets/detail/coronavirus-disease-(covid-19)" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]

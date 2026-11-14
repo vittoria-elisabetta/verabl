@@ -1,0 +1,797 @@
+[
+  {
+    "id": "stretching-prevents-injury",
+    "category": "Exercise & fitness",
+    "myth": "Stretching before exercise prevents injury.",
+    "rating": "misleading",
+    "fact": "Research has not shown that static stretching before exercise reliably prevents injuries. A gradual warm-up with light, movement-based activity is generally recommended instead.",
+    "explanation": "Stretching can improve flexibility over time, which is useful for some sports and for daily movement. Holding long static stretches right before explosive activity may briefly reduce power. Building up training load gradually matters more for injury prevention.",
+    "keywords": [
+      "stretching",
+      "stretch",
+      "warm up",
+      "warm-up",
+      "injury",
+      "prevent injury",
+      "before exercise",
+      "pulled muscle"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Exercise",
+        "url": "https://www.nhs.uk/live-well/exercise/"
+      },
+      {
+        "label": "Harvard Health Publishing",
+        "url": "https://www.health.harvard.edu/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "spot-reduction-fat",
+    "category": "Exercise & fitness",
+    "myth": "You can burn belly fat by doing lots of sit-ups or crunches.",
+    "rating": "false",
+    "fact": "You cannot choose where your body loses fat by exercising one area. Fat loss happens across the whole body through an overall energy deficit.",
+    "explanation": "Sit-ups strengthen the abdominal muscles, but they do not specifically burn the fat over them. A combination of regular activity, strength training and a balanced diet reduces overall body fat, including around the waist.",
+    "keywords": [
+      "spot reduction",
+      "belly fat",
+      "sit ups",
+      "crunches",
+      "lose fat",
+      "target fat",
+      "flat stomach",
+      "love handles"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Exercise",
+        "url": "https://www.nhs.uk/live-well/exercise/"
+      },
+      {
+        "label": "Harvard Health Publishing",
+        "url": "https://www.health.harvard.edu/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "no-pain-no-gain",
+    "category": "Exercise & fitness",
+    "myth": "No pain, no gain: exercise only works if it hurts.",
+    "rating": "false",
+    "fact": "Exercise does not need to be painful to be beneficial. Moderate activity that makes you breathe harder but still lets you talk brings major health benefits.",
+    "explanation": "Some muscle soreness a day or two after new or harder exercise is normal. Sharp pain, joint pain or chest pain during exercise is a signal to stop and get it checked.",
+    "keywords": [
+      "no pain no gain",
+      "pain",
+      "hurts",
+      "exercise",
+      "sore",
+      "push through pain",
+      "workout"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Physical activity (fact sheet)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
+      },
+      {
+        "label": "NHS — Exercise",
+        "url": "https://www.nhs.uk/live-well/exercise/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "weights-make-women-bulky",
+    "category": "Exercise & fitness",
+    "myth": "Lifting weights will make women bulky.",
+    "rating": "false",
+    "fact": "Strength training builds strength and bone health in women, but large increases in muscle size are difficult to achieve and usually need specific, intensive training and diet.",
+    "explanation": "Women typically have lower testosterone levels than men, which limits muscle growth. Guidelines recommend muscle-strengthening activities for all adults at least two days a week.",
+    "keywords": [
+      "weights",
+      "weight lifting",
+      "women",
+      "bulky",
+      "strength training",
+      "muscles",
+      "gym",
+      "toned"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Physical activity (fact sheet)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
+      },
+      {
+        "label": "NHS — Exercise",
+        "url": "https://www.nhs.uk/live-well/exercise/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "muscle-turns-into-fat",
+    "category": "Exercise & fitness",
+    "myth": "If you stop exercising, your muscle turns into fat.",
+    "rating": "false",
+    "fact": "Muscle and fat are different tissues and one cannot turn into the other. If you stop training, muscles can shrink, and if you eat more than you use, fat can increase.",
+    "explanation": "Both changes can happen at the same time, which makes it look as if muscle has become fat. Staying somewhat active helps keep muscle as you age.",
+    "keywords": [
+      "muscle",
+      "fat",
+      "turns into fat",
+      "stop exercising",
+      "stop training",
+      "convert",
+      "gym"
+    ],
+    "sources": [
+      {
+        "label": "Harvard Health Publishing",
+        "url": "https://www.health.harvard.edu/"
+      },
+      {
+        "label": "MedlinePlus — Exercise and physical fitness",
+        "url": "https://medlineplus.gov/exerciseandphysicalfitness.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "more-sweat-more-fat-burned",
+    "category": "Exercise & fitness",
+    "myth": "The more you sweat, the more fat you burn.",
+    "rating": "false",
+    "fact": "Sweating is how the body cools down; it is not a measure of fat burned. Weight lost through sweat is water that returns when you drink.",
+    "explanation": "How much you sweat depends on temperature, humidity, fitness and genetics. Sweat suits or exercising in heat to lose weight can cause dehydration and heat illness.",
+    "keywords": [
+      "sweat",
+      "sweating",
+      "burn fat",
+      "sauna suit",
+      "water weight",
+      "calories",
+      "hot yoga"
+    ],
+    "sources": [
+      {
+        "label": "Harvard Health Publishing",
+        "url": "https://www.health.harvard.edu/"
+      },
+      {
+        "label": "Mayo Clinic",
+        "url": "https://www.mayoclinic.org/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "wait-after-eating-to-swim",
+    "category": "Exercise & fitness",
+    "myth": "You must wait 30 minutes after eating before swimming or you'll drown from cramps.",
+    "rating": "false",
+    "fact": "There is no evidence that swimming after a meal causes drowning. A large meal might make vigorous exercise uncomfortable, but it is not dangerous.",
+    "explanation": "The rule was widely repeated but never backed by data. Real drowning risks include alcohol, lack of supervision for children and weak swimming ability.",
+    "keywords": [
+      "swimming",
+      "after eating",
+      "30 minutes",
+      "cramp",
+      "drown",
+      "meal",
+      "swim"
+    ],
+    "sources": [
+      {
+        "label": "Harvard Health Publishing",
+        "url": "https://www.health.harvard.edu/"
+      },
+      {
+        "label": "Mayo Clinic",
+        "url": "https://www.mayoclinic.org/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "running-ruins-knees",
+    "category": "Exercise & fitness",
+    "myth": "Running will wear out your knees and give you arthritis.",
+    "rating": "false",
+    "fact": "Studies of recreational runners have not found that running increases the risk of knee osteoarthritis, and it may even be linked to healthier knees.",
+    "explanation": "Previous knee injury, excess weight and genetics are bigger risk factors for knee arthritis. Increasing distance gradually and listening to pain helps prevent overuse injuries.",
+    "keywords": [
+      "running",
+      "knees",
+      "arthritis",
+      "joints",
+      "wear out",
+      "jogging",
+      "knee damage",
+      "marathon"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Osteoarthritis",
+        "url": "https://www.nhs.uk/conditions/osteoarthritis/"
+      },
+      {
+        "label": "Harvard Health Publishing",
+        "url": "https://www.health.harvard.edu/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "lactic-acid-causes-soreness",
+    "category": "Exercise & fitness",
+    "myth": "Lactic acid build-up causes the muscle soreness you feel days after a workout.",
+    "rating": "false",
+    "fact": "Lactate is cleared from muscles within an hour or so of exercise. Delayed soreness is thought to come from small amounts of muscle damage and the repair process.",
+    "explanation": "Delayed onset muscle soreness usually peaks one to three days after unfamiliar or harder exercise and fades on its own. It lessens as the body adapts.",
+    "keywords": [
+      "lactic acid",
+      "lactate",
+      "sore muscles",
+      "doms",
+      "muscle soreness",
+      "after workout",
+      "stiff"
+    ],
+    "sources": [
+      {
+        "label": "Harvard Health Publishing",
+        "url": "https://www.health.harvard.edu/"
+      },
+      {
+        "label": "Cleveland Clinic",
+        "url": "https://my.clevelandclinic.org/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "ten-thousand-steps-required",
+    "category": "Exercise & fitness",
+    "myth": "You need 10,000 steps a day to get any health benefit.",
+    "rating": "misleading",
+    "fact": "There is no single magic number. Health benefits start well below 10,000 steps, and adding steps from a low baseline gives the greatest gains.",
+    "explanation": "The 10,000 figure is widely said to have come from a pedometer marketing campaign rather than research. Guidelines focus on at least 150 minutes of moderate activity a week, which can include brisk walking.",
+    "keywords": [
+      "10000 steps",
+      "10,000 steps",
+      "steps",
+      "walking",
+      "pedometer",
+      "step count",
+      "daily steps"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Physical activity (fact sheet)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
+      },
+      {
+        "label": "Harvard Health Publishing",
+        "url": "https://www.health.harvard.edu/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "short-bouts-of-activity-count",
+    "category": "Exercise & fitness",
+    "myth": "Short bursts of activity throughout the day still count towards your exercise.",
+    "rating": "true",
+    "fact": "All physical activity counts. WHO guidance says that any amount of activity is better than none, and activity does not need to be done in long sessions.",
+    "explanation": "Taking the stairs, brisk walks and active chores add up. Adults are advised to aim for at least 150 minutes of moderate activity a week plus muscle strengthening on two days.",
+    "keywords": [
+      "short bursts",
+      "exercise",
+      "stairs",
+      "walking",
+      "activity",
+      "minutes",
+      "150 minutes",
+      "every bit counts"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Physical activity (fact sheet)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
+      },
+      {
+        "label": "NHS — Exercise",
+        "url": "https://www.nhs.uk/live-well/exercise/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "too-old-to-exercise",
+    "category": "Exercise & fitness",
+    "myth": "You're too old to start exercising.",
+    "rating": "false",
+    "fact": "It is never too late to benefit from physical activity. Older adults who become active improve strength, balance, mood and independence, and lower their risk of falls.",
+    "explanation": "Guidelines for older adults include balance and strength activities to prevent falls. People with health conditions can start gently and ask a health professional what is suitable.",
+    "keywords": [
+      "too old",
+      "older adults",
+      "elderly",
+      "start exercising",
+      "seniors",
+      "age",
+      "retired"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Physical activity (fact sheet)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
+      },
+      {
+        "label": "National Institute on Aging — Health information",
+        "url": "https://www.nia.nih.gov/health"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "sports-drinks-needed",
+    "category": "Exercise & fitness",
+    "myth": "You need sports drinks whenever you exercise.",
+    "rating": "false",
+    "fact": "For most everyday exercise lasting less than an hour, water is enough. Sports drinks can help during long or very intense exercise, especially in heat.",
+    "explanation": "Many sports drinks contain a lot of sugar and add calories without benefit for casual exercise. They can also contribute to tooth decay.",
+    "keywords": [
+      "sports drinks",
+      "electrolytes",
+      "hydration",
+      "gatorade",
+      "isotonic",
+      "water",
+      "exercise"
+    ],
+    "sources": [
+      {
+        "label": "Harvard Health Publishing",
+        "url": "https://www.health.harvard.edu/"
+      },
+      {
+        "label": "NHS — Healthy teeth and gums",
+        "url": "https://www.nhs.uk/live-well/healthy-teeth-and-gums/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "strength-training-for-older-adults",
+    "category": "Exercise & fitness",
+    "myth": "Strength training is good for older adults.",
+    "rating": "true",
+    "fact": "Muscle-strengthening activities help older adults maintain muscle, bone density and balance, and reduce the risk of falls.",
+    "explanation": "Muscle mass naturally declines with age, and strength training slows this. Resistance bands, body-weight exercises and light weights all count. Starting gradually is sensible.",
+    "keywords": [
+      "strength training",
+      "older adults",
+      "weights",
+      "elderly",
+      "muscle",
+      "falls",
+      "resistance training",
+      "seniors"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Physical activity (fact sheet)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
+      },
+      {
+        "label": "National Institute on Aging — Health information",
+        "url": "https://www.nia.nih.gov/health"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "shaving-makes-hair-thicker",
+    "category": "Skin & hair",
+    "myth": "Shaving makes hair grow back thicker, darker or faster.",
+    "rating": "false",
+    "fact": "Shaving does not change the thickness, colour or growth rate of hair.",
+    "explanation": "Shaving cuts hair at a blunt angle, so regrowth can feel coarse, and short new hair may look darker because it has not been lightened by the sun. This has been tested in studies since the 1920s.",
+    "keywords": [
+      "shaving",
+      "shave",
+      "hair",
+      "thicker",
+      "darker",
+      "grow back",
+      "faster",
+      "legs"
+    ],
+    "sources": [
+      {
+        "label": "American Academy of Dermatology",
+        "url": "https://www.aad.org/public"
+      },
+      {
+        "label": "Mayo Clinic",
+        "url": "https://www.mayoclinic.org/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "no-sunscreen-cloudy-days",
+    "category": "Skin & hair",
+    "myth": "You don't need sunscreen on cloudy days.",
+    "rating": "false",
+    "fact": "Much of the sun's ultraviolet radiation passes through clouds, so you can still burn and damage your skin on overcast days.",
+    "explanation": "Because you do not feel as hot, it is easy to stay out longer and burn. Checking the UV index is a better guide than how sunny it looks.",
+    "keywords": [
+      "sunscreen",
+      "cloudy",
+      "overcast",
+      "sun cream",
+      "uv",
+      "sunburn",
+      "spf",
+      "clouds"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Sunscreen and sun safety",
+        "url": "https://www.nhs.uk/live-well/seasonal-health/sunscreen-and-sun-safety/"
+      },
+      {
+        "label": "WHO — Ultraviolet radiation (fact sheet)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/ultraviolet-radiation"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "dark-skin-no-sunscreen",
+    "category": "Skin & hair",
+    "myth": "People with dark skin don't need sun protection.",
+    "rating": "false",
+    "fact": "Darker skin has more natural protection against burning, but it can still be damaged by UV and people with dark skin can get skin cancer.",
+    "explanation": "Skin cancer in people with darker skin is often found later, when it is harder to treat, and can appear in less sun-exposed places such as the palms, soles or under nails. Sun protection is still advised when UV is high.",
+    "keywords": [
+      "dark skin",
+      "black skin",
+      "brown skin",
+      "sunscreen",
+      "melanin",
+      "skin cancer",
+      "sun protection"
+    ],
+    "sources": [
+      {
+        "label": "American Academy of Dermatology",
+        "url": "https://www.aad.org/public"
+      },
+      {
+        "label": "CDC — Skin cancer",
+        "url": "https://www.cdc.gov/skin-cancer/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "chocolate-greasy-food-acne",
+    "category": "Skin & hair",
+    "myth": "Chocolate and greasy food cause acne.",
+    "rating": "misleading",
+    "fact": "Acne is mainly driven by hormones, oil production, clogged pores and bacteria. Greasy food does not cause acne, though some studies suggest high-glycaemic diets and possibly dairy may worsen it in some people.",
+    "explanation": "The evidence on diet and acne is still developing and effects seem modest. Effective treatments are available, so persistent or scarring acne is worth seeing a doctor or pharmacist about.",
+    "keywords": [
+      "acne",
+      "chocolate",
+      "greasy food",
+      "spots",
+      "pimples",
+      "diet",
+      "fried food",
+      "dairy"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Acne",
+        "url": "https://www.nhs.uk/conditions/acne/"
+      },
+      {
+        "label": "American Academy of Dermatology",
+        "url": "https://www.aad.org/public"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "acne-dirty-skin",
+    "category": "Skin & hair",
+    "myth": "Acne is caused by dirty skin and not washing enough.",
+    "rating": "false",
+    "fact": "Acne is not caused by poor hygiene. Washing too often or scrubbing hard can actually irritate the skin and make acne worse.",
+    "explanation": "Blackheads look dark because of a chemical reaction with air, not dirt. Gentle washing twice a day and non-comedogenic products are usually recommended.",
+    "keywords": [
+      "acne",
+      "dirty skin",
+      "washing",
+      "hygiene",
+      "blackheads",
+      "spots",
+      "scrubbing",
+      "face wash"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Acne",
+        "url": "https://www.nhs.uk/conditions/acne/"
+      },
+      {
+        "label": "MedlinePlus — Acne",
+        "url": "https://medlineplus.gov/acne.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "popping-spots-heals-faster",
+    "category": "Skin & hair",
+    "myth": "Popping pimples helps them heal faster.",
+    "rating": "false",
+    "fact": "Squeezing spots can push bacteria deeper, increase inflammation and lead to scarring. It is better to leave them alone.",
+    "explanation": "Popping can seem to give a quick fix, but it often makes the spot last longer. Persistent or painful acne can be treated with products from a pharmacist or prescriptions from a doctor.",
+    "keywords": [
+      "popping",
+      "pimples",
+      "squeeze",
+      "spots",
+      "zits",
+      "acne",
+      "scarring",
+      "pick"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Acne",
+        "url": "https://www.nhs.uk/conditions/acne/"
+      },
+      {
+        "label": "American Academy of Dermatology",
+        "url": "https://www.aad.org/public"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "base-tan-protects",
+    "category": "Skin & hair",
+    "myth": "Getting a base tan protects you from sunburn.",
+    "rating": "false",
+    "fact": "A tan is a sign of skin damage. It offers very little protection, roughly equivalent to a very low SPF, and does not prevent skin cancer.",
+    "explanation": "Building a tan before a holiday still exposes skin to harmful UV. Shade, clothing, hats and broad-spectrum sunscreen are recommended instead.",
+    "keywords": [
+      "base tan",
+      "tan",
+      "tanning",
+      "sunburn",
+      "protect",
+      "holiday",
+      "pre tan"
+    ],
+    "sources": [
+      {
+        "label": "American Academy of Dermatology",
+        "url": "https://www.aad.org/public"
+      },
+      {
+        "label": "CDC — Skin cancer",
+        "url": "https://www.cdc.gov/skin-cancer/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "sunbeds-safer-than-sun",
+    "category": "Skin & hair",
+    "myth": "Tanning beds are a safer way to tan than the sun.",
+    "rating": "false",
+    "fact": "Sunbeds give off UV radiation that increases the risk of skin cancer, including melanoma. They are not safer than the sun.",
+    "explanation": "WHO classifies UV-emitting tanning devices as carcinogenic to humans, and many countries restrict their use by under-18s. Fake tan products are a safer alternative.",
+    "keywords": [
+      "sunbed",
+      "tanning bed",
+      "solarium",
+      "tanning",
+      "safer",
+      "melanoma",
+      "skin cancer"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Ultraviolet radiation (fact sheet)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/ultraviolet-radiation"
+      },
+      {
+        "label": "NHS — Melanoma skin cancer",
+        "url": "https://www.nhs.uk/conditions/melanoma-skin-cancer/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "pluck-grey-hair-two-grow",
+    "category": "Skin & hair",
+    "myth": "If you pluck a grey hair, two will grow back in its place.",
+    "rating": "false",
+    "fact": "Each hair follicle produces one hair, so plucking cannot make more hairs grow from it.",
+    "explanation": "Grey hairs often appear in increasing numbers with age, which makes it seem as though plucking caused more. Repeated plucking can damage the follicle, so it is better to trim or colour.",
+    "keywords": [
+      "grey hair",
+      "gray hair",
+      "pluck",
+      "two grow back",
+      "white hair",
+      "pull out"
+    ],
+    "sources": [
+      {
+        "label": "American Academy of Dermatology",
+        "url": "https://www.aad.org/public"
+      },
+      {
+        "label": "Mayo Clinic",
+        "url": "https://www.mayoclinic.org/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "hats-cause-baldness",
+    "category": "Skin & hair",
+    "myth": "Wearing hats makes you go bald.",
+    "rating": "false",
+    "fact": "Wearing ordinary hats does not cause hair loss. The most common cause of baldness is inherited male- or female-pattern hair loss.",
+    "explanation": "Very tight hairstyles or headwear worn constantly can pull on hair and cause traction alopecia, but a normal-fitting cap does not.",
+    "keywords": [
+      "hats",
+      "cap",
+      "bald",
+      "baldness",
+      "hair loss",
+      "balding",
+      "wearing hats"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Hair loss",
+        "url": "https://www.nhs.uk/conditions/hair-loss/"
+      },
+      {
+        "label": "American Academy of Dermatology",
+        "url": "https://www.aad.org/public"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "baldness-from-mothers-side",
+    "category": "Skin & hair",
+    "myth": "Baldness is only inherited from your mother's side.",
+    "rating": "false",
+    "fact": "Pattern hair loss is influenced by many genes from both parents. One important gene is on the X chromosome, which comes from the mother, but it is not the whole story.",
+    "explanation": "Men whose fathers are bald also have a higher chance of baldness. Looking at relatives on both sides gives a better clue than the maternal grandfather alone.",
+    "keywords": [
+      "baldness",
+      "mother side",
+      "inherited",
+      "genetics",
+      "grandfather",
+      "hair loss",
+      "balding"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Hair loss",
+        "url": "https://www.nhs.uk/conditions/hair-loss/"
+      },
+      {
+        "label": "MedlinePlus — Hair loss",
+        "url": "https://medlineplus.gov/hairloss.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "trimming-makes-hair-grow-faster",
+    "category": "Skin & hair",
+    "myth": "Cutting your hair often makes it grow faster.",
+    "rating": "false",
+    "fact": "Hair grows from the follicle in the scalp, so trimming the ends does not change how fast it grows.",
+    "explanation": "Regular trims remove split ends, which can stop hair from breaking and help it look longer and healthier over time. The growth rate itself stays the same.",
+    "keywords": [
+      "haircut",
+      "trim",
+      "hair growth",
+      "grow faster",
+      "split ends",
+      "cutting hair",
+      "long hair"
+    ],
+    "sources": [
+      {
+        "label": "American Academy of Dermatology",
+        "url": "https://www.aad.org/public"
+      },
+      {
+        "label": "MedlinePlus — Hair loss",
+        "url": "https://medlineplus.gov/hairloss.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "eczema-psoriasis-contagious",
+    "category": "Skin & hair",
+    "myth": "Eczema and psoriasis are contagious.",
+    "rating": "false",
+    "fact": "Eczema and psoriasis cannot be caught from another person. They are related to the immune system, genetics and skin barrier, not infection.",
+    "explanation": "Visible rashes can lead to stigma, which affects quality of life. Eczema skin can sometimes become infected, and that infection may need treatment, but the condition itself does not spread.",
+    "keywords": [
+      "eczema",
+      "psoriasis",
+      "contagious",
+      "catching",
+      "rash",
+      "spread",
+      "infectious",
+      "skin condition"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Atopic eczema",
+        "url": "https://www.nhs.uk/conditions/atopic-eczema/"
+      },
+      {
+        "label": "NHS — Psoriasis",
+        "url": "https://www.nhs.uk/conditions/psoriasis/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "sunscreen-causes-cancer",
+    "category": "Skin & hair",
+    "myth": "Sunscreen causes skin cancer.",
+    "rating": "false",
+    "fact": "There is no good evidence that sunscreen causes skin cancer. Regular sunscreen use, together with shade and clothing, helps reduce the risk of skin cancers.",
+    "explanation": "Some sunscreen ingredients are being studied further by regulators, but health agencies continue to recommend broad-spectrum sunscreen. Mineral sunscreens with zinc oxide or titanium dioxide are an option for people with concerns.",
+    "keywords": [
+      "sunscreen",
+      "causes cancer",
+      "chemicals",
+      "toxic",
+      "sun cream",
+      "oxybenzone",
+      "skin cancer"
+    ],
+    "sources": [
+      {
+        "label": "CDC — Skin cancer",
+        "url": "https://www.cdc.gov/skin-cancer/"
+      },
+      {
+        "label": "American Academy of Dermatology",
+        "url": "https://www.aad.org/public"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]

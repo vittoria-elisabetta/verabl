@@ -1,91 +1,95 @@
 'use client'
 
-import { useState } from 'react'
-import {
-  Loader2,
-  RotateCcw,
-  ExternalLink,
-  CheckCircle2,
-  AlertTriangle,
-  XCircle,
-  HelpCircle,
-  ShieldQuestion,
-} from 'lucide-react'
+import { useEffect, useState } from 'react'
+import { useSearchParams } from 'next/navigation'
+import Link from 'next/link'
+import { RotateCcw, ExternalLink, CheckCircle2, AlertTriangle, XCircle, HelpCircle, Search } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { Disclaimer } from '@/components/disclaimer'
 import { saveSearch } from '@/lib/user-store'
+import { myths, type Myth, type Rating } from '@/lib/data'
+import { rank } from '@/lib/search'
 
-type Rating = 'true' | 'mostly-true' | 'misleading' | 'false' | 'unverified'
+// Rule-based fact check: the claim is matched against the curated claims in lib/data/myths.json
+// by keyword and word overlap (lib/search.ts). We only ever show verdicts a person wrote and sourced;
+// a claim we have not reviewed gets "not in our database", never a guess.
 
-type Result = {
-  claim: string
-  verdict: string
-  rating: Rating
-  headline: string
-  explanation: string
-  scientificContext: string
-  evidenceStrength: string
-  evidence: string[]
-  limitations: string[]
-  references: { label: string; title: string; url: string; date: string }[]
-}
+// Score thresholds, tuned on the dataset: at or above MATCH_SCORE we show the verdict of the
+// best match; between RELATED_SCORE and MATCH_SCORE we only list related claims.
+const MATCH_SCORE = 4
+const RELATED_SCORE = 2
 
-const ratingMeta: Record<Rating, { label: string; icon: React.ComponentType<{ className?: string }>; className: string; bar: string }> = {
+export const ratingMeta: Record<Rating, { label: string; icon: React.ComponentType<{ className?: string }>; className: string; bar: string }> = {
   true: { label: 'Accurate', icon: CheckCircle2, className: 'text-success border-success/30 bg-success/10', bar: 'bg-success' },
   'mostly-true': { label: 'Mostly accurate', icon: CheckCircle2, className: 'text-success border-success/30 bg-success/10', bar: 'bg-success' },
   misleading: { label: 'Misleading', icon: AlertTriangle, className: 'text-warning-foreground border-warning/40 bg-warning/10', bar: 'bg-warning' },
   false: { label: 'False', icon: XCircle, className: 'text-destructive border-destructive/30 bg-destructive/10', bar: 'bg-destructive' },
-  unverified: { label: 'Unverified', icon: HelpCircle, className: 'text-muted-foreground border-border bg-muted', bar: 'bg-muted-foreground' },
 }
 
 const examples = [
   'I saw a video saying vaccines weaken your immune system.',
-  'Drinking celery juice every morning cures arthritis.',
-  'You only need to drink water when you feel thirsty.',
+  'Cracking your knuckles gives you arthritis',
+  'Antibiotics will clear up my cold faster',
 ]
 
-export function FactChecker() {
-  const [claim, setClaim] = useState('')
-  const [sourceUrl, setSourceUrl] = useState('')
-  const [result, setResult] = useState<Result | null>(null)
-  const [loading, setLoading] = useState(false)
-  const [error, setError] = useState('')
+export function matchClaims(claim: string) {
+  return rank(
+    claim,
+    myths,
+    (m) => [{ text: m.myth, weight: 4 }, ...m.keywords.map((k) => ({ text: k, weight: 1.5, phrase: true }))],
+    RELATED_SCORE,
+  )
+}
 
-  async function check(e?: React.FormEvent) {
-    e?.preventDefault()
-    const trimmed = claim.trim()
-    if (!trimmed || loading) return
-    setLoading(true)
-    setError('')
-    setResult(null)
-    try {
-      const res = await fetch('/api/fact-checker', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ claim: trimmed, sourceUrl: sourceUrl.trim() }),
-      })
-      const payload = await res.json()
-      if (!res.ok) throw new Error(payload.error || 'request failed')
-      const data = payload as Result
-      setResult(data)
-      saveSearch({ type: 'fact-check', query: trimmed, summary: `${ratingMeta[data.rating].label}: ${data.headline}` })
-    } catch {
-      setError('We could not check that claim. Please try again.')
-    } finally {
-      setLoading(false)
-    }
+type Outcome = { claim: string; best: Myth | null; related: Myth[] }
+
+export function FactChecker() {
+  const params = useSearchParams()
+  const [claim, setClaim] = useState('')
+  const [outcome, setOutcome] = useState<Outcome | null>(null)
+
+  function check(text: string) {
+    const trimmed = text.trim()
+    if (!trimmed) return
+    const ranked = matchClaims(trimmed)
+    const best = ranked[0] && ranked[0].score >= MATCH_SCORE ? ranked[0].item : null
+    const related = ranked
+      .filter((r) => r.item !== best)
+      .slice(0, best ? 3 : 5)
+      .map((r) => r.item)
+    setOutcome({ claim: trimmed, best, related })
+    saveSearch({
+      type: 'fact-check',
+      query: trimmed,
+      summary: best ? `${ratingMeta[best.rating].label}: ${best.myth}` : 'Not in our database yet',
+    })
   }
 
-  const meta = result ? ratingMeta[result.rating] : null
+  // The home page hero links here with ?claim=...
+  useEffect(() => {
+    const fromUrl = params.get('claim')
+    if (fromUrl) {
+      setClaim(fromUrl)
+      check(fromUrl)
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [params])
 
   return (
     <div className="mx-auto mt-10 max-w-2xl">
-      <form onSubmit={check} className="rounded-3xl border border-border bg-card p-6 shadow-sm">
+      <form
+        onSubmit={(e) => {
+          e.preventDefault()
+          check(claim)
+        }}
+        className="rounded-3xl border border-border bg-card p-6 shadow-sm"
+      >
         <label htmlFor="claim" className="font-display text-lg font-semibold text-foreground">
           Paste a medical claim you saw online
         </label>
         <p className="mt-1 text-sm text-muted-foreground">
-          A social media post, a video caption, a message from a group chat &mdash; paste it and we&apos;ll check it.
+          A social media post, a video caption, a message from a group chat. We compare it with {myths.length} health
+          claims our sources have reviewed.
         </p>
         <textarea
           id="claim"
@@ -95,8 +99,6 @@ export function FactChecker() {
           placeholder="e.g. I saw a video saying vaccines weaken your immune system."
           className="mt-4 w-full resize-none rounded-2xl border border-border bg-background p-4 text-sm text-foreground outline-none ring-primary/30 placeholder:text-muted-foreground focus:ring-2"
         />
-        <label htmlFor="source-url" className="mt-4 block text-sm font-medium text-foreground">Original post link <span className="font-normal text-muted-foreground">(optional)</span></label>
-        <input id="source-url" type="url" value={sourceUrl} onChange={(e) => setSourceUrl(e.target.value)} placeholder="https://..." className="mt-2 w-full rounded-2xl border border-border bg-background p-3 text-sm text-foreground outline-none ring-primary/30 placeholder:text-muted-foreground focus:ring-2" />
         <div className="mt-3 flex flex-wrap gap-2">
           {examples.map((ex) => (
             <button
@@ -105,93 +107,69 @@ export function FactChecker() {
               onClick={() => setClaim(ex)}
               className="rounded-full border border-border bg-background px-3 py-1 text-xs text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
             >
-              {ex.length > 40 ? ex.slice(0, 40) + '\u2026' : ex}
+              {ex.length > 40 ? ex.slice(0, 40) + '…' : ex}
             </button>
           ))}
         </div>
-        <Button type="submit" size="lg" disabled={loading || !claim.trim()} className="mt-4 w-full rounded-full">
-          {loading ? <Loader2 className="size-4 animate-spin" aria-hidden="true" /> : 'Check this claim'}
+        <Button type="submit" size="lg" disabled={!claim.trim()} className="mt-4 w-full rounded-full">
+          Check this claim
         </Button>
-        {error && <p className="mt-3 text-sm text-destructive">{error}</p>}
       </form>
 
-      {loading && (
-        <div className="mt-6 flex items-center justify-center gap-3 rounded-3xl border border-border bg-card p-10 text-sm text-muted-foreground shadow-sm">
-          <ShieldQuestion className="size-5 animate-pulse text-primary" aria-hidden="true" />
-          Weighing this against the medical evidence&hellip;
-        </div>
-      )}
-
-      {result && meta && (
+      {outcome && (
         <div className="mt-6 space-y-5">
-          <div className="overflow-hidden rounded-3xl border border-border bg-card shadow-sm">
-            <div className={`h-1.5 w-full ${meta.bar}`} aria-hidden="true" />
-            <div className="p-6">
-              <span className={`inline-flex items-center gap-1.5 rounded-full border px-3 py-1 text-xs font-semibold ${meta.className}`}>
-                <meta.icon className="size-3.5" aria-hidden="true" />
-                Accuracy: {meta.label}
-              </span>
-              <h2 className="mt-3 text-balance font-display text-xl font-bold text-foreground">{result.headline}</h2>
-              <p className="mt-2 text-pretty leading-relaxed text-muted-foreground">{result.explanation}</p>
-              <div className="mt-4 grid gap-3 sm:grid-cols-2">
-                <div className="rounded-2xl bg-muted/60 p-3"><p className="text-xs font-semibold uppercase tracking-wide text-muted-foreground">Evidence strength</p><p className="mt-1 text-sm font-medium text-foreground">{result.evidenceStrength}</p></div>
-                <div className="rounded-2xl bg-muted/60 p-3"><p className="text-xs font-semibold uppercase tracking-wide text-muted-foreground">Verdict</p><p className="mt-1 text-sm font-medium text-foreground">{result.verdict.replace('-', ' ')}</p></div>
-              </div>
-            </div>
-          </div>
-
-          <div className="rounded-3xl border border-border bg-card p-6 shadow-sm">
-            <h3 className="font-display text-base font-semibold text-foreground">Scientific context</h3>
-            <p className="mt-3 text-sm leading-relaxed text-muted-foreground">{result.scientificContext}</p>
-            {result.limitations.length > 0 && (
-              <div>
-                <h3 className="mt-5 font-display text-base font-semibold text-foreground">Important limitations</h3>
-                <ul className="mt-3 space-y-2">
-                  {result.limitations.map((item, i) => (
-                    <li key={i} className="text-sm leading-relaxed text-muted-foreground">{item}</li>
-                  ))}
-                </ul>
-              </div>
-            )}
-          </div>
-
-          {result.evidence.length > 0 && (
+          {outcome.best ? (
+            <VerdictCard myth={outcome.best} />
+          ) : (
             <div className="rounded-3xl border border-border bg-card p-6 shadow-sm">
-              <h3 className="font-display text-base font-semibold text-foreground">What the evidence shows</h3>
-              <ul className="mt-3 space-y-2">
-                {result.evidence.map((point, i) => (
-                  <li key={i} className="flex items-start gap-2 text-sm leading-relaxed text-muted-foreground">
-                    <span className="mt-1.5 size-1.5 shrink-0 rounded-full bg-primary" aria-hidden="true" />
-                    {point}
-                  </li>
-                ))}
-              </ul>
+              <span className="inline-flex items-center gap-1.5 rounded-full border border-border bg-muted px-3 py-1 text-xs font-semibold text-muted-foreground">
+                <HelpCircle className="size-3.5" aria-hidden="true" />
+                Not in our database yet
+              </span>
+              <h2 className="mt-3 font-display text-xl font-bold text-foreground">We haven&apos;t reviewed this claim</h2>
+              <p className="mt-2 text-sm leading-relaxed text-muted-foreground">
+                We only show verdicts that have been checked against trusted medical sources, so we won&apos;t guess. Try
+                rewording it with the key words (for example &ldquo;garlic cures infections&rdquo;), browse the{' '}
+                <Link href="/myths/" className="font-medium text-primary hover:underline">
+                  myths library
+                </Link>
+                , or look the topic up on the NHS, CDC or WHO websites.
+              </p>
             </div>
           )}
 
-          {result.references.length > 0 && (
+          {outcome.related.length > 0 && (
             <div className="rounded-3xl border border-border bg-card p-6 shadow-sm">
-              <h3 className="font-display text-base font-semibold text-foreground">Trusted references</h3>
-              <div className="mt-3 space-y-2">
-                {result.references.map((ref) => (
-                  <a
-                    key={ref.url}
-                    href={ref.url}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="flex items-center gap-2 text-sm font-medium text-primary hover:underline"
-                  >
-                    <ExternalLink className="size-3.5 shrink-0" aria-hidden="true" />
-                    <span><span className="block">{ref.label}</span><span className="block text-xs font-normal text-muted-foreground">{ref.title} · {ref.date}</span></span>
-                  </a>
-                ))}
-              </div>
+              <h3 className="flex items-center gap-2 font-display text-base font-semibold text-foreground">
+                <Search className="size-4 text-primary" aria-hidden="true" />
+                {outcome.best ? 'Related claims' : 'Closest claims we have checked'}
+              </h3>
+              <ul className="mt-3 space-y-3">
+                {outcome.related.map((m) => {
+                  const meta = ratingMeta[m.rating]
+                  return (
+                    <li key={m.id}>
+                      <button
+                        type="button"
+                        onClick={() => setOutcome({ claim: outcome.claim, best: m, related: [] })}
+                        className="w-full rounded-2xl border border-border bg-background p-3 text-left hover:bg-muted"
+                      >
+                        <span className={`inline-flex items-center gap-1 rounded-full border px-2 py-0.5 text-xs font-semibold ${meta.className}`}>
+                          <meta.icon className="size-3" aria-hidden="true" />
+                          {meta.label}
+                        </span>
+                        <span className="mt-1.5 block text-sm font-medium text-foreground">&ldquo;{m.myth}&rdquo;</span>
+                      </button>
+                    </li>
+                  )
+                })}
+              </ul>
             </div>
           )}
 
           <button
             onClick={() => {
-              setResult(null)
+              setOutcome(null)
               setClaim('')
             }}
             className="inline-flex items-center gap-1.5 text-sm font-medium text-muted-foreground hover:text-foreground"
@@ -203,6 +181,44 @@ export function FactChecker() {
           <Disclaimer />
         </div>
       )}
+    </div>
+  )
+}
+
+function VerdictCard({ myth }: { myth: Myth }) {
+  const meta = ratingMeta[myth.rating]
+  return (
+    <div className="overflow-hidden rounded-3xl border border-border bg-card shadow-sm">
+      <div className={`h-1.5 w-full ${meta.bar}`} aria-hidden="true" />
+      <div className="p-6">
+        <p className="text-xs font-semibold uppercase tracking-wide text-muted-foreground">The closest claim we have checked</p>
+        <h2 className="mt-2 text-balance font-display text-xl font-bold text-foreground">&ldquo;{myth.myth}&rdquo;</h2>
+        <span className={`mt-3 inline-flex items-center gap-1.5 rounded-full border px-3 py-1 text-xs font-semibold ${meta.className}`}>
+          <meta.icon className="size-3.5" aria-hidden="true" />
+          Verdict: {meta.label}
+        </span>
+        <h3 className="mt-5 font-display text-base font-semibold text-foreground">What the evidence says</h3>
+        <p className="mt-2 text-pretty leading-relaxed text-foreground">{myth.fact}</p>
+        <h3 className="mt-5 font-display text-base font-semibold text-foreground">Context</h3>
+        <p className="mt-2 text-pretty text-sm leading-relaxed text-muted-foreground">{myth.explanation}</p>
+        <p className="mt-5 text-xs text-muted-foreground">
+          {myth.category} · {myth.lastReviewed}
+        </p>
+        <div className="mt-3 space-y-2">
+          {myth.sources.map((ref) => (
+            <a
+              key={ref.url}
+              href={ref.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-2 text-sm font-medium text-primary hover:underline"
+            >
+              <ExternalLink className="size-3.5 shrink-0" aria-hidden="true" />
+              {ref.label}
+            </a>
+          ))}
+        </div>
+      </div>
     </div>
   )
 }

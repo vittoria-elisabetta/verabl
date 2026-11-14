@@ -1,0 +1,934 @@
+[
+  {
+    "id": "dry-eyes",
+    "name": "Dry, gritty eyes",
+    "aliases": ["dry eyes", "gritty eyes", "eyes feel sandy", "burning eyes", "eyes feel tired and dry", "sore dry eyes"],
+    "bodyArea": "Eyes",
+    "summary": "Dry eyes happen when your eyes do not make enough tears or the tears dry up too quickly. Eyes can feel gritty, burning or sore, and are often worse with screens, wind or air conditioning.",
+    "redFlags": [
+      "Sudden changes to your sight, such as wavy lines, flashing or loss of vision",
+      "It hurts to look at light",
+      "A red eye with a severe headache and feeling sick",
+      "An injury to the eye, or something stuck in it"
+    ],
+    "urgentFlags": [
+      "Your eye is painful and red",
+      "You have a red eye and wear contact lenses"
+    ],
+    "commonCauses": [
+      {"title": "Screen use and environment", "detail": "Blinking less while using screens, plus wind, heating or air conditioning, can dry the eyes."},
+      {"title": "Ageing and hormonal changes", "detail": "Dry eyes become more common with age and around the menopause."},
+      {"title": "Blepharitis", "detail": "Inflamed eyelids can affect the oily layer of the tears."},
+      {"title": "Contact lenses and medicines", "detail": "Contact lenses and some medicines, such as antihistamines, can dry the eyes."},
+      {"title": "Other conditions", "detail": "Conditions such as Sjögren's syndrome or thyroid eye disease can cause dry eyes."}
+    ],
+    "selfCare": [
+      "Ask a pharmacist about lubricating eye drops, gels or ointments",
+      "Take regular screen breaks and remember to blink",
+      "Keep eyelids clean and use a warm compress if they are crusty",
+      "Use a humidifier or keep rooms well ventilated",
+      "Wear wraparound glasses outdoors in wind"
+    ],
+    "avoid": [
+      "Smoky, dry or windy places where possible",
+      "Rubbing your eyes",
+      "Wearing contact lenses for long periods while eyes are dry"
+    ],
+    "seeDoctorIf": [
+      "Dry eyes have not improved after a few weeks of home treatment",
+      "There is any change in the shape of your eyelids",
+      "You also have a dry mouth or joint pain"
+    ],
+    "selfCareMaxDays": 21,
+    "sources": [
+      {"label": "NHS – Dry eyes", "url": "https://www.nhs.uk/symptoms/dry-eyes/"},
+      {"label": "American Academy of Ophthalmology – What is dry eye?", "url": "https://www.aao.org/eye-health/diseases/what-is-dry-eye"}
+    ]
+  },
+  {
+    "id": "watery-eyes",
+    "name": "Watery eyes",
+    "aliases": ["watering eyes", "eyes keep watering", "teary eyes", "tears running down face", "constantly watery eye", "blocked tear duct"],
+    "bodyArea": "Eyes",
+    "summary": "Watery eyes are common and can be caused by irritation, allergies, dry eyes or blocked tear ducts. They often settle without treatment.",
+    "redFlags": [
+      "Sudden loss of vision",
+      "A chemical has got into the eye",
+      "An injury that has pierced or cut the eye"
+    ],
+    "urgentFlags": [
+      "Any change to your vision",
+      "Severe eye pain",
+      "A watery eye that is very red and painful, or sensitive to light"
+    ],
+    "commonCauses": [
+      {"title": "Dry eyes", "detail": "Irritated dry eyes can make too many reflex tears."},
+      {"title": "Allergies and conjunctivitis", "detail": "Hay fever and eye infections cause watering, itching and redness."},
+      {"title": "Blocked tear duct", "detail": "Common in babies and older adults; tears cannot drain so they spill over."},
+      {"title": "Eyelid problems", "detail": "Eyelids turning in or out, or blepharitis, can cause watering."},
+      {"title": "Irritants", "detail": "Wind, cold, smoke or a speck of dust can make eyes water."}
+    ],
+    "selfCare": [
+      "Ask a pharmacist about eye drops for dryness or allergy",
+      "Hold a warm compress over closed eyes and gently massage the eyelids",
+      "Clean crusty eyelids with cooled boiled water",
+      "Protect your eyes from wind and cold with glasses"
+    ],
+    "avoid": [
+      "Rubbing your eyes",
+      "Smoky environments"
+    ],
+    "seeDoctorIf": [
+      "Your eyes keep watering and it is affecting everyday activities",
+      "Your eyelid is turning inwards or drooping away from the eye",
+      "You have lumps or swelling around the eyes that have not improved"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {"label": "NHS – Watering eyes", "url": "https://www.nhs.uk/symptoms/watering-eyes/"},
+      {"label": "MedlinePlus – Watery eyes", "url": "https://medlineplus.gov/ency/article/003036.htm"}
+    ]
+  },
+  {
+    "id": "eye-twitching",
+    "name": "Eyelid twitching",
+    "aliases": ["eye twitching", "eyelid twitch", "eye keeps flickering", "eye spasm", "twitchy eye", "jumping eyelid"],
+    "bodyArea": "Eyes",
+    "summary": "A twitching eyelid is very common and almost always harmless. It is often linked to tiredness, stress, caffeine or eye strain and usually goes away on its own.",
+    "redFlags": [
+      "Twitching with face drooping, weakness, numbness or slurred speech",
+      "A drooping eyelid that comes on suddenly with a severe headache or double vision"
+    ],
+    "urgentFlags": [
+      "The eyelid closes completely with each twitch and you cannot open it",
+      "Twitching with a red, painful eye or discharge"
+    ],
+    "commonCauses": [
+      {"title": "Tiredness and stress", "detail": "The most common triggers for a harmless eyelid twitch."},
+      {"title": "Caffeine and alcohol", "detail": "Too much coffee, tea, energy drinks or alcohol can trigger twitching."},
+      {"title": "Eye strain and dry eyes", "detail": "Long screen use and dry or irritated eyes can cause twitching."},
+      {"title": "Blepharospasm or hemifacial spasm", "detail": "Rare conditions causing persistent forced closing of the eyelids or twitching of one side of the face."}
+    ],
+    "selfCare": [
+      "Get more sleep and try to reduce stress",
+      "Cut down on caffeine and alcohol",
+      "Take regular breaks from screens",
+      "Use lubricating eye drops if your eyes feel dry"
+    ],
+    "avoid": [
+      "Rubbing or pressing on the eye",
+      "Supplements marketed as cures for eye twitching"
+    ],
+    "seeDoctorIf": [
+      "Twitching lasts more than a few weeks",
+      "Twitching spreads to other parts of your face",
+      "Your eyelid droops",
+      "The eye becomes red, swollen or has discharge"
+    ],
+    "selfCareMaxDays": 21,
+    "sources": [
+      {"label": "American Academy of Ophthalmology – Eyelid twitching", "url": "https://www.aao.org/eye-health/diseases/what-is-eyelid-twitching"},
+      {"label": "NHS – Eyelid problems", "url": "https://www.nhs.uk/symptoms/eyelid-problems/"}
+    ]
+  },
+  {
+    "id": "double-vision",
+    "name": "Double vision",
+    "aliases": ["seeing double", "double vision", "two of everything", "blurred double image", "ghost image", "eyes not lining up"],
+    "bodyArea": "Eyes",
+    "summary": "Double vision is when you see two images of a single object. It can come from a problem in one eye or from the eyes not lining up, and it should always be checked.",
+    "redFlags": [
+      "Double or blurred vision with a severe headache or an enlarged pupil",
+      "Double vision after a head injury",
+      "Double vision with face drooping, weakness, numbness, slurred speech or loss of balance",
+      "A drooping eyelid that started suddenly with double vision"
+    ],
+    "urgentFlags": [
+      "Double vision that has started suddenly",
+      "Double vision with eye pain"
+    ],
+    "commonCauses": [
+      {"title": "Eye surface or lens problems", "detail": "Dry eyes, astigmatism or cataracts can cause a ghost image in one eye."},
+      {"title": "Squint or eye muscle problems", "detail": "When the eyes do not line up, each sees a slightly different image."},
+      {"title": "Nerve problems", "detail": "Diabetes, high blood pressure or other conditions can affect the nerves that move the eyes."},
+      {"title": "Stroke, head injury or thyroid eye disease", "detail": "More serious causes that need prompt assessment."}
+    ],
+    "selfCare": [
+      "Cover one eye to check whether double vision is in one or both eyes, and tell the clinician",
+      "Do not drive until your vision has been checked",
+      "Take care on stairs and steps"
+    ],
+    "avoid": [
+      "Driving or operating machinery",
+      "Waiting to see if sudden double vision goes away"
+    ],
+    "seeDoctorIf": [
+      "You think you or your child might have double vision, even if it comes and goes",
+      "You have double vision when tired",
+      "You have diabetes or thyroid problems and notice vision changes"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {"label": "NHS – Double vision", "url": "https://www.nhs.uk/symptoms/double-vision/"},
+      {"label": "MedlinePlus – Vision problems", "url": "https://medlineplus.gov/ency/article/003029.htm"}
+    ]
+  },
+  {
+    "id": "sudden-vision-loss",
+    "name": "Sudden loss of vision",
+    "aliases": ["suddenly can't see", "lost sight in one eye", "vision went black", "curtain over eye", "sudden blindness", "part of vision missing"],
+    "bodyArea": "Eyes",
+    "summary": "Losing some or all of the sight in one or both eyes suddenly is an emergency, even if it comes back. Quick treatment can save sight and may reveal a stroke risk.",
+    "redFlags": [
+      "Sudden loss of vision in one or both eyes, even if it has come back",
+      "A dark curtain or shadow moving across your vision",
+      "Sudden severe eye pain with vision loss",
+      "Vision loss with face drooping, weakness, numbness or slurred speech",
+      "Vision loss with a new headache and jaw pain or scalp tenderness"
+    ],
+    "urgentFlags": [
+      "Vision that is gradually getting worse over days",
+      "Patchy vision or blind spots that are new"
+    ],
+    "commonCauses": [
+      {"title": "Retinal detachment", "detail": "Often starts with flashes and floaters followed by a shadow over the vision."},
+      {"title": "Blocked blood vessel in the eye or stroke", "detail": "Can cause sudden painless loss of sight in one eye."},
+      {"title": "Giant cell arteritis", "detail": "Inflamed arteries, usually in people over 50, with headache and scalp tenderness."},
+      {"title": "Acute glaucoma or other eye conditions", "detail": "Can cause a painful red eye and blurred vision."}
+    ],
+    "selfCare": [
+      "Get emergency help straight away; note the time it started",
+      "Do not drive; ask someone to take you or call an ambulance"
+    ],
+    "avoid": [
+      "Waiting to see if vision returns",
+      "Rubbing or pressing on the eye"
+    ],
+    "seeDoctorIf": [
+      "You notice gradual changes in your vision",
+      "You have not had an eye test in the last 2 years"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {"label": "NHS – Vision loss", "url": "https://www.nhs.uk/conditions/vision-loss/"},
+      {"label": "MedlinePlus – Blindness and vision loss", "url": "https://medlineplus.gov/ency/article/003040.htm"}
+    ]
+  },
+  {
+    "id": "swollen-eyelid",
+    "name": "Swollen or drooping eyelid",
+    "aliases": ["puffy eyelid", "swollen eye", "eyelid swelling", "droopy eyelid", "puffy eyes in the morning", "eye swollen shut"],
+    "bodyArea": "Eyes",
+    "summary": "A swollen eyelid is often caused by an allergy, a stye, an insect bite or rubbing the eye. Swelling that is red, hot and painful, or that affects vision, needs to be seen quickly.",
+    "redFlags": [
+      "Swelling of the eyelids with swelling of the lips, tongue or throat, or difficulty breathing",
+      "Red, swollen eyelid with fever, pain when moving the eye, a bulging eye or changes in vision",
+      "An eyelid that drooped suddenly with a severe headache, double vision, face drooping or weakness"
+    ],
+    "urgentFlags": [
+      "Your swollen eyelid is red, hot, painful, tender or blistered",
+      "Your eyelid droops suddenly",
+      "You cannot open your eye or keep it open",
+      "A newborn baby has a sticky, red, swollen eye"
+    ],
+    "commonCauses": [
+      {"title": "Allergy", "detail": "Hay fever, cosmetics or insect bites can cause puffy, itchy eyelids."},
+      {"title": "Stye or chalazion", "detail": "A lump on the eyelid with local swelling."},
+      {"title": "Blepharitis or conjunctivitis", "detail": "Inflammation of the eyelids or eye surface can cause swelling."},
+      {"title": "Fluid and sleep", "detail": "Puffy eyes in the morning are common and often linked to salt, alcohol or poor sleep."},
+      {"title": "Cellulitis around the eye", "detail": "A skin infection that needs urgent treatment, especially in children."}
+    ],
+    "selfCare": [
+      "Hold a cool compress over the closed eye",
+      "Ask a pharmacist about antihistamines if allergy is likely",
+      "Keep the eyelids clean",
+      "Raise your head with an extra pillow at night"
+    ],
+    "avoid": [
+      "Rubbing or squeezing the eyelid",
+      "Wearing make-up or contact lenses until the swelling settles",
+      "Using a product you suspect caused a reaction"
+    ],
+    "seeDoctorIf": [
+      "Eyelid symptoms are not improving after a few days",
+      "You keep getting swollen eyelids",
+      "Your eyelid has gradually started to droop",
+      "You have yellow patches or lumps around your eyes"
+    ],
+    "selfCareMaxDays": 7,
+    "sources": [
+      {"label": "NHS – Eyelid problems", "url": "https://www.nhs.uk/symptoms/eyelid-problems/"},
+      {"label": "NHS – Angioedema", "url": "https://www.nhs.uk/conditions/angioedema/"}
+    ]
+  },
+  {
+    "id": "light-sensitivity",
+    "name": "Sensitivity to light",
+    "aliases": ["light hurts my eyes", "photophobia", "eyes sensitive to light", "squinting in light", "bright light pain", "can't stand bright lights"],
+    "bodyArea": "Eyes",
+    "summary": "Sensitivity to light means bright light causes discomfort or pain. It is common during migraines and with some eye problems, but with a red, painful eye or fever it can be a sign of something serious.",
+    "redFlags": [
+      "Light sensitivity with a fever, stiff neck, severe headache or a rash that does not fade",
+      "Light sensitivity with a red eye, severe headache and feeling sick",
+      "Light sensitivity with sudden vision loss or after an eye injury",
+      "Light sensitivity with confusion or drowsiness"
+    ],
+    "urgentFlags": [
+      "Light sensitivity with a painful or red eye",
+      "Light sensitivity with blurred vision",
+      "Light sensitivity in a contact lens wearer"
+    ],
+    "commonCauses": [
+      {"title": "Migraine", "detail": "Many people need to avoid light during a migraine attack."},
+      {"title": "Dry eyes and eye strain", "detail": "Can make bright light uncomfortable."},
+      {"title": "Eye inflammation or infection", "detail": "Iritis, corneal scratches or infections can make light very painful."},
+      {"title": "Meningitis", "detail": "A rare but serious cause, with headache, fever and stiff neck."}
+    ],
+    "selfCare": [
+      "Wear sunglasses or a hat with a brim outdoors",
+      "Dim screens and lights, and rest in a darker room",
+      "Treat a known migraine as you usually would"
+    ],
+    "avoid": [
+      "Staying in complete darkness for long periods, which can increase sensitivity over time",
+      "Ignoring light sensitivity with a red, painful eye"
+    ],
+    "seeDoctorIf": [
+      "Light sensitivity keeps coming back",
+      "It is affecting your daily activities",
+      "You have frequent headaches with it"
+    ],
+    "selfCareMaxDays": 3,
+    "sources": [
+      {"label": "MedlinePlus – Photophobia", "url": "https://medlineplus.gov/ency/article/003041.htm"},
+      {"label": "NHS – Eye pain", "url": "https://www.nhs.uk/symptoms/eye-pain/"},
+      {"label": "NHS – Meningitis", "url": "https://www.nhs.uk/conditions/meningitis/"}
+    ]
+  },
+  {
+    "id": "eye-injury",
+    "name": "Eye injury or something in the eye",
+    "aliases": ["something in my eye", "scratched eye", "grit in eye", "chemical in eye", "black eye", "poked in the eye", "eyelash stuck in eye"],
+    "bodyArea": "Eyes",
+    "summary": "Small specks of dust or grit can often be rinsed out with clean water. Chemicals in the eye, sharp or high-speed objects, and injuries that affect vision need emergency care.",
+    "redFlags": [
+      "A strong chemical such as bleach or oven cleaner has got into the eye (keep rinsing with water while getting help)",
+      "A sharp object has pierced the eye, or something hit it at high speed",
+      "Any change in sight after an eye injury",
+      "Severe eye pain, or blood or pus coming from the eye",
+      "Cannot move the eye or keep it open",
+      "Headache, light sensitivity or being sick after an eye injury"
+    ],
+    "urgentFlags": [
+      "The injured eye is not getting better after 24 hours",
+      "The eye is very painful",
+      "A child has injured their eye",
+      "It still feels like something is in the eye after rinsing"
+    ],
+    "commonCauses": [
+      {"title": "Dust, grit or an eyelash", "detail": "Usually washes out with tears or clean water."},
+      {"title": "Scratch on the eye surface (corneal abrasion)", "detail": "Painful and watery, often healing within a few days."},
+      {"title": "Blunt injury", "detail": "A blow can cause a black eye or bleeding inside the eye."},
+      {"title": "Chemical splash", "detail": "Household or workplace chemicals can cause serious damage."}
+    ],
+    "selfCare": [
+      "Wash the eye with plenty of clean, lukewarm water",
+      "Follow the advice on the packaging if a household product gets in the eye",
+      "Hold a cold compress gently on a black eye",
+      "Take over-the-counter pain relief such as paracetamol or ibuprofen if needed, following the pack instructions",
+      "Wear eye protection for DIY, gardening and power tools"
+    ],
+    "avoid": [
+      "Trying to remove anything stuck in the eye",
+      "Rubbing or pressing on the eye",
+      "Wearing contact lenses until the eye has healed"
+    ],
+    "seeDoctorIf": [
+      "Your eye remains irritated or watery after a few days",
+      "A black eye is not fading after 2 weeks"
+    ],
+    "selfCareMaxDays": 1,
+    "sources": [
+      {"label": "NHS – Eye injuries", "url": "https://www.nhs.uk/conditions/eye-injuries/"},
+      {"label": "MedlinePlus – Eye injuries", "url": "https://medlineplus.gov/eyeinjuries.html"}
+    ]
+  },
+  {
+    "id": "eye-strain",
+    "name": "Eye strain or tired eyes",
+    "aliases": ["tired eyes", "eye strain", "eyes ache from screen", "computer eyes", "sore eyes after reading", "heavy eyes"],
+    "bodyArea": "Eyes",
+    "summary": "Eye strain is tired, aching or burning eyes after long periods of close work, reading, driving or using screens. It is uncomfortable but does not damage the eyes, and usually settles with rest.",
+    "redFlags": [
+      "Sudden loss or change of vision",
+      "Severe eye pain with a red eye, headache and feeling sick"
+    ],
+    "urgentFlags": [
+      "Eye pain with redness or sensitivity to light",
+      "New double vision"
+    ],
+    "commonCauses": [
+      {"title": "Screen use", "detail": "Focusing on screens reduces blinking and tires the eye muscles."},
+      {"title": "Uncorrected vision", "detail": "Needing glasses, or an out-of-date prescription, makes the eyes work harder."},
+      {"title": "Dry eyes and lighting", "detail": "Glare, poor lighting and dry air add to strain."}
+    ],
+    "selfCare": [
+      "Follow the 20-20-20 rule: every 20 minutes, look at something 20 feet (6 metres) away for 20 seconds",
+      "Set screens about an arm's length away and slightly below eye level",
+      "Reduce glare and use good lighting",
+      "Use lubricating eye drops if your eyes feel dry",
+      "Have a sight test to check whether you need glasses"
+    ],
+    "avoid": [
+      "Using screens for hours without breaks",
+      "Reading in dim light"
+    ],
+    "seeDoctorIf": [
+      "Symptoms continue despite screen breaks",
+      "You have frequent headaches with eye strain",
+      "Your vision seems to be changing"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {"label": "American Academy of Ophthalmology – Eye strain", "url": "https://www.aao.org/eye-health/diseases/what-is-eye-strain"},
+      {"label": "MedlinePlus – Refractive errors", "url": "https://medlineplus.gov/refractiveerrors.html"}
+    ]
+  },
+  {
+    "id": "earache",
+    "name": "Earache",
+    "aliases": ["ear pain", "ear hurts", "sore ear", "ear infection", "throbbing ear", "pain inside ear"],
+    "bodyArea": "Ears, nose & throat",
+    "summary": "Earache is common, especially in children, and is often caused by an ear infection that gets better on its own within a few days. Pain can also come from the throat, teeth or jaw.",
+    "redFlags": [
+      "Earache with a stiff neck, severe headache, drowsiness or a rash that does not fade",
+      "Earache with face drooping or sudden weakness of the face",
+      "Earache with a very swollen, red area behind the ear pushing the ear forward",
+      "Earache with confusion or being very unwell and difficult to wake"
+    ],
+    "urgentFlags": [
+      "Earache that has lasted more than 2 to 3 days",
+      "Very high temperature, or feeling hot and shivery",
+      "Swelling around the ear, or fluid coming out of the ear",
+      "Hearing loss or a change in hearing",
+      "Something stuck in the ear",
+      "A child under 2 with earache in both ears"
+    ],
+    "commonCauses": [
+      {"title": "Middle ear infection", "detail": "Often follows a cold; common in children and usually clears in 3 to 5 days."},
+      {"title": "Outer ear infection (otitis externa)", "detail": "Pain, itching and discharge, often after swimming."},
+      {"title": "Earwax or a blocked ear", "detail": "Can cause discomfort and muffled hearing."},
+      {"title": "Pain from nearby areas", "detail": "Sore throat, tonsillitis, toothache, teething or jaw joint problems can be felt in the ear."}
+    ],
+    "selfCare": [
+      "Take over-the-counter pain relief such as paracetamol or ibuprofen, following the pack instructions",
+      "Hold a warm or cold flannel against the ear",
+      "Rest and drink plenty of fluids",
+      "Ask a pharmacist for advice; in some countries they can treat ear infections"
+    ],
+    "avoid": [
+      "Putting cotton buds, fingers or anything else in the ear",
+      "Getting the ear wet if it is infected or discharging",
+      "Using olive oil or drops if the eardrum might be burst"
+    ],
+    "seeDoctorIf": [
+      "You or your child keep getting earache",
+      "Earache does not improve after 3 days",
+      "You have diabetes or a weakened immune system and an ear infection"
+    ],
+    "selfCareMaxDays": 3,
+    "sources": [
+      {"label": "NHS – Earache", "url": "https://www.nhs.uk/symptoms/earache/"},
+      {"label": "NHS – Ear infections", "url": "https://www.nhs.uk/conditions/ear-infections/"},
+      {"label": "MedlinePlus – Earache", "url": "https://medlineplus.gov/ency/article/003046.htm"}
+    ]
+  },
+  {
+    "id": "ear-discharge",
+    "name": "Discharge from the ear",
+    "aliases": ["ear leaking", "fluid coming out of ear", "pus from ear", "ear oozing", "smelly ear discharge", "burst eardrum"],
+    "bodyArea": "Ears, nose & throat",
+    "summary": "Fluid leaking from the ear is often caused by an ear infection or a perforated (burst) eardrum. It should be checked by a doctor or pharmacist.",
+    "redFlags": [
+      "Clear fluid or blood from the ear after a head injury",
+      "Ear discharge with a stiff neck, severe headache, confusion or a rash that does not fade",
+      "Ear discharge with face drooping or sudden severe dizziness"
+    ],
+    "urgentFlags": [
+      "Ear discharge with a high temperature or feeling generally unwell",
+      "Swelling, redness or pain behind the ear",
+      "Ear discharge with hearing loss",
+      "Discharge after a loud bang or an injury to the ear"
+    ],
+    "commonCauses": [
+      {"title": "Middle ear infection with a perforated eardrum", "detail": "Pain often eases once pus drains; the eardrum usually heals within weeks."},
+      {"title": "Outer ear infection", "detail": "Itching, pain and discharge from the ear canal."},
+      {"title": "Earwax", "detail": "Soft wax can look like discharge."},
+      {"title": "Injury", "detail": "Damage to the ear canal or eardrum from cotton buds or loud noise."}
+    ],
+    "selfCare": [
+      "Wipe away discharge from the outer ear with clean cotton wool",
+      "Keep the ear dry: avoid swimming and cover the ear in the shower",
+      "Take over-the-counter pain relief such as paracetamol or ibuprofen if needed, following the pack instructions"
+    ],
+    "avoid": [
+      "Poking cotton buds or anything else into the ear",
+      "Using ear drops not recommended by a doctor or pharmacist if the eardrum may be burst",
+      "Swimming until the ear has healed"
+    ],
+    "seeDoctorIf": [
+      "You have any ear discharge that has not been checked",
+      "Discharge keeps coming back",
+      "Hearing has not returned to normal after the infection clears"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {"label": "NHS – Perforated eardrum", "url": "https://www.nhs.uk/conditions/perforated-eardrum/"},
+      {"label": "NHS – Ear infections", "url": "https://www.nhs.uk/conditions/ear-infections/"},
+      {"label": "MedlinePlus – Ear discharge", "url": "https://medlineplus.gov/ency/article/003042.htm"}
+    ]
+  },
+  {
+    "id": "tinnitus",
+    "name": "Ringing in the ears (tinnitus)",
+    "aliases": ["ringing in ears", "buzzing in ears", "tinnitus", "whistling in ear", "humming noise in head", "ears ringing after concert"],
+    "bodyArea": "Ears, nose & throat",
+    "summary": "Tinnitus is hearing sounds such as ringing, buzzing or humming that do not come from outside. It is common, often linked to hearing loss or loud noise, and is rarely a sign of something serious.",
+    "redFlags": [
+      "Tinnitus after a head injury",
+      "Tinnitus with sudden hearing loss",
+      "Tinnitus with weakness of the face muscles",
+      "Tinnitus with a sudden spinning sensation (vertigo)"
+    ],
+    "urgentFlags": [
+      "Tinnitus that beats in time with your pulse",
+      "Tinnitus in one ear only that came on recently"
+    ],
+    "commonCauses": [
+      {"title": "Age-related hearing loss", "detail": "Tinnitus often comes with gradual hearing loss."},
+      {"title": "Loud noise", "detail": "Concerts, loud music or noisy work can cause short-term or lasting tinnitus."},
+      {"title": "Earwax or ear infection", "detail": "A blocked or infected ear can cause ringing that goes once treated."},
+      {"title": "Ménière's disease", "detail": "Tinnitus with attacks of vertigo, hearing loss and ear fullness."},
+      {"title": "Stress, anxiety and some medicines", "detail": "These can make tinnitus more noticeable."}
+    ],
+    "selfCare": [
+      "Use soft background sound, such as a fan or quiet music, especially at bedtime",
+      "Try relaxation, deep breathing or yoga to reduce stress",
+      "Keep a regular bedtime routine and cut down on caffeine",
+      "Protect your ears from loud noise with earplugs",
+      "Join a tinnitus support group"
+    ],
+    "avoid": [
+      "Complete silence, which can make tinnitus more noticeable",
+      "Loud noise without ear protection",
+      "Supplements or devices claiming to cure tinnitus"
+    ],
+    "seeDoctorIf": [
+      "You have tinnitus regularly or constantly",
+      "It is getting worse",
+      "It is affecting your sleep, concentration or mood",
+      "You also have hearing loss"
+    ],
+    "selfCareMaxDays": 7,
+    "sources": [
+      {"label": "NHS – Tinnitus", "url": "https://www.nhs.uk/conditions/tinnitus/"},
+      {"label": "NIDCD – Tinnitus", "url": "https://www.nidcd.nih.gov/health/tinnitus"}
+    ]
+  },
+  {
+    "id": "hearing-loss",
+    "name": "Hearing loss (gradual)",
+    "aliases": ["going deaf", "hard of hearing", "can't hear properly", "turning TV up loud", "muffled hearing", "struggling to hear conversations"],
+    "bodyArea": "Ears, nose & throat",
+    "summary": "Gradual hearing loss is common, especially with age or after years of loud noise. Some causes, like earwax or an infection, are easily treated, so it is worth getting your hearing checked.",
+    "redFlags": [
+      "Hearing loss after a head injury",
+      "Hearing loss with face drooping, weakness, slurred speech or severe vertigo"
+    ],
+    "urgentFlags": [
+      "Sudden hearing loss in one or both ears",
+      "Hearing getting worse over days or weeks",
+      "Hearing loss with earache or discharge from the ear"
+    ],
+    "commonCauses": [
+      {"title": "Ageing", "detail": "Gradual hearing loss in both ears is very common as people get older."},
+      {"title": "Noise damage", "detail": "Years of exposure to loud noise can damage the inner ear."},
+      {"title": "Earwax build-up", "detail": "Can cause muffled hearing, usually in one ear."},
+      {"title": "Ear infection or glue ear", "detail": "Fluid behind the eardrum reduces hearing, especially in children."}
+    ],
+    "selfCare": [
+      "Try an online or pharmacy hearing test",
+      "Ask people to face you and speak clearly; reduce background noise",
+      "Use ear drops for wax only if a pharmacist says they are suitable",
+      "Protect your ears from loud noise"
+    ],
+    "avoid": [
+      "Using cotton buds or ear candles to remove wax",
+      "Listening to loud music through headphones for long periods"
+    ],
+    "seeDoctorIf": [
+      "You think your hearing is getting worse",
+      "Hearing has not come back after treatment for wax or an infection",
+      "Hearing loss is in one ear only",
+      "You are worried about a child's hearing or speech"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {"label": "NHS – Hearing loss", "url": "https://www.nhs.uk/conditions/hearing-loss/"},
+      {"label": "MedlinePlus – Hearing loss", "url": "https://medlineplus.gov/ency/article/003044.htm"}
+    ]
+  },
+  {
+    "id": "sudden-hearing-loss",
+    "name": "Sudden hearing loss",
+    "aliases": ["suddenly deaf in one ear", "lost hearing overnight", "woke up deaf in one ear", "sudden deafness", "hearing gone in one ear"],
+    "bodyArea": "Ears, nose & throat",
+    "summary": "Hearing loss that comes on over hours or a few days needs to be checked quickly, because some types are more treatable when treatment starts early. A blocked ear from wax or a cold is a common harmless cause.",
+    "redFlags": [
+      "Sudden hearing loss with face drooping, weakness, numbness or slurred speech",
+      "Sudden hearing loss with severe vertigo and inability to walk",
+      "Hearing loss after a head injury"
+    ],
+    "urgentFlags": [
+      "Sudden hearing loss in one or both ears without an obvious cause like a cold or wax",
+      "Sudden hearing loss with ringing or a feeling of fullness in the ear",
+      "Hearing loss after a loud bang or an injury to the ear"
+    ],
+    "commonCauses": [
+      {"title": "Earwax or a cold", "detail": "A blocked ear can cause sudden muffled hearing."},
+      {"title": "Ear infection or perforated eardrum", "detail": "Usually with pain or discharge."},
+      {"title": "Sudden sensorineural hearing loss", "detail": "Damage to the inner ear or hearing nerve, often with no clear cause; early treatment can help."},
+      {"title": "Inner ear conditions", "detail": "Ménière's disease or labyrinthitis can affect hearing and balance."}
+    ],
+    "selfCare": [
+      "Get an urgent appointment rather than waiting for it to clear",
+      "Note when it started and any other symptoms such as dizziness or ringing"
+    ],
+    "avoid": [
+      "Assuming it is just wax and waiting several days",
+      "Putting objects or home remedies in the ear"
+    ],
+    "seeDoctorIf": [
+      "Hearing has not fully returned after a cold or ear infection",
+      "You keep getting episodes of reduced hearing"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {"label": "NIDCD – Sudden deafness", "url": "https://www.nidcd.nih.gov/health/sudden-deafness"},
+      {"label": "NHS – Hearing loss", "url": "https://www.nhs.uk/conditions/hearing-loss/"}
+    ]
+  },
+  {
+    "id": "blocked-ear",
+    "name": "Blocked ear or ear wax",
+    "aliases": ["ear feels blocked", "clogged ear", "ear wax", "ear won't pop", "pressure in ear", "muffled ear after flying"],
+    "bodyArea": "Ears, nose & throat",
+    "summary": "A blocked feeling in the ear is often caused by earwax, a cold, or pressure changes when flying. It usually clears on its own or with simple treatment.",
+    "redFlags": [
+      "Blocked ear with sudden face drooping, weakness or slurred speech",
+      "Blocked ear after a head injury with fluid coming out"
+    ],
+    "urgentFlags": [
+      "Sudden hearing loss not explained by a cold or wax",
+      "Severe ear pain, high temperature or discharge",
+      "Something stuck in the ear"
+    ],
+    "commonCauses": [
+      {"title": "Earwax build-up", "detail": "Wax can build up and cause muffled hearing, itching or ringing."},
+      {"title": "Colds and sinus congestion", "detail": "Swelling blocks the tube between the ear and the back of the nose."},
+      {"title": "Pressure changes", "detail": "Flying, diving or driving in mountains can cause a blocked, popping ear."},
+      {"title": "Ear infection or glue ear", "detail": "Fluid in the middle ear causes fullness and reduced hearing."}
+    ],
+    "selfCare": [
+      "Ask a pharmacist about ear drops or olive oil drops to soften wax, if your eardrum is not damaged",
+      "Lie with the affected ear upwards for a few minutes after putting drops in",
+      "Swallow, yawn or chew gum to help an ear pop after flying",
+      "Gently breathe out with your mouth closed while pinching your nose to clear pressure"
+    ],
+    "avoid": [
+      "Using cotton buds, fingers or objects to clean inside the ear",
+      "Ear candles, which do not work and can cause burns",
+      "Using ear drops if you have had a perforated eardrum or ear surgery, unless advised"
+    ],
+    "seeDoctorIf": [
+      "Earwax symptoms have not cleared after 5 days of drops",
+      "Your ear is badly blocked and you cannot hear",
+      "You keep getting blocked ears"
+    ],
+    "selfCareMaxDays": 5,
+    "sources": [
+      {"label": "NHS – Earwax build-up", "url": "https://www.nhs.uk/conditions/earwax-build-up/"},
+      {"label": "NHS – Ear infections", "url": "https://www.nhs.uk/conditions/ear-infections/"}
+    ]
+  },
+  {
+    "id": "itchy-ear",
+    "name": "Itchy ears",
+    "aliases": ["ears itching", "itchy ear canal", "itchy inside ear", "flaky skin in ear", "ear itch and pain"],
+    "bodyArea": "Ears, nose & throat",
+    "summary": "Itchy ears are usually caused by dry skin, eczema, earwax or a mild outer ear infection. They are rarely serious.",
+    "redFlags": [
+      "Itching with sudden swelling of the face, lips or tongue and difficulty breathing"
+    ],
+    "urgentFlags": [
+      "Itching with severe pain, swelling around the ear or a high temperature",
+      "Discharge from the ear with hearing loss",
+      "You have diabetes or a weakened immune system and a painful, itchy ear"
+    ],
+    "commonCauses": [
+      {"title": "Dry skin or eczema", "detail": "The skin in the ear canal can become dry, flaky and itchy."},
+      {"title": "Outer ear infection", "detail": "Itching, pain and discharge, often after swimming or cleaning the ears."},
+      {"title": "Earwax", "detail": "A build-up of wax can feel itchy."},
+      {"title": "Allergy", "detail": "Reactions to earrings, hearing aids, earphones or hair products."}
+    ],
+    "selfCare": [
+      "Keep ears dry after swimming or showering by tilting your head",
+      "Ask a pharmacist about suitable ear drops",
+      "Clean earphones and hearing aids regularly",
+      "Avoid products that seem to cause a reaction"
+    ],
+    "avoid": [
+      "Scratching inside the ear with cotton buds, fingers or pins",
+      "Ear candles"
+    ],
+    "seeDoctorIf": [
+      "Itching does not improve after a week of self-care",
+      "You develop pain or discharge",
+      "Itching keeps coming back"
+    ],
+    "selfCareMaxDays": 7,
+    "sources": [
+      {"label": "NHS – Ear infections", "url": "https://www.nhs.uk/conditions/ear-infections/"},
+      {"label": "NHS – Earwax build-up", "url": "https://www.nhs.uk/conditions/earwax-build-up/"}
+    ]
+  },
+  {
+    "id": "blocked-nose",
+    "name": "Blocked or stuffy nose",
+    "aliases": ["stuffy nose", "nasal congestion", "can't breathe through nose", "bunged up nose", "congested nose", "blocked sinuses"],
+    "bodyArea": "Ears, nose & throat",
+    "summary": "A blocked nose is usually caused by a cold, hay fever or sinusitis and gets better on its own. A nose blocked on one side only for weeks should be checked.",
+    "redFlags": [
+      "Swelling around the eyes with fever, vision changes or difficulty moving the eye",
+      "A blocked nose with a severe headache, stiff neck, confusion or a rash that does not fade",
+      "Difficulty breathing (not just a blocked nose)"
+    ],
+    "urgentFlags": [
+      "Feeling very unwell or getting worse despite self-care",
+      "Severe pain in the face or forehead that painkillers do not help",
+      "You have a weakened immune system"
+    ],
+    "commonCauses": [
+      {"title": "Common cold", "detail": "Viral infection with a blocked or runny nose that improves within 1 to 2 weeks."},
+      {"title": "Allergies", "detail": "Hay fever, dust mites or pets can cause a blocked, itchy, sneezy nose."},
+      {"title": "Sinusitis", "detail": "Inflamed sinuses causing a blocked nose, facial pain and reduced smell."},
+      {"title": "Nasal polyps or a deviated septum", "detail": "Can cause long-term blockage, often worse on one side."}
+    ],
+    "selfCare": [
+      "Rinse your nose with a saltwater (saline) spray or rinse",
+      "Breathe in steam, for example in a warm shower",
+      "Raise your head with an extra pillow at night",
+      "Ask a pharmacist about decongestants or antihistamines that suit you",
+      "Rest and drink plenty of fluids"
+    ],
+    "avoid": [
+      "Using decongestant nasal sprays for more than about a week, as they can make congestion worse",
+      "Smoking and smoky rooms",
+      "Antibiotics for a cold, which do not work against viruses"
+    ],
+    "seeDoctorIf": [
+      "Your blocked nose has lasted more than 3 weeks",
+      "It is only ever blocked on one side",
+      "You have nosebleeds or bloody discharge with it",
+      "You keep getting sinusitis"
+    ],
+    "selfCareMaxDays": 21,
+    "sources": [
+      {"label": "NHS – Sinusitis (sinus infection)", "url": "https://www.nhs.uk/conditions/sinusitis-sinus-infection/"},
+      {"label": "NHS – Common cold", "url": "https://www.nhs.uk/conditions/common-cold/"},
+      {"label": "MedlinePlus – Stuffy or runny nose (adult)", "url": "https://medlineplus.gov/ency/article/003049.htm"}
+    ]
+  },
+  {
+    "id": "runny-nose",
+    "name": "Runny nose and sneezing",
+    "aliases": ["runny nose", "sneezing a lot", "streaming nose", "nose dripping", "constant sneezing", "post-nasal drip"],
+    "bodyArea": "Ears, nose & throat",
+    "summary": "A runny nose and sneezing are usually caused by a cold or an allergy such as hay fever. They are rarely serious and usually settle with time and simple care.",
+    "redFlags": [
+      "Sneezing or runny nose with swelling of the lips, tongue or throat, wheezing or difficulty breathing",
+      "Clear watery fluid from the nose after a head injury"
+    ],
+    "urgentFlags": [
+      "Feeling very unwell with a very high temperature",
+      "Symptoms suddenly getting worse after starting to improve",
+      "Shortness of breath or chest pain with a cold"
+    ],
+    "commonCauses": [
+      {"title": "Common cold", "detail": "A viral infection that usually gets better within 1 to 2 weeks."},
+      {"title": "Hay fever and other allergies", "detail": "Sneezing, itchy eyes and a runny nose triggered by pollen, dust or pets."},
+      {"title": "Non-allergic rhinitis", "detail": "Runny nose triggered by things like cold air, spicy food or strong smells."},
+      {"title": "Flu or COVID-19", "detail": "Usually with fever, aches and tiredness."}
+    ],
+    "selfCare": [
+      "Rest and drink plenty of fluids",
+      "Use saltwater nasal sprays or rinses",
+      "Ask a pharmacist about antihistamines for allergy symptoms",
+      "Wash your hands often and catch sneezes in a tissue",
+      "On high-pollen days, keep windows closed and shower after being outside"
+    ],
+    "avoid": [
+      "Antibiotics for a cold",
+      "Overusing decongestant sprays",
+      "Unproven remedies such as high-dose vitamin supplements to cure a cold"
+    ],
+    "seeDoctorIf": [
+      "Symptoms do not improve after 3 weeks",
+      "Allergy symptoms are not controlled by pharmacy treatments",
+      "You have a long-term condition such as asthma and symptoms are affecting it"
+    ],
+    "selfCareMaxDays": 21,
+    "sources": [
+      {"label": "NHS – Common cold", "url": "https://www.nhs.uk/conditions/common-cold/"},
+      {"label": "NHS – Allergic rhinitis", "url": "https://www.nhs.uk/conditions/allergic-rhinitis/"},
+      {"label": "MedlinePlus – Sneezing", "url": "https://medlineplus.gov/ency/article/003060.htm"}
+    ]
+  },
+  {
+    "id": "nosebleed",
+    "name": "Nosebleed",
+    "aliases": ["nose bleeding", "bloody nose", "nose bleed won't stop", "frequent nosebleeds", "blood from nose"],
+    "bodyArea": "Ears, nose & throat",
+    "summary": "Nosebleeds are common and usually not serious. Most stop with simple first aid within 10 to 15 minutes.",
+    "redFlags": [
+      "The nosebleed lasts longer than 10 to 15 minutes despite pressure",
+      "The bleeding seems very heavy",
+      "Swallowing a large amount of blood that makes you vomit",
+      "The bleeding started after a blow to the head",
+      "Feeling weak, dizzy or faint",
+      "Difficulty breathing"
+    ],
+    "urgentFlags": [
+      "A nosebleed in someone taking blood-thinning medicine",
+      "A nosebleed in someone with a bleeding disorder such as haemophilia",
+      "A nosebleed after an injury to the nose that may be broken"
+    ],
+    "commonCauses": [
+      {"title": "Picking or blowing the nose", "detail": "The blood vessels inside the front of the nose are delicate and easily damaged."},
+      {"title": "Dry air", "detail": "A dry nose from heating or changes in temperature cracks and bleeds more easily."},
+      {"title": "Colds and allergies", "detail": "Inflammation and frequent blowing make bleeding more likely."},
+      {"title": "Injury, medicines or blood conditions", "detail": "Blood thinners, a broken nose or clotting problems can cause heavier bleeding."}
+    ],
+    "selfCare": [
+      "Sit down and lean forward, not back",
+      "Pinch the soft part of your nose just above the nostrils firmly for 10 to 15 minutes",
+      "Breathe through your mouth and spit out any blood",
+      "Hold an ice pack wrapped in a cloth on the bridge of the nose",
+      "Once stopped, avoid blowing or picking your nose and avoid hot drinks and heavy lifting for 24 hours"
+    ],
+    "avoid": [
+      "Tilting your head back, which makes you swallow blood",
+      "Lying down during a nosebleed",
+      "Picking or blowing your nose straight afterwards"
+    ],
+    "seeDoctorIf": [
+      "You have regular nosebleeds",
+      "A child under 2 has had a nosebleed",
+      "You have signs of anaemia such as tiredness, pale skin or breathlessness",
+      "You take blood-thinning medicine and keep getting nosebleeds"
+    ],
+    "selfCareMaxDays": 1,
+    "sources": [
+      {"label": "NHS – Nosebleed", "url": "https://www.nhs.uk/conditions/nosebleed/"},
+      {"label": "MedlinePlus – Nose injuries and disorders", "url": "https://medlineplus.gov/noseinjuriesanddisorders.html"}
+    ]
+  },
+  {
+    "id": "sinus-pain",
+    "name": "Sinus pain or pressure",
+    "aliases": ["sinus pain", "sinus headache", "pain in cheeks", "pressure behind eyes and nose", "sinus infection", "face pain when bending down"],
+    "bodyArea": "Ears, nose & throat",
+    "summary": "Pain or pressure around the cheeks, eyes and forehead is often caused by sinusitis, usually after a cold. It is mostly viral and gets better on its own within 2 to 3 weeks.",
+    "redFlags": [
+      "Swelling or redness around the eyes, double vision or difficulty moving the eye",
+      "A severe headache with a stiff neck, confusion or a rash that does not fade",
+      "Swelling of the forehead with a high temperature"
+    ],
+    "urgentFlags": [
+      "Feeling very unwell",
+      "Painkillers do not help or symptoms are getting worse",
+      "You have a weakened immune system, for example from chemotherapy"
+    ],
+    "commonCauses": [
+      {"title": "Viral sinusitis", "detail": "Swelling of the sinuses after a cold; the most common cause."},
+      {"title": "Bacterial sinusitis", "detail": "Less common; symptoms may be severe or get worse after starting to improve."},
+      {"title": "Allergies", "detail": "Hay fever can cause sinus congestion and pressure."},
+      {"title": "Dental infection", "detail": "An infected upper tooth can cause pain in the cheek."}
+    ],
+    "selfCare": [
+      "Rest and drink plenty of fluids",
+      "Take over-the-counter pain relief such as paracetamol or ibuprofen, following the pack instructions",
+      "Hold a warm compress over your face",
+      "Rinse your nose with a saltwater solution",
+      "Ask a pharmacist about decongestant sprays or other remedies that suit you"
+    ],
+    "avoid": [
+      "Expecting antibiotics; most sinusitis is viral and clears without them",
+      "Using decongestant sprays for more than about a week",
+      "Smoking and smoky environments"
+    ],
+    "seeDoctorIf": [
+      "You are not better after 3 weeks of self-care",
+      "You are not better after 7 days of treatment from a pharmacist or doctor",
+      "You keep getting sinusitis",
+      "Symptoms are only on one side of your face"
+    ],
+    "selfCareMaxDays": 21,
+    "sources": [
+      {"label": "NHS – Sinusitis (sinus infection)", "url": "https://www.nhs.uk/conditions/sinusitis-sinus-infection/"},
+      {"label": "MedlinePlus – Sinusitis", "url": "https://medlineplus.gov/sinusitis.html"}
+    ]
+  },
+  {
+    "id": "loss-of-smell",
+    "name": "Loss of smell or changed sense of smell",
+    "aliases": ["can't smell", "lost sense of smell", "things smell strange", "smell is distorted", "anosmia", "parosmia"],
+    "bodyArea": "Ears, nose & throat",
+    "summary": "Losing your sense of smell, or things smelling different, is common after colds, flu, COVID-19 and sinus problems. It often recovers on its own within weeks, but can sometimes take longer.",
+    "redFlags": [
+      "Loss of smell after a head injury with clear fluid from the nose, severe headache or confusion",
+      "Loss of smell with sudden weakness, face drooping or slurred speech"
+    ],
+    "urgentFlags": [
+      "Loss of smell with nosebleeds or bloody discharge on one side",
+      "Loss of smell with a blocked nose on one side only and facial swelling"
+    ],
+    "commonCauses": [
+      {"title": "Colds, flu and COVID-19", "detail": "Viral infections commonly affect smell, which usually returns over weeks."},
+      {"title": "Sinusitis and nasal polyps", "detail": "Swelling and growths can block smells reaching the top of the nose."},
+      {"title": "Allergies", "detail": "Hay fever and other allergies can reduce your sense of smell."},
+      {"title": "Ageing, smoking and some medicines", "detail": "Smell naturally weakens with age and can be affected by smoking and medicines."},
+      {"title": "Neurological conditions", "detail": "Less commonly, loss of smell can be an early sign of conditions such as Parkinson's disease."}
+    ],
+    "selfCare": [
+      "Try smell training: sniff a few strong scents, such as lemon, rose, clove and eucalyptus, twice a day for several months",
+      "Fit a smoke alarm and check use-by dates, since you may not smell burning or spoiled food",
+      "Treat any blocked nose with saline rinses",
+      "Stop smoking"
+    ],
+    "avoid": [
+      "Supplements or sprays that claim to restore smell without evidence",
+      "Overusing decongestant sprays"
+    ],
+    "seeDoctorIf": [
+      "Your sense of smell has not returned within 3 weeks",
+      "You have lost smell without a cold or other clear cause",
+      "Changes in smell are affecting your eating or mood"
+    ],
+    "selfCareMaxDays": 21,
+    "sources": [
+      {"label": "NHS – Lost or changed sense of smell", "url": "https://www.nhs.uk/symptoms/lost-or-changed-sense-smell/"},
+      {"label": "MedlinePlus – Smell, impaired", "url": "https://medlineplus.gov/ency/article/003052.htm"}
+    ]
+  }
+]

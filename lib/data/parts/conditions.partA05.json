@@ -1,0 +1,338 @@
+[
+  {
+    "id": "migraine",
+    "name": "Migraine",
+    "aliases": ["migraine headache", "migraine with aura", "sick headache"],
+    "category": "Brain & nerves",
+    "overview": "A migraine is usually a moderate or severe headache felt as a throbbing pain on one side of the head, often with feeling sick and sensitivity to light or sound. It is a common condition. Treatments can ease attacks and reduce how often they happen.",
+    "symptoms": ["Throbbing headache, often on one side", "Feeling or being sick", "Sensitivity to light, sound or smells", "Visual disturbances (aura) such as flashing lights or zigzags before the headache", "Numbness, tingling or difficulty speaking during an aura", "Tiredness before or after an attack"],
+    "causes": ["Not fully understood, thought to involve changes in brain activity, nerves and blood vessels", "Triggers such as stress, poor sleep, hormonal changes, missed meals, dehydration and some foods or alcohol"],
+    "riskFactors": ["Family history of migraine", "Female sex", "Hormonal changes around periods", "Stress and irregular sleep"],
+    "diagnosis": "Migraine is diagnosed from the pattern of symptoms and an examination; scans are usually only needed if there are unusual features.",
+    "treatment": ["Painkillers such as paracetamol, ibuprofen or aspirin taken early in an attack", "Triptan medicines prescribed by a doctor", "Anti-sickness medicines", "Preventive medicines if attacks are frequent"],
+    "selfCare": ["Rest in a quiet, dark room during an attack", "Keep a migraine diary to identify triggers", "Regular sleep, meals and fluids", "Avoid taking painkillers on too many days, which can cause medication-overuse headaches"],
+    "prevention": ["Avoid known triggers", "Regular sleep and meals", "Manage stress", "Preventive treatment if recommended"],
+    "whenToSeeDoctor": ["Frequent or severe migraines", "Painkillers are not helping", "Symptoms on most days", "Migraine pattern changes"],
+    "emergencySigns": ["Sudden, extremely severe headache ('worst ever')", "Headache with stiff neck, fever, confusion or rash", "Weakness on one side, slurred speech or face drooping", "Headache after a head injury", "Loss of vision or seizures"],
+    "contagious": false,
+    "sources": [
+      { "label": "NHS: Migraine", "url": "https://www.nhs.uk/conditions/migraine/" },
+      { "label": "MedlinePlus: Migraine", "url": "https://medlineplus.gov/migraine.html" }
+    ]
+  },
+  {
+    "id": "tension-headache",
+    "name": "Tension-type headache",
+    "aliases": ["tension headache", "stress headache"],
+    "category": "Brain & nerves",
+    "overview": "Tension-type headaches are the most common kind of headache. They feel like a constant ache or pressure around the head, like a tight band. They are usually not serious and can be eased with simple painkillers and lifestyle changes.",
+    "symptoms": ["Pain on both sides of the head, face or neck", "A feeling of tightness or pressure around the forehead", "Tight or tender neck and shoulder muscles", "Can usually carry on with normal activities"],
+    "causes": ["Stress and anxiety", "Poor posture", "Lack of sleep", "Skipping meals or not drinking enough fluids", "Eye strain"],
+    "riskFactors": ["Stress", "Poor sleep", "Long hours at a screen", "Overusing painkillers"],
+    "diagnosis": "A doctor diagnoses tension-type headache from the symptoms and an examination.",
+    "treatment": ["Painkillers such as paracetamol or ibuprofen, used on a limited number of days", "Treatment for frequent headaches, sometimes including preventive medicine", "Physiotherapy or relaxation techniques"],
+    "selfCare": ["Regular exercise", "Relaxation and stress management", "Drink enough water and eat regularly", "Improve posture and take screen breaks"],
+    "prevention": ["Regular sleep", "Managing stress", "Avoiding overuse of painkillers"],
+    "whenToSeeDoctor": ["Headaches several times a week or getting worse", "Painkillers are not helping", "Headaches with other symptoms such as numbness or weakness"],
+    "emergencySigns": ["Sudden, severe headache", "Headache with stiff neck, fever or rash", "Headache with weakness, confusion or slurred speech", "Headache after a head injury"],
+    "contagious": false,
+    "sources": [
+      { "label": "NHS: Tension-type headaches", "url": "https://www.nhs.uk/conditions/tension-headaches/" },
+      { "label": "MedlinePlus: Headache", "url": "https://medlineplus.gov/headache.html" }
+    ]
+  },
+  {
+    "id": "epilepsy",
+    "name": "Epilepsy",
+    "aliases": ["seizure disorder", "fits", "seizures"],
+    "category": "Brain & nerves",
+    "overview": "Epilepsy is a condition where sudden bursts of electrical activity in the brain cause repeated seizures. It can start at any age. Most people can control their seizures with medicine.",
+    "symptoms": ["Uncontrollable jerking and shaking (a fit)", "Losing awareness and staring blankly", "Becoming stiff", "Strange sensations such as tingling, a rising feeling in the tummy or unusual smells", "Collapsing"],
+    "causes": ["Often no clear cause is found", "Brain damage from stroke, head injury, infection such as meningitis, or a tumour", "Genetic factors"],
+    "riskFactors": ["Family history of epilepsy", "Previous serious head injury or stroke", "Brain infections", "Dementia"],
+    "diagnosis": "Epilepsy is diagnosed by a specialist using a description of the seizures, an EEG to record brain activity, and brain scans such as MRI.",
+    "treatment": ["Anti-seizure medicines", "Surgery for some people", "Special diets or nerve-stimulation devices in some cases"],
+    "selfCare": ["Take medicines regularly as prescribed", "Get enough sleep and avoid known triggers such as alcohol excess", "Follow safety advice for bathing, swimming and driving", "Share a seizure action plan with family and friends"],
+    "prevention": ["Prevent head injuries, for example by wearing helmets", "Take medicines regularly to reduce seizures"],
+    "whenToSeeDoctor": ["Someone has a seizure for the first time", "Seizures become more frequent or change", "Side effects from medicines", "You are planning pregnancy"],
+    "emergencySigns": ["A seizure lasting more than 5 minutes", "Repeated seizures without recovering in between", "First-ever seizure", "Serious injury or breathing difficulty during a seizure", "Seizure in water"],
+    "contagious": false,
+    "sources": [
+      { "label": "NHS: Epilepsy", "url": "https://www.nhs.uk/conditions/epilepsy/" },
+      { "label": "WHO: Epilepsy", "url": "https://www.who.int/news-room/fact-sheets/detail/epilepsy" }
+    ]
+  },
+  {
+    "id": "parkinsons-disease",
+    "name": "Parkinson's disease",
+    "aliases": ["Parkinson's", "parkinsonism"],
+    "category": "Brain & nerves",
+    "overview": "Parkinson's disease is a condition where parts of the brain become progressively damaged over many years, mainly affecting movement. There is no cure yet, but treatments help control symptoms and keep people active.",
+    "symptoms": ["Shaking (tremor), often starting in one hand", "Slow movement", "Stiff and inflexible muscles", "Balance problems", "Loss of sense of smell, constipation, sleep problems and low mood", "Memory or thinking problems later on"],
+    "causes": ["Loss of nerve cells in the part of the brain that produces dopamine", "Thought to be a combination of genetic and environmental factors"],
+    "riskFactors": ["Older age, usually over 50", "Male sex", "Family history", "Possibly exposure to some pesticides"],
+    "diagnosis": "Parkinson's is diagnosed by a specialist from symptoms and an examination; there is no single test, and scans may be used to rule out other causes.",
+    "treatment": ["Medicines that replace or mimic dopamine", "Physiotherapy, occupational therapy and speech therapy", "Deep brain stimulation surgery for some people"],
+    "selfCare": ["Stay as physically active as possible", "Eat a balanced, high-fibre diet", "Take medicines on time", "Make the home safer to prevent falls"],
+    "prevention": ["There is no proven way to prevent Parkinson's; regular exercise is good for overall health"],
+    "whenToSeeDoctor": ["Tremor, stiffness or slowness of movement", "Problems with balance or frequent falls", "Changes in symptoms or medicine side effects"],
+    "emergencySigns": ["A fall with a head injury or inability to get up", "Sudden severe confusion or hallucinations", "Choking or severe difficulty swallowing"],
+    "contagious": false,
+    "sources": [
+      { "label": "NHS: Parkinson's disease", "url": "https://www.nhs.uk/conditions/parkinsons-disease/" },
+      { "label": "MedlinePlus: Parkinson's Disease", "url": "https://medlineplus.gov/parkinsonsdisease.html" }
+    ]
+  },
+  {
+    "id": "dementia",
+    "name": "Dementia",
+    "aliases": ["memory loss", "senility", "vascular dementia", "Lewy body dementia"],
+    "category": "Brain & nerves",
+    "overview": "Dementia is a group of symptoms caused by diseases that damage the brain, affecting memory, thinking and daily life. It is not a normal part of ageing. Alzheimer's disease is the most common cause, followed by vascular dementia.",
+    "symptoms": ["Memory loss, especially of recent events", "Difficulty concentrating or planning", "Confusion about time or place", "Problems finding the right words", "Changes in mood or behaviour", "Difficulty with everyday tasks"],
+    "causes": ["Alzheimer's disease", "Vascular dementia from reduced blood flow to the brain", "Dementia with Lewy bodies", "Frontotemporal dementia"],
+    "riskFactors": ["Older age", "High blood pressure, diabetes and smoking", "Physical inactivity", "Hearing loss", "Heavy drinking", "Family history"],
+    "diagnosis": "A GP asks about symptoms, does memory tests and blood tests, and may refer to a memory clinic for specialist assessment and brain scans.",
+    "treatment": ["Medicines that may help some symptoms of Alzheimer's or Lewy body dementia", "Managing risk factors in vascular dementia", "Cognitive stimulation and other activities", "Support for carers and planning for the future"],
+    "selfCare": ["Keep active, physically and socially", "Use reminders such as calendars and lists", "Keep a regular routine", "Plan ahead, including legal and financial matters"],
+    "prevention": ["Stay physically active", "Do not smoke and limit alcohol", "Control blood pressure and diabetes", "Treat hearing loss", "Stay socially and mentally active"],
+    "whenToSeeDoctor": ["Memory problems that are getting worse", "Concern from family or friends about memory or behaviour", "Difficulty managing daily tasks"],
+    "emergencySigns": ["Sudden confusion or rapid worsening (could be infection, stroke or delirium)", "Signs of stroke: face drooping, arm weakness, speech problems"],
+    "contagious": false,
+    "sources": [
+      { "label": "WHO: Dementia", "url": "https://www.who.int/news-room/fact-sheets/detail/dementia" },
+      { "label": "MedlinePlus: Dementia", "url": "https://medlineplus.gov/dementia.html" }
+    ]
+  },
+  {
+    "id": "alzheimers-disease",
+    "name": "Alzheimer's disease",
+    "aliases": ["Alzheimer's", "Alzheimer disease"],
+    "category": "Brain & nerves",
+    "overview": "Alzheimer's disease is the most common cause of dementia. It gradually damages brain cells, affecting memory, thinking and behaviour. There is no cure, but treatments and support can help people live as well as possible.",
+    "symptoms": ["Forgetting recent conversations or events", "Misplacing items", "Getting lost in familiar places", "Difficulty finding words", "Problems with planning and decision-making", "Mood changes, anxiety or withdrawal"],
+    "causes": ["Build-up of abnormal proteins in the brain that damage nerve cells", "A combination of age, genes, lifestyle and environment"],
+    "riskFactors": ["Older age", "Family history", "Down's syndrome", "Head injuries", "Cardiovascular risk factors such as high blood pressure, smoking and diabetes"],
+    "diagnosis": "It is diagnosed through memory and thinking tests, a medical history, blood tests to rule out other causes, and sometimes brain scans at a specialist clinic.",
+    "treatment": ["Medicines that can help some symptoms for a time", "Activities and therapies to support memory and wellbeing", "Treatment for related problems such as low mood or sleep problems", "Care and support planning"],
+    "selfCare": ["Keep a routine and use memory aids", "Stay active and socially connected", "Make the home safe", "Make plans for future care while able"],
+    "prevention": ["Healthy lifestyle: activity, not smoking, healthy diet", "Control blood pressure and diabetes", "Stay mentally and socially active"],
+    "whenToSeeDoctor": ["Worsening memory problems", "Family members notice changes in memory or behaviour"],
+    "emergencySigns": ["Sudden confusion or a rapid change in behaviour", "A fall with head injury", "Signs of stroke"],
+    "contagious": false,
+    "sources": [
+      { "label": "NHS: Alzheimer's disease", "url": "https://www.nhs.uk/conditions/alzheimers-disease/" },
+      { "label": "MedlinePlus: Alzheimer's Disease", "url": "https://medlineplus.gov/alzheimersdisease.html" }
+    ]
+  },
+  {
+    "id": "multiple-sclerosis",
+    "name": "Multiple sclerosis (MS)",
+    "aliases": ["MS"],
+    "category": "Brain & nerves",
+    "overview": "Multiple sclerosis is a lifelong condition where the immune system damages the protective coating around nerves in the brain and spinal cord. It can cause a wide range of symptoms, which vary between people. Treatments can reduce relapses and help manage symptoms.",
+    "symptoms": ["Fatigue", "Vision problems, such as blurred vision or pain moving the eye", "Numbness or tingling", "Muscle stiffness, spasms or weakness", "Problems with balance and walking", "Bladder problems and difficulty thinking or concentrating"],
+    "causes": ["The immune system attacking the myelin coating of nerves (an autoimmune condition)", "A mix of genetic and environmental factors, including low vitamin D, smoking and past Epstein-Barr virus infection"],
+    "riskFactors": ["Female sex", "Age 20 to 40 at onset", "Family history", "Smoking", "Past glandular fever"],
+    "diagnosis": "MS is diagnosed by a neurologist using a neurological examination, an MRI scan, and sometimes a lumbar puncture.",
+    "treatment": ["Disease-modifying medicines to reduce relapses", "Steroids to speed recovery from relapses", "Treatments for specific symptoms such as fatigue, spasms or bladder problems", "Physiotherapy and rehabilitation"],
+    "selfCare": ["Regular exercise", "Balanced diet", "Stop smoking", "Plan rest to manage fatigue"],
+    "prevention": ["There is no known way to prevent MS; not smoking may lower risk"],
+    "whenToSeeDoctor": ["Vision problems, numbness, weakness or balance problems that last more than a day", "New or worsening symptoms if you have MS"],
+    "emergencySigns": ["Sudden weakness on one side, face drooping or slurred speech", "Sudden severe loss of vision", "Unable to pee"],
+    "contagious": false,
+    "sources": [
+      { "label": "NHS: Multiple sclerosis", "url": "https://www.nhs.uk/conditions/multiple-sclerosis/" },
+      { "label": "MedlinePlus: Multiple Sclerosis", "url": "https://medlineplus.gov/multiplesclerosis.html" }
+    ]
+  },
+  {
+    "id": "depression",
+    "name": "Depression",
+    "aliases": ["clinical depression", "major depressive disorder", "low mood"],
+    "category": "Mental health",
+    "overview": "Depression is more than feeling unhappy for a few days. It is a common mental health condition where low mood or loss of interest lasts for weeks or months and affects daily life. It is treatable, and most people recover with the right support.",
+    "symptoms": ["Continuous low mood or sadness", "Loss of interest or enjoyment in things", "Feeling hopeless, guilty or worthless", "Tiredness and lack of energy", "Changes in sleep or appetite", "Difficulty concentrating, or thoughts of self-harm or suicide"],
+    "causes": ["Often a mix of factors rather than one cause", "Stressful life events such as bereavement, divorce, job loss or illness", "Family history and personality", "Long-term health conditions, alcohol or drug use"],
+    "riskFactors": ["Family history of depression", "Stressful or traumatic life events", "Loneliness or isolation", "Long-term illness", "Heavy alcohol or drug use", "After giving birth"],
+    "diagnosis": "A GP or mental health professional diagnoses depression by talking about symptoms, how long they have lasted and how they affect daily life.",
+    "treatment": ["Talking therapies such as cognitive behavioural therapy (CBT)", "Antidepressant medicines prescribed by a doctor", "Combination of therapy and medicine", "Specialist mental health care for severe depression"],
+    "selfCare": ["Stay connected with people you trust", "Be physically active", "Keep a regular sleep routine", "Avoid alcohol and drugs", "Use self-help and peer support"],
+    "prevention": ["Regular physical activity", "Social connection", "Seeking help early when mood is low"],
+    "whenToSeeDoctor": ["Low mood or loss of interest lasting more than 2 weeks", "Depression affecting work, relationships or daily life", "Treatment is not helping"],
+    "emergencySigns": ["Thoughts of ending your life or making plans to do so", "Having harmed yourself seriously", "Feeling unable to keep yourself safe"],
+    "contagious": false,
+    "sources": [
+      { "label": "NIMH: Depression", "url": "https://www.nimh.nih.gov/health/topics/depression" },
+      { "label": "MedlinePlus: Depression", "url": "https://medlineplus.gov/depression.html" }
+    ]
+  },
+  {
+    "id": "generalised-anxiety-disorder",
+    "name": "Generalised anxiety disorder (GAD)",
+    "aliases": ["anxiety", "GAD", "generalized anxiety disorder", "worry"],
+    "category": "Mental health",
+    "overview": "Generalised anxiety disorder is a long-term condition where you feel anxious about many different things, most days, and find it hard to control the worry. It is common and treatable with talking therapies, medicines and self-help.",
+    "symptoms": ["Persistent worry that is hard to control", "Feeling restless or on edge", "Difficulty concentrating", "Trouble sleeping", "Irritability", "Physical symptoms such as a fast heartbeat, muscle tension, sweating or dizziness"],
+    "causes": ["A mix of genetic, biological and life experience factors", "Stressful or traumatic experiences", "Long-term health conditions or alcohol and drug use"],
+    "riskFactors": ["Family history of anxiety", "Stressful or traumatic life events", "Long-term illness", "Heavy alcohol, caffeine or drug use", "Other mental health conditions such as depression"],
+    "diagnosis": "A GP or mental health professional diagnoses GAD by asking about symptoms, how long they have lasted and how they affect daily life.",
+    "treatment": ["Talking therapies such as CBT", "Guided self-help programmes", "Medicines such as certain antidepressants, prescribed by a doctor"],
+    "selfCare": ["Regular exercise", "Breathing and relaxation exercises", "Cut down on caffeine and alcohol", "Talk to someone you trust", "Keep a regular sleep routine"],
+    "prevention": ["Healthy routines for sleep and exercise", "Seeking support early"],
+    "whenToSeeDoctor": ["Anxiety is affecting daily life", "Worry has lasted for several weeks or months", "Self-help has not worked"],
+    "emergencySigns": ["Thoughts of suicide or self-harm", "Chest pain or breathlessness that could be a heart problem (do not assume it is anxiety)"],
+    "contagious": false,
+    "sources": [
+      { "label": "NIMH: Anxiety Disorders", "url": "https://www.nimh.nih.gov/health/topics/anxiety-disorders" },
+      { "label": "MedlinePlus: Anxiety", "url": "https://medlineplus.gov/anxiety.html" }
+    ]
+  },
+  {
+    "id": "panic-disorder",
+    "name": "Panic disorder",
+    "aliases": ["panic attacks", "anxiety attacks"],
+    "category": "Mental health",
+    "overview": "Panic disorder is an anxiety condition where you have regular, sudden panic attacks, often for no obvious reason, and worry about having more. Panic attacks feel frightening but are not dangerous in themselves. Treatment is effective.",
+    "symptoms": ["Sudden intense fear or a sense of doom", "Racing or pounding heartbeat", "Feeling faint, dizzy or lightheaded", "Shortness of breath or feeling of choking", "Sweating, trembling or hot flushes", "Chest pain, nausea or tingling fingers"],
+    "causes": ["A mix of genetic and life experience factors", "Stressful life events", "Sensitivity to the body's stress responses"],
+    "riskFactors": ["Family history of panic disorder", "Major stress or trauma", "Other anxiety disorders or depression", "Heavy caffeine, alcohol or drug use"],
+    "diagnosis": "A doctor diagnoses panic disorder from your description of attacks, and may do tests to rule out heart or thyroid problems.",
+    "treatment": ["Talking therapies such as CBT", "Medicines such as certain antidepressants, prescribed by a doctor", "Self-help programmes"],
+    "selfCare": ["During an attack, stay where you are and breathe slowly and deeply", "Remind yourself that the attack will pass", "Regular exercise and relaxation", "Limit caffeine and alcohol"],
+    "prevention": ["Regular exercise", "Manage stress", "Treatment can reduce future attacks"],
+    "whenToSeeDoctor": ["You have repeated panic attacks", "Fear of attacks is stopping you doing things", "You are avoiding places or situations"],
+    "emergencySigns": ["Chest pain with sweating or pain spreading to the arm or jaw, especially if you have not had panic attacks before", "Thoughts of suicide or self-harm"],
+    "contagious": false,
+    "sources": [
+      { "label": "MedlinePlus: Panic Disorder", "url": "https://medlineplus.gov/panicdisorder.html" },
+      { "label": "NIMH: Anxiety Disorders", "url": "https://www.nimh.nih.gov/health/topics/anxiety-disorders" }
+    ]
+  },
+  {
+    "id": "ptsd",
+    "name": "Post-traumatic stress disorder (PTSD)",
+    "aliases": ["PTSD", "complex PTSD", "trauma"],
+    "category": "Mental health",
+    "overview": "PTSD is a mental health condition that can develop after experiencing or witnessing a frightening or distressing event. People relive the trauma through flashbacks or nightmares and may feel constantly on guard. Effective treatments are available, even years after the event.",
+    "symptoms": ["Reliving the event through flashbacks, nightmares or intrusive images", "Avoiding reminders of the trauma", "Feeling on edge, irritable or easily startled", "Difficulty sleeping and concentrating", "Feeling numb, guilty or detached", "Physical symptoms such as sweating or pain when reminded"],
+    "causes": ["Experiencing or witnessing traumatic events such as assault, accidents, abuse, war or disasters", "Repeated trauma can lead to complex PTSD"],
+    "riskFactors": ["Previous trauma or mental health problems", "Lack of support after the event", "Ongoing stress", "Jobs with repeated exposure to trauma"],
+    "diagnosis": "A GP or mental health professional diagnoses PTSD by talking about symptoms and how long they have lasted, usually more than a month after the event.",
+    "treatment": ["Trauma-focused talking therapies such as trauma-focused CBT", "Eye movement desensitisation and reprocessing (EMDR)", "Antidepressant medicines in some cases"],
+    "selfCare": ["Talk to people you trust", "Keep regular routines for sleep, meals and exercise", "Avoid using alcohol or drugs to cope", "Join a support group"],
+    "prevention": ["Getting support soon after a traumatic event", "Seeking help early if symptoms persist"],
+    "whenToSeeDoctor": ["Symptoms lasting more than 4 weeks after a traumatic event", "Symptoms affecting daily life or relationships"],
+    "emergencySigns": ["Thoughts of suicide or self-harm", "Feeling unable to keep yourself or others safe"],
+    "contagious": false,
+    "sources": [
+      { "label": "NIMH: Post-Traumatic Stress Disorder", "url": "https://www.nimh.nih.gov/health/topics/post-traumatic-stress-disorder-ptsd" },
+      { "label": "MedlinePlus: Post-Traumatic Stress Disorder", "url": "https://medlineplus.gov/posttraumaticstressdisorder.html" }
+    ]
+  },
+  {
+    "id": "adhd",
+    "name": "Attention deficit hyperactivity disorder (ADHD)",
+    "aliases": ["ADHD", "ADD", "attention deficit disorder"],
+    "category": "Mental health",
+    "overview": "ADHD is a condition that affects attention, activity levels and impulse control. Symptoms usually start in childhood and often continue into adulthood. Support, strategies and medicines can help people manage day-to-day life.",
+    "symptoms": ["Short attention span and being easily distracted", "Forgetfulness and losing things", "Difficulty organising tasks", "Restlessness or fidgeting", "Talking excessively or interrupting", "Acting without thinking"],
+    "causes": ["Strong genetic component: it often runs in families", "Differences in brain development and function"],
+    "riskFactors": ["Family history of ADHD", "Premature birth or low birth weight", "Exposure to alcohol, smoking or drugs during pregnancy"],
+    "diagnosis": "ADHD is diagnosed by a specialist such as a psychiatrist or paediatrician, based on a detailed assessment of symptoms over time and in different settings.",
+    "treatment": ["Medicines prescribed and monitored by a specialist", "Parent training and education programmes", "Talking therapies such as CBT", "Support at school or work"],
+    "selfCare": ["Use routines, lists and reminders", "Break tasks into smaller steps", "Regular exercise and sleep", "Healthy, regular meals"],
+    "prevention": ["There is no known way to prevent ADHD"],
+    "whenToSeeDoctor": ["You think you or your child may have ADHD", "Symptoms are causing problems at school, work or in relationships"],
+    "emergencySigns": ["Thoughts of suicide or self-harm", "Chest pain or fainting while taking ADHD medicine"],
+    "contagious": false,
+    "sources": [
+      { "label": "NIMH: ADHD", "url": "https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd" },
+      { "label": "MedlinePlus: ADHD", "url": "https://medlineplus.gov/attentiondeficithyperactivitydisorder.html" }
+    ]
+  },
+  {
+    "id": "bipolar-disorder",
+    "name": "Bipolar disorder",
+    "aliases": ["manic depression", "bipolar", "mania"],
+    "category": "Mental health",
+    "overview": "Bipolar disorder is a mental health condition that causes extreme mood swings, from periods of depression to periods of very high mood and energy (mania or hypomania). It is a long-term condition, but treatment helps most people manage it well.",
+    "symptoms": ["Periods of depression: low mood, lack of energy, hopelessness", "Periods of mania: feeling very happy or irritable, full of energy and ideas", "Talking quickly and needing little sleep", "Taking risks or making unusual decisions, such as spending sprees", "Sometimes seeing or hearing things others do not (psychosis)"],
+    "causes": ["A mix of genetic and environmental factors", "Episodes can be triggered by stress, sleep disruption or substance use"],
+    "riskFactors": ["Family history of bipolar disorder", "Major stress or trauma", "Alcohol or drug use"],
+    "diagnosis": "Bipolar disorder is diagnosed by a psychiatrist after assessing mood patterns, symptoms and history over time.",
+    "treatment": ["Mood-stabilising medicines prescribed by a specialist", "Talking therapies", "Learning to recognise early warning signs of an episode", "Hospital care during severe episodes"],
+    "selfCare": ["Keep a regular sleep routine", "Track your mood", "Avoid alcohol and drugs", "Take medicines as prescribed even when well"],
+    "prevention": ["Keep to treatment plans", "Recognise and act on early warning signs"],
+    "whenToSeeDoctor": ["Periods of very high or very low mood", "Mood changes affecting work or relationships", "Side effects of medicines"],
+    "emergencySigns": ["Thoughts of suicide or self-harm", "Severe mania or psychosis putting you or others at risk"],
+    "contagious": false,
+    "sources": [
+      { "label": "NIMH: Bipolar Disorder", "url": "https://www.nimh.nih.gov/health/topics/bipolar-disorder" },
+      { "label": "MedlinePlus: Bipolar Disorder", "url": "https://medlineplus.gov/bipolardisorder.html" }
+    ]
+  },
+  {
+    "id": "insomnia",
+    "name": "Insomnia",
+    "aliases": ["sleeplessness", "can't sleep", "sleep problems"],
+    "category": "Mental health",
+    "overview": "Insomnia means regularly having problems getting to sleep or staying asleep, and feeling tired during the day. It is common and often improves with changes to sleep habits. Talking therapy for insomnia is the main long-term treatment.",
+    "symptoms": ["Difficulty getting to sleep", "Waking several times in the night or too early", "Lying awake at night", "Feeling tired and irritable during the day", "Difficulty concentrating"],
+    "causes": ["Stress, anxiety or depression", "Noise, light or an uncomfortable bedroom", "Alcohol, caffeine or nicotine", "Shift work or jet lag", "Physical health problems or some medicines"],
+    "riskFactors": ["Older age", "Female sex", "Mental health conditions", "Long-term pain or illness", "Irregular schedules"],
+    "diagnosis": "A GP diagnoses insomnia by asking about sleep habits and daily routine, sometimes using a sleep diary.",
+    "treatment": ["Improving sleep habits", "Cognitive behavioural therapy for insomnia (CBT-I)", "Treating any underlying cause", "Sleeping tablets only rarely and for a short time"],
+    "selfCare": ["Go to bed and wake up at the same time every day", "Relax before bed and avoid screens", "Keep the bedroom dark, quiet and cool", "Avoid caffeine, alcohol and heavy meals late in the evening", "Exercise regularly, but not just before bed"],
+    "prevention": ["Regular sleep schedule", "Limit caffeine and alcohol", "Manage stress"],
+    "whenToSeeDoctor": ["Sleep problems lasting more than a few weeks despite changes", "Insomnia affecting daily life", "Loud snoring or gasping during sleep"],
+    "emergencySigns": ["Thoughts of suicide or self-harm"],
+    "contagious": false,
+    "sources": [
+      { "label": "NHS: Insomnia", "url": "https://www.nhs.uk/conditions/insomnia/" },
+      { "label": "MedlinePlus: Insomnia", "url": "https://medlineplus.gov/insomnia.html" }
+    ]
+  },
+  {
+    "id": "ocd",
+    "name": "Obsessive compulsive disorder (OCD)",
+    "aliases": ["OCD", "obsessions", "compulsions"],
+    "category": "Mental health",
+    "overview": "OCD is a mental health condition where a person has unwanted, distressing thoughts (obsessions) and feels driven to carry out repetitive actions (compulsions) to relieve the anxiety. It can be very time-consuming, but treatment helps most people.",
+    "symptoms": ["Unwanted, intrusive thoughts, images or urges", "Fear of contamination, harm or things not being right", "Repetitive behaviours such as cleaning, checking or counting", "Mental rituals such as repeating words", "Spending a lot of time on rituals and feeling distressed"],
+    "causes": ["Not fully understood", "Genetics, brain differences and life experiences all play a part"],
+    "riskFactors": ["Family history of OCD", "Stressful or traumatic life events", "Certain personality traits such as perfectionism"],
+    "diagnosis": "OCD is diagnosed by a GP or mental health professional through a conversation about thoughts, behaviours and their impact.",
+    "treatment": ["Talking therapy: CBT with exposure and response prevention (ERP)", "Antidepressant medicines in some cases", "Specialist services for severe OCD"],
+    "selfCare": ["Learn about OCD", "Practise resisting compulsions gradually with support", "Join a support group", "Look after sleep, activity and stress"],
+    "prevention": ["Seeking help early can stop OCD getting worse"],
+    "whenToSeeDoctor": ["Obsessions or compulsions are taking up a lot of time or causing distress", "OCD is affecting work, school or relationships"],
+    "emergencySigns": ["Thoughts of suicide or self-harm"],
+    "contagious": false,
+    "sources": [
+      { "label": "NIMH: Obsessive-Compulsive Disorder", "url": "https://www.nimh.nih.gov/health/topics/obsessive-compulsive-disorder-ocd" },
+      { "label": "MedlinePlus: Obsessive-Compulsive Disorder", "url": "https://medlineplus.gov/obsessivecompulsivedisorder.html" }
+    ]
+  },
+  {
+    "id": "schizophrenia",
+    "name": "Schizophrenia",
+    "aliases": ["psychosis", "psychotic disorder"],
+    "category": "Mental health",
+    "overview": "Schizophrenia is a long-term mental health condition that affects how a person thinks, feels and perceives reality. People may experience hallucinations or delusions. With treatment and support, many people manage their symptoms and live well.",
+    "symptoms": ["Hallucinations: hearing or seeing things others do not", "Delusions: strong beliefs not shared by others", "Muddled thoughts or speech", "Losing interest in everyday activities and withdrawing from others", "Lack of motivation or emotion"],
+    "causes": ["A combination of genetic and environmental factors", "Stressful life events or drug use, such as cannabis, can trigger it in people at risk"],
+    "riskFactors": ["Family history", "Heavy cannabis or other drug use, especially in adolescence", "Complications during pregnancy or birth", "Major stress"],
+    "diagnosis": "Schizophrenia is diagnosed by a psychiatrist after a detailed assessment of symptoms over time, with tests to rule out other causes.",
+    "treatment": ["Antipsychotic medicines", "Talking therapies such as CBT for psychosis and family intervention", "Support from community mental health teams", "Hospital care during severe episodes"],
+    "selfCare": ["Take medicine as prescribed", "Avoid cannabis and other drugs", "Keep regular routines and stay physically active", "Stay in contact with your care team"],
+    "prevention": ["Avoiding cannabis and drug use may lower risk", "Early treatment of psychosis improves outcomes"],
+    "whenToSeeDoctor": ["Hearing or seeing things others do not", "Unusual beliefs or withdrawal noticed by others", "Side effects of medicines"],
+    "emergencySigns": ["Thoughts of suicide or self-harm", "Risk of harm to self or others", "Severe confusion or inability to look after oneself"],
+    "contagious": false,
+    "sources": [
+      { "label": "NIMH: Schizophrenia", "url": "https://www.nimh.nih.gov/health/topics/schizophrenia" },
+      { "label": "WHO: Schizophrenia", "url": "https://www.who.int/news-room/fact-sheets/detail/schizophrenia" }
+    ]
+  }
+]

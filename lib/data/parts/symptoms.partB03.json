@@ -1,0 +1,757 @@
+[
+  {
+    "id": "pain-during-sex",
+    "name": "Pain during sex",
+    "aliases": [
+      "painful sex",
+      "it hurts during sex",
+      "dyspareunia",
+      "pain during intercourse",
+      "sore after sex"
+    ],
+    "bodyArea": "Sexual & reproductive health",
+    "summary": "Pain during or after sex is common and has many causes, including vaginal dryness, infections and endometriosis. It is worth seeing a doctor, as most causes can be treated.",
+    "redFlags": [
+      "Sudden severe tummy or pelvic pain after sex, especially if you could be pregnant",
+      "Severe pain with fainting, dizziness or heavy bleeding"
+    ],
+    "urgentFlags": [
+      "Pain with a high temperature or unusual discharge",
+      "Bleeding after sex with pelvic pain",
+      "Painful sores or blisters on the genitals"
+    ],
+    "commonCauses": [
+      {
+        "title": "Vaginal dryness",
+        "detail": "Common around the menopause, after childbirth, when breastfeeding, or with not enough arousal."
+      },
+      {
+        "title": "Infections",
+        "detail": "Thrush or sexually transmitted infections such as chlamydia, gonorrhoea or herpes."
+      },
+      {
+        "title": "Endometriosis or pelvic inflammatory disease",
+        "detail": "Usually causes deep pain felt inside the pelvis."
+      },
+      {
+        "title": "Vaginismus",
+        "detail": "The vaginal muscles tighten involuntarily, making penetration painful or impossible."
+      },
+      {
+        "title": "Penile conditions",
+        "detail": "In men, a tight foreskin, infection or prostate problems can cause pain."
+      }
+    ],
+    "selfCare": [
+      "Use a water-based lubricant",
+      "Take more time for arousal and try positions that allow you to control depth",
+      "Stop if it hurts and talk to your partner",
+      "Use condoms to reduce the risk of infections"
+    ],
+    "avoid": [
+      "Continuing sex through pain",
+      "Using oil-based lubricants with latex condoms, as they can damage them",
+      "Perfumed products in the genital area"
+    ],
+    "seeDoctorIf": [
+      "You keep having pain during or after sex",
+      "You have bleeding after sex",
+      "You might have a sexually transmitted infection",
+      "Pain is affecting your relationship or wellbeing"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {
+        "label": "MedlinePlus: Sexual problems in women",
+        "url": "https://medlineplus.gov/sexualproblemsinwomen.html"
+      },
+      {
+        "label": "NHS: Endometriosis",
+        "url": "https://www.nhs.uk/conditions/endometriosis/"
+      }
+    ]
+  },
+  {
+    "id": "testicle-pain",
+    "name": "Testicle pain",
+    "aliases": [
+      "sore testicles",
+      "pain in my balls",
+      "testicular pain",
+      "scrotum pain",
+      "swollen testicle",
+      "groin pain men"
+    ],
+    "bodyArea": "Sexual & reproductive health",
+    "summary": "Sudden, severe testicle pain can be testicular torsion, an emergency that needs surgery within hours. Milder pain is often due to an infection or injury.",
+    "redFlags": [
+      "Sudden, severe pain in one testicle",
+      "Testicle pain with feeling sick or being sick",
+      "A testicle that is higher than usual or lying at an unusual angle",
+      "Severe pain after an injury to the testicles that does not ease within an hour",
+      "Severe pain, swelling and redness of the scrotum or groin with a high temperature and feeling very unwell"
+    ],
+    "urgentFlags": [
+      "Pain and swelling that came on over a day or two",
+      "Testicle pain with a high temperature",
+      "Testicle pain with burning when peeing or discharge from the penis",
+      "Pain with swelling of the scrotum"
+    ],
+    "commonCauses": [
+      {
+        "title": "Testicular torsion",
+        "detail": "The testicle twists and cuts off its blood supply; most common in boys and young men, and needs emergency surgery."
+      },
+      {
+        "title": "Epididymitis or orchitis",
+        "detail": "Infection or inflammation causing pain and swelling, sometimes linked to sexually transmitted infections or mumps."
+      },
+      {
+        "title": "Injury",
+        "detail": "A blow to the testicles; pain should ease within an hour."
+      },
+      {
+        "title": "Varicocele or cyst",
+        "detail": "Swollen veins or fluid-filled lumps can cause a dull ache."
+      },
+      {
+        "title": "Hernia or kidney stone",
+        "detail": "Pain can spread to the testicles from the groin or kidneys."
+      }
+    ],
+    "selfCare": [
+      "Get emergency help straight away for sudden severe pain",
+      "For mild pain, wear supportive underwear and rest",
+      "Take paracetamol or ibuprofen, following the pack instructions",
+      "Use a cold pack wrapped in a towel for swelling after an injury"
+    ],
+    "avoid": [
+      "Waiting to see if sudden severe testicle pain goes away; torsion can damage the testicle within hours",
+      "Sex until an infection has been treated"
+    ],
+    "seeDoctorIf": [
+      "You have a dull ache in the testicles that keeps coming back",
+      "You notice a lump or change in the shape or feel of a testicle",
+      "Your scrotum feels heavy or swollen"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {
+        "label": "NHS: Testicle pain",
+        "url": "https://www.nhs.uk/conditions/testicle-pain/"
+      },
+      {
+        "label": "MedlinePlus: Testicular disorders",
+        "url": "https://medlineplus.gov/testiculardisorders.html"
+      }
+    ]
+  },
+  {
+    "id": "testicle-lump",
+    "name": "Lump or swelling in a testicle",
+    "aliases": [
+      "lump on testicle",
+      "lump in scrotum",
+      "hard lump on ball",
+      "testicle swelling",
+      "testicle feels different"
+    ],
+    "bodyArea": "Sexual & reproductive health",
+    "summary": "Most testicle lumps are harmless, such as cysts or swollen veins, but any new lump should be checked by a doctor because testicular cancer is easier to treat when found early.",
+    "redFlags": [
+      "Sudden, severe testicle pain, especially with feeling or being sick"
+    ],
+    "urgentFlags": [
+      "A swollen, painful testicle with a high temperature",
+      "Swelling that gets bigger quickly"
+    ],
+    "commonCauses": [
+      {
+        "title": "Epididymal cyst",
+        "detail": "A smooth, fluid-filled lump above or behind the testicle; usually harmless."
+      },
+      {
+        "title": "Varicocele",
+        "detail": "Swollen veins that feel like a 'bag of worms', more often on the left."
+      },
+      {
+        "title": "Hydrocele",
+        "detail": "Fluid around the testicle causing painless swelling."
+      },
+      {
+        "title": "Infection",
+        "detail": "Epididymitis or orchitis causes painful swelling."
+      },
+      {
+        "title": "Testicular cancer",
+        "detail": "Usually a painless lump or hardening; most common in men aged 15 to 49."
+      }
+    ],
+    "selfCare": [
+      "Check your testicles regularly, ideally after a warm bath or shower, so you know what is normal for you",
+      "Make an appointment even if the lump is painless"
+    ],
+    "avoid": [
+      "Waiting to see if a lump goes away",
+      "Squeezing or pressing hard on a lump"
+    ],
+    "seeDoctorIf": [
+      "You notice any new lump or swelling",
+      "A testicle has changed shape, size or feels harder",
+      "You have a heavy feeling in your scrotum"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {
+        "url": "https://www.nhs.uk/symptoms/testicle-lumps-and-swellings/",
+        "label": "NHS — Testicle lumps and swellings"
+      },
+      {
+        "label": "NHS: Testicular cancer",
+        "url": "https://www.nhs.uk/conditions/testicular-cancer/"
+      }
+    ]
+  },
+  {
+    "id": "erectile-problems",
+    "name": "Erection problems",
+    "aliases": [
+      "erectile dysfunction",
+      "can't get hard",
+      "impotence",
+      "ED",
+      "trouble keeping an erection",
+      "weak erection"
+    ],
+    "bodyArea": "Sexual & reproductive health",
+    "summary": "Difficulty getting or keeping an erection is very common and can be linked to stress, tiredness, alcohol, or health conditions such as heart disease and diabetes. It is worth seeing a doctor, as treatments work well.",
+    "redFlags": [
+      "An erection lasting more than 4 hours, or a painful erection not caused by sexual arousal",
+      "Erection problems with chest pain, breathlessness or pain spreading to the arm or jaw"
+    ],
+    "urgentFlags": [
+      "Sudden erection problems with new numbness around the genitals, bottom or legs",
+      "A painful bend in the penis that appeared suddenly or after an injury"
+    ],
+    "commonCauses": [
+      {
+        "title": "Stress, anxiety or relationship issues",
+        "detail": "Often the cause when erections still happen at other times, such as in the morning."
+      },
+      {
+        "title": "Alcohol, smoking and tiredness",
+        "detail": "These commonly affect erections."
+      },
+      {
+        "title": "Blood vessel and heart conditions",
+        "detail": "High blood pressure, high cholesterol and heart disease reduce blood flow to the penis."
+      },
+      {
+        "title": "Diabetes and hormone problems",
+        "detail": "Diabetes can affect nerves and blood vessels; low testosterone is less common."
+      },
+      {
+        "title": "Medicines",
+        "detail": "Some blood pressure medicines and antidepressants can cause erection problems."
+      }
+    ],
+    "selfCare": [
+      "Cut down on alcohol and stop smoking",
+      "Be more active and aim for a healthy weight",
+      "Find ways to manage stress and talk openly with your partner",
+      "Do not stop a prescribed medicine without talking to your doctor"
+    ],
+    "avoid": [
+      "Erection pills bought online from unregulated sellers, which may be fake or unsafe",
+      "Recreational drugs, which can make erection problems worse"
+    ],
+    "seeDoctorIf": [
+      "Erection problems keep happening for more than a few weeks",
+      "You also have symptoms such as feeling thirsty, peeing a lot or tiredness",
+      "You think a medicine might be causing it",
+      "It is affecting your wellbeing or relationship"
+    ],
+    "selfCareMaxDays": 30,
+    "sources": [
+      {
+        "label": "NHS: Erection problems (erectile dysfunction)",
+        "url": "https://www.nhs.uk/conditions/erection-problems-erectile-dysfunction/"
+      },
+      {
+        "label": "MedlinePlus: Erectile dysfunction",
+        "url": "https://medlineplus.gov/erectiledysfunction.html"
+      }
+    ]
+  },
+  {
+    "id": "penile-discharge",
+    "name": "Discharge from the penis",
+    "aliases": [
+      "penis discharge",
+      "drip from penis",
+      "white discharge men",
+      "yellow discharge from penis",
+      "burning and discharge"
+    ],
+    "bodyArea": "Sexual & reproductive health",
+    "summary": "Discharge from the penis that is not urine or semen is often caused by a sexually transmitted infection. A sexual health clinic or doctor can test and treat it.",
+    "redFlags": [
+      "Being unable to pee at all",
+      "Severe pain, swelling and redness of the genitals or groin with a high temperature and feeling very unwell"
+    ],
+    "urgentFlags": [
+      "Discharge with testicle pain or swelling",
+      "Discharge with a high temperature",
+      "Discharge with joint pain or a rash"
+    ],
+    "commonCauses": [
+      {
+        "title": "Chlamydia or gonorrhoea",
+        "detail": "Common sexually transmitted infections that often cause discharge and burning when peeing."
+      },
+      {
+        "title": "Non-gonococcal urethritis",
+        "detail": "Inflammation of the tube that carries urine, often caused by an infection."
+      },
+      {
+        "title": "Balanitis or thrush",
+        "detail": "Inflammation under the foreskin with a thick discharge, redness and soreness."
+      },
+      {
+        "title": "Trichomoniasis",
+        "detail": "A sexually transmitted infection that can cause thin white discharge."
+      }
+    ],
+    "selfCare": [
+      "Get tested at a sexual health clinic or by a doctor",
+      "Avoid sex until you and your partner have been tested and treated",
+      "Wash under the foreskin gently with water each day"
+    ],
+    "avoid": [
+      "Taking leftover or online antibiotics without a diagnosis",
+      "Having sex, including oral sex, until treatment is finished"
+    ],
+    "seeDoctorIf": [
+      "You have any unusual discharge from your penis",
+      "A partner has been diagnosed with a sexually transmitted infection",
+      "Symptoms come back after treatment"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {
+        "label": "NHS: Gonorrhoea",
+        "url": "https://www.nhs.uk/conditions/gonorrhoea/"
+      },
+      {
+        "label": "NHS: Chlamydia",
+        "url": "https://www.nhs.uk/conditions/chlamydia/"
+      },
+      {
+        "label": "NHS: Balanitis",
+        "url": "https://www.nhs.uk/conditions/balanitis/"
+      }
+    ]
+  },
+  {
+    "id": "genital-sores",
+    "name": "Sores, blisters or warts on the genitals",
+    "aliases": [
+      "genital blisters",
+      "sore on penis",
+      "sore on vagina",
+      "genital warts",
+      "bumps on genitals",
+      "ulcer down there"
+    ],
+    "bodyArea": "Sexual & reproductive health",
+    "summary": "Sores, blisters or lumps on the genitals are often caused by sexually transmitted infections such as herpes or genital warts. A sexual health clinic can diagnose and treat them.",
+    "redFlags": [
+      "Rapidly spreading redness, swelling and severe pain in the genital area with a high temperature and feeling very unwell"
+    ],
+    "urgentFlags": [
+      "Painful sores that make it hard or impossible to pee",
+      "Sores with a high temperature, headache and feeling unwell",
+      "Genital sores during pregnancy, especially late pregnancy"
+    ],
+    "commonCauses": [
+      {
+        "title": "Genital herpes",
+        "detail": "Small painful blisters that burst to leave red, open sores; can come back."
+      },
+      {
+        "title": "Genital warts",
+        "detail": "Painless small growths or lumps caused by HPV."
+      },
+      {
+        "title": "Syphilis",
+        "detail": "A usually painless sore that heals on its own, but the infection remains and needs treatment."
+      },
+      {
+        "title": "Skin causes",
+        "detail": "Ingrown hairs, spots, cysts or friction can also cause bumps."
+      }
+    ],
+    "selfCare": [
+      "Get checked at a sexual health clinic",
+      "Keep the area clean and dry",
+      "Use paracetamol for pain, following the pack instructions",
+      "Bathing in salt water or applying petroleum jelly can ease herpes pain"
+    ],
+    "avoid": [
+      "Sex, including oral sex, until you have been checked or the sores have healed",
+      "Over-the-counter wart treatments meant for hands or feet on the genitals",
+      "Touching or picking the sores"
+    ],
+    "seeDoctorIf": [
+      "You have any new sore, blister or lump on the genitals",
+      "A partner has been diagnosed with a sexually transmitted infection",
+      "Sores keep coming back"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {
+        "label": "NHS: Genital herpes",
+        "url": "https://www.nhs.uk/conditions/genital-herpes/"
+      },
+      {
+        "label": "NHS: Genital warts",
+        "url": "https://www.nhs.uk/conditions/genital-warts/"
+      },
+      {
+        "label": "NHS: Syphilis",
+        "url": "https://www.nhs.uk/conditions/syphilis/"
+      }
+    ]
+  },
+  {
+    "id": "breast-lump",
+    "name": "Breast lump or change",
+    "aliases": [
+      "lump in breast",
+      "breast swelling",
+      "nipple discharge",
+      "dimpled breast",
+      "lump in armpit",
+      "inverted nipple"
+    ],
+    "bodyArea": "Sexual & reproductive health",
+    "summary": "Most breast lumps are not cancer, but any new lump or change in the breast, nipple or armpit should be checked by a doctor. This applies to men too.",
+    "redFlags": [
+      "A red, hot, painful breast with a high temperature and feeling very unwell, confused or faint"
+    ],
+    "urgentFlags": [
+      "A red, hot, swollen and painful area of the breast, especially when breastfeeding",
+      "A painful lump with a high temperature"
+    ],
+    "commonCauses": [
+      {
+        "title": "Cysts",
+        "detail": "Fluid-filled sacs that can feel smooth and may be tender, often around periods."
+      },
+      {
+        "title": "Fibroadenoma",
+        "detail": "A smooth, rubbery, movable lump, common in younger women."
+      },
+      {
+        "title": "Mastitis or abscess",
+        "detail": "Painful, hot, red breast, usually when breastfeeding."
+      },
+      {
+        "title": "Breast cancer",
+        "detail": "Can cause a lump, skin dimpling, a nipple change or discharge, or a lump in the armpit."
+      }
+    ],
+    "selfCare": [
+      "Get to know how your breasts normally look and feel",
+      "Book an appointment for any new lump or change, even if painless",
+      "Attend breast screening when invited"
+    ],
+    "avoid": [
+      "Waiting until after your next period to see if a lump goes away if you are worried",
+      "Assuming a painless lump is harmless"
+    ],
+    "seeDoctorIf": [
+      "You find a new lump or thickening in the breast or armpit",
+      "Your breast changes size or shape, or the skin dimples or puckers",
+      "You have nipple discharge, a rash on the nipple or a nipple that turns inwards",
+      "You are a man with a breast lump"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {
+        "label": "NHS: Breast lump",
+        "url": "https://www.nhs.uk/conditions/breast-lump/"
+      },
+      {
+        "label": "NHS: Breast cancer in women",
+        "url": "https://www.nhs.uk/conditions/breast-cancer/"
+      }
+    ]
+  },
+  {
+    "id": "breast-pain",
+    "name": "Breast pain",
+    "aliases": [
+      "sore breasts",
+      "tender breasts",
+      "breast tenderness",
+      "painful nipples",
+      "boob pain"
+    ],
+    "bodyArea": "Sexual & reproductive health",
+    "summary": "Breast pain is common, often linked to periods, pregnancy or a poorly fitting bra, and is rarely a sign of cancer on its own.",
+    "redFlags": [
+      "Chest pain that spreads to the arm, neck, jaw or back, or comes with breathlessness or sweating",
+      "A red, hot, painful breast with feeling very unwell, confused or faint"
+    ],
+    "urgentFlags": [
+      "A red, hot, swollen area of the breast, especially when breastfeeding",
+      "Breast pain with a high temperature"
+    ],
+    "commonCauses": [
+      {
+        "title": "Hormonal changes",
+        "detail": "Pain in both breasts in the days before a period, during pregnancy or when starting hormonal medicines."
+      },
+      {
+        "title": "Bra fit or exercise",
+        "detail": "A poorly fitting bra or lack of support during activity."
+      },
+      {
+        "title": "Breastfeeding problems",
+        "detail": "Blocked ducts, mastitis or sore nipples."
+      },
+      {
+        "title": "Chest wall pain",
+        "detail": "Muscle strain or inflammation of the rib joints can feel like breast pain."
+      }
+    ],
+    "selfCare": [
+      "Wear a well-fitting, supportive bra, including a sports bra for exercise and a soft bra at night",
+      "Take paracetamol or ibuprofen, following the pack instructions",
+      "Keep a diary to see if pain is linked to your periods",
+      "If breastfeeding, keep feeding or expressing and ask a midwife or health visitor about positioning"
+    ],
+    "avoid": [
+      "Stopping breastfeeding suddenly if you have a blocked duct or mastitis",
+      "Supplements such as evening primrose oil, which have little evidence of benefit"
+    ],
+    "seeDoctorIf": [
+      "Pain is not linked to your periods and has lasted more than a few weeks",
+      "Pain is in one specific area",
+      "You also have a lump, nipple discharge or skin changes",
+      "Pain is affecting your daily life"
+    ],
+    "selfCareMaxDays": 21,
+    "sources": [
+      {
+        "label": "NHS: Breast pain",
+        "url": "https://www.nhs.uk/conditions/breast-pain/"
+      },
+      {
+        "label": "NHS: Mastitis",
+        "url": "https://www.nhs.uk/conditions/mastitis/"
+      }
+    ]
+  },
+  {
+    "id": "hot-flushes",
+    "name": "Hot flushes",
+    "aliases": [
+      "hot flashes",
+      "menopause symptoms",
+      "sudden feeling of heat",
+      "perimenopause",
+      "flushing and sweating"
+    ],
+    "bodyArea": "Sexual & reproductive health",
+    "summary": "Hot flushes are sudden feelings of heat in the face, neck and chest, very common around the menopause. Lifestyle changes and treatments from a doctor can help.",
+    "redFlags": [
+      "Flushing with swelling of the lips, tongue or throat, wheezing or difficulty breathing"
+    ],
+    "urgentFlags": [
+      "Night sweats with a high temperature or unexplained weight loss",
+      "Flushing with a racing heartbeat, tremor and weight loss"
+    ],
+    "commonCauses": [
+      {
+        "title": "Menopause and perimenopause",
+        "detail": "The most common cause, due to falling oestrogen levels, usually from the mid-40s."
+      },
+      {
+        "title": "Medicines",
+        "detail": "Some cancer treatments and other medicines cause flushes."
+      },
+      {
+        "title": "Overactive thyroid",
+        "detail": "Feeling hot, sweating, a fast heartbeat and weight loss."
+      },
+      {
+        "title": "Triggers",
+        "detail": "Alcohol, caffeine, spicy food and stress can bring on flushes."
+      }
+    ],
+    "selfCare": [
+      "Wear light layers and keep your bedroom cool",
+      "Cut down on alcohol, caffeine and spicy food",
+      "Exercise regularly and stop smoking",
+      "Cognitive behavioural therapy has evidence for reducing the impact of hot flushes"
+    ],
+    "avoid": [
+      "Unregulated herbal remedies, which may be unproven or interact with other medicines",
+      "'Bioidentical' hormones from unregulated sources"
+    ],
+    "seeDoctorIf": [
+      "Hot flushes or other menopause symptoms are affecting your life",
+      "You have symptoms under the age of 45",
+      "You want to discuss treatments such as hormone replacement therapy"
+    ],
+    "selfCareMaxDays": 60,
+    "sources": [
+      {
+        "label": "NHS: Menopause",
+        "url": "https://www.nhs.uk/conditions/menopause/"
+      },
+      {
+        "label": "MedlinePlus: Menopause",
+        "url": "https://medlineplus.gov/menopause.html"
+      }
+    ]
+  },
+  {
+    "id": "nausea-in-pregnancy",
+    "name": "Sickness in pregnancy",
+    "aliases": [
+      "morning sickness",
+      "pregnancy nausea",
+      "vomiting while pregnant",
+      "hyperemesis",
+      "feeling sick pregnant"
+    ],
+    "bodyArea": "Sexual & reproductive health",
+    "summary": "Feeling sick and vomiting are common in early pregnancy and usually improve by weeks 16 to 20. Severe vomiting that stops you keeping fluids down needs treatment.",
+    "redFlags": [
+      "Vomiting blood",
+      "Severe tummy pain, or one-sided pain with shoulder-tip pain or fainting",
+      "Confusion, fainting or extreme drowsiness"
+    ],
+    "urgentFlags": [
+      "Being unable to keep any food or fluids down for 24 hours",
+      "Very dark pee or not peeing for more than 8 hours",
+      "Feeling dizzy or weak when standing",
+      "Vomiting with a high temperature or pain when peeing",
+      "Losing weight"
+    ],
+    "commonCauses": [
+      {
+        "title": "Normal pregnancy sickness",
+        "detail": "Linked to pregnancy hormones; can happen at any time of day."
+      },
+      {
+        "title": "Hyperemesis gravidarum",
+        "detail": "Severe, persistent sickness that can cause dehydration and needs medical treatment."
+      },
+      {
+        "title": "Other illness",
+        "detail": "Stomach bugs or urine infections can cause vomiting during pregnancy too."
+      }
+    ],
+    "selfCare": [
+      "Rest when you can, as tiredness can make sickness worse",
+      "Eat small, frequent meals of plain foods high in carbohydrate",
+      "Sip drinks little and often rather than large amounts",
+      "Foods or drinks containing ginger may help",
+      "Ask your midwife, doctor or pharmacist before taking any medicine"
+    ],
+    "avoid": [
+      "Foods or smells that make you feel sick",
+      "Taking over-the-counter sickness medicines without checking they are safe in pregnancy",
+      "Going long periods without eating or drinking"
+    ],
+    "seeDoctorIf": [
+      "Sickness is affecting your daily life",
+      "Self-care measures are not helping",
+      "Sickness continues beyond 20 weeks or starts later in pregnancy"
+    ],
+    "selfCareMaxDays": 7,
+    "sources": [
+      {
+        "url": "https://www.nhs.uk/pregnancy/complications/severe-vomiting/",
+        "label": "NHS — Severe vomiting in pregnancy"
+      },
+      {
+        "label": "ACOG: Morning sickness",
+        "url": "https://www.acog.org/womens-health/faqs/morning-sickness-nausea-and-vomiting-of-pregnancy"
+      }
+    ]
+  },
+  {
+    "id": "bleeding-in-pregnancy",
+    "name": "Bleeding or pain in early pregnancy",
+    "aliases": [
+      "spotting in pregnancy",
+      "bleeding while pregnant",
+      "cramps in early pregnancy",
+      "possible miscarriage",
+      "pregnancy bleeding"
+    ],
+    "bodyArea": "Sexual & reproductive health",
+    "summary": "Light bleeding in early pregnancy is fairly common and does not always mean a problem, but it should always be checked, as it can be a sign of miscarriage or ectopic pregnancy.",
+    "redFlags": [
+      "Sharp, sudden or severe pain in your tummy, especially on one side",
+      "Pain in the tip of your shoulder",
+      "Dizziness, fainting or feeling very unwell",
+      "Heavy bleeding, soaking through pads, or passing large clots",
+      "Pain when pooing or peeing with bleeding and feeling faint"
+    ],
+    "urgentFlags": [
+      "Any vaginal bleeding during pregnancy",
+      "Cramping pain in the lower tummy",
+      "Bleeding or pain after a positive pregnancy test when you have not yet had a scan",
+      "A gush of fluid from the vagina"
+    ],
+    "commonCauses": [
+      {
+        "title": "Implantation bleeding or cervical changes",
+        "detail": "Light spotting can happen early in pregnancy or after sex because the cervix is more sensitive."
+      },
+      {
+        "title": "Miscarriage",
+        "detail": "Bleeding with cramping in the first 23 weeks; sadly common, especially in the first 12 weeks."
+      },
+      {
+        "title": "Ectopic pregnancy",
+        "detail": "The pregnancy grows outside the womb, usually in a tube; it can cause one-sided pain, bleeding and shoulder-tip pain and is an emergency."
+      },
+      {
+        "title": "Infection",
+        "detail": "Vaginal or cervical infections can cause light bleeding."
+      }
+    ],
+    "selfCare": [
+      "Contact your midwife, doctor or an early pregnancy unit the same day",
+      "Use pads rather than tampons so the amount of bleeding can be judged",
+      "Rest while you wait to be seen"
+    ],
+    "avoid": [
+      "Waiting at home with severe pain or heavy bleeding",
+      "Using tampons while bleeding in pregnancy",
+      "Taking anti-inflammatory painkillers such as ibuprofen in pregnancy unless advised"
+    ],
+    "seeDoctorIf": [
+      "You had bleeding that has stopped but you have not yet been checked",
+      "You have had a previous ectopic pregnancy or miscarriage and are pregnant again"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {
+        "label": "NHS: Ectopic pregnancy",
+        "url": "https://www.nhs.uk/conditions/ectopic-pregnancy/"
+      },
+      {
+        "label": "NHS: Miscarriage",
+        "url": "https://www.nhs.uk/conditions/miscarriage/"
+      }
+    ]
+  }
+]

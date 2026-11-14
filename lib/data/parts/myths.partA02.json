@@ -1,0 +1,802 @@
+[
+  {
+    "id": "microwaves-cause-cancer",
+    "category": "Cancer",
+    "myth": "Microwaving food makes it radioactive or causes cancer.",
+    "rating": "false",
+    "fact": "Microwave ovens heat food using non-ionising radiation that makes water molecules vibrate. This does not make food radioactive or change it in a way that causes cancer, and ovens are built to keep microwaves inside.",
+    "explanation": "The word 'radiation' makes many people think of nuclear radiation, which is a different, high-energy type. A real safety point is to use microwave-safe containers, because some plastics not designed for heating can warp or leach chemicals. Damaged ovens with doors that do not close properly should be repaired or replaced.",
+    "keywords": [
+      "microwave",
+      "microwaves",
+      "microwave cancer",
+      "radioactive food",
+      "microwave radiation",
+      "microwaved food",
+      "microwave oven"
+    ],
+    "sources": [
+      {
+        "label": "FDA — Microwave oven radiation",
+        "url": "https://www.fda.gov/radiation-emitting-products/resources-you-radiation-emitting-products/microwave-oven-radiation"
+      },
+      {
+        "label": "WHO — Cancer",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/cancer"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "sugar-feeds-cancer",
+    "category": "Cancer",
+    "myth": "Eating sugar makes cancer grow faster, so cutting out sugar cures cancer.",
+    "rating": "false",
+    "fact": "All cells, including healthy ones, use glucose for energy, and the body makes glucose even if you eat no sugar. Research has not shown that eating sugar makes cancer grow faster or that cutting it out shrinks tumours.",
+    "explanation": "The idea comes from the fact that cancer cells use a lot of glucose, which is how some scans detect them. Indirectly, a diet high in sugar can contribute to weight gain, and obesity raises the risk of several cancers. People having cancer treatment often need enough energy to keep their weight up, so strict diets should be discussed with the care team.",
+    "keywords": [
+      "sugar feeds cancer",
+      "sugar cancer",
+      "cancer sugar",
+      "starve cancer",
+      "no sugar cancer",
+      "glucose tumour",
+      "sugar tumor growth"
+    ],
+    "sources": [
+      {
+        "label": "National Cancer Institute — Common cancer myths and misconceptions",
+        "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "biopsy-spreads-cancer",
+    "category": "Cancer",
+    "myth": "Having a biopsy or surgery makes cancer spread.",
+    "rating": "false",
+    "fact": "The chance that surgery or a biopsy will cause cancer to spread is extremely small. Surgeons follow standard procedures to prevent it, and a biopsy is usually essential for diagnosing cancer and choosing treatment.",
+    "explanation": "Some people notice that cancer seemed to worsen after an operation and assume the operation caused it. In reality, the cancer may already have spread before it was found. Avoiding a biopsy out of fear can delay treatment that works best when started early.",
+    "keywords": [
+      "biopsy",
+      "biopsy spreads cancer",
+      "surgery spreads cancer",
+      "air spreads cancer",
+      "cancer operation",
+      "needle biopsy",
+      "exposed to air"
+    ],
+    "sources": [
+      {
+        "label": "National Cancer Institute — Common cancer myths and misconceptions",
+        "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "antiperspirants-cause-breast-cancer",
+    "category": "Cancer",
+    "myth": "Antiperspirants and deodorants cause breast cancer.",
+    "rating": "false",
+    "fact": "Studies have not found a link between using antiperspirants or deodorants and breast cancer. Claims about aluminium or parabens from these products causing cancer are not supported by research.",
+    "explanation": "This rumour spread by email for decades, partly because many breast cancers start near the armpit. The upper outer part of the breast simply contains more breast tissue. Being aware of how your breasts normally look and feel and attending screening when invited are proven steps.",
+    "keywords": [
+      "antiperspirant",
+      "deodorant",
+      "breast cancer",
+      "aluminium",
+      "parabens",
+      "underarm",
+      "armpit",
+      "deodorant cancer"
+    ],
+    "sources": [
+      {
+        "label": "National Cancer Institute — Common cancer myths and misconceptions",
+        "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "mobile-phones-cause-cancer",
+    "category": "Cancer",
+    "myth": "Mobile phones and 5G cause brain cancer.",
+    "rating": "false",
+    "fact": "Large studies have not found consistent evidence that mobile phone use causes brain tumours or other cancers. Mobile phones and 5G networks use non-ionising radio waves, which do not damage DNA the way X-rays or UV light can.",
+    "explanation": "In 2011 the International Agency for Research on Cancer classed radiofrequency fields as 'possibly carcinogenic', a category meaning evidence is limited and inconclusive, which is often misreported. Brain cancer rates have not risen in line with the huge growth in phone use. Using a headset or speaker reduces exposure for anyone who wants to be cautious.",
+    "keywords": [
+      "mobile phone",
+      "cell phone",
+      "5g",
+      "brain tumour",
+      "brain tumor",
+      "radiation",
+      "phone cancer",
+      "wifi cancer",
+      "radio waves"
+    ],
+    "sources": [
+      {
+        "label": "National Cancer Institute — Cell phones and cancer risk",
+        "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet"
+      },
+      {
+        "label": "National Cancer Institute — Common cancer myths and misconceptions",
+        "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "alkaline-diet-cures-cancer",
+    "category": "Cancer",
+    "myth": "An alkaline diet or alkaline water can cure cancer because cancer cannot survive in an alkaline body.",
+    "rating": "false",
+    "fact": "Food and drink cannot meaningfully change the pH of your blood, which the body keeps in a narrow range. There is no evidence that alkaline diets or alkaline water prevent or treat cancer.",
+    "explanation": "The claim distorts laboratory findings that the area immediately around tumours can be acidic. What you eat can change the acidity of your urine, but not of your blood or tumours. Alkaline diets often include lots of fruit and vegetables, which are healthy, but they are not a cancer treatment.",
+    "keywords": [
+      "alkaline diet",
+      "alkaline water",
+      "ph",
+      "acidic body",
+      "cancer acid",
+      "alkaline cancer",
+      "baking soda cancer",
+      "alkalize"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Cancer",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/cancer"
+      },
+      {
+        "label": "National Cancer Institute — Common cancer myths and misconceptions",
+        "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "no-family-history-no-cancer",
+    "category": "Cancer",
+    "myth": "If no one in my family has had cancer, I won't get it.",
+    "rating": "false",
+    "fact": "Most cancers are not caused by inherited gene changes. Only a minority of cancers, roughly 5 to 10% according to the National Cancer Institute, are strongly linked to inherited mutations; most arise from gene changes that build up during life.",
+    "explanation": "A strong family history does raise risk for some cancers, which is why it is worth telling your doctor about it. But age, smoking, alcohol, excess weight, sun exposure and some infections are major risk factors for everyone. People without a family history should still take part in screening programmes.",
+    "keywords": [
+      "family history",
+      "genetic",
+      "hereditary",
+      "inherited cancer",
+      "runs in family",
+      "cancer genes",
+      "brca",
+      "no family history"
+    ],
+    "sources": [
+      {
+        "label": "National Cancer Institute — Genetics of cancer",
+        "url": "https://www.cancer.gov/about-cancer/causes-prevention/genetics"
+      },
+      {
+        "label": "National Cancer Institute — Common cancer myths and misconceptions",
+        "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "cannabis-oil-cures-cancer",
+    "category": "Cancer",
+    "myth": "Cannabis oil cures cancer.",
+    "rating": "false",
+    "fact": "There is no reliable evidence from human studies that cannabis or cannabis oil cures cancer. Some cannabinoid medicines can help with side effects such as nausea and vomiting from chemotherapy.",
+    "explanation": "Laboratory and animal studies showing cannabinoids affecting cancer cells are often presented online as proof of a cure. Many substances kill cancer cells in a dish but do not work in people. Products sold online may contain unknown amounts of THC or CBD, and relying on them instead of proven treatment can be dangerous.",
+    "keywords": [
+      "cannabis oil",
+      "cbd oil",
+      "marijuana",
+      "thc",
+      "rick simpson oil",
+      "hemp oil",
+      "cannabis cures cancer",
+      "weed cancer"
+    ],
+    "sources": [
+      {
+        "label": "NCCIH — Cannabis (marijuana) and cannabinoids",
+        "url": "https://www.nccih.nih.gov/health/cannabis-marijuana-and-cannabinoids-what-you-need-to-know"
+      },
+      {
+        "label": "National Cancer Institute — Cannabis and cannabinoids (PDQ)",
+        "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/cannabis-pdq"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "underwire-bras-cause-breast-cancer",
+    "category": "Cancer",
+    "myth": "Wearing an underwire bra causes breast cancer.",
+    "rating": "false",
+    "fact": "There is no evidence that wearing a bra, underwired or not, causes breast cancer. A large study found no link between bra wearing and breast cancer risk.",
+    "explanation": "The claim suggests bras block lymph drainage and trap toxins, but this is not how breast cancer develops. Known risk factors include age, inherited genes, alcohol, excess weight after menopause and some hormone treatments. Wear whatever bra is comfortable.",
+    "keywords": [
+      "bra",
+      "underwire",
+      "underwire bra",
+      "bra cancer",
+      "breast cancer",
+      "tight bra",
+      "wearing a bra",
+      "lymph"
+    ],
+    "sources": [
+      {
+        "label": "National Cancer Institute — Common cancer myths and misconceptions",
+        "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "smoking-causes-many-cancers",
+    "category": "Cancer",
+    "myth": "Smoking causes many types of cancer, not just lung cancer.",
+    "rating": "true",
+    "fact": "Tobacco smoking causes cancers of the lung, mouth, throat, oesophagus, bladder, kidney, pancreas, stomach, cervix and others. Tobacco use is the single largest preventable cause of cancer worldwide.",
+    "explanation": "Many people think smoking risk is limited to the lungs, or that light smoking is safe. There is no safe level of smoking, and second-hand smoke also causes cancer. Stopping at any age lowers risk, and free support to quit is available in many countries.",
+    "keywords": [
+      "smoking",
+      "tobacco",
+      "cigarettes",
+      "smoking cancer",
+      "lung cancer",
+      "light smoking",
+      "second hand smoke",
+      "quit smoking"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Tobacco",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco"
+      },
+      {
+        "label": "WHO — Cancer",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/cancer"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "hpv-vaccine-prevents-cervical-cancer",
+    "category": "Cancer",
+    "myth": "The HPV vaccine helps prevent cervical cancer.",
+    "rating": "true",
+    "fact": "Almost all cervical cancers are caused by persistent infection with high-risk types of human papillomavirus (HPV). The HPV vaccine protects against the types that cause most cervical cancers, and countries with high coverage have seen big falls in cervical pre-cancers and cancers.",
+    "explanation": "Some people doubt that a vaccine can prevent cancer. HPV vaccination also protects against other HPV-related cancers, such as some throat, anal and genital cancers. Vaccinated people should still attend cervical screening when invited, because the vaccine does not cover every HPV type.",
+    "keywords": [
+      "hpv vaccine",
+      "cervical cancer",
+      "gardasil",
+      "hpv",
+      "prevent cancer",
+      "smear test",
+      "cervical screening",
+      "hpv jab"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Cervical cancer",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/cervical-cancer"
+      },
+      {
+        "label": "NHS — HPV vaccine",
+        "url": "https://www.nhs.uk/vaccinations/hpv-vaccine/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "cancer-is-a-death-sentence",
+    "category": "Cancer",
+    "myth": "A cancer diagnosis is a death sentence.",
+    "rating": "false",
+    "fact": "Survival rates for many cancers have improved greatly, and many cancers can be cured or controlled for years, especially when found early. Outcomes depend strongly on the type of cancer, its stage and the treatment available.",
+    "explanation": "Fear of cancer can make people avoid seeing a doctor about symptoms or skip screening. Some cancers, such as many testicular, thyroid and early-stage breast cancers, have high survival rates. Getting checked early gives the best chance of successful treatment.",
+    "keywords": [
+      "death sentence",
+      "cancer survival",
+      "cancer incurable",
+      "cancer always fatal",
+      "survive cancer",
+      "cancer prognosis",
+      "dying of cancer"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Cancer",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/cancer"
+      },
+      {
+        "label": "National Cancer Institute — Common cancer myths and misconceptions",
+        "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "apricot-kernels-vitamin-b17-cure-cancer",
+    "category": "Cancer",
+    "myth": "Apricot kernels or 'vitamin B17' (laetrile) cure cancer.",
+    "rating": "false",
+    "fact": "Laetrile, sold as 'vitamin B17', is not a vitamin and has not been shown to treat cancer in clinical studies. Apricot kernels and laetrile can release cyanide in the body and have caused serious poisoning.",
+    "explanation": "Laetrile was promoted as a natural cancer cure from the 1950s onward and still circulates on social media. A clinical trial sponsored by the US National Cancer Institute found no benefit. Signs of cyanide poisoning include headache, dizziness, nausea and confusion, and need urgent medical care.",
+    "keywords": [
+      "apricot kernels",
+      "apricot seeds",
+      "vitamin b17",
+      "b17",
+      "laetrile",
+      "amygdalin",
+      "cyanide",
+      "natural cancer cure"
+    ],
+    "sources": [
+      {
+        "label": "National Cancer Institute — Laetrile/Amygdalin (PDQ)",
+        "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/laetrile-pdq"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "processed-meat-bowel-cancer",
+    "category": "Cancer",
+    "myth": "Eating processed meat increases the risk of bowel cancer.",
+    "rating": "true",
+    "fact": "The International Agency for Research on Cancer has classified processed meat, such as bacon, ham and sausages, as a cause of colorectal cancer, and red meat as a probable cause. The risk rises with the amount eaten.",
+    "explanation": "This is sometimes dismissed because processed meat sits in the same 'group' as tobacco, which led to headlines that it is equally dangerous. The group reflects how strong the evidence is, not how big the risk is; smoking is far more harmful. Eating less processed meat and more fibre-rich foods is a reasonable step.",
+    "keywords": [
+      "processed meat",
+      "bacon",
+      "ham",
+      "sausages",
+      "red meat",
+      "bowel cancer",
+      "colon cancer",
+      "meat cancer",
+      "hot dogs"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Q&A on the carcinogenicity of red and processed meat",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/cancer-carcinogenicity-of-the-consumption-of-red-meat-and-processed-meat"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "moderate-drinking-no-cancer-risk",
+    "category": "Cancer",
+    "myth": "Drinking alcohol in moderation doesn't raise your cancer risk.",
+    "rating": "false",
+    "fact": "Alcohol is a cause of several cancers, including mouth, throat, oesophagus, liver, bowel and breast cancer. Risk rises with the amount drunk, and even light to moderate drinking is linked to a higher risk of some cancers, particularly breast cancer.",
+    "explanation": "Messages about red wine being good for the heart have made alcohol seem harmless in small amounts. The type of drink does not matter; the alcohol itself is the problem. Drinking less lowers risk, and many health bodies now say there is no completely safe level for cancer.",
+    "keywords": [
+      "alcohol",
+      "drinking",
+      "wine",
+      "beer",
+      "alcohol cancer",
+      "moderate drinking",
+      "breast cancer alcohol",
+      "safe amount alcohol"
+    ],
+    "sources": [
+      {
+        "label": "National Cancer Institute — Alcohol and cancer risk",
+        "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/alcohol/alcohol-fact-sheet"
+      },
+      {
+        "label": "WHO — Alcohol",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/alcohol"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "eggs-raise-cholesterol-dangerous",
+    "category": "Heart & blood pressure",
+    "myth": "Eggs are bad for your heart because of their cholesterol.",
+    "rating": "misleading",
+    "fact": "For most people, cholesterol in food has a smaller effect on blood cholesterol than saturated and trans fats do. Eggs can be part of a healthy, balanced diet, although people with certain conditions may be advised to limit them.",
+    "explanation": "Egg yolks are high in dietary cholesterol, which is why eggs were long seen as a heart risk. Research suggests moderate egg eating is not strongly linked to heart disease in healthy people, though findings vary and some people respond more strongly. How eggs are cooked and served, such as with bacon, sausages or butter, often matters more than the eggs.",
+    "keywords": [
+      "eggs",
+      "egg yolk",
+      "cholesterol",
+      "eggs cholesterol",
+      "dietary cholesterol",
+      "eggs heart",
+      "how many eggs",
+      "eggs bad"
+    ],
+    "sources": [
+      {
+        "label": "NHS — High cholesterol",
+        "url": "https://www.nhs.uk/conditions/high-cholesterol/"
+      },
+      {
+        "label": "American Heart Association — Cholesterol",
+        "url": "https://www.heart.org/en/health-topics/cholesterol"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "high-blood-pressure-has-symptoms",
+    "category": "Heart & blood pressure",
+    "myth": "You would know if you had high blood pressure because you'd feel it.",
+    "rating": "false",
+    "fact": "High blood pressure usually causes no symptoms, which is why it is called a 'silent killer'. The only way to know is to have it measured.",
+    "explanation": "Many people believe headaches, nosebleeds or feeling flushed signal high blood pressure, but these are not reliable signs. Untreated high blood pressure raises the risk of heart attack, stroke and kidney disease. Adults are advised to have their blood pressure checked regularly, often at least every five years over 40 in the UK, or more often if at risk.",
+    "keywords": [
+      "high blood pressure",
+      "hypertension",
+      "symptoms",
+      "silent killer",
+      "feel blood pressure",
+      "headache blood pressure",
+      "bp check"
+    ],
+    "sources": [
+      {
+        "label": "NHS — High blood pressure (hypertension)",
+        "url": "https://www.nhs.uk/conditions/high-blood-pressure-hypertension/"
+      },
+      {
+        "label": "WHO — Hypertension",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/hypertension"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "young-people-dont-have-heart-attacks",
+    "category": "Heart & blood pressure",
+    "myth": "Heart attacks only happen to older people.",
+    "rating": "false",
+    "fact": "Heart attacks are more common with age, but younger adults can have them too, especially if they smoke, have high blood pressure, high cholesterol, diabetes, obesity or a family history of early heart disease.",
+    "explanation": "Assuming you are too young can lead people to ignore warning signs and delay calling for help. The build-up of fatty deposits in arteries starts decades before a heart attack. Healthy habits in early adulthood lower lifetime risk.",
+    "keywords": [
+      "heart attack",
+      "young",
+      "too young",
+      "age",
+      "heart attack young people",
+      "heart disease young",
+      "only old people"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Heart attack",
+        "url": "https://www.nhs.uk/conditions/heart-attack/"
+      },
+      {
+        "label": "CDC — Heart disease",
+        "url": "https://www.cdc.gov/heart-disease/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "red-wine-good-for-heart",
+    "category": "Heart & blood pressure",
+    "myth": "A glass of red wine a day is good for your heart.",
+    "rating": "misleading",
+    "fact": "Earlier observational studies suggested light drinkers had less heart disease, but more recent research suggests this was largely due to other differences between drinkers and non-drinkers. Health bodies do not recommend starting to drink for heart health.",
+    "explanation": "Red wine contains compounds such as resveratrol, which are often credited with heart benefits, but the amounts are small. Alcohol raises blood pressure and the risk of irregular heart rhythms and several cancers. If you do drink, keeping within low-risk limits is advised.",
+    "keywords": [
+      "red wine",
+      "wine heart",
+      "resveratrol",
+      "alcohol heart",
+      "glass of wine",
+      "drinking heart health",
+      "moderate drinking"
+    ],
+    "sources": [
+      {
+        "label": "American Heart Association — Healthy living",
+        "url": "https://www.heart.org/en/healthy-living"
+      },
+      {
+        "label": "WHO — Alcohol",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/alcohol"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "heart-attack-always-crushing-chest-pain",
+    "category": "Heart & blood pressure",
+    "myth": "A heart attack always causes sudden, crushing chest pain.",
+    "rating": "false",
+    "fact": "Chest pain or pressure is the most common symptom, but some people, more often women, older adults and people with diabetes, have milder or different symptoms such as shortness of breath, nausea, sweating, or pain in the arm, jaw, neck, back or stomach.",
+    "explanation": "Films often show heart attacks as dramatic collapses, so people may wait if symptoms seem mild. Any suspected heart attack is an emergency: call your local emergency number straight away. Do not drive yourself to hospital.",
+    "keywords": [
+      "heart attack symptoms",
+      "chest pain",
+      "heart attack signs",
+      "women heart attack",
+      "silent heart attack",
+      "arm pain",
+      "jaw pain"
+    ],
+    "sources": [
+      {
+        "label": "American Heart Association — Warning signs of a heart attack",
+        "url": "https://www.heart.org/en/health-topics/heart-attack/warning-signs-of-a-heart-attack"
+      },
+      {
+        "label": "NHS — Heart attack",
+        "url": "https://www.nhs.uk/conditions/heart-attack/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "stop-blood-pressure-pills-when-normal",
+    "category": "Heart & blood pressure",
+    "myth": "Once your blood pressure is normal, you can stop taking your tablets.",
+    "rating": "false",
+    "fact": "Blood pressure is often normal because the medicine is working. Stopping without medical advice usually lets it rise again, increasing the risk of stroke and heart attack.",
+    "explanation": "People often feel well and see a normal reading, so assume they are cured. Some people can reduce or stop medication after lasting lifestyle changes, but this should be done with a doctor and with monitoring. Never stop suddenly without advice, as some medicines need to be reduced gradually.",
+    "keywords": [
+      "stop blood pressure medication",
+      "blood pressure tablets",
+      "bp pills",
+      "hypertension medicine",
+      "stop taking",
+      "normal blood pressure",
+      "come off medication"
+    ],
+    "sources": [
+      {
+        "label": "NHS — High blood pressure (hypertension)",
+        "url": "https://www.nhs.uk/conditions/high-blood-pressure-hypertension/"
+      },
+      {
+        "label": "American Heart Association — High blood pressure",
+        "url": "https://www.heart.org/en/health-topics/high-blood-pressure"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "salt-only-matters-if-high-blood-pressure",
+    "category": "Heart & blood pressure",
+    "myth": "If your blood pressure is normal, you don't need to worry about salt.",
+    "rating": "false",
+    "fact": "Eating too much salt raises blood pressure over time in many people, and most people eat more than WHO's recommended limit of less than 5 grams of salt a day. Cutting down helps prevent high blood pressure, not just treat it.",
+    "explanation": "Much of the salt we eat is already in bread, processed foods, sauces and ready meals, rather than added at the table. Sea salt and pink salts contain the same sodium as table salt. Checking food labels and cooking from fresh ingredients helps reduce intake.",
+    "keywords": [
+      "salt",
+      "sodium",
+      "salt intake",
+      "too much salt",
+      "salt blood pressure",
+      "sea salt",
+      "himalayan salt",
+      "low salt"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Salt reduction",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/salt-reduction"
+      },
+      {
+        "label": "NHS — High blood pressure (hypertension)",
+        "url": "https://www.nhs.uk/conditions/high-blood-pressure-hypertension/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "coconut-oil-heart-healthy",
+    "category": "Heart & blood pressure",
+    "myth": "Coconut oil is good for your heart.",
+    "rating": "false",
+    "fact": "Coconut oil is very high in saturated fat, which raises LDL ('bad') cholesterol. Heart health organisations advise replacing saturated fats with unsaturated fats such as olive, rapeseed or sunflower oil.",
+    "explanation": "Coconut oil has been marketed as a superfood, partly based on studies of a special type of fat (MCT oil) that differs from ordinary coconut oil. It raises LDL cholesterol more than unsaturated vegetable oils in trials. Using it occasionally for flavour is fine, but it is not a heart-healthy choice.",
+    "keywords": [
+      "coconut oil",
+      "saturated fat",
+      "mct oil",
+      "coconut",
+      "cooking oil",
+      "heart healthy oil",
+      "ldl cholesterol"
+    ],
+    "sources": [
+      {
+        "label": "American Heart Association — Cholesterol",
+        "url": "https://www.heart.org/en/health-topics/cholesterol"
+      },
+      {
+        "label": "NHS — High cholesterol",
+        "url": "https://www.nhs.uk/conditions/high-cholesterol/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "cough-cpr-heart-attack",
+    "category": "Heart & blood pressure",
+    "myth": "If you're having a heart attack alone, coughing hard repeatedly ('cough CPR') can save you.",
+    "rating": "false",
+    "fact": "'Cough CPR' is not recommended for the public by heart and resuscitation organisations. If you think you are having a heart attack, call your emergency number immediately.",
+    "explanation": "This advice has circulated in chain emails for years. Forceful coughing has only been studied in very specific hospital situations under medical supervision. Calling for help, unlocking the door and sitting down while waiting is more useful; emergency call handlers may advise chewing an aspirin if it is safe for you.",
+    "keywords": [
+      "cough cpr",
+      "coughing heart attack",
+      "alone heart attack",
+      "cough hard",
+      "survive heart attack alone",
+      "chain email heart attack"
+    ],
+    "sources": [
+      {
+        "label": "American Heart Association — Heart attack",
+        "url": "https://www.heart.org/en/health-topics/heart-attack"
+      },
+      {
+        "label": "NHS — Heart attack",
+        "url": "https://www.nhs.uk/conditions/heart-attack/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "daily-aspirin-for-everyone",
+    "category": "Heart & blood pressure",
+    "myth": "Everyone over 50 should take a daily aspirin to prevent heart attacks.",
+    "rating": "misleading",
+    "fact": "Low-dose aspirin is recommended for many people who have already had a heart attack or stroke. For people without heart disease, current guidance generally advises against routine daily aspirin because the bleeding risk can outweigh the benefit.",
+    "explanation": "Advice on aspirin has changed as newer trials showed smaller benefits and real risks of stomach and brain bleeding. Whether aspirin is right depends on your personal risk. Do not start or stop daily aspirin without speaking to a doctor.",
+    "keywords": [
+      "aspirin",
+      "daily aspirin",
+      "baby aspirin",
+      "low dose aspirin",
+      "prevent heart attack",
+      "blood thinner",
+      "aspirin a day"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Low-dose aspirin",
+        "url": "https://www.nhs.uk/medicines/low-dose-aspirin/"
+      },
+      {
+        "label": "American Heart Association — Heart attack",
+        "url": "https://www.heart.org/en/health-topics/heart-attack"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "statins-are-dangerous-and-useless",
+    "category": "Heart & blood pressure",
+    "myth": "Statins are dangerous and don't really prevent heart attacks.",
+    "rating": "false",
+    "fact": "Statins lower LDL cholesterol and have been shown in many large trials to reduce heart attacks and strokes in people at increased risk. Most people take them without serious side effects.",
+    "explanation": "Muscle aches are the most commonly reported side effect, but in blinded trials many such aches occurred as often with placebo as with statins. Serious muscle damage is rare. If you have side effects, a doctor can often change the dose or type rather than stopping altogether.",
+    "keywords": [
+      "statins",
+      "statin side effects",
+      "cholesterol medicine",
+      "atorvastatin",
+      "simvastatin",
+      "statins dangerous",
+      "cholesterol tablets"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Statins",
+        "url": "https://www.nhs.uk/medicines/statins/"
+      },
+      {
+        "label": "American Heart Association — Cholesterol",
+        "url": "https://www.heart.org/en/health-topics/cholesterol"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "women-dont-get-heart-disease",
+    "category": "Heart & blood pressure",
+    "myth": "Heart disease is mainly a men's problem.",
+    "rating": "false",
+    "fact": "Heart and circulatory diseases are a leading cause of death in women as well as men. Women's risk rises after menopause, and women's symptoms are more likely to be missed or put down to other causes.",
+    "explanation": "Heart disease has long been portrayed as affecting middle-aged men, which has shaped both public perception and research. Women may delay seeking help for symptoms such as breathlessness, fatigue or nausea. Knowing your blood pressure and cholesterol helps whatever your sex.",
+    "keywords": [
+      "women heart disease",
+      "heart disease women",
+      "female heart attack",
+      "men's disease",
+      "women heart attack",
+      "menopause heart"
+    ],
+    "sources": [
+      {
+        "label": "CDC — Heart disease",
+        "url": "https://www.cdc.gov/heart-disease/"
+      },
+      {
+        "label": "WHO — Cardiovascular diseases",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "exercise-lowers-blood-pressure",
+    "category": "Heart & blood pressure",
+    "myth": "Regular exercise can lower blood pressure.",
+    "rating": "true",
+    "fact": "Regular physical activity helps lower blood pressure and reduces the risk of heart disease and stroke. Health guidance recommends at least 150 minutes of moderate activity a week for adults.",
+    "explanation": "Some people with high blood pressure worry exercise is unsafe, or doubt it makes a difference. Brisk walking, cycling and swimming all count. If your blood pressure is very high or you have heart symptoms, check with a doctor before starting something strenuous.",
+    "keywords": [
+      "exercise blood pressure",
+      "physical activity",
+      "walking",
+      "lower blood pressure naturally",
+      "exercise hypertension",
+      "workout heart"
+    ],
+    "sources": [
+      {
+        "label": "NHS — High blood pressure (hypertension)",
+        "url": "https://www.nhs.uk/conditions/high-blood-pressure-hypertension/"
+      },
+      {
+        "label": "WHO — Physical activity",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "garlic-replaces-blood-pressure-medicine",
+    "category": "Heart & blood pressure",
+    "myth": "Garlic or beetroot juice can replace blood pressure medicine.",
+    "rating": "false",
+    "fact": "Some studies suggest garlic supplements or beetroot juice may lower blood pressure slightly, but the effects are small and not a substitute for prescribed medication. Stopping treatment in favour of them can be dangerous.",
+    "explanation": "Natural remedies appeal to people who want to avoid tablets. Lifestyle changes such as reducing salt, losing weight if needed, exercising and limiting alcohol can make a real difference alongside medicine. Garlic supplements can interact with blood thinners.",
+    "keywords": [
+      "garlic blood pressure",
+      "beetroot juice",
+      "natural blood pressure",
+      "herbal blood pressure",
+      "replace medication",
+      "hibiscus tea",
+      "home remedy hypertension"
+    ],
+    "sources": [
+      {
+        "label": "NCCIH — Garlic",
+        "url": "https://www.nccih.nih.gov/health/garlic"
+      },
+      {
+        "label": "NHS — High blood pressure (hypertension)",
+        "url": "https://www.nhs.uk/conditions/high-blood-pressure-hypertension/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]

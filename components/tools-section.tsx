@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { Stethoscope, ScanSearch, BookOpenCheck, ArrowRight } from 'lucide-react'
+import { Stethoscope, ScanSearch, BookOpenCheck, ArrowRight, LibraryBig } from 'lucide-react'
 
 const tools = [
   {
@@ -14,7 +14,14 @@ const tools = [
     icon: ScanSearch,
     title: 'Fact Checker',
     description:
-      'Paste a medical claim you saw online and get an accuracy rating with the evidence behind it.',
+      'Paste a medical claim you saw online and see what trusted medical sources say about it.',
+  },
+  {
+    href: '/conditions',
+    icon: LibraryBig,
+    title: 'Conditions A–Z',
+    description:
+      'Plain-language guides to common diseases: symptoms, causes, treatment, prevention and when to get help.',
   },
   {
     href: '/myths',
@@ -30,7 +37,7 @@ export function ToolsSection() {
     <section className="mx-auto max-w-6xl px-4 py-16 sm:px-6">
       <div className="max-w-2xl">
         <h2 className="text-balance font-display text-3xl font-bold tracking-tight text-foreground sm:text-4xl">
-          Three ways to find the truth about your health
+          Four ways to find the truth about your health
         </h2>
         <p className="mt-3 text-pretty text-lg leading-relaxed text-muted-foreground">
           Every answer is framed with what the evidence actually shows, and links you back to trusted medical
@@ -38,7 +45,7 @@ export function ToolsSection() {
         </p>
       </div>
 
-      <div className="mt-10 grid gap-5 md:grid-cols-3">
+      <div className="mt-10 grid gap-5 md:grid-cols-2 lg:grid-cols-4">
         {tools.map((tool) => (
           <Link
             key={tool.href}

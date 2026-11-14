@@ -1,0 +1,774 @@
+[
+  {
+    "id": "mmr-vaccine-causes-autism",
+    "category": "Vaccines",
+    "myth": "The MMR vaccine causes autism.",
+    "rating": "false",
+    "fact": "Large studies involving millions of children in several countries have found no link between the MMR (measles, mumps and rubella) vaccine and autism. The 1998 paper that started the claim was retracted and its lead author was struck off the UK medical register.",
+    "explanation": "The fear spread because autism signs often become noticeable around the same age that children receive the MMR jab, so the timing can look connected. Falling vaccination rates after the scare led to measles outbreaks, and measles can cause pneumonia, brain swelling and death. Delaying or splitting the vaccine leaves children unprotected for longer without any benefit.",
+    "keywords": [
+      "mmr",
+      "measles vaccine",
+      "autism",
+      "autistic",
+      "causes autism",
+      "vaccine autism",
+      "vaccines autism",
+      "jab",
+      "wakefield",
+      "mmr jab"
+    ],
+    "sources": [
+      {
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+        "label": "WHO — Vaccines and immunization: what is vaccination?"
+      },
+      {
+        "label": "NHS — MMR vaccine",
+        "url": "https://www.nhs.uk/vaccinations/mmr-vaccine/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "vaccines-contain-microchips",
+    "category": "Vaccines",
+    "myth": "Vaccines contain microchips used to track people.",
+    "rating": "false",
+    "fact": "Vaccines do not contain microchips, tracking devices or any electronics. Their ingredients are listed publicly and consist of the active component plus small amounts of stabilisers, salts and sometimes adjuvants.",
+    "explanation": "This claim spread widely during the COVID-19 pandemic, often mixed with conspiracy theories about governments or billionaires. A working tracking chip would need a power source and antenna and could not pass through a standard vaccine needle. Ingredient lists for licensed vaccines are published by regulators and manufacturers.",
+    "keywords": [
+      "microchip",
+      "microchips",
+      "chip",
+      "tracking",
+      "tracking device",
+      "5g",
+      "bill gates",
+      "vaccine chip",
+      "covid vaccine chip",
+      "nanochip"
+    ],
+    "sources": [
+      {
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+        "label": "WHO — Vaccines and immunization: what is vaccination?"
+      },
+      {
+        "url": "https://www.nhs.uk/vaccinations/",
+        "label": "NHS — Vaccinations"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "natural-immunity-better-than-vaccines",
+    "category": "Vaccines",
+    "myth": "It is better to catch the disease and get natural immunity than to be vaccinated.",
+    "rating": "false",
+    "fact": "Infection can give immunity, but only by risking the disease itself, including serious complications and death. Vaccines produce protection without making you ill with the disease.",
+    "explanation": "It is true that recovering from some infections, such as measles, gives long-lasting immunity. The problem is the price: measles can cause pneumonia and brain inflammation, and whooping cough can be fatal in babies. Getting infected also means you may pass the illness to vulnerable people before you recover.",
+    "keywords": [
+      "natural immunity",
+      "herd immunity",
+      "catch the disease",
+      "chickenpox party",
+      "measles party",
+      "immunity from infection",
+      "better than vaccine",
+      "infection immunity"
+    ],
+    "sources": [
+      {
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+        "label": "WHO — Vaccines and immunization: what is vaccination?"
+      },
+      {
+        "url": "https://www.nhs.uk/vaccinations/",
+        "label": "NHS — Vaccinations"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "too-many-vaccines-overload-immune-system",
+    "category": "Vaccines",
+    "myth": "Giving babies several vaccines at once overloads their immune system.",
+    "rating": "false",
+    "fact": "A baby's immune system meets huge numbers of germs every day from feeding, touching and breathing. The antigens in the full childhood vaccine schedule are a tiny fraction of what the immune system handles routinely, and combined vaccines are tested for safety together.",
+    "explanation": "Parents understandably worry when a small baby receives several injections in one visit. Modern vaccines also contain far fewer antigens than older ones did, because they are more purified. Spacing out vaccines does not make them safer but does leave the child unprotected for longer.",
+    "keywords": [
+      "too many vaccines",
+      "vaccine overload",
+      "immune overload",
+      "multiple vaccines",
+      "vaccine schedule",
+      "combined vaccines",
+      "baby vaccines",
+      "spacing vaccines",
+      "jabs at once"
+    ],
+    "sources": [
+      {
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+        "label": "WHO — Vaccines and immunization: what is vaccination?"
+      },
+      {
+        "url": "https://www.nhs.uk/vaccinations/",
+        "label": "NHS — Vaccinations"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "vaccine-ingredients-mercury-aluminium-toxic",
+    "category": "Vaccines",
+    "myth": "Vaccines are full of toxic mercury and aluminium.",
+    "rating": "false",
+    "fact": "The amounts of any such ingredients in vaccines are very small and are not harmful. Thiomersal, a mercury-based preservative, has been removed from or reduced to trace amounts in routine childhood vaccines in many countries, and aluminium salts are used in tiny amounts to strengthen the immune response.",
+    "explanation": "Words like mercury and aluminium sound alarming, but the dose is what matters. Babies take in more aluminium from food and breast milk or formula over their first months than from vaccines. The type of mercury once used in thiomersal (ethylmercury) is cleared from the body faster than the methylmercury found in some fish.",
+    "keywords": [
+      "mercury",
+      "thimerosal",
+      "thiomersal",
+      "aluminium",
+      "aluminum",
+      "vaccine ingredients",
+      "toxins in vaccines",
+      "formaldehyde",
+      "adjuvant",
+      "toxic vaccine"
+    ],
+    "sources": [
+      {
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+        "label": "WHO — Vaccines and immunization: what is vaccination?"
+      },
+      {
+        "url": "https://www.nhs.uk/vaccinations/",
+        "label": "NHS — Vaccinations"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "flu-vaccine-gives-you-flu",
+    "category": "Vaccines",
+    "myth": "The flu jab gives you the flu.",
+    "rating": "false",
+    "fact": "Injected flu vaccines contain inactivated virus or a single viral protein and cannot cause flu. Some people get a sore arm, mild temperature or aches for a day or two, which is the immune system responding, not flu.",
+    "explanation": "The myth persists because flu vaccines are given in autumn, when colds and other viruses are circulating, so some people catch an unrelated bug soon after. Protection also takes about two weeks to develop. The children's nasal spray contains weakened live virus that is designed not to cause flu illness.",
+    "keywords": [
+      "flu jab",
+      "flu shot",
+      "flu vaccine",
+      "gives you flu",
+      "gave me flu",
+      "influenza vaccine",
+      "sick after flu shot",
+      "flu jab side effects"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Flu vaccine",
+        "url": "https://www.nhs.uk/vaccinations/flu-vaccine/"
+      },
+      {
+        "label": "WHO — Influenza (seasonal)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/influenza-(seasonal)"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "mrna-vaccine-changes-dna",
+    "category": "Vaccines",
+    "myth": "mRNA COVID-19 vaccines change your DNA.",
+    "rating": "false",
+    "fact": "mRNA vaccines never enter the cell nucleus, where DNA is kept, and cannot alter your genes. The mRNA gives cells temporary instructions to make a harmless protein, and it is broken down by the body within days.",
+    "explanation": "The word 'genetic' in descriptions of mRNA technology led many people to assume it edits genes. Human cells read mRNA all the time as a normal part of making proteins. The vaccine mRNA is fragile, which is why some of these vaccines had to be kept very cold.",
+    "keywords": [
+      "mrna",
+      "dna",
+      "changes dna",
+      "gene therapy",
+      "alters genes",
+      "covid vaccine",
+      "pfizer",
+      "moderna",
+      "genetic modification",
+      "modify dna"
+    ],
+    "sources": [
+      {
+        "label": "NHS — COVID-19 vaccine",
+        "url": "https://www.nhs.uk/vaccinations/covid-19-vaccine/"
+      },
+      {
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+        "label": "WHO — Vaccines and immunization: what is vaccination?"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "covid-vaccine-causes-infertility",
+    "category": "Vaccines",
+    "myth": "COVID-19 vaccines cause infertility.",
+    "rating": "false",
+    "fact": "There is no evidence that COVID-19 vaccines affect fertility in women or men. Studies of couples trying to conceive found similar pregnancy rates in vaccinated and unvaccinated people.",
+    "explanation": "This rumour started from a misreading of how the spike protein relates to a placental protein, which was not supported by evidence. Some people noticed small, temporary changes in their period after vaccination, which resolve and do not affect fertility. COVID-19 infection itself during pregnancy carries extra risks, which is why vaccination has been recommended for pregnant people in many countries.",
+    "keywords": [
+      "infertility",
+      "fertility",
+      "sterile",
+      "sterility",
+      "covid vaccine",
+      "can't get pregnant",
+      "covid jab fertility",
+      "sterilization"
+    ],
+    "sources": [
+      {
+        "label": "NHS — COVID-19 vaccine",
+        "url": "https://www.nhs.uk/vaccinations/covid-19-vaccine/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "hpv-vaccine-encourages-sex",
+    "category": "Vaccines",
+    "myth": "The HPV vaccine encourages teenagers to have sex earlier.",
+    "rating": "false",
+    "fact": "Studies have found that HPV vaccination does not lead to earlier or riskier sexual activity. The vaccine is given before people are likely to be exposed to HPV because it works best then.",
+    "explanation": "Because HPV spreads through sexual contact, some parents worry that vaccinating implies approval of sex. The vaccine is about preventing cancers later in life, including cervical, throat and anal cancers. Countries with high HPV vaccine coverage have seen large drops in HPV infections and in cervical pre-cancers.",
+    "keywords": [
+      "hpv",
+      "hpv vaccine",
+      "gardasil",
+      "promiscuity",
+      "teenagers sex",
+      "cervical cancer vaccine",
+      "hpv jab",
+      "human papillomavirus"
+    ],
+    "sources": [
+      {
+        "label": "NHS — HPV vaccine",
+        "url": "https://www.nhs.uk/vaccinations/hpv-vaccine/"
+      },
+      {
+        "label": "WHO — Cervical cancer",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/cervical-cancer"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "diseases-gone-no-need-to-vaccinate",
+    "category": "Vaccines",
+    "myth": "We don't need vaccines anymore because these diseases have disappeared.",
+    "rating": "false",
+    "fact": "Most vaccine-preventable diseases still circulate somewhere in the world and return quickly when vaccination rates fall. Measles outbreaks in recent years have occurred in many countries where coverage dropped.",
+    "explanation": "Diseases like polio and diphtheria seem distant precisely because vaccines have kept them rare. Travel means an infection can arrive from anywhere within a day. Smallpox is the only human disease that has been fully eradicated, and only through vaccination.",
+    "keywords": [
+      "diseases gone",
+      "eradicated",
+      "no longer needed",
+      "measles outbreak",
+      "polio",
+      "disappeared",
+      "rare diseases",
+      "why vaccinate",
+      "unnecessary vaccines"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Measles",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/measles"
+      },
+      {
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+        "label": "WHO — Vaccines and immunization: what is vaccination?"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "vaccines-not-safety-tested",
+    "category": "Vaccines",
+    "myth": "Vaccines are rushed out without proper safety testing.",
+    "rating": "false",
+    "fact": "Vaccines go through laboratory studies and several phases of clinical trials before licensing, and their safety is monitored continuously afterwards through reporting systems. Rare side effects found after approval have led to changes in advice, which shows the monitoring works.",
+    "explanation": "COVID-19 vaccines were developed quickly, which made many people uneasy. The speed came from earlier research on similar viruses, large funding, running trial phases in parallel and fast regulatory review, not from skipping steps. Like all medicines, vaccines can have side effects, and these are published openly.",
+    "keywords": [
+      "not tested",
+      "rushed",
+      "untested",
+      "experimental",
+      "vaccine trials",
+      "vaccine safety",
+      "clinical trials",
+      "too fast",
+      "long term effects"
+    ],
+    "sources": [
+      {
+        "url": "https://www.nhs.uk/vaccinations/",
+        "label": "NHS — Vaccinations"
+      },
+      {
+        "label": "WHO — Vaccines and immunization",
+        "url": "https://www.who.int/health-topics/vaccines-and-immunization"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "flu-vaccine-needed-every-year",
+    "category": "Vaccines",
+    "myth": "You need a new flu vaccine every year.",
+    "rating": "true",
+    "fact": "Flu viruses change frequently, and the vaccine is updated each year to match the strains expected to circulate. Protection from the vaccine also fades over months, so yearly vaccination is recommended for people at higher risk.",
+    "explanation": "Some people think one flu jab should last for life like some childhood vaccines. Because flu strains shift, last year's vaccine may not match this year's virus well. Who is offered a free flu vaccine varies by country, but it commonly includes older adults, pregnant people, young children and people with long-term health conditions.",
+    "keywords": [
+      "flu vaccine every year",
+      "annual flu shot",
+      "yearly flu jab",
+      "flu jab again",
+      "flu shot each year",
+      "why every year",
+      "flu vaccine"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Flu vaccine",
+        "url": "https://www.nhs.uk/vaccinations/flu-vaccine/"
+      },
+      {
+        "label": "WHO — Influenza (seasonal)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/influenza-(seasonal)"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "vaccines-cause-sids",
+    "category": "Vaccines",
+    "myth": "Vaccines cause sudden infant death syndrome (cot death).",
+    "rating": "false",
+    "fact": "Studies have not found that vaccines cause sudden infant death syndrome (SIDS). Babies are vaccinated in the same months when SIDS is most common, so some deaths will happen after vaccination by coincidence.",
+    "explanation": "Losing a baby is devastating and families naturally look for a cause. Known ways to lower SIDS risk include placing babies on their back to sleep, keeping the cot clear and avoiding smoke exposure. Some research suggests vaccinated babies are not at higher risk of SIDS than unvaccinated babies.",
+    "keywords": [
+      "sids",
+      "cot death",
+      "crib death",
+      "sudden infant death",
+      "baby died after vaccine",
+      "infant death",
+      "vaccines kill babies"
+    ],
+    "sources": [
+      {
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+        "label": "WHO — Vaccines and immunization: what is vaccination?"
+      },
+      {
+        "label": "NHS — Sudden infant death syndrome (SIDS)",
+        "url": "https://www.nhs.uk/conditions/sudden-infant-death-syndrome-sids/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "covid-vaccine-shedding",
+    "category": "Vaccines",
+    "myth": "People who had a COVID-19 vaccine 'shed' it and make others sick.",
+    "rating": "false",
+    "fact": "None of the widely used COVID-19 vaccines contain live virus, so there is nothing that can be shed and passed to other people. The spike protein made after vaccination stays in the body and is cleared over time.",
+    "explanation": "The idea of 'shedding' comes from some live vaccines, such as oral polio vaccine, where weakened virus can be passed on in rare cases. That does not apply to mRNA or protein-based vaccines. Claims that vaccinated people affect others' periods or health have not been supported by evidence.",
+    "keywords": [
+      "shedding",
+      "vaccine shedding",
+      "spike protein",
+      "shed",
+      "vaccinated people make others sick",
+      "covid vaccine",
+      "transmit vaccine"
+    ],
+    "sources": [
+      {
+        "label": "NHS — COVID-19 vaccine",
+        "url": "https://www.nhs.uk/vaccinations/covid-19-vaccine/"
+      },
+      {
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+        "label": "WHO — Vaccines and immunization: what is vaccination?"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "feed-a-cold-starve-a-fever",
+    "category": "Infections & colds",
+    "myth": "Feed a cold, starve a fever.",
+    "rating": "false",
+    "fact": "There is no evidence that eating more helps a cold or that going without food helps a fever. With either illness, the main advice is to rest, drink plenty of fluids and eat as your appetite allows.",
+    "explanation": "This saying is centuries old and was based on ideas about body heat rather than evidence. A fever increases fluid loss, so staying hydrated matters more than food. Not feeling hungry when unwell is normal, but avoiding food deliberately is not helpful.",
+    "keywords": [
+      "feed a cold",
+      "starve a fever",
+      "fever food",
+      "eat when sick",
+      "fasting fever",
+      "cold food",
+      "should i eat with a fever"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Common cold",
+        "url": "https://www.nhs.uk/conditions/common-cold/"
+      },
+      {
+        "label": "NHS — Flu",
+        "url": "https://www.nhs.uk/conditions/flu/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "cold-weather-causes-colds",
+    "category": "Infections & colds",
+    "myth": "Being cold gives you a cold.",
+    "rating": "misleading",
+    "fact": "Colds are caused by viruses, not by low temperatures. Colds are more common in winter mainly because people spend more time indoors close together, and some cold viruses spread more easily in cool, dry air.",
+    "explanation": "The name 'cold' reinforces the belief, and many people notice symptoms after being chilled. Some research suggests cooler airways may make it slightly easier for viruses to take hold, which is why the claim is not entirely baseless. But without exposure to a virus, being cold will not give you a cold.",
+    "keywords": [
+      "cold weather",
+      "catch a cold",
+      "getting cold",
+      "chill",
+      "winter",
+      "cold air",
+      "going out in the cold",
+      "cause of colds"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Common cold",
+        "url": "https://www.nhs.uk/conditions/common-cold/"
+      },
+      {
+        "label": "CDC — Common cold",
+        "url": "https://www.cdc.gov/common-cold/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "wet-hair-gives-you-a-cold",
+    "category": "Infections & colds",
+    "myth": "Going outside with wet hair will give you a cold.",
+    "rating": "false",
+    "fact": "Wet hair does not cause colds; only cold viruses do. You may feel chilly and uncomfortable, but you cannot catch a cold without coming into contact with a virus.",
+    "explanation": "This is a common warning passed down in families. The timing often seems to fit because people catch viruses from others around the same time. Drying your hair in cold weather is still sensible for comfort.",
+    "keywords": [
+      "wet hair",
+      "damp hair",
+      "shower then outside",
+      "wet head",
+      "catch cold",
+      "hair wet cold",
+      "go out with wet hair"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Common cold",
+        "url": "https://www.nhs.uk/conditions/common-cold/"
+      },
+      {
+        "label": "CDC — Common cold",
+        "url": "https://www.cdc.gov/common-cold/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "green-mucus-needs-antibiotics",
+    "category": "Infections & colds",
+    "myth": "Green or yellow snot means you have a bacterial infection and need antibiotics.",
+    "rating": "false",
+    "fact": "Mucus often turns yellow or green during ordinary viral colds because of immune cells fighting the infection. The colour alone does not mean you have a bacterial infection or need antibiotics.",
+    "explanation": "Many people expect antibiotics when their mucus changes colour, and this is a common reason for unnecessary prescriptions. Most colds and sinus infections get better on their own within one to three weeks. See a doctor if symptoms last more than about 10 days, are severe, or you have a high temperature that does not settle.",
+    "keywords": [
+      "green snot",
+      "yellow snot",
+      "green mucus",
+      "yellow mucus",
+      "phlegm colour",
+      "sinus infection",
+      "need antibiotics",
+      "bacterial infection",
+      "green phlegm"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Common cold",
+        "url": "https://www.nhs.uk/conditions/common-cold/"
+      },
+      {
+        "label": "CDC — Antibiotic use",
+        "url": "https://www.cdc.gov/antibiotic-use/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "raw-garlic-cures-infections",
+    "category": "Infections & colds",
+    "myth": "Eating raw garlic cures infections and replaces antibiotics.",
+    "rating": "false",
+    "fact": "Garlic contains compounds that affect bacteria in the laboratory, but there is no good evidence that eating it cures infections in people. It is not a substitute for antibiotics or other treatments when they are needed.",
+    "explanation": "Garlic has a long history in folk medicine, and lab studies on its compound allicin are often quoted online. Effects seen in a dish do not translate into curing infections in the body. Large amounts of raw garlic can upset the stomach, and garlic supplements can increase bleeding risk with blood thinners.",
+    "keywords": [
+      "garlic",
+      "raw garlic",
+      "natural antibiotic",
+      "garlic cures",
+      "allicin",
+      "garlic infection",
+      "garlic for cold",
+      "garlic covid"
+    ],
+    "sources": [
+      {
+        "label": "NCCIH — Garlic",
+        "url": "https://www.nccih.nih.gov/health/garlic"
+      },
+      {
+        "label": "WHO — Antimicrobial resistance",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "handwashing-prevents-infections",
+    "category": "Infections & colds",
+    "myth": "Washing your hands with soap and water prevents infections.",
+    "rating": "true",
+    "fact": "Handwashing with soap and water is one of the most effective ways to prevent the spread of many infections, including diarrhoeal illnesses and respiratory infections such as colds and flu.",
+    "explanation": "Some people doubt that something so simple makes a real difference. Soap helps lift germs off the skin so they rinse away, and washing for about 20 seconds covers all parts of the hands. Key times are after using the toilet, before eating or preparing food, and after coughing, sneezing or blowing your nose.",
+    "keywords": [
+      "hand washing",
+      "handwashing",
+      "wash hands",
+      "soap and water",
+      "hand hygiene",
+      "prevent infection",
+      "germs",
+      "clean hands"
+    ],
+    "sources": [
+      {
+        "label": "CDC — Clean hands",
+        "url": "https://www.cdc.gov/clean-hands/"
+      },
+      {
+        "label": "MedlinePlus — Germs and hygiene",
+        "url": "https://medlineplus.gov/germsandhygiene.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "hand-sanitiser-as-good-as-soap",
+    "category": "Infections & colds",
+    "myth": "Hand sanitiser works just as well as soap and water against all germs.",
+    "rating": "misleading",
+    "fact": "Alcohol-based hand sanitiser is a good option when soap and water are not available, but it does not work as well against some germs, such as norovirus and Clostridioides difficile, and it does not clean visibly dirty or greasy hands well.",
+    "explanation": "Sanitiser became an everyday habit during the COVID-19 pandemic, and it does kill many germs quickly. Health agencies recommend one with at least 60% alcohol. Washing with soap and water is still preferred when hands are dirty, after using the toilet, and during stomach bugs.",
+    "keywords": [
+      "hand sanitiser",
+      "hand sanitizer",
+      "alcohol gel",
+      "sanitizer vs soap",
+      "hand gel",
+      "norovirus",
+      "clean hands"
+    ],
+    "sources": [
+      {
+        "label": "CDC — Clean hands",
+        "url": "https://www.cdc.gov/clean-hands/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "antibacterial-soap-better",
+    "category": "Infections & colds",
+    "myth": "Antibacterial soap protects you better than ordinary soap.",
+    "rating": "false",
+    "fact": "There is no evidence that antibacterial soaps sold for home use prevent illness better than plain soap and water. In the US, the FDA banned several antibacterial ingredients, including triclosan, from consumer hand washes in 2016 because manufacturers had not shown they were safe and more effective.",
+    "explanation": "Labels saying 'kills 99.9% of germs' make antibacterial products seem stronger. Plain soap works mainly by washing germs away, which is effective. Some antibacterial chemicals raised concerns about contributing to resistance.",
+    "keywords": [
+      "antibacterial soap",
+      "triclosan",
+      "kills 99.9%",
+      "plain soap",
+      "antibacterial hand wash",
+      "antimicrobial soap",
+      "dettol soap"
+    ],
+    "sources": [
+      {
+        "label": "FDA — Antibacterial soap? You can skip it",
+        "url": "https://www.fda.gov/consumers/consumer-updates/antibacterial-soap-you-can-skip-it-use-plain-soap-and-water"
+      },
+      {
+        "label": "CDC — Clean hands",
+        "url": "https://www.cdc.gov/clean-hands/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "five-second-rule",
+    "category": "Infections & colds",
+    "myth": "Food dropped on the floor is safe to eat if you pick it up within five seconds.",
+    "rating": "false",
+    "fact": "Bacteria can transfer to food the moment it touches a contaminated surface. Moist foods and dirty surfaces pick up more bacteria, and longer contact increases transfer, but there is no safe time window.",
+    "explanation": "The 'five-second rule' is a popular joke that many people take seriously. For most healthy people, eating a dry biscuit off a clean floor is unlikely to cause harm, but the risk depends on the surface, not the speed. Be more careful with food for babies, older people, pregnant people and anyone with a weakened immune system.",
+    "keywords": [
+      "five second rule",
+      "5 second rule",
+      "dropped food",
+      "food on floor",
+      "floor food",
+      "three second rule",
+      "eat off the floor"
+    ],
+    "sources": [
+      {
+        "label": "CDC — Food safety",
+        "url": "https://www.cdc.gov/food-safety/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "flu-just-a-bad-cold",
+    "category": "Infections & colds",
+    "myth": "Flu is just a bad cold.",
+    "rating": "false",
+    "fact": "Flu is caused by different viruses from the common cold and is usually more severe, often with sudden fever, body aches and exhaustion. Seasonal flu causes hundreds of thousands of deaths worldwide each year, according to WHO.",
+    "explanation": "People often say they have 'flu' when they have a heavy cold, which makes real flu seem mild. Flu can lead to pneumonia and is especially dangerous for older people, young children, pregnant people and those with long-term conditions. Annual vaccination reduces the risk.",
+    "keywords": [
+      "flu",
+      "influenza",
+      "just a cold",
+      "bad cold",
+      "flu vs cold",
+      "difference flu cold",
+      "flu is harmless"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Influenza (seasonal)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/influenza-(seasonal)"
+      },
+      {
+        "label": "NHS — Flu",
+        "url": "https://www.nhs.uk/conditions/flu/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "sweat-out-a-fever",
+    "category": "Infections & colds",
+    "myth": "You should bundle up in blankets to sweat out a fever.",
+    "rating": "false",
+    "fact": "Piling on blankets does not cure an infection and can push body temperature higher and cause dehydration. Wearing light clothing, staying in a comfortable room and drinking fluids is the usual advice.",
+    "explanation": "Sweating often happens as a fever breaks, so people assume sweating caused the recovery. Over-wrapping is a particular concern for babies and young children. Seek medical help for a very young baby with a temperature, or if a fever comes with a rash that does not fade, breathing difficulty or confusion.",
+    "keywords": [
+      "sweat out fever",
+      "sweat it out",
+      "blankets fever",
+      "bundle up",
+      "fever sweating",
+      "break a fever",
+      "wrap up warm fever"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Fever in adults",
+        "url": "https://www.nhs.uk/conditions/fever-in-adults/"
+      },
+      {
+        "label": "NHS — Fever in children",
+        "url": "https://www.nhs.uk/conditions/fever-in-children/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "measles-is-harmless",
+    "category": "Infections & colds",
+    "myth": "Measles is a mild childhood illness that everyone used to get.",
+    "rating": "false",
+    "fact": "Measles is one of the most contagious diseases and can cause pneumonia, brain inflammation (encephalitis), blindness and death. WHO estimates that it still kills more than 100,000 people a year worldwide, mostly young children.",
+    "explanation": "Older generations often remember measles as a normal part of childhood, and many children did recover. But the deaths and disabilities it caused were also common before vaccination. Measles can also weaken the immune system for months or years afterwards.",
+    "keywords": [
+      "measles",
+      "measles harmless",
+      "measles mild",
+      "childhood illness",
+      "measles deaths",
+      "rubeola",
+      "measles complications"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Measles",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/measles"
+      },
+      {
+        "label": "NHS — Measles",
+        "url": "https://www.nhs.uk/conditions/measles/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "steam-kills-cold-virus",
+    "category": "Infections & colds",
+    "myth": "Breathing hot steam or using a hairdryer kills cold and flu viruses in your nose.",
+    "rating": "false",
+    "fact": "Inhaling steam or hot air does not kill viruses inside your body. Steam may temporarily ease a blocked nose, but it does not shorten or cure an infection, and very hot steam can cause burns.",
+    "explanation": "These claims circulated widely during the COVID-19 pandemic, sometimes with videos of people breathing hot air. Body temperature is tightly controlled, and inhaled heat cannot reach the levels needed to destroy viruses without harming tissue. Scalds from bowls of boiling water are a real risk, especially for children.",
+    "keywords": [
+      "steam",
+      "steam inhalation",
+      "hot air",
+      "hairdryer",
+      "kill virus",
+      "hot water vapour",
+      "heat kills virus",
+      "sauna kills covid"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Common cold",
+        "url": "https://www.nhs.uk/conditions/common-cold/"
+      },
+      {
+        "label": "NHS — Burns and scalds",
+        "url": "https://www.nhs.uk/conditions/burns-and-scalds/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]

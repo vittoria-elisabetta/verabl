@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "headache",
+    "name": "Headache",
+    "aliases": ["head hurts", "head pain", "pounding head", "tension headache", "headache that won't go away", "pressure in my head", "throbbing head"],
+    "bodyArea": "Head & brain",
+    "summary": "Headaches are very common and are usually caused by things like tension, colds, dehydration, missed meals or too little sleep. Most get better on their own or with simple self-care within a few hours.",
+    "redFlags": [
+      "Sudden, severe headache that feels like the worst ever",
+      "Headache with weakness or numbness in the face, arm or leg, or a drooping face",
+      "Headache with difficulty speaking, walking, balancing or remembering things",
+      "Headache with drowsiness or confusion",
+      "Headache after a seizure (fit)",
+      "Headache with sudden loss of vision",
+      "Headache with fever, stiff neck or a rash that does not fade when a glass is pressed on it",
+      "Headache after a head injury in the last few months"
+    ],
+    "urgentFlags": [
+      "Headache with eye or vision problems",
+      "Headache made worse by coughing, sneezing, bending down or exercise",
+      "Headache with repeated vomiting",
+      "Headache with jaw pain when eating or a sore, tender scalp (especially if over 50)",
+      "A child's headache that keeps getting worse or wakes them at night"
+    ],
+    "commonCauses": [
+      {"title": "Tension-type headache", "detail": "A dull, tight or pressing pain on both sides of the head, often linked to stress, tiredness, poor posture or skipped meals."},
+      {"title": "Colds, flu and other infections", "detail": "Headaches often come with viral infections and settle as the illness passes."},
+      {"title": "Dehydration, alcohol or caffeine", "detail": "Not drinking enough, a hangover, or cutting down suddenly on caffeine can all trigger headaches."},
+      {"title": "Migraine", "detail": "A throbbing headache, often on one side, sometimes with sickness, sensitivity to light or visual disturbance."},
+      {"title": "Medication-overuse headache", "detail": "Taking painkillers on many days each month can itself cause frequent headaches."}
+    ],
+    "selfCare": [
+      "Drink plenty of water and eat regular meals",
+      "Rest, and try to relax; gentle exercise and fresh air can help a tension headache",
+      "Take over-the-counter pain relief such as paracetamol or ibuprofen, following the pack instructions",
+      "Try to keep regular sleep times and take breaks from screens",
+      "Keep a headache diary to spot triggers such as certain foods, stress or lack of sleep"
+    ],
+    "avoid": [
+      "Taking painkillers on more than a few days a week, as this can cause rebound headaches",
+      "Drinking alcohol while you have a headache",
+      "Skipping meals or going a long time without water"
+    ],
+    "seeDoctorIf": [
+      "Your headaches keep coming back or are getting more frequent",
+      "Painkillers do not help or you need them most days",
+      "Headaches are stopping you doing normal activities",
+      "You have a new pattern of headaches, especially if you are over 50",
+      "Self-care has not helped and the headache is getting worse"
+    ],
+    "selfCareMaxDays": 7,
+    "sources": [
+      {"label": "NHS – Headaches", "url": "https://www.nhs.uk/symptoms/headaches/"},
+      {"label": "NHS – Tension headaches", "url": "https://www.nhs.uk/conditions/tension-headaches/"},
+      {"label": "MedlinePlus – Headache", "url": "https://medlineplus.gov/headache.html"}
+    ]
+  },
+  {
+    "id": "migraine",
+    "name": "Migraine-type headache",
+    "aliases": ["migraine", "one-sided throbbing headache", "headache with aura", "zigzag lines before headache", "headache with nausea", "headache light sensitivity"],
+    "bodyArea": "Head & brain",
+    "summary": "A migraine is usually a moderate or severe throbbing headache, often on one side, that can come with feeling sick and sensitivity to light or sound. Some people see flashing lights or zigzags (aura) beforehand.",
+    "redFlags": [
+      "A headache that came on suddenly and is extremely painful",
+      "Weakness or inability to move an arm, leg or one side of the face",
+      "Problems speaking or remembering things",
+      "Loss of vision, or new blurred or double vision",
+      "Drowsiness or confusion",
+      "A seizure (fit)",
+      "Very high temperature with a stiff neck or a rash that does not fade",
+      "A recent head injury"
+    ],
+    "urgentFlags": [
+      "A migraine attack that has lasted longer than 72 hours",
+      "Aura symptoms lasting longer than 1 hour",
+      "A migraine during pregnancy or soon after having a baby",
+      "Aura symptoms happening for the first time without a headache"
+    ],
+    "commonCauses": [
+      {"title": "Migraine triggers", "detail": "Attacks can be set off by stress, tiredness, missed meals, dehydration, alcohol or changes in sleep."},
+      {"title": "Hormonal changes", "detail": "Many women get migraines around their period, and patterns can change during pregnancy or menopause."},
+      {"title": "Environmental factors", "detail": "Bright or flickering lights, loud noise and strong smells can trigger attacks in some people."},
+      {"title": "Family history", "detail": "Migraine often runs in families, and some people are simply more prone to it."}
+    ],
+    "selfCare": [
+      "Lie down in a quiet, dark room at the start of an attack",
+      "Take over-the-counter pain relief such as paracetamol or ibuprofen as early as possible, following the pack instructions",
+      "Sip water, especially if you have been sick",
+      "Try a cold pack wrapped in a cloth on your forehead",
+      "Keep a diary to find and avoid your triggers, and keep regular meals and sleep"
+    ],
+    "avoid": [
+      "Using painkillers on many days each month, which can cause medication-overuse headache",
+      "Skipping meals or getting dehydrated",
+      "Unproven remedies sold as migraine cures"
+    ],
+    "seeDoctorIf": [
+      "Attacks are severe, getting worse, or lasting longer than usual",
+      "You have migraines more than once a week",
+      "Over-the-counter treatments are not controlling your symptoms",
+      "You regularly get migraines around your period",
+      "You have migraine with aura and are thinking about the combined contraceptive pill"
+    ],
+    "selfCareMaxDays": 3,
+    "sources": [
+      {"label": "NHS – Migraine", "url": "https://www.nhs.uk/conditions/migraine/"},
+      {"label": "MedlinePlus – Headache", "url": "https://medlineplus.gov/headache.html"}
+    ]
+  },
+  {
+    "id": "cluster-headache",
+    "name": "Severe pain around one eye (cluster headache)",
+    "aliases": ["cluster headache", "stabbing pain behind one eye", "suicide headache", "headache same time every day", "one-sided eye headache with watery eye"],
+    "bodyArea": "Head & brain",
+    "summary": "Cluster headaches are attacks of very severe pain on one side of the head, usually around the eye, that come in clusters over weeks. The eye on that side may water or redden and the nostril may run or block.",
+    "redFlags": [
+      "A drooping eyelid for the first time",
+      "One pupil smaller than the other for the first time",
+      "Sudden, extremely severe headache unlike anything before",
+      "Weakness, numbness, slurred speech or confusion with the headache"
+    ],
+    "urgentFlags": [
+      "Severe headache with jaw pain when eating",
+      "Severe headache with blurred or double vision",
+      "Severe headache with a sore, tender scalp",
+      "Severe headache with numbness or weakness in the arms or legs that has now passed"
+    ],
+    "commonCauses": [
+      {"title": "Cluster headache", "detail": "A primary headache disorder linked to the part of the brain that controls body rhythms; attacks often happen at the same time of day."},
+      {"title": "Alcohol and strong smells", "detail": "During a cluster period, alcohol and strong smells such as paint or petrol can trigger attacks."},
+      {"title": "Other eye or nerve conditions", "detail": "Conditions such as acute glaucoma or trigeminal neuralgia can cause severe one-sided pain and need checking."}
+    ],
+    "selfCare": [
+      "Note when attacks happen and how long they last to share with a doctor",
+      "Avoid alcohol during a cluster period",
+      "Keep regular sleep times",
+      "Avoid strong smells such as solvents, paint and perfume if they trigger attacks"
+    ],
+    "avoid": [
+      "Relying on ordinary painkillers, which usually work too slowly for cluster headaches",
+      "Smoking, which is linked to cluster headaches",
+      "Drinking alcohol during a cluster period"
+    ],
+    "seeDoctorIf": [
+      "You think you might have cluster headaches",
+      "Your headaches keep coming back",
+      "Ordinary painkillers do not help",
+      "Diagnosed cluster headaches are getting worse or your usual treatment is not working"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {"label": "NHS – Cluster headaches", "url": "https://www.nhs.uk/conditions/cluster-headaches/"},
+      {"label": "MedlinePlus – Headache", "url": "https://medlineplus.gov/headache.html"}
+    ]
+  },
+  {
+    "id": "head-injury",
+    "name": "Head injury or bump to the head",
+    "aliases": ["hit my head", "bumped head", "concussion", "fell and hit head", "lump on head after fall", "headache after hitting head"],
+    "bodyArea": "Head & brain",
+    "summary": "Most bumps to the head are minor and cause only a headache or a swelling. Some symptoms after a head injury can mean a more serious injury that needs emergency care.",
+    "redFlags": [
+      "Was knocked out and has not woken up, or cannot stay awake",
+      "A fit (seizure) after the injury",
+      "Fell from more than 1 metre or down 5 or more stairs",
+      "Problems with vision or hearing after the injury",
+      "Clear fluid or blood coming from the ears or nose",
+      "Bruising behind the ears, or a black eye without being hit in the eye",
+      "Trouble speaking, weakness, numbness or confusion",
+      "Repeated vomiting or a headache that keeps getting worse"
+    ],
+    "urgentFlags": [
+      "Being sick once after the injury",
+      "Feeling dizzy after the injury",
+      "Taking blood-thinning medicine or having a bleeding condition",
+      "Was drinking alcohol or taking drugs at the time of the injury",
+      "Symptoms in a baby or young child after a bump"
+    ],
+    "commonCauses": [
+      {"title": "Minor head injury", "detail": "A bump or bruise causing a headache, small swelling or feeling a bit dazed that settles within days."},
+      {"title": "Concussion", "detail": "A temporary disturbance of brain function causing headache, dizziness, poor concentration or memory problems for up to a few weeks."},
+      {"title": "More serious injury", "detail": "Rarely, bleeding inside the skull or a skull fracture, which needs urgent hospital care."}
+    ],
+    "selfCare": [
+      "Hold an ice pack or bag of frozen peas wrapped in a cloth to the area for short periods",
+      "Rest and avoid stress; it is fine to sleep if tired",
+      "Take paracetamol for a headache, following the pack instructions",
+      "Make sure an adult stays with the injured person for at least the first 24 hours",
+      "Return to sport only after symptoms have gone and with medical advice"
+    ],
+    "avoid": [
+      "Driving yourself to hospital after a head injury",
+      "Contact sports until fully recovered",
+      "Alcohol or recreational drugs while recovering"
+    ],
+    "seeDoctorIf": [
+      "Symptoms last more than 2 weeks",
+      "You are not sure whether it is safe to drive, work or play sport",
+      "You keep having headaches, poor concentration or mood changes after the injury"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {"label": "NHS – Head injury and concussion", "url": "https://www.nhs.uk/conditions/head-injury-and-concussion/"},
+      {"label": "MedlinePlus – Head injuries", "url": "https://medlineplus.gov/headinjuries.html"}
+    ]
+  },
+  {
+    "id": "dizziness",
+    "name": "Dizziness or light-headedness",
+    "aliases": ["feeling dizzy", "light headed", "feel faint", "woozy", "off balance", "head rush when standing", "giddy"],
+    "bodyArea": "Head & brain",
+    "summary": "Feeling dizzy, light-headed or off-balance is common and usually not serious. It often passes on its own and can be caused by things like standing up quickly, dehydration or an ear problem.",
+    "redFlags": [
+      "Dizziness with chest pain, a racing or irregular heartbeat, or shortness of breath",
+      "Dizziness with weakness or numbness in the face, arm or leg, or a drooping face",
+      "Dizziness with slurred speech, sudden confusion or loss of vision",
+      "Dizziness with a sudden, severe headache",
+      "Fainting or collapsing and not recovering quickly"
+    ],
+    "urgentFlags": [
+      "Dizziness with a very high temperature or feeling hot and shivery",
+      "Dizziness with repeated vomiting so you cannot keep fluids down",
+      "Dizziness after a head injury",
+      "Dizziness with new double or blurred vision that has now passed"
+    ],
+    "commonCauses": [
+      {"title": "Standing up quickly", "detail": "A brief drop in blood pressure when you stand can make you light-headed for a few seconds."},
+      {"title": "Dehydration, heat or missed meals", "detail": "Not drinking or eating enough, or being too hot, can make you feel faint."},
+      {"title": "Inner ear problems", "detail": "Ear infections, labyrinthitis and other inner ear conditions can cause dizziness or spinning."},
+      {"title": "Anxiety or stress", "detail": "Anxiety and fast breathing can cause light-headedness."},
+      {"title": "Medicines or low blood sugar", "detail": "Some medicines, and low blood sugar in people with diabetes, can cause dizziness."}
+    ],
+    "selfCare": [
+      "Sit or lie down until the dizziness passes",
+      "Stand up slowly, especially from lying down",
+      "Drink plenty of fluids and eat regular meals",
+      "Move carefully and turn on lights at night to avoid falls",
+      "Get plenty of rest and sleep"
+    ],
+    "avoid": [
+      "Driving, climbing ladders or using machinery while dizzy",
+      "Alcohol, caffeine and smoking, which can make dizziness worse",
+      "Bending down suddenly"
+    ],
+    "seeDoctorIf": [
+      "Dizziness will not go away or keeps coming back",
+      "You also have hearing loss or ringing in the ears",
+      "You have fainted or nearly fainted",
+      "You think a medicine may be causing it"
+    ],
+    "selfCareMaxDays": 7,
+    "sources": [
+      {"label": "NHS – Dizziness", "url": "https://www.nhs.uk/symptoms/dizziness/"},
+      {"label": "MedlinePlus – Dizziness and vertigo", "url": "https://medlineplus.gov/dizzinessandvertigo.html"}
+    ]
+  },
+  {
+    "id": "vertigo",
+    "name": "Vertigo (spinning sensation)",
+    "aliases": ["room spinning", "spinning feeling", "everything is spinning", "dizzy when turning head", "dizzy when lying down", "vertigo attack"],
+    "bodyArea": "Head & brain",
+    "summary": "Vertigo is the feeling that you, or everything around you, is spinning. It is often caused by an inner ear problem and usually gets better without treatment.",
+    "redFlags": [
+      "Vertigo with double vision or loss of vision",
+      "Vertigo with sudden hearing loss",
+      "Vertigo with trouble speaking",
+      "Vertigo with weakness, numbness or tingling in an arm or leg",
+      "Being unable to stand or walk at all",
+      "Someone with vertigo who cannot be woken up"
+    ],
+    "urgentFlags": [
+      "Vertigo with a severe headache",
+      "Vertigo with being sick or feeling very sick",
+      "Vertigo with a very high temperature or feeling hot and shivery"
+    ],
+    "commonCauses": [
+      {"title": "Benign paroxysmal positional vertigo (BPPV)", "detail": "Short bursts of spinning triggered by moving the head, such as rolling over in bed."},
+      {"title": "Labyrinthitis or vestibular neuritis", "detail": "Inner ear inflammation, often after a viral infection, causing vertigo that can last days."},
+      {"title": "Migraine", "detail": "Some people get vertigo as part of a migraine, sometimes without much headache."},
+      {"title": "Ménière's disease", "detail": "Attacks of vertigo with hearing loss, ringing and a feeling of fullness in one ear."}
+    ],
+    "selfCare": [
+      "Lie still in a quiet, dark room during an attack",
+      "Move your head slowly and carefully",
+      "Sit down straight away when you feel dizzy",
+      "Get up slowly in the morning and sit on the edge of the bed for a minute",
+      "Sleep with your head slightly raised on two or more pillows"
+    ],
+    "avoid": [
+      "Driving or using machinery while you have vertigo",
+      "Bending down or stretching up suddenly",
+      "Climbing ladders or working at heights"
+    ],
+    "seeDoctorIf": [
+      "Vertigo will not go away or keeps coming back",
+      "It is affecting your daily life",
+      "You have hearing changes or ringing in the ears",
+      "You have had a fall"
+    ],
+    "selfCareMaxDays": 7,
+    "sources": [
+      {"label": "NHS – Vertigo", "url": "https://www.nhs.uk/conditions/vertigo/"},
+      {"label": "NHS – Labyrinthitis", "url": "https://www.nhs.uk/conditions/labyrinthitis/"},
+      {"label": "MedlinePlus – Dizziness and vertigo", "url": "https://medlineplus.gov/dizzinessandvertigo.html"}
+    ]
+  },
+  {
+    "id": "fainting",
+    "name": "Fainting or passing out",
+    "aliases": ["passed out", "blacked out", "fainted", "collapsed", "nearly fainted", "lost consciousness briefly"],
+    "bodyArea": "Head & brain",
+    "summary": "Fainting is when you lose consciousness for a short time, usually because blood flow to the brain drops briefly. It is often not serious, but it should be checked by a doctor.",
+    "redFlags": [
+      "Not breathing, or cannot be woken within 1 minute",
+      "Not fully recovered, or has difficulty speaking or moving",
+      "Chest pain or a pounding, fluttering or irregular heartbeat",
+      "Fainted during exercise or while lying down",
+      "Shaking or jerking (a possible seizure)",
+      "Seriously hurt themselves when they fell"
+    ],
+    "urgentFlags": [
+      "Fainting more than once in a short time",
+      "Fainting with shortness of breath",
+      "Fainting during pregnancy",
+      "Fainting in someone with a known heart condition"
+    ],
+    "commonCauses": [
+      {"title": "Vasovagal faint", "detail": "A common, usually harmless faint triggered by standing for long periods, heat, pain, fear or the sight of blood."},
+      {"title": "Low blood pressure on standing", "detail": "Standing up quickly, dehydration or some medicines can make blood pressure drop."},
+      {"title": "Not eating or drinking enough", "detail": "Low fluids or low blood sugar can lead to fainting."},
+      {"title": "Heart rhythm or heart problems", "detail": "Less commonly, fainting is caused by a heart problem, which needs medical assessment."}
+    ],
+    "selfCare": [
+      "If you feel faint, lie down and raise your legs, or sit with your head between your knees",
+      "Drink fluids and eat something once you feel better",
+      "Get up slowly after fainting and rest",
+      "Drink enough fluids and avoid standing still for long periods if you are prone to fainting",
+      "If someone faints, lay them on their back and raise their legs, and check they are breathing"
+    ],
+    "avoid": [
+      "Driving until a doctor has checked why you fainted",
+      "Getting up quickly straight after fainting",
+      "Giving food or drink to someone who is not fully awake"
+    ],
+    "seeDoctorIf": [
+      "You have fainted, even once, to find out the cause",
+      "You often feel faint or light-headed",
+      "You think a medicine may be making you faint"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {"label": "NHS – Fainting", "url": "https://www.nhs.uk/symptoms/fainting/"},
+      {"label": "MedlinePlus – Fainting", "url": "https://medlineplus.gov/fainting.html"}
+    ]
+  },
+  {
+    "id": "memory-problems",
+    "name": "Memory problems or forgetfulness",
+    "aliases": ["forgetful", "memory loss", "can't remember things", "losing my memory", "keep forgetting words", "worried about dementia"],
+    "bodyArea": "Head & brain",
+    "summary": "Everyone forgets things sometimes, and stress, poor sleep and low mood often make it worse. Memory problems that affect daily life should be checked, because some causes are treatable.",
+    "redFlags": [
+      "Sudden confusion or memory loss that came on over minutes or hours",
+      "Memory loss with weakness, numbness, a drooping face or slurred speech",
+      "Memory loss after a head injury",
+      "Memory loss with a severe headache, high fever or stiff neck"
+    ],
+    "urgentFlags": [
+      "Memory or thinking getting noticeably worse over days to weeks",
+      "Memory problems with new unusual behaviour or personality change",
+      "Memory problems after starting a new medicine"
+    ],
+    "commonCauses": [
+      {"title": "Stress, anxiety and low mood", "detail": "Worry and depression make it hard to concentrate, which can feel like poor memory."},
+      {"title": "Poor sleep and tiredness", "detail": "Not sleeping well affects attention and memory."},
+      {"title": "Normal ageing", "detail": "Mild slowing of memory, such as forgetting names, is common with age."},
+      {"title": "Medicines, alcohol and health conditions", "detail": "Some medicines, heavy drinking, an underactive thyroid or low vitamin B12 can affect memory."},
+      {"title": "Dementia", "detail": "Memory problems that steadily get worse and affect daily life can be an early sign of dementia."}
+    ],
+    "selfCare": [
+      "Use lists, a calendar, reminders and a fixed place for keys and glasses",
+      "Aim for regular, good-quality sleep",
+      "Stay physically active and socially connected",
+      "Cut down on alcohol",
+      "Ask someone who knows you well to help describe the changes to a doctor"
+    ],
+    "avoid": [
+      "Assuming memory problems are just old age without getting checked",
+      "Buying supplements or brain-training products that claim to prevent dementia",
+      "Stopping prescribed medicines without talking to a doctor"
+    ],
+    "seeDoctorIf": [
+      "Memory problems are affecting your day-to-day life",
+      "Family or friends have noticed you are more forgetful",
+      "You are worried a relative is becoming increasingly forgetful",
+      "Memory is getting gradually worse"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {"label": "NHS – Memory loss (amnesia)", "url": "https://www.nhs.uk/symptoms/memory-loss-amnesia/"},
+      {"label": "NHS – Dementia", "url": "https://www.nhs.uk/conditions/dementia/"},
+      {"label": "MedlinePlus – Memory", "url": "https://medlineplus.gov/memory.html"}
+    ]
+  },
+  {
+    "id": "sudden-confusion",
+    "name": "Sudden confusion",
+    "aliases": ["suddenly confused", "delirium", "not making sense", "disorientated", "acting strangely suddenly", "doesn't know where they are"],
+    "bodyArea": "Head & brain",
+    "summary": "Sudden confusion, sometimes called delirium, is when someone quickly becomes unable to think clearly, pay attention or know where they are. It can have many causes and needs medical help straight away.",
+    "redFlags": [
+      "Someone has suddenly become confused",
+      "Confusion with a drooping face, arm weakness or slurred speech",
+      "Confusion with a high or very low temperature, fast breathing or mottled, blue or very pale skin",
+      "Confusion after a head injury",
+      "Confusion with a severe headache, stiff neck or a rash that does not fade",
+      "Confusion in someone with diabetes who may have low blood sugar and is not improving after sugar"
+    ],
+    "urgentFlags": [
+      "Mild confusion that comes and goes in an older person, especially with a urine infection or new medicine",
+      "Confusion that has mostly settled but has not been explained"
+    ],
+    "commonCauses": [
+      {"title": "Infection", "detail": "Infections such as a urine or chest infection are a common cause of sudden confusion, especially in older people. Sepsis is a serious cause."},
+      {"title": "Stroke or head injury", "detail": "Problems with the brain itself can cause sudden confusion."},
+      {"title": "Low blood sugar, low oxygen or dehydration", "detail": "These can affect how the brain works."},
+      {"title": "Medicines, alcohol or drugs", "detail": "New medicines, too much alcohol, withdrawal or recreational drugs can cause confusion."}
+    ],
+    "selfCare": [
+      "Stay with the person and keep reassuring them",
+      "Tell them who you are and where they are, using simple words and short sentences",
+      "Make a note of any medicines they take to give to the medical team",
+      "If they have diabetes and are awake and able to swallow, give a sugary drink while waiting for help"
+    ],
+    "avoid": [
+      "Leaving a suddenly confused person alone",
+      "Asking lots of questions while they are confused",
+      "Driving them to hospital yourself if they are very unwell; call an ambulance"
+    ],
+    "seeDoctorIf": [
+      "You or a relative have gradually become more forgetful or confused",
+      "Confusion keeps happening, even if it passes",
+      "You think a medicine is making someone confused"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {"label": "NHS – Confusion", "url": "https://www.nhs.uk/symptoms/confusion/"},
+      {"label": "MedlinePlus – Confusion", "url": "https://medlineplus.gov/ency/article/003205.htm"},
+      {"label": "NHS – Sepsis", "url": "https://www.nhs.uk/conditions/sepsis/"}
+    ]
+  },
+  {
+    "id": "face-numbness",
+    "name": "Numbness or tingling in the face",
+    "aliases": ["face feels numb", "tingling face", "numb lips", "pins and needles in face", "numb cheek", "half of face numb"],
+    "bodyArea": "Head & brain",
+    "summary": "Numbness or tingling in the face can come from anxiety, a migraine, dental work or an irritated nerve. Sudden numbness on one side, especially with weakness or speech problems, can be a sign of a stroke.",
+    "redFlags": [
+      "Sudden numbness or weakness on one side of the face, arm or leg",
+      "Face drooping on one side, or cannot smile evenly",
+      "Slurred or garbled speech, or difficulty understanding",
+      "Sudden loss of vision, severe headache, confusion or loss of balance with the numbness",
+      "Numbness with swelling of the lips, tongue or throat and difficulty breathing"
+    ],
+    "urgentFlags": [
+      "Numbness that came and went quickly, especially with weakness or speech problems",
+      "Face numbness with a painful rash or blisters",
+      "Face numbness after a head or face injury"
+    ],
+    "commonCauses": [
+      {"title": "Anxiety and fast breathing", "detail": "Breathing too fast during anxiety or panic can cause tingling around the mouth and in the hands."},
+      {"title": "Migraine", "detail": "Some migraines cause tingling or numbness, often spreading over minutes, before or with the headache."},
+      {"title": "Dental work or dental problems", "detail": "Local anaesthetic, wisdom tooth problems or infection can cause numbness of the lip or chin."},
+      {"title": "Nerve problems", "detail": "Irritation of facial nerves, shingles or Bell's palsy can cause altered feeling in the face."},
+      {"title": "Stroke or TIA", "detail": "Sudden one-sided numbness can be a sign of a stroke or mini-stroke and needs emergency care."}
+    ],
+    "selfCare": [
+      "If you are anxious, try slow breathing: breathe in gently through your nose and out slowly",
+      "Note when the numbness started, how long it lasted and any other symptoms",
+      "If numbness follows dental work, wait for the anaesthetic to wear off and avoid chewing on that side"
+    ],
+    "avoid": [
+      "Waiting to see if sudden one-sided numbness goes away; get emergency help",
+      "Driving if you have numbness with any weakness or vision change",
+      "Biting or burning a numb lip with hot drinks"
+    ],
+    "seeDoctorIf": [
+      "Face numbness keeps coming back",
+      "Numbness has lasted more than a day after dental work",
+      "You have numbness with facial pain",
+      "You are worried about the cause"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {"label": "MedlinePlus – Numbness and tingling", "url": "https://medlineplus.gov/ency/article/003206.htm"},
+      {"label": "NHS – Stroke symptoms", "url": "https://www.nhs.uk/conditions/stroke/symptoms/"},
+      {"label": "NHS – Transient ischaemic attack (TIA)", "url": "https://www.nhs.uk/conditions/transient-ischaemic-attack-tia/"}
+    ]
+  },
+  {
+    "id": "face-drooping",
+    "name": "Face drooping or facial weakness",
+    "aliases": ["face drooping", "one side of face fallen", "can't smile on one side", "Bell's palsy", "facial paralysis", "mouth drooping", "can't close one eye"],
+    "bodyArea": "Head & brain",
+    "summary": "Sudden drooping or weakness of one side of the face can be a sign of a stroke and is an emergency. A common other cause is Bell's palsy, which also needs to be seen quickly.",
+    "redFlags": [
+      "Face drooping on one side that came on suddenly",
+      "Cannot lift both arms and keep them there",
+      "Slurred or garbled speech, or trouble understanding",
+      "Sudden confusion, loss of vision, loss of balance or severe headache"
+    ],
+    "urgentFlags": [
+      "Weakness of one side of the face that developed over a day or two, with no other symptoms",
+      "Cannot close one eye fully",
+      "Facial weakness with pain behind the ear or a rash on the ear"
+    ],
+    "commonCauses": [
+      {"title": "Stroke", "detail": "Loss of blood supply to part of the brain; face drooping is one of the main warning signs."},
+      {"title": "Bell's palsy", "detail": "Temporary weakness of one side of the face, usually developing over a few days; treatment works best if started within 72 hours."},
+      {"title": "Ear infection or shingles", "detail": "Infections around the ear can affect the facial nerve."}
+    ],
+    "selfCare": [
+      "Use the FAST check: Face, Arms, Speech, Time to call emergency services",
+      "If a doctor has diagnosed Bell's palsy, protect the eye with eye drops or ointment as advised",
+      "Tape the affected eye closed at night if a doctor advises it",
+      "Eat soft food and chew on the unaffected side"
+    ],
+    "avoid": [
+      "Waiting to see if facial drooping improves on its own",
+      "Driving yourself to hospital",
+      "Rubbing an eye that cannot close properly"
+    ],
+    "seeDoctorIf": [
+      "Bell's palsy has not started to improve after 3 weeks",
+      "You have ongoing eye irritation from not closing the eye",
+      "Facial weakness is affecting your mood, eating or drinking"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {"label": "NHS – Bell's palsy", "url": "https://www.nhs.uk/conditions/bells-palsy/"},
+      {"label": "NHS – Stroke symptoms", "url": "https://www.nhs.uk/conditions/stroke/symptoms/"},
+      {"label": "MedlinePlus – Facial paralysis", "url": "https://medlineplus.gov/ency/article/003028.htm"}
+    ]
+  },
+  {
+    "id": "slurred-speech",
+    "name": "Slurred speech or difficulty speaking",
+    "aliases": ["slurred speech", "can't get words out", "speech difficulty", "words coming out wrong", "garbled speech", "trouble talking suddenly"],
+    "bodyArea": "Head & brain",
+    "summary": "Sudden slurred speech or difficulty finding or understanding words can be a sign of a stroke and needs emergency help. Speech that changes slowly over time should also be checked.",
+    "redFlags": [
+      "Speech has suddenly become slurred, garbled or difficult to understand",
+      "Sudden difficulty finding words or understanding others",
+      "Speech problems with face drooping or weakness in an arm or leg",
+      "Speech problems with sudden confusion, severe headache or loss of balance"
+    ],
+    "urgentFlags": [
+      "Speech problems that came on suddenly but have now completely gone",
+      "Slurred speech after a head injury that has improved"
+    ],
+    "commonCauses": [
+      {"title": "Stroke or TIA (mini-stroke)", "detail": "Sudden speech problems are a key warning sign; a TIA can pass quickly but still needs urgent assessment."},
+      {"title": "Alcohol, drugs or medicines", "detail": "Intoxication and some medicines can cause slurred speech."},
+      {"title": "Severe tiredness or migraine", "detail": "Some migraines and extreme tiredness can affect speech briefly."},
+      {"title": "Nerve and muscle conditions", "detail": "Gradual speech changes can come from conditions such as Parkinson's disease or motor neurone disease."}
+    ],
+    "selfCare": [
+      "Use the FAST check: Face, Arms, Speech, Time to call emergency services",
+      "Note the time the speech problem started; this matters for treatment",
+      "Stay with the person until help arrives"
+    ],
+    "avoid": [
+      "Waiting to see if it gets better",
+      "Giving the person food or drink if they have trouble swallowing",
+      "Assuming slurred speech is just drunkenness without checking for other signs"
+    ],
+    "seeDoctorIf": [
+      "Speech has changed gradually over weeks or months",
+      "You have a hoarse or weak voice that is getting worse",
+      "You have difficulty swallowing as well as speech changes"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {"label": "NHS – Stroke symptoms", "url": "https://www.nhs.uk/conditions/stroke/symptoms/"},
+      {"label": "MedlinePlus – Speech impairment in adults", "url": "https://medlineplus.gov/ency/article/003204.htm"},
+      {"label": "MedlinePlus – Stroke", "url": "https://medlineplus.gov/stroke.html"}
+    ]
+  },
+  {
+    "id": "tremor",
+    "name": "Tremor or shaking hands",
+    "aliases": ["shaking hands", "shaky hands", "hand tremor", "trembling", "hands won't stop shaking", "shaking when holding things"],
+    "bodyArea": "Head & brain",
+    "summary": "A slight tremor is normal and often becomes more noticeable with stress, tiredness, caffeine or cold. A tremor that is getting worse or affecting daily life should be checked.",
+    "redFlags": [
+      "Shaking with sudden weakness, numbness, face drooping or slurred speech",
+      "Uncontrolled jerking of the body with loss of awareness (a possible seizure)",
+      "Shaking, sweating and confusion in someone with diabetes that does not improve after sugar",
+      "Shaking with high fever, confusion or difficulty breathing"
+    ],
+    "urgentFlags": [
+      "A new tremor that started after a new medicine",
+      "Tremor with a racing heartbeat, weight loss and feeling hot",
+      "Shaking during alcohol withdrawal"
+    ],
+    "commonCauses": [
+      {"title": "Normal (physiological) tremor", "detail": "Becomes more noticeable with stress, anxiety, tiredness, cold, caffeine or nicotine."},
+      {"title": "Essential tremor", "detail": "A common, often inherited tremor of the hands, typically when holding something or moving."},
+      {"title": "Medicines, alcohol and an overactive thyroid", "detail": "Some medicines, alcohol withdrawal and an overactive thyroid can cause shaking."},
+      {"title": "Parkinson's disease", "detail": "Usually a tremor at rest, often starting on one side, with slowness or stiffness."}
+    ],
+    "selfCare": [
+      "Cut down on caffeine",
+      "Try to manage stress and get enough sleep",
+      "Use heavier cups and cutlery, and hold items with both hands",
+      "Keep a note of when the tremor is worse"
+    ],
+    "avoid": [
+      "Using alcohol to calm a tremor",
+      "Stopping prescribed medicines without talking to a doctor"
+    ],
+    "seeDoctorIf": [
+      "The tremor is getting worse over time",
+      "It is affecting your daily activities",
+      "You have other symptoms such as stiffness, slowness or problems with balance",
+      "You think a medicine may be causing it"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {"label": "NHS – Tremor or shaking hands", "url": "https://www.nhs.uk/symptoms/tremor-or-shaking-hands/"},
+      {"label": "MedlinePlus – Tremor", "url": "https://medlineplus.gov/tremor.html"}
+    ]
+  },
+  {
+    "id": "seizure",
+    "name": "Seizure or fit",
+    "aliases": ["fit", "convulsion", "had a seizure", "shaking and unconscious", "blank episodes", "jerking movements"],
+    "bodyArea": "Head & brain",
+    "summary": "A seizure is a burst of electrical activity in the brain that can cause shaking, stiffness, loss of awareness or staring spells. A first seizure always needs urgent medical assessment.",
+    "redFlags": [
+      "It is the person's first seizure",
+      "The seizure lasts more than 5 minutes",
+      "Seizures keep happening without the person waking up in between",
+      "The person is badly injured, has trouble breathing or does not wake up afterwards",
+      "Seizure in water, during pregnancy, or in someone with diabetes"
+    ],
+    "urgentFlags": [
+      "Seizures in someone with epilepsy are happening more often than usual",
+      "A brief episode of staring, jerking or confusion that you think may have been a seizure",
+      "Seizure after starting or changing a medicine"
+    ],
+    "commonCauses": [
+      {"title": "Epilepsy", "detail": "A condition causing repeated seizures; many people control it well with treatment."},
+      {"title": "High temperature in young children", "detail": "Febrile seizures can happen in children with a fever."},
+      {"title": "Alcohol or drug withdrawal, low blood sugar or sleep loss", "detail": "These can trigger a seizure in some people."},
+      {"title": "Head injury, stroke or infection", "detail": "Problems affecting the brain can cause seizures."}
+    ],
+    "selfCare": [
+      "Move dangerous objects away and cushion the person's head",
+      "Note the time the seizure starts and how long it lasts",
+      "After the shaking stops, put the person in the recovery position on their side",
+      "Stay with them until they are fully recovered"
+    ],
+    "avoid": [
+      "Putting anything in the person's mouth",
+      "Holding them down or trying to stop the movements",
+      "Giving food or drink until they are fully alert",
+      "Driving after a seizure until a doctor says it is safe"
+    ],
+    "seeDoctorIf": [
+      "You think you have had a seizure in the past, even if you recovered",
+      "You have unexplained blank spells or jerks",
+      "Your epilepsy treatment is causing side effects"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {"label": "NHS – Epilepsy", "url": "https://www.nhs.uk/conditions/epilepsy/"},
+      {"label": "MedlinePlus – Seizures", "url": "https://medlineplus.gov/seizures.html"}
+    ]
+  },
+  {
+    "id": "brain-fog",
+    "name": "Brain fog or poor concentration",
+    "aliases": ["brain fog", "can't concentrate", "foggy head", "can't think clearly", "mental fatigue", "trouble focusing"],
+    "bodyArea": "Head & brain",
+    "summary": "Brain fog describes feeling slow, foggy or unable to concentrate. It is commonly linked to tiredness, stress, low mood, poor sleep or recovering from an illness.",
+    "redFlags": [
+      "Sudden confusion or difficulty thinking that came on over minutes or hours",
+      "Difficulty thinking with face drooping, weakness, numbness or slurred speech",
+      "Drowsiness or confusion after a head injury"
+    ],
+    "urgentFlags": [
+      "Thinking is getting noticeably worse over days",
+      "Brain fog with a high temperature, severe headache or being sick",
+      "Brain fog after starting a new medicine"
+    ],
+    "commonCauses": [
+      {"title": "Tiredness and poor sleep", "detail": "Not getting enough good-quality sleep affects concentration and memory."},
+      {"title": "Stress, anxiety or depression", "detail": "Emotional strain often shows up as difficulty concentrating."},
+      {"title": "After an infection", "detail": "Many people feel foggy for a while after viral illnesses, including COVID-19."},
+      {"title": "Hormonal and other health changes", "detail": "Menopause, an underactive thyroid, anaemia and some medicines can cause brain fog."}
+    ],
+    "selfCare": [
+      "Keep regular sleep times and aim for enough sleep",
+      "Break tasks into smaller steps and take regular breaks",
+      "Do some gentle physical activity most days",
+      "Eat regular balanced meals and drink enough water",
+      "Cut down on alcohol"
+    ],
+    "avoid": [
+      "Relying on energy drinks or lots of caffeine",
+      "Supplements that claim to boost brain power, which have little evidence"
+    ],
+    "seeDoctorIf": [
+      "Brain fog has lasted more than a few weeks",
+      "It is affecting your work or daily life",
+      "You also feel very tired, low or have other symptoms such as weight change"
+    ],
+    "selfCareMaxDays": 28,
+    "sources": [
+      {"label": "NHS – Tiredness and fatigue", "url": "https://www.nhs.uk/symptoms/tiredness-and-fatigue/"},
+      {"label": "NHS – Memory loss (amnesia)", "url": "https://www.nhs.uk/symptoms/memory-loss-amnesia/"}
+    ]
+  },
+  {
+    "id": "red-eye",
+    "name": "Red eye",
+    "aliases": ["bloodshot eye", "red eyes", "pink eye", "eye is red", "burst blood vessel in eye", "red patch in eye"],
+    "bodyArea": "Eyes",
+    "summary": "A red eye is usually caused by something minor such as conjunctivitis, tiredness or a burst blood vessel, and often gets better on its own. A red eye with pain or changes in vision needs to be checked quickly.",
+    "redFlags": [
+      "Red eye with changes to your sight, such as wavy lines, flashing or loss of vision",
+      "Red eye where it hurts to look at light",
+      "Red eye with a severe headache and feeling sick",
+      "Eye injury, or something stuck in the eye",
+      "A chemical has got into the eye",
+      "One pupil is bigger than the other"
+    ],
+    "urgentFlags": [
+      "The eye is very painful and red",
+      "You wear contact lenses and have a red eye",
+      "A baby under 4 weeks old has a red eye"
+    ],
+    "commonCauses": [
+      {"title": "Conjunctivitis", "detail": "Infection or allergy causing red, gritty, itchy or sticky eyes."},
+      {"title": "Burst blood vessel", "detail": "A painless bright red patch on the white of the eye, often after coughing or straining; it fades over a couple of weeks."},
+      {"title": "Dry or tired eyes", "detail": "Screen use, poor sleep and dry air can make eyes red and sore."},
+      {"title": "Blepharitis", "detail": "Inflamed eyelid edges causing redness and crusting."},
+      {"title": "Serious eye conditions", "detail": "Less commonly, conditions such as acute glaucoma, iritis or corneal ulcers cause a red, painful eye."}
+    ],
+    "selfCare": [
+      "Clean sticky eyes gently with cotton wool soaked in cooled boiled water",
+      "Use a cool compress to soothe the eye",
+      "Ask a pharmacist about lubricating eye drops",
+      "Stop wearing contact lenses until the eye is better",
+      "Wash your hands often and do not share towels"
+    ],
+    "avoid": [
+      "Rubbing your eyes",
+      "Wearing contact lenses or eye make-up until symptoms clear",
+      "Using leftover eye drops prescribed for someone else"
+    ],
+    "seeDoctorIf": [
+      "You have red eyes with a sticky discharge that is not clearing",
+      "Red patches or eyelid problems last more than a few days",
+      "A child under 2 has a red eye",
+      "Your symptoms have not improved after 7 days"
+    ],
+    "selfCareMaxDays": 7,
+    "sources": [
+      {"label": "NHS – Red eye", "url": "https://www.nhs.uk/symptoms/red-eye/"},
+      {"label": "MedlinePlus – Eye redness", "url": "https://medlineplus.gov/ency/article/003031.htm"}
+    ]
+  },
+  {
+    "id": "itchy-eyes",
+    "name": "Itchy eyes",
+    "aliases": ["eyes itching", "itchy watery eyes", "allergy eyes", "hay fever eyes", "itchy eyelids", "scratchy eyes"],
+    "bodyArea": "Eyes",
+    "summary": "Itchy eyes are most often caused by allergies such as hay fever, pets or dust, or by dry eyes or irritated eyelids. They are usually not serious.",
+    "redFlags": [
+      "Itchy eyes with swelling of the face, lips or tongue and difficulty breathing or swallowing",
+      "Sudden loss of vision",
+      "A chemical has got into the eye"
+    ],
+    "urgentFlags": [
+      "Eye pain rather than itch",
+      "Sensitivity to light",
+      "Changes in your vision",
+      "A very red eye, especially if you wear contact lenses"
+    ],
+    "commonCauses": [
+      {"title": "Allergic conjunctivitis", "detail": "Pollen, pet dander, dust mites or mould cause itchy, red, watery eyes, often with sneezing."},
+      {"title": "Dry eyes", "detail": "Not enough or poor-quality tears can cause itch, grittiness and burning."},
+      {"title": "Blepharitis", "detail": "Inflamed eyelid margins cause itchy, crusty, sore eyelids."},
+      {"title": "Irritants or products", "detail": "Make-up, contact lens solutions, smoke or chlorine can irritate the eyes."}
+    ],
+    "selfCare": [
+      "Hold a cool compress over closed eyes",
+      "Ask a pharmacist about antihistamine tablets or allergy eye drops",
+      "Wash your face and hands after being outdoors on high-pollen days",
+      "Wear wraparound sunglasses outdoors in pollen season",
+      "Keep eyelids clean if they are crusty"
+    ],
+    "avoid": [
+      "Rubbing your eyes, which makes itching worse",
+      "Wearing contact lenses while eyes are itchy and red",
+      "Using old or shared eye make-up"
+    ],
+    "seeDoctorIf": [
+      "Itching does not improve with pharmacy treatments",
+      "You have a sticky discharge that is not clearing after 7 days",
+      "You get spots on your eyelids when wearing contact lenses",
+      "Symptoms are affecting your sleep or daily life"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {"label": "NHS – Conjunctivitis", "url": "https://www.nhs.uk/conditions/conjunctivitis/"},
+      {"label": "NHS – Hay fever", "url": "https://www.nhs.uk/conditions/hay-fever/"},
+      {"label": "MedlinePlus – Eye burning, itching and discharge", "url": "https://medlineplus.gov/ency/article/003034.htm"}
+    ]
+  },
+  {
+    "id": "eye-discharge",
+    "name": "Sticky eye or eye discharge",
+    "aliases": ["sticky eye", "gunk in eye", "eye crusty in the morning", "pus from eye", "eyes stuck together", "yellow discharge from eye"],
+    "bodyArea": "Eyes",
+    "summary": "A sticky or crusty eye is most often caused by conjunctivitis, which usually clears up on its own within 1 to 2 weeks. A newborn with sticky eyes, or eye discharge with pain or vision changes, needs checking.",
+    "redFlags": [
+      "Sudden loss of vision or severe eye pain",
+      "Swollen, red, hot skin around the eye with fever or difficulty moving the eye",
+      "Blood or pus coming from the eye after an injury"
+    ],
+    "urgentFlags": [
+      "A baby under 30 days old has a red, sticky eye",
+      "Pain in the eye or sensitivity to light",
+      "Changes in vision, such as wavy lines or flashing",
+      "A very red eye, or discharge while wearing contact lenses"
+    ],
+    "commonCauses": [
+      {"title": "Bacterial or viral conjunctivitis", "detail": "Red eye with sticky yellow or watery discharge; it spreads easily."},
+      {"title": "Blocked tear duct", "detail": "Common in babies, causing a watery, sticky eye without much redness."},
+      {"title": "Blepharitis or a stye", "detail": "Eyelid inflammation can cause crusting and discharge."},
+      {"title": "Sexually transmitted infections", "detail": "Some STIs can cause conjunctivitis with heavy discharge."}
+    ],
+    "selfCare": [
+      "Clean crusts gently with cotton wool soaked in cooled boiled water, using a fresh piece for each eye",
+      "Wash your hands often and use your own towels and pillows",
+      "Ask a pharmacist for advice on eye drops",
+      "Stop wearing contact lenses until the eye has cleared"
+    ],
+    "avoid": [
+      "Rubbing the eye or touching it and then the other eye",
+      "Sharing towels, flannels or eye make-up",
+      "Using breast milk or home remedies in the eye"
+    ],
+    "seeDoctorIf": [
+      "Symptoms have not cleared up within 7 days",
+      "A baby has a sticky eye that does not settle",
+      "You wear contact lenses and have spots on your eyelids"
+    ],
+    "selfCareMaxDays": 7,
+    "sources": [
+      {"label": "NHS – Conjunctivitis", "url": "https://www.nhs.uk/conditions/conjunctivitis/"},
+      {"label": "MedlinePlus – Eye burning, itching and discharge", "url": "https://medlineplus.gov/ency/article/003034.htm"}
+    ]
+  },
+  {
+    "id": "blurred-vision",
+    "name": "Blurred vision",
+    "aliases": ["blurry vision", "can't see clearly", "fuzzy vision", "cloudy vision", "vision out of focus", "struggling to read"],
+    "bodyArea": "Eyes",
+    "summary": "Blurred vision often comes on gradually and is commonly due to needing glasses, tired or dry eyes, or cataracts. Sudden blurred vision, especially with other symptoms, needs urgent care.",
+    "redFlags": [
+      "Sudden blurred vision or loss of vision in one or both eyes",
+      "Blurred vision with face drooping, weakness, numbness or slurred speech",
+      "Blurred vision with a severe headache, or a red, painful eye and feeling sick",
+      "Blurred vision after an eye or head injury"
+    ],
+    "urgentFlags": [
+      "New blurred vision with flashing lights, floaters or a shadow across vision",
+      "Blurred vision with eye pain or sensitivity to light",
+      "Blurred or double vision that has come on over a few days",
+      "Blurred vision with very high blood sugar readings or during pregnancy with headache or swelling"
+    ],
+    "commonCauses": [
+      {"title": "Needing glasses or a change of prescription", "detail": "Short-sightedness, long-sightedness and age-related focusing changes are very common."},
+      {"title": "Dry or tired eyes", "detail": "Screen use and dry eyes can make vision blur on and off."},
+      {"title": "Cataracts", "detail": "Gradual cloudy or misty vision, glare and halos, mostly in older adults."},
+      {"title": "Diabetes and other conditions", "detail": "Changing blood sugar, macular degeneration and glaucoma can affect vision."}
+    ],
+    "selfCare": [
+      "Have a sight test with an optician",
+      "Take regular breaks from screens: every 20 minutes, look at something far away",
+      "Use lubricating eye drops from a pharmacy if your eyes feel dry",
+      "Do not drive if your vision is not clear"
+    ],
+    "avoid": [
+      "Driving while your vision is blurred",
+      "Ignoring sudden changes in vision",
+      "Buying reading glasses instead of having a full eye test if vision has changed"
+    ],
+    "seeDoctorIf": [
+      "Your vision has been gradually getting blurry",
+      "You have not had a sight test in the last 2 years",
+      "You have diabetes and notice changes in your vision",
+      "Blurring keeps coming back"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {"label": "NHS – Vision loss", "url": "https://www.nhs.uk/conditions/vision-loss/"},
+      {"label": "MedlinePlus – Vision problems", "url": "https://medlineplus.gov/ency/article/003029.htm"}
+    ]
+  },
+  {
+    "id": "floaters-and-flashes",
+    "name": "Floaters or flashes in vision",
+    "aliases": ["floaters", "spots in vision", "seeing flashes of light", "cobwebs in vision", "black dots floating", "shadow in vision"],
+    "bodyArea": "Eyes",
+    "summary": "Floaters are small dots or lines that drift across your vision, and flashes are brief sparks of light. They are often harmless, but new or sudden ones can be a sign of a retinal tear or detachment.",
+    "redFlags": [
+      "A dark curtain or shadow moving across your vision",
+      "Sudden loss of vision",
+      "Floaters or flashes after a blow to the eye or head"
+    ],
+    "urgentFlags": [
+      "Floaters or flashes for the first time",
+      "A sudden increase in floaters or flashes",
+      "Floaters with blurred vision or eye pain",
+      "Floaters that start after eye surgery"
+    ],
+    "commonCauses": [
+      {"title": "Posterior vitreous detachment (PVD)", "detail": "A common, usually harmless age-related change in the gel inside the eye."},
+      {"title": "Normal floaters", "detail": "Many people have a few long-standing floaters, more noticeable against a bright background."},
+      {"title": "Migraine aura", "detail": "Zigzag or shimmering lights in both eyes that last up to an hour, often before a headache."},
+      {"title": "Retinal tear or detachment", "detail": "Less common but serious; needs treatment quickly to protect sight."}
+    ],
+    "selfCare": [
+      "If floaters are long-standing and unchanged, try not to focus on them",
+      "Wear sunglasses in bright light if floaters bother you",
+      "Get any new or changing floaters checked by an optician or eye service the same day"
+    ],
+    "avoid": [
+      "Waiting to see if a shadow or curtain over your vision clears",
+      "Driving if your vision is affected"
+    ],
+    "seeDoctorIf": [
+      "Long-standing floaters are getting worse or affecting daily life",
+      "You are short-sighted or have had eye surgery and notice changes",
+      "You have not had an eye test in the last 2 years"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {"label": "NHS – Floaters and flashes in the eyes", "url": "https://www.nhs.uk/symptoms/floaters-and-flashes-in-the-eyes/"},
+      {"label": "National Eye Institute – Floaters", "url": "https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/floaters"}
+    ]
+  },
+  {
+    "id": "eye-pain",
+    "name": "Eye pain",
+    "aliases": ["sore eye", "eye hurts", "pain behind eye", "aching eyes", "stabbing pain in eye", "painful eye"],
+    "bodyArea": "Eyes",
+    "summary": "Eye pain is often caused by minor problems such as dry eyes, a stye or conjunctivitis. Severe pain, or pain with redness and changes to your vision, needs urgent assessment.",
+    "redFlags": [
+      "Eye pain that started suddenly and is severe",
+      "Eye pain with loss of vision",
+      "Red eye with a severe headache and feeling sick",
+      "Eye pain and vision loss while wearing contact lenses",
+      "Severe pain or loss of vision after eye surgery in the last 4 weeks",
+      "An injury to the eye, or something stuck in it"
+    ],
+    "urgentFlags": [
+      "Severe eye pain",
+      "Sensitivity to light",
+      "Changes to your vision, such as blurring or colours looking different",
+      "A very red eye with pain",
+      "Eye pain that keeps you awake at night"
+    ],
+    "commonCauses": [
+      {"title": "Dry or tired eyes", "detail": "Can cause aching, burning or gritty pain."},
+      {"title": "Conjunctivitis or blepharitis", "detail": "Infection or inflammation cause soreness, redness and grittiness."},
+      {"title": "Stye or chalazion", "detail": "A painful lump on the eyelid."},
+      {"title": "Something in the eye or a scratch", "detail": "A speck of dust or a scratch on the surface can be very painful."},
+      {"title": "Serious eye conditions", "detail": "Acute glaucoma, iritis, corneal infection and optic nerve inflammation can cause pain and need urgent care."}
+    ],
+    "selfCare": [
+      "Rinse the eye with clean water if you think something is in it",
+      "Use a cool compress for soreness, or a warm compress for a stye",
+      "Take over-the-counter pain relief such as paracetamol or ibuprofen, following the pack instructions",
+      "Remove contact lenses and leave them out until the eye is better"
+    ],
+    "avoid": [
+      "Rubbing the eye",
+      "Trying to remove anything stuck in the coloured part of the eye",
+      "Wearing contact lenses while your eye is painful"
+    ],
+    "seeDoctorIf": [
+      "Mild eye pain does not improve within a few days",
+      "Eye pain keeps coming back",
+      "You also have headaches or blurred vision that come and go"
+    ],
+    "selfCareMaxDays": 3,
+    "sources": [
+      {"label": "NHS – Eye pain", "url": "https://www.nhs.uk/symptoms/eye-pain/"},
+      {"label": "MedlinePlus – Eye pain", "url": "https://medlineplus.gov/ency/article/003032.htm"}
+    ]
+  },
+  {
+    "id": "stye",
+    "name": "Stye or lump on the eyelid",
+    "aliases": ["stye", "sty", "lump on eyelid", "bump on eyelid", "chalazion", "swollen spot on eyelid"],
+    "bodyArea": "Eyes",
+    "summary": "A stye is a small, painful lump on or inside the eyelid caused by an infected eyelash follicle or gland. Most get better on their own within 1 to 2 weeks.",
+    "redFlags": [
+      "Swelling and redness spreading around the eye with fever, eye pain on movement, or a bulging eye",
+      "Changes in vision with a swollen, red eyelid"
+    ],
+    "urgentFlags": [
+      "A stye that is very painful or swollen",
+      "A stye that affects your vision",
+      "Pus coming from the eye itself",
+      "Redness or swelling spreading to the rest of the eyelid or eye"
+    ],
+    "commonCauses": [
+      {"title": "Stye (hordeolum)", "detail": "A bacterial infection of an eyelash root or eyelid gland, causing a red, tender lump."},
+      {"title": "Chalazion", "detail": "A blocked eyelid gland causing a firmer, often painless lump that can last weeks."},
+      {"title": "Blepharitis or rosacea", "detail": "Long-term eyelid inflammation makes styes more likely."}
+    ],
+    "selfCare": [
+      "Hold a clean flannel soaked in warm water against the eye for 5 to 10 minutes, 3 or 4 times a day",
+      "Gently massage the lump afterwards",
+      "Take over-the-counter pain relief such as paracetamol or ibuprofen if needed, following the pack instructions",
+      "Keep eyelids clean"
+    ],
+    "avoid": [
+      "Squeezing or bursting the stye",
+      "Wearing contact lenses or eye make-up until it has healed",
+      "Rubbing the eye"
+    ],
+    "seeDoctorIf": [
+      "The stye has not got better within a few weeks",
+      "You keep getting styes",
+      "A lump on the eyelid is growing or bleeding"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {"label": "NHS – Stye", "url": "https://www.nhs.uk/conditions/stye/"},
+      {"label": "NHS – Eyelid problems", "url": "https://www.nhs.uk/symptoms/eyelid-problems/"}
+    ]
+  }
+]

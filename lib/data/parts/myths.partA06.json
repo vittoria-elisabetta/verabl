@@ -1,0 +1,630 @@
+[
+  {
+    "id": "children-outgrow-asthma",
+    "category": "Allergies & asthma",
+    "myth": "Children always grow out of asthma.",
+    "rating": "misleading",
+    "fact": "Some children's asthma symptoms improve or disappear as they get older, but many continue to have asthma, and symptoms can return in adulthood. Asthma that seems to have gone may come back after infections or exposure to triggers.",
+    "explanation": "It is true that childhood wheezing often settles, which is why this belief is common. Stopping treatment because a child seems to have outgrown asthma can lead to serious attacks. Review medicines with a doctor or asthma nurse rather than stopping on your own.",
+    "keywords": [
+      "outgrow asthma",
+      "grow out of asthma",
+      "childhood asthma",
+      "asthma go away",
+      "kids asthma",
+      "asthma children"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Asthma",
+        "url": "https://www.nhs.uk/conditions/asthma/"
+      },
+      {
+        "label": "WHO — Asthma",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/asthma"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "asthma-inhalers-are-addictive-or-harmful",
+    "category": "Allergies & asthma",
+    "myth": "Asthma inhalers are addictive, and steroid inhalers are dangerous.",
+    "rating": "false",
+    "fact": "Asthma inhalers are not addictive. Inhaled steroids (preventers) deliver low doses directly to the airways and are safe and effective for long-term use; they greatly reduce the risk of severe attacks.",
+    "explanation": "People confuse inhaled corticosteroids with anabolic steroids or with long courses of steroid tablets, which have more side effects. Needing your reliever inhaler often is a sign asthma is poorly controlled, not addiction, and should prompt a review. Rinsing your mouth after using a steroid inhaler reduces the risk of oral thrush.",
+    "keywords": [
+      "inhaler",
+      "inhalers addictive",
+      "steroid inhaler",
+      "preventer inhaler",
+      "inhaled steroids",
+      "asthma pump",
+      "ventolin",
+      "inhaler side effects"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Asthma",
+        "url": "https://www.nhs.uk/conditions/asthma/"
+      },
+      {
+        "label": "MedlinePlus — Asthma",
+        "url": "https://medlineplus.gov/asthma.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "people-with-asthma-should-not-exercise",
+    "category": "Allergies & asthma",
+    "myth": "People with asthma shouldn't exercise.",
+    "rating": "false",
+    "fact": "Regular exercise is good for people with asthma and can improve fitness and lung health. With asthma well controlled and the right preparation, most people with asthma can exercise fully, and many elite athletes have asthma.",
+    "explanation": "Exercise can trigger symptoms in some people, which leads them to avoid it. A doctor or asthma nurse can help adjust treatment, which may include using a reliever inhaler before exercise. Warming up and avoiding very cold, dry air can also help.",
+    "keywords": [
+      "asthma exercise",
+      "exercise induced asthma",
+      "sport asthma",
+      "asthma running",
+      "can asthmatics exercise",
+      "asthma pe"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Asthma",
+        "url": "https://www.nhs.uk/conditions/asthma/"
+      },
+      {
+        "label": "CDC — Asthma",
+        "url": "https://www.cdc.gov/asthma/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "hypoallergenic-pets",
+    "category": "Allergies & asthma",
+    "myth": "Some dog and cat breeds are completely hypoallergenic.",
+    "rating": "misleading",
+    "fact": "No dog or cat breed is completely free of allergens. The proteins that trigger pet allergy are found in skin flakes, saliva and urine, not just fur, so low-shedding breeds can still cause symptoms.",
+    "explanation": "Some people do react less to certain individual animals, which fuels the marketing of 'hypoallergenic' breeds. Studies measuring allergen levels in homes have not found consistent differences between so-called hypoallergenic and other breeds. People with pet allergy or asthma may want to spend time with a specific animal before committing to it.",
+    "keywords": [
+      "hypoallergenic dog",
+      "hypoallergenic cat",
+      "pet allergy",
+      "dog allergy",
+      "cat allergy",
+      "labradoodle",
+      "poodle allergy",
+      "pet dander"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Allergies",
+        "url": "https://www.nhs.uk/conditions/allergies/"
+      },
+      {
+        "label": "MedlinePlus — Allergy",
+        "url": "https://medlineplus.gov/allergy.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "local-honey-cures-hay-fever",
+    "category": "Allergies & asthma",
+    "myth": "Eating local honey cures hay fever.",
+    "rating": "false",
+    "fact": "There is no good evidence that local honey prevents or treats hay fever. Hay fever is mostly caused by wind-borne pollen from grasses and trees, while bees mainly collect pollen from flowers.",
+    "explanation": "The idea is based on gradual exposure, similar to proper allergen immunotherapy, which uses measured doses under medical supervision. Honey contains unpredictable amounts of pollen and can occasionally cause allergic reactions. Antihistamines, steroid nasal sprays and reducing pollen exposure are proven options; honey must never be given to babies under one.",
+    "keywords": [
+      "local honey",
+      "honey hay fever",
+      "honey allergies",
+      "pollen",
+      "hay fever cure",
+      "seasonal allergies",
+      "natural allergy remedy"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Hay fever",
+        "url": "https://www.nhs.uk/conditions/hay-fever/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "early-peanut-introduction-prevents-allergy",
+    "category": "Allergies & asthma",
+    "myth": "Giving babies peanut foods early can lower their chance of developing peanut allergy.",
+    "rating": "true",
+    "fact": "Research, including a large trial known as LEAP, found that introducing peanut-containing foods in infancy greatly reduced peanut allergy in high-risk babies. Guidelines now recommend introducing peanut, in a safe form such as smooth peanut butter mixed into food, around the time solids are started.",
+    "explanation": "Parents were once advised to delay peanuts, so many people find this surprising. Whole nuts should never be given to young children because of choking risk. Babies with severe eczema or an existing food allergy may need medical advice before peanut is introduced.",
+    "keywords": [
+      "peanut allergy",
+      "peanut baby",
+      "introduce peanuts",
+      "early allergen introduction",
+      "leap study",
+      "peanut butter baby",
+      "food allergy prevention"
+    ],
+    "sources": [
+      {
+        "label": "NIAID — Food allergy",
+        "url": "https://www.niaid.nih.gov/diseases-conditions/food-allergy"
+      },
+      {
+        "label": "NHS — Food allergy",
+        "url": "https://www.nhs.uk/conditions/food-allergy/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "adults-cannot-develop-allergies",
+    "category": "Allergies & asthma",
+    "myth": "You can't develop new allergies as an adult.",
+    "rating": "false",
+    "fact": "Allergies, including food allergies and hay fever, can start at any age. Some adults develop allergies to foods such as shellfish or tree nuts for the first time.",
+    "explanation": "Many allergies begin in childhood, so adult-onset allergy can come as a surprise and be dismissed. Changes in environment, such as moving to a new area or getting a pet, can also bring new exposures. Any reaction involving breathing difficulty or swelling of the face or throat needs emergency care.",
+    "keywords": [
+      "adult allergies",
+      "new allergy",
+      "allergy later in life",
+      "develop allergy",
+      "adult onset allergy",
+      "sudden allergy"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Allergies",
+        "url": "https://www.nhs.uk/conditions/allergies/"
+      },
+      {
+        "label": "NIAID — Food allergy",
+        "url": "https://www.niaid.nih.gov/diseases-conditions/food-allergy"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "no-hospital-after-adrenaline-pen",
+    "category": "Allergies & asthma",
+    "myth": "After using an adrenaline pen (EpiPen), you don't need to go to hospital if you feel better.",
+    "rating": "false",
+    "fact": "Anyone who has used an adrenaline auto-injector for anaphylaxis should call emergency services and be checked in hospital, even if they feel better. Symptoms can return after the adrenaline wears off.",
+    "explanation": "Feeling better quickly after adrenaline can make people think the danger has passed. A second reaction can happen hours later, and a second dose may be needed if symptoms do not improve after 5 minutes. Lie down with legs raised, or sit up if breathing is difficult.",
+    "keywords": [
+      "epipen",
+      "adrenaline",
+      "epinephrine",
+      "anaphylaxis",
+      "auto-injector",
+      "allergic reaction",
+      "after epipen",
+      "jext"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Anaphylaxis",
+        "url": "https://www.nhs.uk/conditions/anaphylaxis/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "antihistamines-treat-anaphylaxis",
+    "category": "Allergies & asthma",
+    "myth": "An antihistamine tablet is enough to treat a severe allergic reaction.",
+    "rating": "false",
+    "fact": "Anaphylaxis is a medical emergency that needs adrenaline and emergency care. Antihistamines can ease mild symptoms like itching or hives but do not treat the life-threatening breathing and circulation problems of anaphylaxis.",
+    "explanation": "People sometimes delay using an adrenaline pen while waiting to see whether an antihistamine works, which can be dangerous. Signs of anaphylaxis include swelling of the throat or tongue, difficulty breathing, wheezing, dizziness or collapse. If in doubt, use adrenaline and call emergency services.",
+    "keywords": [
+      "antihistamine",
+      "benadryl",
+      "piriton",
+      "anaphylaxis",
+      "severe allergic reaction",
+      "allergy tablet",
+      "cetirizine"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Anaphylaxis",
+        "url": "https://www.nhs.uk/conditions/anaphylaxis/"
+      },
+      {
+        "label": "MedlinePlus — Allergy",
+        "url": "https://medlineplus.gov/allergy.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "penicillin-allergy-label-is-lifelong",
+    "category": "Allergies & asthma",
+    "myth": "If you were once told you're allergic to penicillin, you'll be allergic for life.",
+    "rating": "misleading",
+    "fact": "Many people labelled as allergic to penicillin are not truly allergic when properly tested, and true penicillin allergy can fade over time. A doctor or allergy specialist can assess whether the label is still accurate.",
+    "explanation": "Penicillin allergy labels are often added after a childhood rash that may have been caused by the infection itself. Carrying an incorrect label can mean receiving less effective or broader antibiotics. Do not test this yourself; a history of serious reactions needs specialist assessment.",
+    "keywords": [
+      "penicillin allergy",
+      "allergic to penicillin",
+      "amoxicillin allergy",
+      "antibiotic allergy",
+      "allergy testing",
+      "penicillin rash"
+    ],
+    "sources": [
+      {
+        "label": "CDC — Antibiotic use",
+        "url": "https://www.cdc.gov/antibiotic-use/"
+      },
+      {
+        "label": "NHS — Antibiotics",
+        "url": "https://www.nhs.uk/conditions/antibiotics/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "asthma-only-needs-reliever",
+    "category": "Allergies & asthma",
+    "myth": "You only need to use asthma medicine when you're having symptoms.",
+    "rating": "false",
+    "fact": "Many people with asthma are prescribed a preventer inhaler to use every day, even when they feel well, to reduce airway inflammation and prevent attacks. Relying only on a reliever inhaler is linked to a higher risk of severe attacks.",
+    "explanation": "Because symptoms come and go, it is easy to skip daily treatment when you feel fine. Treatment approaches vary, and some people are prescribed a combined inhaler used both daily and for symptoms. An asthma action plan from your doctor or nurse explains what to take and when.",
+    "keywords": [
+      "preventer inhaler",
+      "reliever inhaler",
+      "asthma medication",
+      "brown inhaler",
+      "blue inhaler",
+      "daily inhaler",
+      "asthma treatment"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Asthma",
+        "url": "https://www.nhs.uk/conditions/asthma/"
+      },
+      {
+        "label": "WHO — Asthma",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/asthma"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "butter-or-toothpaste-on-burns",
+    "category": "First aid",
+    "myth": "Put butter, oil or toothpaste on a burn.",
+    "rating": "false",
+    "fact": "Butter, oil, toothpaste and similar home remedies should not be put on burns. They can trap heat, delay cooling and increase the risk of infection. The recommended first step is to cool the burn under cool or lukewarm running water.",
+    "explanation": "These remedies are passed down in families and may feel soothing at first. After cooling, a burn can be loosely covered with cling film or a clean plastic bag. Get medical help for large or deep burns, burns on the face, hands, feet or genitals, and burns in children.",
+    "keywords": [
+      "butter on burn",
+      "toothpaste on burn",
+      "oil on burn",
+      "burn remedy",
+      "burn treatment",
+      "home remedy burn",
+      "egg white burn"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Burns and scalds",
+        "url": "https://www.nhs.uk/conditions/burns-and-scalds/"
+      },
+      {
+        "label": "WHO — Burns",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/burns"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "cool-burn-under-running-water",
+    "category": "First aid",
+    "myth": "You should cool a burn under cool running water for 20 minutes.",
+    "rating": "true",
+    "fact": "Cooling a burn with cool or lukewarm running water for 20 minutes, as soon as possible after the injury, is the recommended first aid in NHS guidance. It reduces pain, swelling and the depth of the burn.",
+    "explanation": "Twenty minutes can feel like a long time, so many people stop after a few seconds. Remove clothing and jewellery near the burn unless it is stuck to the skin. Keep the person warm while cooling the burn, especially small children, to avoid hypothermia. Do not use ice, iced water or creams, as extreme cold can damage the skin further.",
+    "keywords": [
+      "cool burn",
+      "running water burn",
+      "20 minutes",
+      "burn first aid",
+      "how to treat a burn",
+      "scald",
+      "cold water burn",
+      "ice on burn"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Burns and scalds",
+        "url": "https://www.nhs.uk/conditions/burns-and-scalds/"
+      },
+      {
+        "label": "WHO — Burns",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/burns"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "tilt-head-back-for-nosebleed",
+    "category": "First aid",
+    "myth": "Tilt your head back to stop a nosebleed.",
+    "rating": "false",
+    "fact": "For a nosebleed, sit up, lean forward and pinch the soft part of your nose just above the nostrils for 10 to 15 minutes. Tilting the head back makes blood run down the throat, which can cause choking or vomiting.",
+    "explanation": "Tilting back seems to stop the bleeding because the blood is no longer visible, but it is still flowing. Breathe through your mouth while pinching. Get urgent help if a nosebleed lasts more than 10 to 15 minutes despite pressure, follows a head injury, or is very heavy.",
+    "keywords": [
+      "nosebleed",
+      "nose bleed",
+      "tilt head back",
+      "bloody nose",
+      "stop nosebleed",
+      "nosebleed first aid",
+      "epistaxis"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Nosebleed",
+        "url": "https://www.nhs.uk/conditions/nosebleed/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "suck-out-snake-venom",
+    "category": "First aid",
+    "myth": "Cut and suck out the venom after a snake bite, or use a tourniquet.",
+    "rating": "false",
+    "fact": "Cutting the wound, sucking out venom and applying a tight tourniquet do not help and can cause more harm. Keep the person calm and still, keep the bitten limb still, and get emergency medical help, where antivenom can be given if needed.",
+    "explanation": "These methods are often shown in films and old survival guides. Remove rings or tight items near the bite in case of swelling, and do not apply ice. Advice on pressure bandaging differs by region and snake type, so follow local emergency guidance.",
+    "keywords": [
+      "snake bite",
+      "snakebite",
+      "suck venom",
+      "venom",
+      "tourniquet",
+      "snake bite first aid",
+      "cut the wound"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Snakebite envenoming",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/snakebite-envenoming"
+      },
+      {
+        "label": "NHS — Snake bites",
+        "url": "https://www.nhs.uk/conditions/snake-bites/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "urinate-on-jellyfish-sting",
+    "category": "First aid",
+    "myth": "Peeing on a jellyfish sting relieves the pain.",
+    "rating": "false",
+    "fact": "Urine does not help jellyfish stings and may make the stinging cells release more venom. Rinse the area with seawater rather than fresh water, remove any tentacles carefully, and soak the area in hot (not scalding) water if possible.",
+    "explanation": "This myth was popularised by a television sitcom and spread widely. Some advice, such as using vinegar, depends on the type of jellyfish, so follow local lifeguard guidance. Severe pain, breathing difficulty or stings to a large area need urgent medical help.",
+    "keywords": [
+      "jellyfish sting",
+      "pee on sting",
+      "urine jellyfish",
+      "jellyfish",
+      "sea sting",
+      "jellyfish first aid",
+      "pee on jellyfish sting"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Jellyfish and other sea creature stings",
+        "url": "https://www.nhs.uk/conditions/jellyfish-and-other-sea-creature-stings/"
+      },
+      {
+        "label": "MedlinePlus — First aid",
+        "url": "https://medlineplus.gov/firstaid.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "put-object-in-mouth-during-seizure",
+    "category": "First aid",
+    "myth": "Put something in a person's mouth during a seizure so they don't swallow their tongue.",
+    "rating": "false",
+    "fact": "It is impossible to swallow your tongue. Never put anything in the mouth of someone having a seizure, as it can break teeth, injure the jaw or cause choking. Protect their head, move hazards away and time the seizure.",
+    "explanation": "Seizures can be frightening to watch, and people want to do something to help. Once the jerking stops, put the person on their side in the recovery position. Call an ambulance if a seizure lasts more than 5 minutes, it is their first seizure, or they are injured or do not wake up.",
+    "keywords": [
+      "seizure",
+      "fit",
+      "swallow tongue",
+      "epilepsy",
+      "convulsion",
+      "seizure first aid",
+      "spoon in mouth"
+    ],
+    "sources": [
+      {
+        "url": "https://www.nhs.uk/conditions/epilepsy/",
+        "label": "NHS — Epilepsy"
+      },
+      {
+        "label": "MedlinePlus — Seizures",
+        "url": "https://medlineplus.gov/seizures.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "make-them-vomit-after-poisoning",
+    "category": "First aid",
+    "myth": "If someone swallows poison, make them vomit.",
+    "rating": "false",
+    "fact": "Do not make someone vomit after swallowing a poison or harmful substance unless a medical professional tells you to. Vomiting can cause further damage, especially with corrosive substances, and risks choking. Contact emergency services or a poison centre straight away.",
+    "explanation": "Syrup of ipecac and salt water were once used to induce vomiting, but these are no longer recommended. Keep the container or packaging to show medical staff what was taken. If the person is unconscious or having trouble breathing, call an ambulance.",
+    "keywords": [
+      "poisoning",
+      "induce vomiting",
+      "swallowed poison",
+      "make them sick",
+      "ipecac",
+      "salt water vomit",
+      "swallowed bleach"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Poisoning",
+        "url": "https://www.nhs.uk/conditions/poisoning/"
+      },
+      {
+        "label": "MedlinePlus — Poisoning",
+        "url": "https://medlineplus.gov/poisoning.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "hands-only-cpr-saves-lives",
+    "category": "First aid",
+    "myth": "Bystanders can help save a life with hands-only CPR, even without training in rescue breaths.",
+    "rating": "true",
+    "fact": "If an adult collapses and is not breathing normally, calling emergency services and giving hard, fast chest compressions in the centre of the chest can keep blood flowing to the brain until help arrives. Hands-only CPR is recommended for untrained bystanders.",
+    "explanation": "Many people do nothing because they fear doing CPR wrong or giving mouth-to-mouth. Starting compressions quickly makes a big difference to survival. Use a defibrillator (AED) if one is available; the device gives spoken instructions.",
+    "keywords": [
+      "cpr",
+      "hands only cpr",
+      "chest compressions",
+      "cardiac arrest",
+      "resuscitation",
+      "defibrillator",
+      "aed",
+      "rescue breaths"
+    ],
+    "sources": [
+      {
+        "label": "NHS — CPR",
+        "url": "https://www.nhs.uk/conditions/first-aid/cpr/"
+      },
+      {
+        "label": "MedlinePlus — CPR",
+        "url": "https://medlineplus.gov/cpr.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "wait-after-eating-before-swimming",
+    "category": "First aid",
+    "myth": "You must wait 30 minutes after eating before swimming or you'll get cramps and drown.",
+    "rating": "false",
+    "fact": "There is no evidence that swimming after eating causes dangerous cramps or drowning. Drowning risk is linked to factors such as not being able to swim, lack of supervision, alcohol use and dangerous water conditions.",
+    "explanation": "Parents have repeated this rule for generations. Swimming hard right after a very large meal may be uncomfortable, but it is not dangerous. Close supervision of children around water and avoiding alcohol when swimming are what really prevent drowning.",
+    "keywords": [
+      "swimming after eating",
+      "wait 30 minutes",
+      "cramp",
+      "drowning",
+      "eat before swimming",
+      "swim after lunch"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Drowning",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/drowning"
+      },
+      {
+        "label": "CDC — Drowning prevention",
+        "url": "https://www.cdc.gov/drowning/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "pull-out-embedded-object",
+    "category": "First aid",
+    "myth": "If something is stuck in a wound, like a knife or glass, you should pull it out.",
+    "rating": "false",
+    "fact": "Do not remove a large object embedded in a wound, as it may be slowing the bleeding. Apply pressure around the object, not on it, and call emergency services.",
+    "explanation": "The instinct is to remove the cause of the injury. Pulling the object out can cause heavy bleeding and further damage. Small splinters or surface debris can usually be removed and the wound cleaned with water.",
+    "keywords": [
+      "object in wound",
+      "knife wound",
+      "embedded object",
+      "glass in wound",
+      "stab wound",
+      "pull out",
+      "impaled"
+    ],
+    "sources": [
+      {
+        "label": "NHS — First aid",
+        "url": "https://www.nhs.uk/conditions/first-aid/"
+      },
+      {
+        "label": "MedlinePlus — Bleeding",
+        "url": "https://medlineplus.gov/bleeding.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "hydrogen-peroxide-best-for-wounds",
+    "category": "First aid",
+    "myth": "Hydrogen peroxide or strong antiseptic is the best way to clean a cut.",
+    "rating": "false",
+    "fact": "Rinsing a minor cut or graze with clean running water is usually enough to clean it. Hydrogen peroxide and harsh antiseptics can damage healthy tissue and may slow healing.",
+    "explanation": "The fizzing of peroxide looks like it is killing germs, which makes it seem effective. After rinsing, gently pat the wound dry and cover it with a plaster or dressing. See a doctor for deep, gaping or dirty wounds, animal bites, or signs of infection, and check whether a tetanus booster is needed.",
+    "keywords": [
+      "hydrogen peroxide",
+      "clean a cut",
+      "antiseptic",
+      "wound cleaning",
+      "cuts and grazes",
+      "rubbing alcohol wound",
+      "dettol cut"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Cuts and grazes",
+        "url": "https://www.nhs.uk/conditions/cuts-and-grazes/"
+      },
+      {
+        "label": "MedlinePlus — Wounds and injuries",
+        "url": "https://medlineplus.gov/woundsandinjuries.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "keep-awake-after-head-injury",
+    "category": "First aid",
+    "myth": "After a head injury, you must keep the person awake all night.",
+    "rating": "misleading",
+    "fact": "It is fine to let someone sleep after a minor head injury if they are alert, behaving normally and have no worrying symptoms, but a responsible adult should stay with them for the first 24 hours. Worrying signs, such as being hard to wake, repeated vomiting or confusion, need emergency care.",
+    "explanation": "The old advice to keep people awake came from fear that drowsiness hides a brain bleed. The key is watching for warning signs rather than preventing sleep. Seek urgent help after any head injury with loss of consciousness, a seizure, clear fluid from the nose or ears, or worsening headache.",
+    "keywords": [
+      "head injury",
+      "concussion",
+      "keep awake",
+      "sleep after head injury",
+      "bump on head",
+      "hit head",
+      "head knock"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Head injury and concussion",
+        "url": "https://www.nhs.uk/conditions/head-injury-and-concussion/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]

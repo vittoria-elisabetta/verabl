@@ -1,0 +1,622 @@
+[
+  {
+    "id": "ten-percent-of-brain",
+    "category": "Ageing & brain",
+    "myth": "We only use 10% of our brains.",
+    "rating": "false",
+    "fact": "Brain imaging shows that we use virtually all of our brain, though not every area is active at the same moment. Even simple tasks involve many regions.",
+    "explanation": "The myth has no clear scientific origin and is popular in films and self-help marketing. Damage to almost any part of the brain causes some effect, which would not happen if most of it were unused.",
+    "keywords": [
+      "10 percent",
+      "10%",
+      "ten percent",
+      "brain",
+      "use of brain",
+      "brain capacity",
+      "unused brain"
+    ],
+    "sources": [
+      {
+        "label": "Harvard Health Publishing",
+        "url": "https://www.health.harvard.edu/"
+      },
+      {
+        "label": "MedlinePlus — Memory",
+        "url": "https://medlineplus.gov/memory.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "dementia-normal-ageing",
+    "category": "Ageing & brain",
+    "myth": "Dementia is a normal part of getting old.",
+    "rating": "false",
+    "fact": "Dementia is not a normal part of ageing. It is caused by diseases such as Alzheimer's disease and vascular disease that damage the brain.",
+    "explanation": "The risk of dementia rises with age, and most older people do not develop it. Some mild slowing of memory is common with age, but problems that affect daily life should be checked by a doctor.",
+    "keywords": [
+      "dementia",
+      "normal ageing",
+      "getting old",
+      "senile",
+      "alzheimers",
+      "old age",
+      "memory"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Dementia (fact sheet)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/dementia"
+      },
+      {
+        "label": "NHS — Dementia",
+        "url": "https://www.nhs.uk/conditions/dementia/"
+      },
+      {
+        "label": "National Institute on Aging — Health information",
+        "url": "https://www.nia.nih.gov/health"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "brain-training-games-prevent-dementia",
+    "category": "Ageing & brain",
+    "myth": "Brain-training games and puzzles will prevent dementia.",
+    "rating": "misleading",
+    "fact": "Brain-training games improve performance on the tasks practised, but there is no strong evidence that they prevent dementia.",
+    "explanation": "Staying mentally and socially active is linked to better brain health and is worth doing. The strongest evidence for lowering dementia risk involves physical activity, not smoking, managing blood pressure and diabetes, limiting alcohol and treating hearing loss.",
+    "keywords": [
+      "brain training",
+      "puzzles",
+      "crosswords",
+      "sudoku",
+      "brain games",
+      "prevent dementia",
+      "apps",
+      "alzheimers"
+    ],
+    "sources": [
+      {
+        "label": "National Institute on Aging — Health information",
+        "url": "https://www.nia.nih.gov/health"
+      },
+      {
+        "label": "WHO — Dementia (fact sheet)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/dementia"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "old-brains-cannot-change",
+    "category": "Ageing & brain",
+    "myth": "Older people can't learn new things because the brain stops changing after childhood.",
+    "rating": "false",
+    "fact": "The brain stays able to change and form new connections throughout life. Older adults can learn new skills, languages and habits.",
+    "explanation": "Learning may take a little longer with age, but practice, motivation and staying active all help. Learning new things is also thought to support brain health.",
+    "keywords": [
+      "older people",
+      "learn new things",
+      "old dog new tricks",
+      "neuroplasticity",
+      "brain",
+      "ageing",
+      "learning"
+    ],
+    "sources": [
+      {
+        "label": "National Institute on Aging — Health information",
+        "url": "https://www.nia.nih.gov/health"
+      },
+      {
+        "label": "Harvard Health Publishing",
+        "url": "https://www.health.harvard.edu/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "left-brain-right-brain-people",
+    "category": "Ageing & brain",
+    "myth": "People are either left-brained (logical) or right-brained (creative).",
+    "rating": "false",
+    "fact": "Although some functions are more concentrated on one side of the brain, people do not have a dominant hemisphere that defines their personality or thinking style.",
+    "explanation": "Large brain-imaging studies have found no evidence for left-brained or right-brained people. Both sides work together for most tasks, including logic and creativity.",
+    "keywords": [
+      "left brain",
+      "right brain",
+      "creative",
+      "logical",
+      "brain hemisphere",
+      "personality",
+      "brain dominance"
+    ],
+    "sources": [
+      {
+        "label": "Harvard Health Publishing",
+        "url": "https://www.health.harvard.edu/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "aluminium-causes-alzheimers",
+    "category": "Ageing & brain",
+    "myth": "Aluminium pans and cans cause Alzheimer's disease.",
+    "rating": "false",
+    "fact": "Research has not shown that everyday exposure to aluminium from cookware, cans or antiperspirants causes Alzheimer's disease.",
+    "explanation": "The idea came from studies in the 1960s and 1970s that later research did not support. Main risk factors for Alzheimer's are age, genetics and cardiovascular risk factors.",
+    "keywords": [
+      "aluminium",
+      "aluminum",
+      "alzheimers",
+      "pans",
+      "cookware",
+      "cans",
+      "dementia",
+      "foil"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Alzheimer's disease",
+        "url": "https://www.nhs.uk/conditions/alzheimers-disease/"
+      },
+      {
+        "label": "National Institute on Aging — Health information",
+        "url": "https://www.nia.nih.gov/health"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "forgetfulness-means-dementia",
+    "category": "Ageing & brain",
+    "myth": "Forgetting things, like where you put your keys, means you're getting dementia.",
+    "rating": "false",
+    "fact": "Occasional forgetfulness is common at any age and is not usually a sign of dementia. Stress, tiredness, low mood and busy lives often affect memory.",
+    "explanation": "Signs that need checking include memory problems that are getting worse and affecting daily life, getting lost in familiar places, or difficulty following conversations. Some causes of memory problems, such as vitamin deficiencies or thyroid problems, are treatable.",
+    "keywords": [
+      "forgetful",
+      "memory loss",
+      "forgetting",
+      "keys",
+      "dementia",
+      "senior moment",
+      "alzheimers",
+      "memory"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Dementia",
+        "url": "https://www.nhs.uk/conditions/dementia/"
+      },
+      {
+        "label": "National Institute on Aging — Health information",
+        "url": "https://www.nia.nih.gov/health"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "exercise-lowers-dementia-risk",
+    "category": "Ageing & brain",
+    "myth": "Staying physically active can lower your risk of dementia.",
+    "rating": "mostly-true",
+    "fact": "Regular physical activity is linked to a lower risk of cognitive decline and dementia, and WHO recommends it as part of reducing dementia risk.",
+    "explanation": "Much of the evidence comes from observational studies, so exact effects are uncertain, but activity also protects the heart and blood vessels, which supports the brain. It cannot guarantee someone will not get dementia.",
+    "keywords": [
+      "exercise",
+      "dementia",
+      "physical activity",
+      "brain health",
+      "prevent dementia",
+      "walking",
+      "alzheimers"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Dementia (fact sheet)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/dementia"
+      },
+      {
+        "label": "National Institute on Aging — Health information",
+        "url": "https://www.nia.nih.gov/health"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "hearing-loss-dementia-link",
+    "category": "Ageing & brain",
+    "myth": "Untreated hearing loss is linked to a higher risk of dementia.",
+    "rating": "mostly-true",
+    "fact": "Hearing loss in midlife is among the potentially modifiable risk factors linked to dementia, and treating it may help reduce risk.",
+    "explanation": "Researchers are still working out whether hearing aids directly lower dementia risk. Hearing loss can lead to social isolation and extra mental effort, which may play a role. Having hearing checked is worthwhile in any case.",
+    "keywords": [
+      "hearing loss",
+      "dementia",
+      "hearing aids",
+      "deaf",
+      "hard of hearing",
+      "memory",
+      "risk"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Dementia (fact sheet)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/dementia"
+      },
+      {
+        "label": "National Institute on Aging — Health information",
+        "url": "https://www.nia.nih.gov/health"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "dementia-only-old-people",
+    "category": "Ageing & brain",
+    "myth": "Only elderly people get dementia.",
+    "rating": "false",
+    "fact": "Dementia mostly affects older people, but it can begin before 65. This is called young-onset dementia.",
+    "explanation": "Young-onset dementia can be missed because symptoms are blamed on stress, depression or menopause. Anyone with ongoing changes in memory, behaviour or thinking should see a doctor.",
+    "keywords": [
+      "dementia",
+      "young onset",
+      "early onset",
+      "young people",
+      "under 65",
+      "alzheimers",
+      "elderly"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Dementia",
+        "url": "https://www.nhs.uk/conditions/dementia/"
+      },
+      {
+        "label": "WHO — Dementia (fact sheet)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/dementia"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "depression-normal-in-old-age",
+    "category": "Ageing & brain",
+    "myth": "Feeling depressed is just part of getting old.",
+    "rating": "false",
+    "fact": "Depression is not a normal part of ageing. It is treatable at any age, and older adults respond to treatment much like younger people.",
+    "explanation": "Loss, illness and isolation can raise the risk, and depression in older people is often missed or mistaken for physical illness or dementia. If you or someone you know is struggling, talking to a doctor is a good first step; anyone in crisis should get urgent help.",
+    "keywords": [
+      "depression",
+      "old age",
+      "elderly",
+      "older adults",
+      "getting old",
+      "lonely",
+      "low mood"
+    ],
+    "sources": [
+      {
+        "label": "National Institute on Aging — Health information",
+        "url": "https://www.nia.nih.gov/health"
+      },
+      {
+        "label": "NIMH — Depression",
+        "url": "https://www.nimh.nih.gov/health/topics/depression"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "cold-weather-causes-arthritis",
+    "category": "Bones & joints",
+    "myth": "Cold, damp weather causes arthritis.",
+    "rating": "false",
+    "fact": "Weather does not cause arthritis. Osteoarthritis is linked to age, joint injury, genetics and weight, and rheumatoid arthritis is an autoimmune disease.",
+    "explanation": "Many people with arthritis feel their pain changes with the weather. Studies on this are mixed, and any effect seems to be on how symptoms feel rather than on the disease itself. Keeping warm and active can help comfort.",
+    "keywords": [
+      "cold weather",
+      "damp",
+      "arthritis",
+      "rain",
+      "joint pain",
+      "weather",
+      "winter",
+      "aches"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Osteoarthritis",
+        "url": "https://www.nhs.uk/conditions/osteoarthritis/"
+      },
+      {
+        "label": "NIAMS — Osteoarthritis",
+        "url": "https://www.niams.nih.gov/health-topics/osteoarthritis"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "clicking-joints-mean-damage",
+    "category": "Bones & joints",
+    "myth": "Joints that click or crack are always a sign of damage.",
+    "rating": "false",
+    "fact": "Painless clicking or cracking of joints is common and usually harmless. It is often caused by gas bubbles in joint fluid or tendons moving over bone.",
+    "explanation": "Noises that come with pain, swelling, locking or the joint giving way are worth getting checked, as they can point to an injury or arthritis.",
+    "keywords": [
+      "clicking joints",
+      "cracking joints",
+      "popping",
+      "knees click",
+      "crepitus",
+      "damage",
+      "joint noise"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Osteoarthritis",
+        "url": "https://www.nhs.uk/conditions/osteoarthritis/"
+      },
+      {
+        "label": "Harvard Health Publishing",
+        "url": "https://www.health.harvard.edu/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "bed-rest-for-back-pain",
+    "category": "Bones & joints",
+    "myth": "Bed rest is the best treatment for back pain.",
+    "rating": "false",
+    "fact": "For most back pain, staying as active as possible and continuing normal activities helps recovery more than bed rest.",
+    "explanation": "Long bed rest can lead to stiffness and slower recovery. Pain relief, gentle movement and exercise are usually recommended. Back pain with numbness around the bottom or genitals, loss of bladder or bowel control, or leg weakness needs urgent medical help.",
+    "keywords": [
+      "back pain",
+      "bed rest",
+      "lie down",
+      "bad back",
+      "lower back",
+      "rest",
+      "slipped disc"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Back pain",
+        "url": "https://www.nhs.uk/conditions/back-pain/"
+      },
+      {
+        "label": "NIAMS — Back pain",
+        "url": "https://www.niams.nih.gov/health-topics/back-pain"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "back-pain-needs-scan",
+    "category": "Bones & joints",
+    "myth": "You always need an X-ray or MRI scan for back pain.",
+    "rating": "false",
+    "fact": "Most back pain does not need a scan. It usually improves within weeks, and scans often show age-related changes that are not the cause of the pain.",
+    "explanation": "Scans are recommended when there are warning signs, such as suspected nerve damage, infection, cancer or a fracture. Unnecessary scans can lead to worry and treatments that do not help.",
+    "keywords": [
+      "back pain",
+      "x-ray",
+      "mri",
+      "scan",
+      "imaging",
+      "lower back",
+      "slipped disc"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Back pain",
+        "url": "https://www.nhs.uk/conditions/back-pain/"
+      },
+      {
+        "label": "NIAMS — Back pain",
+        "url": "https://www.niams.nih.gov/health-topics/back-pain"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "arthritis-only-old-people",
+    "category": "Bones & joints",
+    "myth": "Only old people get arthritis.",
+    "rating": "false",
+    "fact": "Arthritis can affect people of any age, including children. Rheumatoid arthritis often starts between 30 and 50, and juvenile arthritis affects children.",
+    "explanation": "Osteoarthritis does become more common with age. Joint pain, swelling or stiffness that lasts should be checked at any age, because early treatment of inflammatory arthritis can prevent damage.",
+    "keywords": [
+      "arthritis",
+      "young people",
+      "old people",
+      "rheumatoid",
+      "juvenile arthritis",
+      "joint pain",
+      "age"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Rheumatoid arthritis",
+        "url": "https://www.nhs.uk/conditions/rheumatoid-arthritis/"
+      },
+      {
+        "label": "NHS — Osteoarthritis",
+        "url": "https://www.nhs.uk/conditions/osteoarthritis/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "exercise-bad-for-arthritis",
+    "category": "Bones & joints",
+    "myth": "Exercise will wear out arthritic joints faster.",
+    "rating": "false",
+    "fact": "Regular, appropriate exercise is one of the main treatments for osteoarthritis. It reduces pain, improves function and strengthens muscles that support the joints.",
+    "explanation": "Low-impact activities such as walking, swimming and cycling, plus strengthening exercises, are often recommended. A physiotherapist can tailor a plan, and some discomfort while starting is normal.",
+    "keywords": [
+      "arthritis",
+      "exercise",
+      "joints",
+      "wear out",
+      "osteoarthritis",
+      "swimming",
+      "joint pain"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Osteoarthritis",
+        "url": "https://www.nhs.uk/conditions/osteoarthritis/"
+      },
+      {
+        "label": "NIAMS — Osteoarthritis",
+        "url": "https://www.niams.nih.gov/health-topics/osteoarthritis"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "osteoporosis-women-only",
+    "category": "Bones & joints",
+    "myth": "Only women get osteoporosis.",
+    "rating": "false",
+    "fact": "Osteoporosis is more common in women, especially after menopause, but men get it too, and men with hip fractures have a high risk of complications.",
+    "explanation": "Risk factors in men include older age, low testosterone, smoking, heavy drinking, long-term steroid use and some medical conditions. Many men are never tested.",
+    "keywords": [
+      "osteoporosis",
+      "men",
+      "women only",
+      "bone loss",
+      "fractures",
+      "brittle bones",
+      "bone density"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Osteoporosis",
+        "url": "https://www.nhs.uk/conditions/osteoporosis/"
+      },
+      {
+        "label": "NIAMS — Osteoporosis",
+        "url": "https://www.niams.nih.gov/health-topics/osteoporosis"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "milk-alone-prevents-osteoporosis",
+    "category": "Bones & joints",
+    "myth": "Drinking lots of milk is all you need to prevent osteoporosis.",
+    "rating": "misleading",
+    "fact": "Getting enough calcium and vitamin D is important for bones, but extra milk alone does not prevent osteoporosis. Exercise, not smoking, limiting alcohol and genetics also play a big role.",
+    "explanation": "Calcium can come from many foods besides dairy. Vitamin D mostly comes from sunlight on skin, and supplements are recommended for some people. Weight-bearing and strength exercises help build and keep bone.",
+    "keywords": [
+      "milk",
+      "dairy",
+      "calcium",
+      "osteoporosis",
+      "strong bones",
+      "bone health",
+      "vitamin d"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Osteoporosis",
+        "url": "https://www.nhs.uk/conditions/osteoporosis/"
+      },
+      {
+        "label": "NIH Office of Dietary Supplements — Calcium",
+        "url": "https://ods.od.nih.gov/factsheets/Calcium-Consumer/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "weight-bearing-exercise-strengthens-bones",
+    "category": "Bones & joints",
+    "myth": "Weight-bearing exercise helps keep your bones strong.",
+    "rating": "true",
+    "fact": "Weight-bearing and muscle-strengthening exercise helps build bone in young people and slows bone loss in adults.",
+    "explanation": "Examples include walking, dancing, jogging, stair climbing and resistance exercises. People with osteoporosis can still exercise but may need advice on safe movements.",
+    "keywords": [
+      "weight bearing",
+      "exercise",
+      "bones",
+      "bone density",
+      "osteoporosis",
+      "strong bones",
+      "walking"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Osteoporosis",
+        "url": "https://www.nhs.uk/conditions/osteoporosis/"
+      },
+      {
+        "label": "NIAMS — Osteoporosis",
+        "url": "https://www.niams.nih.gov/health-topics/osteoporosis"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "can-move-it-not-broken",
+    "category": "Bones & joints",
+    "myth": "If you can move it, it isn't broken.",
+    "rating": "false",
+    "fact": "You can sometimes still move a broken bone, especially with small fractures in the hand, wrist, foot or ankle.",
+    "explanation": "Severe pain, swelling, bruising, deformity or being unable to bear weight are reasons to get an X-ray. Untreated fractures can heal badly.",
+    "keywords": [
+      "broken bone",
+      "fracture",
+      "can move it",
+      "sprain",
+      "wrist",
+      "ankle",
+      "x-ray"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Sprains and strains",
+        "url": "https://www.nhs.uk/conditions/sprains-and-strains/"
+      },
+      {
+        "label": "Mayo Clinic",
+        "url": "https://www.mayoclinic.org/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "gout-just-rich-food",
+    "category": "Bones & joints",
+    "myth": "Gout is just caused by eating too much rich food and drinking.",
+    "rating": "misleading",
+    "fact": "Gout is caused by high levels of uric acid in the blood. Diet and alcohol can trigger attacks, but genetics, kidney function, some medicines and other health conditions are major factors.",
+    "explanation": "Many people with gout have healthy diets. Long-term medicines that lower uric acid are effective, and lifestyle changes help alongside them.",
+    "keywords": [
+      "gout",
+      "rich food",
+      "alcohol",
+      "uric acid",
+      "red meat",
+      "beer",
+      "big toe"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Gout",
+        "url": "https://www.nhs.uk/conditions/gout/"
+      },
+      {
+        "label": "Mayo Clinic",
+        "url": "https://www.mayoclinic.org/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]

@@ -1,0 +1,782 @@
+[
+  {
+    "id": "eating-sugar-causes-diabetes",
+    "category": "Diabetes",
+    "myth": "Eating too much sugar directly causes diabetes.",
+    "rating": "misleading",
+    "fact": "Type 1 diabetes is an autoimmune condition and is not caused by sugar or diet. Type 2 diabetes is linked to excess weight, inactivity, age and family history; sugary drinks and foods can contribute through weight gain, and sugary drinks in particular are linked to higher risk.",
+    "explanation": "Because diabetes involves high blood sugar, it seems logical that eating sugar causes it. The relationship is indirect: a diet high in calories from any source, including sugar, raises the risk of type 2 diabetes. Cutting down on sugary drinks is still a sensible step.",
+    "keywords": [
+      "sugar causes diabetes",
+      "sugar diabetes",
+      "too much sugar",
+      "sweets diabetes",
+      "eating sugar",
+      "cause of diabetes",
+      "sugary drinks"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Type 2 diabetes",
+        "url": "https://www.nhs.uk/conditions/type-2-diabetes/"
+      },
+      {
+        "label": "WHO — Diabetes",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "apple-cider-vinegar-cures-diabetes",
+    "category": "Diabetes",
+    "myth": "Apple cider vinegar cures diabetes.",
+    "rating": "false",
+    "fact": "There is no evidence that apple cider vinegar cures diabetes. Some small studies suggest vinegar may slightly lower blood sugar after a meal, but the effect is modest and not a replacement for treatment.",
+    "explanation": "Apple cider vinegar is promoted online for many conditions, often based on small or short studies. Drinking it undiluted can damage tooth enamel and irritate the throat, and it may affect potassium levels or interact with some medicines. Anyone with diabetes should keep taking prescribed treatment.",
+    "keywords": [
+      "apple cider vinegar",
+      "acv",
+      "vinegar",
+      "cure diabetes",
+      "blood sugar",
+      "vinegar diabetes",
+      "acv diabetes"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Type 2 diabetes",
+        "url": "https://www.nhs.uk/conditions/type-2-diabetes/"
+      },
+      {
+        "label": "NIDDK — Diabetes",
+        "url": "https://www.niddk.nih.gov/health-information/diabetes"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "diabetics-can-never-eat-sugar",
+    "category": "Diabetes",
+    "myth": "People with diabetes can never eat any sugar or sweets.",
+    "rating": "false",
+    "fact": "People with diabetes can include small amounts of sugar as part of a balanced diet, planned around their meals, activity and medication. The overall pattern of eating matters more than avoiding sugar completely.",
+    "explanation": "Diabetes eating advice used to be very strict, and many people still believe sugar is completely banned. Carbohydrates in general, including bread, rice and pasta, affect blood sugar, not just sweets. People who use insulin or some tablets may actually need fast-acting sugar to treat a low blood sugar (hypoglycaemia).",
+    "keywords": [
+      "diabetic sugar",
+      "diabetes sweets",
+      "can diabetics eat sugar",
+      "diabetic diet",
+      "no sugar",
+      "dessert diabetes",
+      "cake diabetes"
+    ],
+    "sources": [
+      {
+        "label": "NIDDK — Diabetes diet, eating and physical activity",
+        "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/diet-eating-physical-activity"
+      },
+      {
+        "label": "American Diabetes Association",
+        "url": "https://diabetes.org/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "cinnamon-cures-diabetes",
+    "category": "Diabetes",
+    "myth": "Cinnamon can cure diabetes or replace diabetes medicine.",
+    "rating": "false",
+    "fact": "Studies of cinnamon for blood sugar control have given inconsistent results, and there is no evidence that it cures diabetes. It should not replace prescribed treatment.",
+    "explanation": "Cinnamon is often recommended online as a natural blood sugar fix. Cassia cinnamon, the common type in supermarkets, contains coumarin, which in large amounts can harm the liver. Using cinnamon as a spice in food is fine.",
+    "keywords": [
+      "cinnamon",
+      "cinnamon diabetes",
+      "natural cure diabetes",
+      "cinnamon blood sugar",
+      "herbal diabetes",
+      "cassia"
+    ],
+    "sources": [
+      {
+        "label": "NCCIH — Cinnamon",
+        "url": "https://www.nccih.nih.gov/health/cinnamon"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "insulin-causes-complications",
+    "category": "Diabetes",
+    "myth": "Starting insulin means you've failed, and insulin causes blindness and amputations.",
+    "rating": "false",
+    "fact": "Diabetes complications such as eye, kidney and nerve damage are caused by high blood sugar over time, not by insulin. Insulin is a natural hormone, and starting it in type 2 diabetes is often simply part of how the condition progresses.",
+    "explanation": "People sometimes see relatives start insulin late, after complications have already developed, and wrongly link the two. Type 2 diabetes often gets worse over the years as the pancreas makes less insulin, regardless of effort. Good blood sugar control, including with insulin when needed, lowers the risk of complications.",
+    "keywords": [
+      "insulin",
+      "insulin blindness",
+      "insulin amputation",
+      "starting insulin",
+      "insulin failure",
+      "insulin injections",
+      "insulin side effects"
+    ],
+    "sources": [
+      {
+        "label": "NIDDK — Diabetes",
+        "url": "https://www.niddk.nih.gov/health-information/diabetes"
+      },
+      {
+        "label": "NHS — Type 2 diabetes",
+        "url": "https://www.nhs.uk/conditions/type-2-diabetes/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "type-2-diabetes-is-mild",
+    "category": "Diabetes",
+    "myth": "Type 2 diabetes is a mild form of diabetes and not serious.",
+    "rating": "false",
+    "fact": "Type 2 diabetes is a serious condition that, if poorly controlled, can lead to heart attack, stroke, kidney failure, sight loss and amputations. It is a leading cause of these complications worldwide.",
+    "explanation": "Because it often develops slowly and may be managed with tablets or diet at first, people sometimes describe it as 'a touch of sugar'. Many people have no symptoms for years while damage builds up. Regular checks of blood sugar, blood pressure, cholesterol, eyes, kidneys and feet help prevent complications.",
+    "keywords": [
+      "type 2 diabetes",
+      "mild diabetes",
+      "touch of sugar",
+      "borderline diabetes",
+      "diabetes not serious",
+      "diabetes complications"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Diabetes",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes"
+      },
+      {
+        "label": "NHS — Type 2 diabetes",
+        "url": "https://www.nhs.uk/conditions/type-2-diabetes/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "type-2-diabetes-remission-weight-loss",
+    "category": "Diabetes",
+    "myth": "Type 2 diabetes can sometimes go into remission with weight loss.",
+    "rating": "mostly-true",
+    "fact": "Research shows that substantial weight loss, especially soon after diagnosis, can bring blood sugar back to a non-diabetic range without medication in some people with type 2 diabetes. This is called remission rather than a cure, because diabetes can return if weight is regained.",
+    "explanation": "Many people believe type 2 diabetes is always permanent and progressive. Remission is more likely in people diagnosed recently who lose a significant amount of weight, but it is not possible for everyone. Any major diet change, such as a very low-calorie programme, should be done with medical support because medicines may need adjusting.",
+    "keywords": [
+      "diabetes remission",
+      "reverse diabetes",
+      "reverse type 2",
+      "cure type 2 diabetes",
+      "weight loss diabetes",
+      "low calorie diet diabetes"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Type 2 diabetes",
+        "url": "https://www.nhs.uk/conditions/type-2-diabetes/"
+      },
+      {
+        "label": "American Diabetes Association",
+        "url": "https://diabetes.org/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "thin-people-dont-get-diabetes",
+    "category": "Diabetes",
+    "myth": "Only overweight people get type 2 diabetes.",
+    "rating": "false",
+    "fact": "Excess weight is a major risk factor, but people of a healthy weight can also get type 2 diabetes. Age, family history, ethnicity and where fat is stored on the body also affect risk.",
+    "explanation": "People of South Asian, Black African and Black Caribbean backgrounds, for example, can develop type 2 diabetes at a lower body weight. Fat stored around the waist and organs raises risk even when overall weight looks normal. Anyone with symptoms like excess thirst, frequent urination or unexplained tiredness should get checked.",
+    "keywords": [
+      "thin diabetes",
+      "slim diabetes",
+      "overweight diabetes",
+      "normal weight diabetes",
+      "skinny diabetes",
+      "lean diabetes"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Type 2 diabetes",
+        "url": "https://www.nhs.uk/conditions/type-2-diabetes/"
+      },
+      {
+        "label": "CDC — Diabetes",
+        "url": "https://www.cdc.gov/diabetes/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "diabetics-cannot-eat-fruit",
+    "category": "Diabetes",
+    "myth": "People with diabetes shouldn't eat fruit because it has sugar.",
+    "rating": "false",
+    "fact": "Whole fruit contains fibre, vitamins and minerals and can be part of a healthy diet for people with diabetes. Portion size and spreading fruit through the day matter more than avoiding it.",
+    "explanation": "The natural sugar in fruit leads many people to cut it out. Whole fruit is a better choice than fruit juice or dried fruit, which raise blood sugar more quickly. A dietitian or diabetes team can help plan portions.",
+    "keywords": [
+      "fruit diabetes",
+      "diabetics fruit",
+      "banana diabetes",
+      "fruit sugar",
+      "mango diabetes",
+      "can diabetics eat fruit",
+      "fructose"
+    ],
+    "sources": [
+      {
+        "label": "NIDDK — Diabetes diet, eating and physical activity",
+        "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/diet-eating-physical-activity"
+      },
+      {
+        "label": "NHS — Type 2 diabetes",
+        "url": "https://www.nhs.uk/conditions/type-2-diabetes/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "okra-bitter-gourd-cures-diabetes",
+    "category": "Diabetes",
+    "myth": "Okra water, bitter gourd (karela) juice or fenugreek can cure diabetes.",
+    "rating": "false",
+    "fact": "There is no good evidence that okra water, bitter melon, fenugreek or similar home remedies cure diabetes. Some may have small effects on blood sugar, but they are not a substitute for proven treatment.",
+    "explanation": "These remedies are widely shared on WhatsApp and in family traditions. Combining them with diabetes medicines can sometimes lower blood sugar too much. Eating these vegetables as part of a balanced diet is fine, but talk to your diabetes team before relying on them.",
+    "keywords": [
+      "okra water",
+      "bitter gourd",
+      "bitter melon",
+      "karela",
+      "fenugreek",
+      "methi",
+      "home remedy diabetes",
+      "natural cure diabetes",
+      "herbal diabetes"
+    ],
+    "sources": [
+      {
+        "label": "NCCIH — Diabetes and dietary supplements",
+        "url": "https://www.nccih.nih.gov/health/diabetes-and-dietary-supplements"
+      },
+      {
+        "label": "NIDDK — Diabetes",
+        "url": "https://www.niddk.nih.gov/health-information/diabetes"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "type-1-diabetes-caused-by-diet",
+    "category": "Diabetes",
+    "myth": "Type 1 diabetes is caused by eating too many sweets as a child.",
+    "rating": "false",
+    "fact": "Type 1 diabetes happens when the immune system destroys the insulin-making cells in the pancreas. It is not caused by diet or lifestyle and cannot currently be prevented.",
+    "explanation": "Confusion between type 1 and type 2 diabetes leads to blame being placed on children and parents. The exact triggers are not fully known, but genetics and possibly viral infections are thought to play a role. Type 1 diabetes always needs insulin.",
+    "keywords": [
+      "type 1 diabetes",
+      "juvenile diabetes",
+      "child diabetes",
+      "caused by sweets",
+      "type 1 cause",
+      "autoimmune diabetes"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Type 1 diabetes",
+        "url": "https://www.nhs.uk/conditions/type-1-diabetes/"
+      },
+      {
+        "label": "NIDDK — Diabetes",
+        "url": "https://www.niddk.nih.gov/health-information/diabetes"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "type-1-diabetes-cured-with-herbs",
+    "category": "Diabetes",
+    "myth": "Type 1 diabetes can be cured with diet or herbs, so insulin can be stopped.",
+    "rating": "false",
+    "fact": "People with type 1 diabetes cannot make enough insulin and need it to survive. Stopping insulin can cause diabetic ketoacidosis, a life-threatening emergency, within hours to days.",
+    "explanation": "Some online sellers and practitioners claim diets or herbal products can replace insulin, and there have been deaths after people followed this advice. Research into cures, such as islet cell transplants, is ongoing but these are not widely available. Signs of ketoacidosis include vomiting, abdominal pain, deep breathing and confusion and need emergency care.",
+    "keywords": [
+      "stop insulin",
+      "cure type 1",
+      "type 1 diabetes cure",
+      "no insulin",
+      "herbs insulin",
+      "ketoacidosis",
+      "dka",
+      "replace insulin"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Type 1 diabetes",
+        "url": "https://www.nhs.uk/conditions/type-1-diabetes/"
+      },
+      {
+        "label": "NHS — Diabetic ketoacidosis",
+        "url": "https://www.nhs.uk/conditions/diabetic-ketoacidosis/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "diabetes-is-contagious",
+    "category": "Diabetes",
+    "myth": "You can catch diabetes from someone else.",
+    "rating": "false",
+    "fact": "Diabetes is not contagious. It cannot be passed on by touch, sharing food, kissing or any other contact.",
+    "explanation": "Diabetes can run in families, partly because of shared genes and shared lifestyles, which may make it seem 'catching'. Sharing blood glucose meters, lancets or needles is unsafe because of blood-borne infections, not because of diabetes itself.",
+    "keywords": [
+      "contagious",
+      "catch diabetes",
+      "diabetes infectious",
+      "spread diabetes",
+      "is diabetes contagious"
+    ],
+    "sources": [
+      {
+        "label": "CDC — Diabetes",
+        "url": "https://www.cdc.gov/diabetes/"
+      },
+      {
+        "label": "WHO — Diabetes",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "diabetics-need-special-diabetic-foods",
+    "category": "Diabetes",
+    "myth": "People with diabetes need to buy special 'diabetic' foods.",
+    "rating": "false",
+    "fact": "There is no need for special 'diabetic' foods. People with diabetes are advised to eat the same healthy, balanced diet recommended for everyone.",
+    "explanation": "Products labelled 'diabetic' or 'suitable for diabetics' are often expensive and can still be high in fat and calories. Some contain sugar alcohols that can cause bloating and diarrhoea. Reading normal food labels is usually more helpful.",
+    "keywords": [
+      "diabetic food",
+      "diabetic chocolate",
+      "diabetic sweets",
+      "suitable for diabetics",
+      "sugar free diabetes",
+      "special diet diabetes"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Type 2 diabetes",
+        "url": "https://www.nhs.uk/conditions/type-2-diabetes/"
+      },
+      {
+        "label": "NIDDK — Diabetes diet, eating and physical activity",
+        "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/diet-eating-physical-activity"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "prediabetes-can-be-prevented",
+    "category": "Diabetes",
+    "myth": "Lifestyle changes can stop prediabetes from turning into type 2 diabetes.",
+    "rating": "true",
+    "fact": "In people with prediabetes, losing a modest amount of weight and being more active can greatly lower the chance of developing type 2 diabetes. In the US Diabetes Prevention Program trial, a lifestyle programme cut the risk by 58% over about three years.",
+    "explanation": "Some people see prediabetes as inevitable diabetes. Losing around 5 to 7% of body weight and doing about 150 minutes of activity a week were the goals in the major trial. Structured prevention programmes are available in several countries.",
+    "keywords": [
+      "prediabetes",
+      "pre-diabetes",
+      "borderline diabetes",
+      "prevent diabetes",
+      "diabetes prevention",
+      "high blood sugar",
+      "insulin resistance"
+    ],
+    "sources": [
+      {
+        "label": "CDC — National Diabetes Prevention Program",
+        "url": "https://www.cdc.gov/diabetes-prevention/"
+      },
+      {
+        "label": "NIDDK — Diabetes",
+        "url": "https://www.niddk.nih.gov/health-information/diabetes"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "stop-antibiotics-when-feeling-better",
+    "category": "Medicines & antibiotics",
+    "myth": "You can stop taking antibiotics as soon as you feel better.",
+    "rating": "misleading",
+    "fact": "You should take antibiotics as directed by the prescriber. Stopping early can allow some infections to come back, although research is reviewing whether shorter courses work for some infections, and prescribers now often give shorter courses where evidence supports it.",
+    "explanation": "The traditional rule was always to finish the course to prevent resistance, and some experts now question whether longer courses are always needed. That is a decision for the prescriber, not something to guess at home. If you have side effects or think you no longer need the antibiotic, speak to your doctor or pharmacist.",
+    "keywords": [
+      "stop antibiotics",
+      "finish the course",
+      "antibiotic course",
+      "feel better antibiotics",
+      "stop taking antibiotics early",
+      "complete antibiotics"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Antibiotics",
+        "url": "https://www.nhs.uk/conditions/antibiotics/"
+      },
+      {
+        "label": "CDC — Antibiotic use",
+        "url": "https://www.cdc.gov/antibiotic-use/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "body-becomes-resistant-to-antibiotics",
+    "category": "Medicines & antibiotics",
+    "myth": "If you take antibiotics too often, your body becomes resistant to them.",
+    "rating": "misleading",
+    "fact": "It is bacteria, not your body, that become resistant to antibiotics. Overuse anywhere helps resistant bacteria survive and spread between people, animals and the environment.",
+    "explanation": "The worry behind the myth is valid: unnecessary antibiotics do cause harm. Resistant bacteria can then infect you or others and be harder to treat. Using antibiotics only when needed, as prescribed, helps keep them working.",
+    "keywords": [
+      "antibiotic resistance",
+      "resistant to antibiotics",
+      "body resistant",
+      "superbugs",
+      "antimicrobial resistance",
+      "overuse antibiotics",
+      "amr"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Antimicrobial resistance",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance"
+      },
+      {
+        "label": "CDC — Antibiotic use",
+        "url": "https://www.cdc.gov/antibiotic-use/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "generic-medicines-are-weaker",
+    "category": "Medicines & antibiotics",
+    "myth": "Generic medicines are weaker or less effective than brand-name ones.",
+    "rating": "false",
+    "fact": "Generic medicines contain the same active ingredient and must meet the same standards for quality, strength and effect as the brand-name version. They are cheaper mainly because the makers did not have to repeat the original development trials.",
+    "explanation": "Different colours, shapes or packaging can make generics seem like a different medicine. Inactive ingredients such as fillers may differ, which rarely matters but can be relevant for people with specific allergies. A pharmacist can answer questions about any switch.",
+    "keywords": [
+      "generic",
+      "generic medicine",
+      "generic drugs",
+      "brand name",
+      "cheaper medicine",
+      "generics weaker",
+      "branded vs generic"
+    ],
+    "sources": [
+      {
+        "label": "FDA — Generic drug facts",
+        "url": "https://www.fda.gov/drugs/generic-drugs/generic-drug-facts"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "expired-medicine-is-toxic",
+    "category": "Medicines & antibiotics",
+    "myth": "Taking medicine after its expiry date is poisonous.",
+    "rating": "misleading",
+    "fact": "Most expired medicines do not become toxic, but they may lose strength and the manufacturer no longer guarantees they work or are safe. Some medicines, such as liquid antibiotics, insulin, adrenaline pens and eye drops, should not be used past their date.",
+    "explanation": "Old reports of tetracycline antibiotics becoming harmful contributed to the fear, but the main risk today is reduced effectiveness. For important medicines, a weaker dose can be dangerous. Return expired medicines to a pharmacy for safe disposal rather than using them.",
+    "keywords": [
+      "expired medicine",
+      "expiry date",
+      "out of date pills",
+      "expired drugs",
+      "old medication",
+      "expiration date",
+      "use by date medicine"
+    ],
+    "sources": [
+      {
+        "label": "FDA — Don't be tempted to use expired medicines",
+        "url": "https://www.fda.gov/drugs/special-features/dont-be-tempted-use-expired-medicines"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "paracetamol-safe-in-any-amount",
+    "category": "Medicines & antibiotics",
+    "myth": "Paracetamol (acetaminophen) is so safe you can't take too much.",
+    "rating": "false",
+    "fact": "Paracetamol is safe at recommended doses, but taking too much, even a little over the limit for several days, can cause serious liver damage. Many cold and flu remedies also contain paracetamol, making accidental overdose easy.",
+    "explanation": "Because it is sold everywhere, many people assume paracetamol is harmless at any dose. Early overdose may cause no symptoms, so anyone who has taken too much should get urgent medical advice even if they feel well. Check labels to avoid taking two products that both contain it.",
+    "keywords": [
+      "paracetamol",
+      "acetaminophen",
+      "tylenol",
+      "panadol",
+      "overdose",
+      "liver damage",
+      "too much paracetamol",
+      "painkiller"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Paracetamol for adults",
+        "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+      },
+      {
+        "label": "MedlinePlus — Acetaminophen",
+        "url": "https://medlineplus.gov/druginfo/meds/a681004.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "herbal-remedies-dont-interact",
+    "category": "Medicines & antibiotics",
+    "myth": "Herbal remedies don't interact with prescription medicines.",
+    "rating": "false",
+    "fact": "Many herbal products can interact with medicines. For example, St John's wort can make the contraceptive pill, some antidepressants, blood thinners and HIV medicines less effective or cause harmful effects.",
+    "explanation": "People often don't mention herbal products to their doctor because they think they don't count. Grapefruit juice can also affect how several medicines are processed. Always tell your doctor or pharmacist about any supplements or remedies you take.",
+    "keywords": [
+      "herbal interactions",
+      "st john's wort",
+      "drug interactions",
+      "herbs and medicine",
+      "supplement interactions",
+      "grapefruit",
+      "herbal remedies"
+    ],
+    "sources": [
+      {
+        "label": "NCCIH — St. John's Wort",
+        "url": "https://www.nccih.nih.gov/health/st-johns-wort"
+      },
+      {
+        "label": "NCCIH — Using dietary supplements wisely",
+        "url": "https://www.nccih.nih.gov/health/using-dietary-supplements-wisely"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "never-drink-alcohol-with-any-antibiotic",
+    "category": "Medicines & antibiotics",
+    "myth": "You can never drink any alcohol with any antibiotic.",
+    "rating": "misleading",
+    "fact": "Most common antibiotics do not interact seriously with moderate alcohol. However, some, such as metronidazole and tinidazole, can cause a severe reaction with alcohol, and alcohol can slow recovery from illness.",
+    "explanation": "The blanket rule is simple to remember, which is why it spread. Check the leaflet or ask a pharmacist about your specific antibiotic. Avoiding alcohol while unwell is still sensible.",
+    "keywords": [
+      "alcohol antibiotics",
+      "drinking on antibiotics",
+      "metronidazole",
+      "beer antibiotics",
+      "wine antibiotics",
+      "alcohol and medication"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Antibiotics",
+        "url": "https://www.nhs.uk/conditions/antibiotics/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "leftover-antibiotics-ok-to-use",
+    "category": "Medicines & antibiotics",
+    "myth": "It's fine to take leftover antibiotics or someone else's for a new illness.",
+    "rating": "false",
+    "fact": "Antibiotics should only be taken when prescribed for you and your current infection. A leftover or borrowed antibiotic may be the wrong drug or dose, may not be needed at all, and can cause side effects or allergic reactions.",
+    "explanation": "Keeping spare antibiotics 'just in case' is common in many households. Taking the wrong antibiotic can delay correct treatment and add to antibiotic resistance. Return unused medicines to a pharmacy.",
+    "keywords": [
+      "leftover antibiotics",
+      "someone else's antibiotics",
+      "share antibiotics",
+      "old antibiotics",
+      "self medicate",
+      "antibiotics without prescription"
+    ],
+    "sources": [
+      {
+        "label": "CDC — Antibiotic use",
+        "url": "https://www.cdc.gov/antibiotic-use/"
+      },
+      {
+        "label": "WHO — Antimicrobial resistance",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "homeopathy-works",
+    "category": "Medicines & antibiotics",
+    "myth": "Homeopathic remedies are effective treatments for illness.",
+    "rating": "false",
+    "fact": "There is no good-quality evidence that homeopathy works for any health condition beyond a placebo effect. Many homeopathic remedies are diluted so much that no molecules of the original substance remain.",
+    "explanation": "Homeopathy feels gentle and natural, and people often improve as illnesses run their course. The remedies themselves are usually harmless, but the danger comes from using them instead of effective treatment or vaccines. Some products labelled homeopathic have been found to contain measurable active ingredients.",
+    "keywords": [
+      "homeopathy",
+      "homeopathic",
+      "homoeopathy",
+      "remedies",
+      "dilution",
+      "arnica",
+      "oscillococcinum",
+      "alternative medicine"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Homeopathy",
+        "url": "https://www.nhs.uk/conditions/homeopathy/"
+      },
+      {
+        "label": "NCCIH — Homeopathy",
+        "url": "https://www.nccih.nih.gov/health/homeopathy"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "ivermectin-cures-covid",
+    "category": "Medicines & antibiotics",
+    "myth": "Ivermectin cures or prevents COVID-19.",
+    "rating": "false",
+    "fact": "Large randomised trials have found that ivermectin does not meaningfully reduce COVID-19 hospitalisation, recovery time or death. It remains an important medicine for certain parasitic infections.",
+    "explanation": "Early lab results and small, flawed studies led to wide promotion of ivermectin, and some studies were later found to have serious problems. Taking veterinary ivermectin products or high doses has caused poisonings. Proven COVID-19 treatments and vaccines remain the recommended options.",
+    "keywords": [
+      "ivermectin",
+      "covid cure",
+      "covid treatment",
+      "horse dewormer",
+      "ivermectin covid",
+      "coronavirus treatment"
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus — COVID-19",
+        "url": "https://medlineplus.gov/covid19coronavirusdisease2019.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "hydroxychloroquine-cures-covid",
+    "category": "Medicines & antibiotics",
+    "myth": "Hydroxychloroquine cures COVID-19.",
+    "rating": "false",
+    "fact": "Large clinical trials, including the UK RECOVERY trial and the WHO Solidarity trial, found that hydroxychloroquine did not reduce deaths in people hospitalised with COVID-19. It is not recommended for treating or preventing COVID-19.",
+    "explanation": "Hydroxychloroquine was widely promoted early in the pandemic based on lab studies and a small, flawed report. It can cause heart rhythm problems, especially at high doses. It remains a useful medicine for malaria, lupus and rheumatoid arthritis.",
+    "keywords": [
+      "hydroxychloroquine",
+      "chloroquine",
+      "hcq",
+      "covid cure",
+      "covid treatment",
+      "malaria drug covid",
+      "plaquenil"
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus — COVID-19",
+        "url": "https://medlineplus.gov/covid19coronavirusdisease2019.html"
+      },
+      {
+        "label": "MedlinePlus — Hydroxychloroquine",
+        "url": "https://medlineplus.gov/druginfo/meds/a601240.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "double-dose-after-missed-dose",
+    "category": "Medicines & antibiotics",
+    "myth": "If you miss a dose of medicine, take a double dose next time to catch up.",
+    "rating": "false",
+    "fact": "For most medicines you should not take a double dose to make up for a missed one, as this can cause side effects or overdose. The patient leaflet or a pharmacist can tell you what to do for your specific medicine.",
+    "explanation": "Catching up feels logical, especially with antibiotics. Usually the advice is to take the missed dose when you remember unless it is nearly time for the next one, then carry on as normal. Some medicines, such as the contraceptive pill or insulin, have their own specific rules.",
+    "keywords": [
+      "missed dose",
+      "double dose",
+      "forgot pill",
+      "missed medication",
+      "catch up dose",
+      "forgot to take medicine"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Antibiotics",
+        "url": "https://www.nhs.uk/conditions/antibiotics/"
+      },
+      {
+        "label": "MedlinePlus — Medicines",
+        "url": "https://medlineplus.gov/medicines.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "antibiotics-only-kill-bad-bacteria",
+    "category": "Medicines & antibiotics",
+    "myth": "Antibiotics only kill the bad bacteria.",
+    "rating": "false",
+    "fact": "Antibiotics also affect the helpful bacteria in your gut, skin and elsewhere. This is why they can cause diarrhoea and thrush, and in some cases a serious gut infection called Clostridioides difficile.",
+    "explanation": "Antibiotics target features common to many bacteria, not just harmful ones. Most side effects are mild and settle after the course ends. Severe or bloody diarrhoea during or after antibiotics should be checked by a doctor.",
+    "keywords": [
+      "antibiotics side effects",
+      "good bacteria",
+      "gut bacteria",
+      "antibiotics diarrhoea",
+      "antibiotics diarrhea",
+      "c diff",
+      "thrush antibiotics"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Antibiotics",
+        "url": "https://www.nhs.uk/conditions/antibiotics/"
+      },
+      {
+        "label": "CDC — Antibiotic use",
+        "url": "https://www.cdc.gov/antibiotic-use/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "ibuprofen-makes-covid-worse",
+    "category": "Medicines & antibiotics",
+    "myth": "Taking ibuprofen makes COVID-19 or viral infections much worse.",
+    "rating": "false",
+    "fact": "Reviews by health authorities found no clear evidence that ibuprofen worsens COVID-19. Ibuprofen and paracetamol can both be used to ease symptoms, following the usual precautions on the label.",
+    "explanation": "The concern spread widely in early 2020 after comments on social media and some early advice to prefer paracetamol while evidence was reviewed. Ibuprofen is still unsuitable for some people, for example those with certain kidney, stomach or heart problems, or some people with asthma. A pharmacist can advise which painkiller suits you.",
+    "keywords": [
+      "ibuprofen",
+      "nurofen",
+      "advil",
+      "ibuprofen covid",
+      "nsaids",
+      "anti-inflammatory",
+      "painkiller covid"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Ibuprofen for adults",
+        "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]

@@ -1,0 +1,1268 @@
+[
+  {
+    "id": "back-pain",
+    "name": "Back pain",
+    "aliases": [
+      "lower back pain",
+      "bad back",
+      "sore back",
+      "backache",
+      "pulled back muscle",
+      "lumbago"
+    ],
+    "bodyArea": "Muscles, bones & joints",
+    "summary": "Back pain is very common and usually improves within a few weeks. Staying active is one of the best things you can do.",
+    "redFlags": [
+      "Numbness or tingling around the genitals or bottom",
+      "Difficulty peeing, being unable to pee, or losing control of your bladder or bowels",
+      "Weakness or numbness in both legs, or being unsteady on your feet",
+      "Back pain with chest pain, or sudden severe back pain with fainting",
+      "Back pain after a serious fall or accident"
+    ],
+    "urgentFlags": [
+      "Back pain with a high temperature or feeling unwell",
+      "Back pain with numbness, weakness or pins and needles in one leg that is getting worse",
+      "Pain that is getting worse quickly, or is severe at night or at rest",
+      "Back pain with unexplained weight loss, or a history of cancer",
+      "Swelling or a change in the shape of your back"
+    ],
+    "commonCauses": [
+      {
+        "title": "Muscle or ligament strain",
+        "detail": "Often after lifting, twisting or awkward movement; the most common cause."
+      },
+      {
+        "title": "Sciatica",
+        "detail": "Pain shooting down the leg from an irritated nerve in the lower back."
+      },
+      {
+        "title": "Wear and tear",
+        "detail": "Age-related changes in the spine, which are very common and often cause no pain."
+      },
+      {
+        "title": "Posture and inactivity",
+        "detail": "Long periods sitting or poor working positions."
+      },
+      {
+        "title": "Kidney infection or other causes",
+        "detail": "Pain in the side or back with a high temperature can come from the kidneys."
+      }
+    ],
+    "selfCare": [
+      "Keep moving and continue normal activities as much as you can",
+      "Take ibuprofen or paracetamol, following the pack instructions",
+      "Use heat packs or cold packs to ease pain",
+      "Try gentle back stretches and exercise such as walking, swimming or yoga",
+      "Sleep on your side with a pillow between your knees"
+    ],
+    "avoid": [
+      "Bed rest for more than a day or two",
+      "Heavy lifting until pain eases",
+      "Sitting for long periods without moving"
+    ],
+    "seeDoctorIf": [
+      "Pain has not improved after a few weeks",
+      "Pain stops you doing day-to-day activities",
+      "Pain is very bad or getting worse over time",
+      "You are worried about the pain or struggling to cope"
+    ],
+    "selfCareMaxDays": 42,
+    "sources": [
+      {
+        "label": "NHS: Back pain",
+        "url": "https://www.nhs.uk/conditions/back-pain/"
+      }
+    ]
+  },
+  {
+    "id": "sciatica",
+    "name": "Pain shooting down the leg (sciatica)",
+    "aliases": [
+      "sciatica",
+      "pain down back of leg",
+      "trapped nerve in back",
+      "shooting leg pain",
+      "pins and needles in leg"
+    ],
+    "bodyArea": "Muscles, bones & joints",
+    "summary": "Sciatica is pain, tingling or numbness that travels from the lower back down the leg, caused by an irritated nerve. It usually gets better within 4 to 6 weeks.",
+    "redFlags": [
+      "Sciatica in both legs",
+      "Numbness around or under your genitals, or around your bottom",
+      "Difficulty peeing, being unable to pee, or losing control of your bladder or bowels",
+      "Severe or worsening weakness in both legs, making it hard to walk"
+    ],
+    "urgentFlags": [
+      "Increasing numbness or weakness in one leg or foot",
+      "Pain so severe it cannot be controlled with pharmacy painkillers",
+      "Sciatica with a high temperature or unexplained weight loss"
+    ],
+    "commonCauses": [
+      {
+        "title": "Slipped (herniated) disc",
+        "detail": "A disc in the spine bulges and presses on a nerve; the most common cause."
+      },
+      {
+        "title": "Spinal stenosis",
+        "detail": "Narrowing of the spinal canal, more common in older people, often worse when walking."
+      },
+      {
+        "title": "Muscle tightness",
+        "detail": "Tight muscles in the buttock can irritate the nerve."
+      }
+    ],
+    "selfCare": [
+      "Keep active and keep doing your normal activities as much as possible",
+      "Do gentle stretches for sciatica",
+      "Use heat packs on the painful area",
+      "Take ibuprofen or paracetamol, following the pack instructions"
+    ],
+    "avoid": [
+      "Sitting or lying down for long periods",
+      "Heavy lifting",
+      "Putting a hot water bottle directly on the skin, which can burn"
+    ],
+    "seeDoctorIf": [
+      "Sciatica has not improved after a few weeks",
+      "The pain is getting worse or stopping you doing normal activities",
+      "You are struggling to cope"
+    ],
+    "selfCareMaxDays": 42,
+    "sources": [
+      {
+        "label": "NHS: Sciatica",
+        "url": "https://www.nhs.uk/conditions/sciatica/"
+      }
+    ]
+  },
+  {
+    "id": "neck-pain",
+    "name": "Neck pain",
+    "aliases": [
+      "stiff neck",
+      "sore neck",
+      "crick in neck",
+      "neck ache",
+      "can't turn my head",
+      "wry neck"
+    ],
+    "bodyArea": "Muscles, bones & joints",
+    "summary": "Neck pain and stiffness are common and usually caused by posture, sleeping awkwardly or muscle strain. They usually improve within a few weeks.",
+    "redFlags": [
+      "A stiff neck with a high temperature and headache, sensitivity to light, or a rash that does not fade under a glass",
+      "Neck pain after a fall, car accident or blow to the head",
+      "Neck pain with weakness, numbness or loss of coordination in the arms or legs",
+      "Sudden severe neck pain with a sudden severe headache"
+    ],
+    "urgentFlags": [
+      "Neck pain with pins and needles or weakness in one arm",
+      "Neck pain with a high temperature and feeling unwell",
+      "Severe pain that is getting worse",
+      "A lump in the neck that is getting bigger"
+    ],
+    "commonCauses": [
+      {
+        "title": "Posture and muscle strain",
+        "detail": "Working at a computer, looking down at a phone, or sleeping in an awkward position."
+      },
+      {
+        "title": "Wear and tear",
+        "detail": "Age-related changes in the neck joints and discs."
+      },
+      {
+        "title": "Trapped nerve",
+        "detail": "Pain spreading into the arm with tingling or numbness."
+      },
+      {
+        "title": "Whiplash",
+        "detail": "Neck injury after a sudden jolt, such as in a car accident."
+      }
+    ],
+    "selfCare": [
+      "Keep your neck moving gently; do not use a neck collar",
+      "Take ibuprofen or paracetamol, following the pack instructions",
+      "Use a heat pack or a cold pack for short periods",
+      "Use a low, firm pillow and check your posture at desks and screens"
+    ],
+    "avoid": [
+      "Wearing a neck collar unless advised by a doctor",
+      "Sudden, forceful neck movements or manipulation",
+      "Long periods looking down at screens"
+    ],
+    "seeDoctorIf": [
+      "Pain has not improved after a few weeks",
+      "Pain is severe or getting worse",
+      "You have pins and needles, numbness or weakness in your arms or hands",
+      "Pain is stopping you doing your normal activities"
+    ],
+    "selfCareMaxDays": 21,
+    "sources": [
+      {
+        "label": "NHS: Neck pain",
+        "url": "https://www.nhs.uk/conditions/neck-pain/"
+      },
+      {
+        "label": "NHS: Meningitis",
+        "url": "https://www.nhs.uk/conditions/meningitis/"
+      }
+    ]
+  },
+  {
+    "id": "shoulder-pain",
+    "name": "Shoulder pain",
+    "aliases": [
+      "sore shoulder",
+      "painful shoulder",
+      "frozen shoulder",
+      "can't lift my arm",
+      "rotator cuff pain"
+    ],
+    "bodyArea": "Muscles, bones & joints",
+    "summary": "Shoulder pain is common and is usually caused by a strained muscle or tendon. It often gets better within 2 weeks with rest and gentle movement.",
+    "redFlags": [
+      "Shoulder or left arm pain with chest pain, breathlessness, sweating or feeling sick",
+      "Shoulder-tip pain with severe tummy pain, or in early pregnancy",
+      "A shoulder that has changed shape or that you cannot move after an injury, with severe pain",
+      "Pins and needles or numbness in the arm that does not go away after an injury"
+    ],
+    "urgentFlags": [
+      "A hot, red, swollen shoulder with a high temperature",
+      "Sudden severe pain and being unable to lift the arm",
+      "Severe pain that does not improve with painkillers"
+    ],
+    "commonCauses": [
+      {
+        "title": "Rotator cuff or tendon problems",
+        "detail": "Pain when lifting the arm, often from overuse or a strain."
+      },
+      {
+        "title": "Frozen shoulder",
+        "detail": "Pain and stiffness that gradually make it hard to move the shoulder; more common in middle age."
+      },
+      {
+        "title": "Arthritis",
+        "detail": "Ongoing pain and stiffness, often in older people."
+      },
+      {
+        "title": "Referred pain",
+        "detail": "Pain can be felt in the shoulder from the neck, heart or tummy."
+      }
+    ],
+    "selfCare": [
+      "Rest the shoulder from activities that make the pain worse, but keep it moving gently",
+      "Take ibuprofen or paracetamol, following the pack instructions",
+      "Use a cold pack for a new injury or heat for ongoing stiffness",
+      "Try gentle shoulder exercises and stretches"
+    ],
+    "avoid": [
+      "Keeping the arm completely still for long periods",
+      "Lifting heavy objects or reaching overhead while it hurts",
+      "Sleeping on the painful side"
+    ],
+    "seeDoctorIf": [
+      "Pain has not improved after 2 weeks",
+      "It is very hard to move your arm or shoulder",
+      "Pain started after a fall or injury",
+      "You have pins and needles that do not go away"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {
+        "label": "NHS: Shoulder pain",
+        "url": "https://www.nhs.uk/conditions/shoulder-pain/"
+      },
+      {
+        "label": "NHS: Frozen shoulder",
+        "url": "https://www.nhs.uk/conditions/frozen-shoulder/"
+      }
+    ]
+  },
+  {
+    "id": "knee-pain",
+    "name": "Knee pain",
+    "aliases": [
+      "sore knee",
+      "swollen knee",
+      "knee hurts",
+      "knee clicking",
+      "twisted knee",
+      "knee gives way"
+    ],
+    "bodyArea": "Muscles, bones & joints",
+    "summary": "Knee pain is common and is often caused by a strain, sprain or wear and tear. Most knee pain improves within a few weeks with self-care.",
+    "redFlags": [
+      "Being unable to put any weight on your leg after an injury",
+      "A knee that has changed shape or is badly deformed after an injury",
+      "A knee that is hot, red and swollen with a high temperature and feeling very unwell"
+    ],
+    "urgentFlags": [
+      "A red, hot, swollen knee",
+      "A knee that is very swollen or locked so you cannot straighten it",
+      "Severe pain after a fall or sporting injury",
+      "Numbness, tingling, or a cold, pale foot below the painful knee"
+    ],
+    "commonCauses": [
+      {
+        "title": "Sprains and strains",
+        "detail": "Overstretching ligaments or muscles, often during sport."
+      },
+      {
+        "title": "Osteoarthritis",
+        "detail": "Pain and stiffness, especially in older adults, worse after activity."
+      },
+      {
+        "title": "Cartilage or ligament tear",
+        "detail": "Pain after a twisting injury, with swelling, locking or giving way."
+      },
+      {
+        "title": "Tendon problems",
+        "detail": "Pain around the kneecap from overuse, for example in runners."
+      },
+      {
+        "title": "Gout or infection",
+        "detail": "A hot, red, swollen joint needs prompt assessment."
+      }
+    ],
+    "selfCare": [
+      "Rest the knee and raise it when you can",
+      "Put a cold pack wrapped in a towel on it for up to 20 minutes every 2 to 3 hours",
+      "Take paracetamol or ibuprofen, following the pack instructions",
+      "Wear comfortable, supportive shoes",
+      "Return to gentle activity gradually as pain eases"
+    ],
+    "avoid": [
+      "Kneeling and activities that strain the knee until it improves",
+      "Heat or massage on a new injury for the first 2 to 3 days",
+      "Stopping all movement for a long time"
+    ],
+    "seeDoctorIf": [
+      "Pain has not improved after 2 weeks",
+      "The knee keeps clicking, locking or giving way",
+      "Swelling keeps coming back",
+      "Pain is stopping you doing your normal activities"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {
+        "label": "NHS: Knee pain",
+        "url": "https://www.nhs.uk/conditions/knee-pain/"
+      },
+      {
+        "label": "MedlinePlus: Knee injuries and disorders",
+        "url": "https://medlineplus.gov/kneeinjuriesanddisorders.html"
+      }
+    ]
+  },
+  {
+    "id": "hip-pain",
+    "name": "Hip pain",
+    "aliases": [
+      "sore hip",
+      "pain in hip joint",
+      "hip hurts when walking",
+      "groin and hip pain",
+      "hip ache at night"
+    ],
+    "bodyArea": "Muscles, bones & joints",
+    "summary": "Hip pain is often caused by strained muscles, tendon problems or arthritis, and usually improves with rest and gentle exercise. A fall in an older person with hip pain needs urgent assessment.",
+    "redFlags": [
+      "Being unable to stand or put weight on the leg after a fall",
+      "The leg is shorter or turned outwards after a fall",
+      "Hip pain with a high temperature and feeling very unwell"
+    ],
+    "urgentFlags": [
+      "A hot, swollen hip or groin with a high temperature",
+      "Severe pain that started suddenly",
+      "A child with hip pain or a limp and a high temperature"
+    ],
+    "commonCauses": [
+      {
+        "title": "Muscle strain or tendon problems",
+        "detail": "Pain on the outer hip, often worse lying on that side."
+      },
+      {
+        "title": "Osteoarthritis",
+        "detail": "Pain in the groin or hip with stiffness, more common in older people."
+      },
+      {
+        "title": "Referred pain from the back",
+        "detail": "Back problems can cause pain felt in the hip or buttock."
+      },
+      {
+        "title": "Hip fracture",
+        "detail": "In older people, after a fall, especially with thin bones (osteoporosis)."
+      }
+    ],
+    "selfCare": [
+      "Rest and avoid activities that make it worse, but keep gently active",
+      "Take paracetamol or ibuprofen, following the pack instructions",
+      "Lose weight if you are overweight, to reduce load on the hip",
+      "Wear flat, comfortable shoes",
+      "Put a pillow between your knees when lying on your side"
+    ],
+    "avoid": [
+      "Standing for long periods",
+      "Sleeping on the painful side",
+      "High-impact exercise until it improves"
+    ],
+    "seeDoctorIf": [
+      "Pain has not improved after 2 weeks",
+      "Pain is stopping you doing normal activities",
+      "Pain is getting worse or keeps coming back",
+      "Pain is worse at night or affecting your sleep"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {
+        "label": "NHS: Hip pain in adults",
+        "url": "https://www.nhs.uk/conditions/hip-pain/"
+      }
+    ]
+  },
+  {
+    "id": "joint-pain",
+    "name": "Pain and stiffness in several joints",
+    "aliases": [
+      "joint pain",
+      "aching joints",
+      "stiff joints in the morning",
+      "arthritis pain",
+      "sore joints all over",
+      "swollen joints"
+    ],
+    "bodyArea": "Muscles, bones & joints",
+    "summary": "Aching joints are common, especially with age or after a viral illness. Joints that are swollen, warm or stiff for more than 30 minutes in the morning should be checked.",
+    "redFlags": [
+      "A single joint that is suddenly hot, red, very swollen and painful, with a high temperature and feeling very unwell"
+    ],
+    "urgentFlags": [
+      "A hot, red, swollen joint, especially if you cannot move it",
+      "Joint pain with a high temperature or a rash",
+      "Joint pain after a recent sexually transmitted infection, tummy upset or tick bite"
+    ],
+    "commonCauses": [
+      {
+        "title": "Osteoarthritis",
+        "detail": "Pain and stiffness, usually in the knees, hips and hands, worse after activity."
+      },
+      {
+        "title": "Viral infection",
+        "detail": "Aching joints during or after flu and other viruses, usually settling within a few weeks."
+      },
+      {
+        "title": "Rheumatoid or other inflammatory arthritis",
+        "detail": "Swollen, warm joints with stiffness lasting more than 30 minutes in the morning."
+      },
+      {
+        "title": "Gout",
+        "detail": "Sudden, very painful, red, swollen joint, often the big toe."
+      },
+      {
+        "title": "Overuse",
+        "detail": "Repetitive movements at work or in sport."
+      }
+    ],
+    "selfCare": [
+      "Keep active with gentle, low-impact exercise such as walking, swimming or cycling",
+      "Take paracetamol or ibuprofen, or use an anti-inflammatory gel, following the pack instructions",
+      "Use heat for stiffness or cold packs for swelling",
+      "Lose weight if you are overweight"
+    ],
+    "avoid": [
+      "Long periods of inactivity",
+      "Supplements such as glucosamine or magnetic bracelets, which have little evidence of benefit"
+    ],
+    "seeDoctorIf": [
+      "Joint pain has lasted more than 2 weeks",
+      "Your joints are swollen or stiff for more than 30 minutes after waking",
+      "Pain is affecting your daily life or sleep",
+      "You also feel tired or generally unwell"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {
+        "label": "NHS: Joint pain",
+        "url": "https://www.nhs.uk/conditions/joint-pain/"
+      },
+      {
+        "label": "NHS: Rheumatoid arthritis",
+        "url": "https://www.nhs.uk/conditions/rheumatoid-arthritis/"
+      }
+    ]
+  },
+  {
+    "id": "hot-swollen-joint",
+    "name": "Sudden hot, swollen joint",
+    "aliases": [
+      "gout",
+      "swollen big toe",
+      "red hot joint",
+      "sudden joint swelling",
+      "throbbing toe joint"
+    ],
+    "bodyArea": "Muscles, bones & joints",
+    "summary": "A single joint that suddenly becomes hot, red, swollen and very painful is often gout, but a joint infection must be ruled out quickly.",
+    "redFlags": [
+      "A hot, swollen joint with a high temperature, shivering and feeling very unwell or confused",
+      "A hot, swollen joint after recent joint surgery, an injection or with an artificial joint, and feeling unwell"
+    ],
+    "urgentFlags": [
+      "A joint that is suddenly hot, red, swollen and very painful",
+      "Being unable to move the joint",
+      "A first episode of suspected gout"
+    ],
+    "commonCauses": [
+      {
+        "title": "Gout",
+        "detail": "Uric acid crystals cause sudden, severe pain, often in the big toe, foot, ankle or knee."
+      },
+      {
+        "title": "Septic arthritis",
+        "detail": "A joint infection, which is a medical emergency."
+      },
+      {
+        "title": "Pseudogout",
+        "detail": "Crystals of a different type, often in the knee of older people."
+      },
+      {
+        "title": "Injury",
+        "detail": "Bleeding into the joint after a knock or twist."
+      }
+    ],
+    "selfCare": [
+      "Get medical advice the same day, especially for a first episode",
+      "Rest and raise the joint",
+      "Keep it cool with a cold pack wrapped in a towel",
+      "Drink plenty of water"
+    ],
+    "avoid": [
+      "Alcohol, especially beer, and large amounts of red meat, offal or seafood if you have gout",
+      "Putting weight or pressure on the joint",
+      "Aspirin for gout pain"
+    ],
+    "seeDoctorIf": [
+      "You have had gout attacks before and they are becoming more frequent",
+      "Swelling has not gone down after treatment",
+      "You have lumps on your joints or ears"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {
+        "label": "NHS: Gout",
+        "url": "https://www.nhs.uk/conditions/gout/"
+      },
+      {
+        "label": "MedlinePlus: Gout",
+        "url": "https://medlineplus.gov/gout.html"
+      }
+    ]
+  },
+  {
+    "id": "muscle-cramps",
+    "name": "Muscle cramps",
+    "aliases": [
+      "leg cramps",
+      "calf cramp",
+      "charley horse",
+      "cramps at night",
+      "muscle spasm"
+    ],
+    "bodyArea": "Muscles, bones & joints",
+    "summary": "Muscle cramps are sudden, painful tightening of a muscle, often in the calf at night. They are usually harmless and last a few minutes.",
+    "redFlags": [
+      "Calf pain with swelling, warmth and redness and sudden breathlessness or chest pain",
+      "Severe muscle pain with very dark or brown pee and weakness"
+    ],
+    "urgentFlags": [
+      "Cramp-like calf pain with swelling, warmth or redness in one leg",
+      "Cramps with numbness, weakness or changes in sensation",
+      "Cramps after starting a new medicine, with muscle weakness or dark pee"
+    ],
+    "commonCauses": [
+      {
+        "title": "Unknown cause",
+        "detail": "Most night cramps have no clear cause and become more common with age."
+      },
+      {
+        "title": "Exercise and dehydration",
+        "detail": "Overworked muscles and losing fluid through sweating."
+      },
+      {
+        "title": "Pregnancy",
+        "detail": "Leg cramps are common in later pregnancy."
+      },
+      {
+        "title": "Medicines and medical conditions",
+        "detail": "Diuretics, statins, nerve or kidney problems can cause cramps."
+      }
+    ],
+    "selfCare": [
+      "Stretch and massage the muscle during a cramp, for example pulling your toes towards you for a calf cramp",
+      "Do regular calf stretches, especially before bed",
+      "Drink enough fluids during exercise and in hot weather",
+      "Paracetamol or ibuprofen can ease soreness afterwards, following the pack instructions"
+    ],
+    "avoid": [
+      "Quinine-containing tonic water as a treatment, which has little benefit",
+      "Unproven supplements sold for cramps"
+    ],
+    "seeDoctorIf": [
+      "Cramps happen often and disturb your sleep",
+      "Cramps last more than 10 minutes",
+      "You also have numbness, swelling or muscle weakness",
+      "You think a medicine is causing them"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {
+        "label": "NHS: Leg cramps",
+        "url": "https://www.nhs.uk/conditions/leg-cramps/"
+      },
+      {
+        "label": "MedlinePlus: Muscle cramps",
+        "url": "https://medlineplus.gov/musclecramps.html"
+      }
+    ]
+  },
+  {
+    "id": "muscle-aches",
+    "name": "Muscle aches",
+    "aliases": [
+      "aching muscles",
+      "sore muscles",
+      "body aches",
+      "muscle pain",
+      "myalgia",
+      "aching all over"
+    ],
+    "bodyArea": "Muscles, bones & joints",
+    "summary": "Aching muscles are usually caused by exercise, tension or a viral illness such as flu, and get better within a few days.",
+    "redFlags": [
+      "Muscle aches with a high temperature, confusion, fast breathing or cold, blotchy skin",
+      "Muscle aches with a rash that does not fade when pressed under a glass",
+      "Severe muscle pain with very dark or brown pee"
+    ],
+    "urgentFlags": [
+      "Muscle pain with weakness, especially after starting a new medicine",
+      "Muscle aches with a tick bite and a spreading rash",
+      "Muscle pain with a stiff neck or severe headache"
+    ],
+    "commonCauses": [
+      {
+        "title": "Exercise or overuse",
+        "detail": "Delayed soreness 1 to 2 days after unaccustomed activity."
+      },
+      {
+        "title": "Viral illness",
+        "detail": "Flu, COVID-19 and other viruses commonly cause body aches."
+      },
+      {
+        "title": "Stress and tension",
+        "detail": "Tight muscles, especially in the neck and shoulders."
+      },
+      {
+        "title": "Medicines",
+        "detail": "Some medicines, such as statins, can cause muscle pain."
+      },
+      {
+        "title": "Long-term conditions",
+        "detail": "Fibromyalgia, polymyalgia rheumatica, thyroid problems or low vitamin D."
+      }
+    ],
+    "selfCare": [
+      "Rest and drink plenty of fluids if you have a viral illness",
+      "Take paracetamol or ibuprofen, following the pack instructions",
+      "Use a warm bath or heat pack to ease aches",
+      "Gentle stretching and gradual return to exercise"
+    ],
+    "avoid": [
+      "Intense exercise while you have a fever",
+      "Stopping a prescribed medicine without talking to your doctor"
+    ],
+    "seeDoctorIf": [
+      "Muscle aches last more than 2 weeks",
+      "You have muscle weakness",
+      "You are over 50 with new pain and stiffness in the shoulders and hips",
+      "You think a medicine is causing the pain"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {
+        "label": "MedlinePlus: Muscle aches",
+        "url": "https://medlineplus.gov/ency/article/003178.htm"
+      },
+      {
+        "label": "NHS: Flu",
+        "url": "https://www.nhs.uk/conditions/flu/"
+      }
+    ]
+  },
+  {
+    "id": "swollen-ankles",
+    "name": "Swollen ankles, feet or legs",
+    "aliases": [
+      "swollen feet",
+      "swollen legs",
+      "puffy ankles",
+      "oedema",
+      "edema",
+      "fluid retention in legs"
+    ],
+    "bodyArea": "Muscles, bones & joints",
+    "summary": "Swelling in the ankles, feet and legs is often caused by fluid building up from standing or sitting for a long time, hot weather or pregnancy. It usually goes away on its own.",
+    "redFlags": [
+      "Swelling with sudden breathlessness, chest pain or coughing up blood",
+      "Swelling in one leg with chest pain or breathlessness",
+      "Swelling with a sudden severe headache, vision changes or pain under the ribs in pregnancy"
+    ],
+    "urgentFlags": [
+      "Swelling in one leg only, especially with pain, warmth or redness in the calf",
+      "Swelling that is getting worse quickly",
+      "Swelling with breathlessness when lying down or doing light activity",
+      "Swelling with red, hot, painful skin or a high temperature",
+      "Sudden swelling of the face, hands or feet in pregnancy"
+    ],
+    "commonCauses": [
+      {
+        "title": "Standing or sitting for long periods",
+        "detail": "Including long flights; fluid collects in the legs."
+      },
+      {
+        "title": "Hot weather or pregnancy",
+        "detail": "Mild swelling is very common in both."
+      },
+      {
+        "title": "Medicines",
+        "detail": "Some blood pressure medicines, steroids and anti-inflammatories cause swelling."
+      },
+      {
+        "title": "Injury",
+        "detail": "A sprain or strain causes swelling around the injured area."
+      },
+      {
+        "title": "Heart, kidney, liver or vein problems, or a blood clot",
+        "detail": "Less common causes that need assessment."
+      }
+    ],
+    "selfCare": [
+      "Raise your legs on a pillow when lying down",
+      "Walk regularly to improve blood flow",
+      "Wear wide, comfortable shoes",
+      "Avoid sitting or standing still for long periods"
+    ],
+    "avoid": [
+      "Wearing tight clothing or socks that leave marks",
+      "Sitting with your legs crossed for long periods",
+      "Diuretic ('water') tablets or herbal products without medical advice"
+    ],
+    "seeDoctorIf": [
+      "Swelling has not improved after 3 days of self-care",
+      "Swelling keeps coming back",
+      "You have heart, kidney or liver disease",
+      "Skin over the swelling is changing colour or becoming tight and shiny"
+    ],
+    "selfCareMaxDays": 3,
+    "sources": [
+      {
+        "url": "https://www.nhs.uk/conditions/oedema/",
+        "label": "NHS — Oedema (swelling)"
+      },
+      {
+        "label": "NHS: Deep vein thrombosis (DVT)",
+        "url": "https://www.nhs.uk/conditions/deep-vein-thrombosis-dvt/"
+      }
+    ]
+  },
+  {
+    "id": "calf-pain",
+    "name": "Calf pain or swelling in one leg",
+    "aliases": [
+      "pain in calf",
+      "swollen calf",
+      "leg pain one side",
+      "blood clot in leg worry",
+      "DVT",
+      "sore calf"
+    ],
+    "bodyArea": "Muscles, bones & joints",
+    "summary": "Calf pain is often a muscle strain or cramp, but pain with swelling and warmth in one leg can be a blood clot (DVT), which needs same-day assessment.",
+    "redFlags": [
+      "Calf pain or swelling with sudden breathlessness, chest pain or coughing up blood",
+      "A cold, pale, numb or very painful leg"
+    ],
+    "urgentFlags": [
+      "Throbbing or cramping pain with swelling in one leg, usually the calf or thigh",
+      "Warm, red or darkened skin over the painful area",
+      "Calf pain after recent surgery, a long journey, a period of immobility, or during pregnancy or after birth",
+      "Swollen veins that are hard or sore when touched"
+    ],
+    "commonCauses": [
+      {
+        "title": "Muscle strain or cramp",
+        "detail": "Pain after exercise or a sudden movement, without major swelling."
+      },
+      {
+        "title": "Deep vein thrombosis (DVT)",
+        "detail": "A blood clot in a deep vein; risk is higher after surgery, long journeys, in pregnancy, or with some contraceptive pills."
+      },
+      {
+        "title": "Baker's cyst",
+        "detail": "A fluid-filled swelling behind the knee that can burst and cause calf pain."
+      },
+      {
+        "title": "Poor circulation",
+        "detail": "Cramping pain when walking that eases with rest, more common in smokers."
+      }
+    ],
+    "selfCare": [
+      "If a clot is possible, get medical advice the same day before doing anything else",
+      "For a clear muscle strain, rest, apply a cold pack and raise the leg",
+      "Paracetamol can ease pain, following the pack instructions"
+    ],
+    "avoid": [
+      "Massaging a calf that might have a blood clot",
+      "Ignoring one-sided calf swelling"
+    ],
+    "seeDoctorIf": [
+      "Calf pain has not improved after 2 weeks",
+      "You get pain in your calves when walking that eases when you stop",
+      "Calf pain keeps coming back"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {
+        "label": "NHS: Deep vein thrombosis (DVT)",
+        "url": "https://www.nhs.uk/conditions/deep-vein-thrombosis-dvt/"
+      },
+      {
+        "label": "NHS: Sprains and strains",
+        "url": "https://www.nhs.uk/conditions/sprains-and-strains/"
+      }
+    ]
+  },
+  {
+    "id": "foot-pain",
+    "name": "Foot pain",
+    "aliases": [
+      "sore feet",
+      "pain in foot",
+      "ball of foot pain",
+      "toe pain",
+      "arch pain",
+      "bunion pain"
+    ],
+    "bodyArea": "Muscles, bones & joints",
+    "summary": "Foot pain is often caused by ill-fitting shoes, overuse or minor injuries, and usually improves within 2 weeks with rest and better footwear.",
+    "redFlags": [
+      "A foot that is cold, pale or blue with severe pain",
+      "Severe pain after an injury with a foot that has changed shape, or being unable to walk",
+      "A red, hot, swollen foot with a high temperature and feeling very unwell"
+    ],
+    "urgentFlags": [
+      "Being unable to put weight on your foot after an injury",
+      "A red, hot, swollen foot or toe",
+      "Foot pain with tingling or numbness that is spreading",
+      "Foot pain, a wound or skin change if you have diabetes"
+    ],
+    "commonCauses": [
+      {
+        "title": "Ill-fitting shoes and overuse",
+        "detail": "Tight or high-heeled shoes and lots of standing or running."
+      },
+      {
+        "title": "Plantar fasciitis",
+        "detail": "Pain under the heel or arch, worst with the first steps in the morning."
+      },
+      {
+        "title": "Bunions and toe problems",
+        "detail": "A bony lump at the base of the big toe, or curled toes."
+      },
+      {
+        "title": "Sprains, strains or stress fractures",
+        "detail": "Pain after injury or a big increase in activity."
+      },
+      {
+        "title": "Gout or arthritis",
+        "detail": "Sudden severe pain in the big toe joint, or ongoing joint pain."
+      }
+    ],
+    "selfCare": [
+      "Rest and raise your foot when you can",
+      "Use a cold pack wrapped in a towel for up to 20 minutes every 2 to 3 hours",
+      "Wear wide, comfortable shoes with a low heel and soft sole",
+      "Take paracetamol or ibuprofen, following the pack instructions",
+      "Use soft insoles or pads in your shoes"
+    ],
+    "avoid": [
+      "Walking or standing for long periods",
+      "High heels and tight, pointy shoes",
+      "Walking barefoot on hard surfaces"
+    ],
+    "seeDoctorIf": [
+      "Pain has not improved after 2 weeks",
+      "Pain is severe or stops you doing normal activities",
+      "You have a bunion or toe problem that is getting worse",
+      "You have diabetes and any foot problem"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {
+        "label": "NHS: Foot pain",
+        "url": "https://www.nhs.uk/conditions/foot-pain/"
+      },
+      {
+        "label": "NHS: Bunions",
+        "url": "https://www.nhs.uk/conditions/bunions/"
+      }
+    ]
+  },
+  {
+    "id": "heel-pain",
+    "name": "Heel pain",
+    "aliases": [
+      "sore heel",
+      "plantar fasciitis",
+      "pain in heel in the morning",
+      "achilles pain",
+      "heel spur"
+    ],
+    "bodyArea": "Muscles, bones & joints",
+    "summary": "Heel pain is common and is often caused by plantar fasciitis, an irritated band of tissue under the foot. It usually improves with rest, stretching and good footwear, but can take weeks to months.",
+    "redFlags": [
+      "A sudden snap or pop at the back of the ankle with being unable to push off or stand on tiptoe"
+    ],
+    "urgentFlags": [
+      "Heel pain with numbness or tingling in the foot",
+      "A red, hot, swollen heel with a high temperature",
+      "Severe heel pain after an injury or fall from a height"
+    ],
+    "commonCauses": [
+      {
+        "title": "Plantar fasciitis",
+        "detail": "Pain under the heel that is worst with the first steps in the morning or after resting."
+      },
+      {
+        "title": "Achilles tendinopathy",
+        "detail": "Pain and stiffness at the back of the heel, often in runners."
+      },
+      {
+        "title": "Achilles tendon rupture",
+        "detail": "A sudden pain and snap at the back of the ankle; needs urgent treatment."
+      },
+      {
+        "title": "Stress fracture",
+        "detail": "Pain that gets worse with activity after a big increase in exercise."
+      }
+    ],
+    "selfCare": [
+      "Rest and raise your foot, and use a cold pack wrapped in a towel",
+      "Wear shoes with cushioned heels and good arch support",
+      "Do gentle calf and foot stretches daily",
+      "Use heel pads or insoles",
+      "Take paracetamol or ibuprofen, following the pack instructions"
+    ],
+    "avoid": [
+      "Walking barefoot on hard surfaces",
+      "Standing for long periods",
+      "High heels or flat, unsupportive shoes such as flip-flops"
+    ],
+    "seeDoctorIf": [
+      "Pain has not improved after 2 weeks of self-care",
+      "Pain is severe or affects daily activities",
+      "You have diabetes"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {
+        "label": "NHS: Heel pain",
+        "url": "https://www.nhs.uk/conditions/heel-pain/"
+      },
+      {
+        "url": "https://www.nhs.uk/symptoms/foot-pain/heel-pain/",
+        "label": "NHS — Heel pain"
+      }
+    ]
+  },
+  {
+    "id": "sprained-ankle",
+    "name": "Sprained or twisted ankle",
+    "aliases": [
+      "twisted ankle",
+      "rolled ankle",
+      "ankle sprain",
+      "swollen ankle after fall",
+      "strain",
+      "pulled muscle"
+    ],
+    "bodyArea": "Muscles, bones & joints",
+    "summary": "Sprains and strains are injuries to ligaments and muscles, often in the ankle, wrist or knee. Most get better within a few weeks with rest and gradual return to activity.",
+    "redFlags": [
+      "A joint or bone that looks deformed or is sticking through the skin",
+      "A foot or hand below the injury that is cold, pale, blue or numb",
+      "A crack or snap heard at the time of injury with severe pain"
+    ],
+    "urgentFlags": [
+      "Being unable to put weight on the leg or use the limb",
+      "Severe pain that is not eased by painkillers",
+      "Swelling and bruising that is getting much worse",
+      "Tenderness directly over a bone"
+    ],
+    "commonCauses": [
+      {
+        "title": "Ligament sprain",
+        "detail": "Overstretching or tearing of a ligament, most often by rolling the ankle."
+      },
+      {
+        "title": "Muscle strain",
+        "detail": "Overstretching or tearing of muscle fibres during sport or lifting."
+      },
+      {
+        "title": "Broken bone",
+        "detail": "Can look similar to a sprain; severe pain, being unable to bear weight or tenderness over the bone suggest a fracture."
+      }
+    ],
+    "selfCare": [
+      "Rest the injured area for the first 2 to 3 days",
+      "Apply a cold pack wrapped in a towel for up to 20 minutes every 2 to 3 hours",
+      "Raise the injured area on a pillow as often as you can",
+      "Take paracetamol or ibuprofen, following the pack instructions",
+      "Start gentle movement after 2 to 3 days and build up gradually"
+    ],
+    "avoid": [
+      "Heat, alcohol, running and massage for the first 3 days",
+      "Putting ice directly on the skin",
+      "Returning to sport too quickly"
+    ],
+    "seeDoctorIf": [
+      "The injury has not improved after a week of self-care",
+      "The joint keeps giving way",
+      "Pain or swelling is getting worse after the first few days"
+    ],
+    "selfCareMaxDays": 7,
+    "sources": [
+      {
+        "label": "NHS: Sprains and strains",
+        "url": "https://www.nhs.uk/conditions/sprains-and-strains/"
+      },
+      {
+        "label": "MedlinePlus: Sprains and strains",
+        "url": "https://medlineplus.gov/sprainsandstrains.html"
+      }
+    ]
+  },
+  {
+    "id": "hand-wrist-pain",
+    "name": "Hand or wrist pain",
+    "aliases": [
+      "sore wrist",
+      "wrist pain",
+      "painful hand",
+      "thumb pain",
+      "trigger finger",
+      "aching hands"
+    ],
+    "bodyArea": "Muscles, bones & joints",
+    "summary": "Hand and wrist pain is often caused by repetitive movements, strains or arthritis, and usually improves within a few weeks.",
+    "redFlags": [
+      "A hand or wrist that looks deformed after a fall or injury",
+      "A hand or fingers that are cold, pale, blue or numb after an injury",
+      "Sudden weakness or numbness of one hand with face drooping or slurred speech"
+    ],
+    "urgentFlags": [
+      "Severe pain or swelling after a fall onto an outstretched hand",
+      "A red, hot, swollen hand or finger, especially after a cut or bite",
+      "Being unable to move or straighten a finger after an injury"
+    ],
+    "commonCauses": [
+      {
+        "title": "Repetitive strain",
+        "detail": "Typing, using tools or phones, or sports."
+      },
+      {
+        "title": "Carpal tunnel syndrome",
+        "detail": "Tingling, numbness and pain in the thumb and fingers, often worse at night."
+      },
+      {
+        "title": "Osteoarthritis",
+        "detail": "Pain and stiffness at the base of the thumb or finger joints."
+      },
+      {
+        "title": "Tendon problems",
+        "detail": "Pain at the base of the thumb, or a finger that catches or locks."
+      },
+      {
+        "title": "Broken wrist",
+        "detail": "After a fall onto the hand; can look like a sprain."
+      }
+    ],
+    "selfCare": [
+      "Rest from activities that cause pain",
+      "Use a cold pack wrapped in a towel for swelling",
+      "Take paracetamol or ibuprofen, or use an anti-inflammatory gel, following the pack instructions",
+      "A wrist splint at night can help tingling from carpal tunnel syndrome",
+      "Gently move the joints to keep them from getting stiff"
+    ],
+    "avoid": [
+      "Repetitive gripping or typing without breaks",
+      "Heavy lifting with the painful hand"
+    ],
+    "seeDoctorIf": [
+      "Pain has not improved after 2 weeks",
+      "You have tingling or numbness that does not go away",
+      "Your hand is weak or you keep dropping things",
+      "A finger keeps locking or catching"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {
+        "label": "NHS: Hand pain",
+        "url": "https://www.nhs.uk/conditions/hand-pain/"
+      },
+      {
+        "label": "NHS: Carpal tunnel syndrome",
+        "url": "https://www.nhs.uk/conditions/carpal-tunnel-syndrome/"
+      }
+    ]
+  },
+  {
+    "id": "elbow-pain",
+    "name": "Elbow and arm pain",
+    "aliases": [
+      "tennis elbow",
+      "golfer's elbow",
+      "sore elbow",
+      "arm pain",
+      "forearm pain"
+    ],
+    "bodyArea": "Muscles, bones & joints",
+    "summary": "Elbow and arm pain is usually caused by overuse, such as tennis elbow, and gets better with rest and time.",
+    "redFlags": [
+      "Arm pain with chest pain, breathlessness, sweating or feeling sick",
+      "An arm or elbow that looks deformed after an injury",
+      "Sudden weakness or numbness of the arm with face drooping or slurred speech"
+    ],
+    "urgentFlags": [
+      "Being unable to move the elbow or arm after an injury",
+      "A red, hot, swollen elbow, especially with a high temperature",
+      "Pain with tingling or numbness that is not going away"
+    ],
+    "commonCauses": [
+      {
+        "title": "Tennis or golfer's elbow",
+        "detail": "Pain on the outside or inside of the elbow from overuse of forearm muscles."
+      },
+      {
+        "title": "Bursitis",
+        "detail": "A soft swelling at the back of the elbow."
+      },
+      {
+        "title": "Trapped nerve",
+        "detail": "Tingling in the arm or fingers from a nerve in the neck or elbow."
+      },
+      {
+        "title": "Injury",
+        "detail": "Sprains, dislocations or broken bones after a fall."
+      }
+    ],
+    "selfCare": [
+      "Rest the arm and avoid the activity that causes pain",
+      "Use a cold pack wrapped in a towel",
+      "Take paracetamol or ibuprofen, or use an anti-inflammatory gel, following the pack instructions",
+      "Gently stretch and strengthen the forearm as pain eases"
+    ],
+    "avoid": [
+      "Repetitive gripping or lifting with the painful arm",
+      "Keeping the arm completely still for a long time"
+    ],
+    "seeDoctorIf": [
+      "Pain has not improved after 2 weeks",
+      "You have tingling, numbness or weakness in your hand",
+      "Pain is affecting work or sleep"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {
+        "label": "NHS: Elbow and arm pain",
+        "url": "https://www.nhs.uk/conditions/elbow-and-arm-pain/"
+      },
+      {
+        "label": "NHS: Tennis elbow",
+        "url": "https://www.nhs.uk/conditions/tennis-elbow/"
+      }
+    ]
+  },
+  {
+    "id": "suspected-broken-bone",
+    "name": "Possible broken bone",
+    "aliases": [
+      "broken bone",
+      "fracture",
+      "broken arm",
+      "broken wrist",
+      "broken leg",
+      "cracked bone",
+      "broken toe"
+    ],
+    "bodyArea": "Muscles, bones & joints",
+    "summary": "A broken bone usually causes pain, swelling and difficulty using the injured part. Most need an X-ray; a broken toe or finger may be managed more simply.",
+    "redFlags": [
+      "A bone sticking out through the skin, or a limb at an odd angle",
+      "Heavy bleeding from the injury",
+      "A limb below the injury that is cold, pale, blue or numb",
+      "A suspected broken hip, leg, pelvis, neck or back",
+      "An injury to the head, neck or back with numbness, tingling or weakness"
+    ],
+    "urgentFlags": [
+      "Pain, swelling and bruising after a fall, with difficulty using the limb",
+      "Tenderness directly over a bone",
+      "A snap or grinding noise at the time of the injury",
+      "A suspected broken wrist, arm or ankle"
+    ],
+    "commonCauses": [
+      {
+        "title": "Falls and sports injuries",
+        "detail": "The most common causes, especially falling onto an outstretched hand."
+      },
+      {
+        "title": "Osteoporosis",
+        "detail": "Thin bones break more easily, often after a minor fall in older people."
+      },
+      {
+        "title": "Overuse",
+        "detail": "Stress fractures from repeated impact, such as running."
+      }
+    ],
+    "selfCare": [
+      "Keep the injured part still and supported while getting help",
+      "Apply a cold pack wrapped in a towel to reduce swelling",
+      "Take paracetamol for pain, following the pack instructions",
+      "Do not eat or drink if you have a serious injury, in case you need an operation",
+      "For a suspected broken toe, rest, raise the foot and wear stiff, wide shoes"
+    ],
+    "avoid": [
+      "Trying to straighten or push a bone back into place",
+      "Moving someone with a suspected neck or back injury unless they are in danger",
+      "Walking on a leg that might be broken"
+    ],
+    "seeDoctorIf": [
+      "A suspected broken toe is not getting better after 6 weeks",
+      "Pain or swelling after a minor injury is not improving after a few days",
+      "You have had a broken bone after a minor fall and are over 50"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {
+        "label": "NHS: Broken arm or wrist",
+        "url": "https://www.nhs.uk/conditions/broken-arm-or-wrist/"
+      },
+      {
+        "label": "NHS: Broken leg",
+        "url": "https://www.nhs.uk/conditions/broken-leg/"
+      },
+      {
+        "label": "MedlinePlus: Fractures",
+        "url": "https://medlineplus.gov/fractures.html"
+      }
+    ]
+  }
+]

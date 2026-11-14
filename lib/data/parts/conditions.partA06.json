@@ -1,0 +1,965 @@
+[
+  {
+    "id": "atopic-eczema",
+    "name": "Eczema (atopic eczema)",
+    "aliases": [
+      "eczema",
+      "atopic dermatitis",
+      "dermatitis"
+    ],
+    "category": "Skin",
+    "overview": "Atopic eczema is a common long-term condition that makes the skin itchy, dry and cracked. It often starts in childhood and may improve with age. There is no cure, but treatments and good skin care can control it.",
+    "symptoms": [
+      "Itchy, dry, cracked or sore skin",
+      "Patches that may look red on lighter skin or darker brown, purple or grey on darker skin",
+      "Commonly on the hands, inside the elbows, behind the knees, and on the face and scalp in children",
+      "Flare-ups when symptoms get worse"
+    ],
+    "causes": [
+      "A mix of genes and a skin barrier that loses moisture easily",
+      "Flare-ups triggered by soaps, detergents, stress, weather changes, infections or allergens"
+    ],
+    "riskFactors": [
+      "Family history of eczema, asthma or hay fever",
+      "Having asthma or allergies",
+      "Dry climates and cold weather"
+    ],
+    "diagnosis": "A GP diagnoses eczema by looking at the skin and asking about symptoms and family history.",
+    "treatment": [
+      "Emollients (moisturisers) used every day",
+      "Topical steroid creams for flare-ups",
+      "Other creams or tablets prescribed by a doctor or dermatologist for severe eczema",
+      "Antibiotics if the skin becomes infected"
+    ],
+    "selfCare": [
+      "Use emollients often, including instead of soap",
+      "Avoid triggers such as perfumed products",
+      "Keep nails short and avoid scratching",
+      "Wear soft cotton clothing"
+    ],
+    "prevention": [
+      "Regular emollient use to reduce flare-ups",
+      "Avoid known irritants"
+    ],
+    "whenToSeeDoctor": [
+      "You think you or your child has eczema",
+      "Eczema is not improving with treatment",
+      "Skin looks infected: weeping, crusting or painful"
+    ],
+    "emergencySigns": [
+      "Painful eczema that is getting worse quickly, with fluid-filled blisters and feeling unwell or feverish (possible eczema herpeticum)"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Atopic eczema",
+        "url": "https://www.nhs.uk/conditions/atopic-eczema/"
+      },
+      {
+        "label": "MedlinePlus: Eczema",
+        "url": "https://medlineplus.gov/eczema.html"
+      }
+    ]
+  },
+  {
+    "id": "psoriasis",
+    "name": "Psoriasis",
+    "aliases": [
+      "plaque psoriasis",
+      "scalp psoriasis"
+    ],
+    "category": "Skin",
+    "overview": "Psoriasis is a long-term skin condition that causes flaky patches of skin covered in scales. It is linked to the immune system and tends to come and go in flare-ups. It is not contagious, and many treatments are available.",
+    "symptoms": [
+      "Raised, flaky patches of skin with silvery-white scales",
+      "Patches may look pink or red on lighter skin and purple or dark brown on darker skin",
+      "Commonly on elbows, knees, scalp and lower back",
+      "Itching or soreness",
+      "Pitted or discoloured nails",
+      "Joint pain and swelling in some people (psoriatic arthritis)"
+    ],
+    "causes": [
+      "An immune system problem that speeds up skin cell production",
+      "Genes play a part",
+      "Flare-ups triggered by stress, injury to the skin, infections, alcohol, smoking or some medicines"
+    ],
+    "riskFactors": [
+      "Family history",
+      "Smoking",
+      "Heavy alcohol use",
+      "Overweight",
+      "Stress"
+    ],
+    "diagnosis": "A GP usually diagnoses psoriasis by looking at the skin, scalp and nails.",
+    "treatment": [
+      "Creams and ointments, including emollients, steroid creams and vitamin D-based creams",
+      "Light therapy (phototherapy)",
+      "Tablets or injections that act on the immune system for more severe psoriasis"
+    ],
+    "selfCare": [
+      "Use emollients daily",
+      "Stop smoking and limit alcohol",
+      "Keep to a healthy weight",
+      "Manage stress"
+    ],
+    "prevention": [
+      "Avoid known triggers",
+      "Do not smoke"
+    ],
+    "whenToSeeDoctor": [
+      "You think you have psoriasis",
+      "Treatment is not working",
+      "Painful, swollen or stiff joints"
+    ],
+    "emergencySigns": [
+      "Widespread red, inflamed skin over most of the body with feeling very unwell or a high temperature",
+      "Widespread pus-filled spots with fever"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Psoriasis",
+        "url": "https://www.nhs.uk/conditions/psoriasis/"
+      },
+      {
+        "label": "MedlinePlus: Psoriasis",
+        "url": "https://medlineplus.gov/psoriasis.html"
+      }
+    ]
+  },
+  {
+    "id": "acne",
+    "name": "Acne",
+    "aliases": [
+      "spots",
+      "pimples",
+      "acne vulgaris",
+      "zits"
+    ],
+    "category": "Skin",
+    "overview": "Acne is a common skin condition that causes spots, oily skin and sometimes skin that is hot or painful to touch. It most often affects teenagers but can continue into adulthood. Effective treatments are available.",
+    "symptoms": [
+      "Blackheads and whiteheads",
+      "Red or darker spots (papules) and pus-filled spots",
+      "Large, painful lumps under the skin (nodules or cysts)",
+      "Mostly on the face, back and chest",
+      "Oily skin and possible scarring"
+    ],
+    "causes": [
+      "Hair follicles becoming blocked by oil and dead skin cells",
+      "Hormonal changes, especially during puberty",
+      "Bacteria in blocked follicles causing inflammation"
+    ],
+    "riskFactors": [
+      "Teenage years",
+      "Family history",
+      "Hormonal changes such as periods, pregnancy or PCOS",
+      "Some medicines",
+      "Heavy, oily skincare products"
+    ],
+    "diagnosis": "A GP or pharmacist diagnoses acne by looking at the skin.",
+    "treatment": [
+      "Pharmacy creams and gels for mild acne",
+      "Prescription creams, antibiotic tablets or hormonal contraceptives",
+      "Specialist treatment for severe acne, prescribed by a dermatologist"
+    ],
+    "selfCare": [
+      "Wash the affected area gently twice a day",
+      "Do not squeeze or pick spots",
+      "Use non-oily (non-comedogenic) products",
+      "Be patient: treatments can take weeks to work"
+    ],
+    "prevention": [
+      "Gentle skin care",
+      "Avoid oily cosmetics",
+      "Start treatment early to reduce scarring"
+    ],
+    "whenToSeeDoctor": [
+      "Pharmacy treatments have not worked",
+      "Acne is moderate or severe, painful, or causing scarring",
+      "Acne is affecting your mood or confidence"
+    ],
+    "emergencySigns": [],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Acne",
+        "url": "https://www.nhs.uk/conditions/acne/"
+      },
+      {
+        "label": "MedlinePlus: Acne",
+        "url": "https://medlineplus.gov/acne.html"
+      }
+    ]
+  },
+  {
+    "id": "rosacea",
+    "name": "Rosacea",
+    "aliases": [
+      "acne rosacea",
+      "facial redness"
+    ],
+    "category": "Skin",
+    "overview": "Rosacea is a common long-term skin condition that mainly affects the face, causing redness, flushing and sometimes spots. Symptoms often come and go. Treatment and avoiding triggers can help control it.",
+    "symptoms": [
+      "Redness across the cheeks, nose, chin and forehead (may be harder to see on darker skin)",
+      "Flushing that comes and goes",
+      "Visible small blood vessels",
+      "Spots and bumps",
+      "Burning or stinging skin",
+      "Dry, irritated or gritty eyes"
+    ],
+    "causes": [
+      "The exact cause is unknown",
+      "Triggers include sunlight, hot or cold weather, alcohol, spicy food, hot drinks, stress and exercise"
+    ],
+    "riskFactors": [
+      "Fair skin",
+      "Age 30 to 60",
+      "Family history"
+    ],
+    "diagnosis": "A GP diagnoses rosacea by looking at the skin and asking about symptoms and triggers.",
+    "treatment": [
+      "Creams and gels prescribed by a doctor",
+      "Antibiotic tablets for spots",
+      "Laser or light treatment for visible blood vessels"
+    ],
+    "selfCare": [
+      "Use sunscreen every day",
+      "Identify and avoid triggers",
+      "Use gentle skincare products",
+      "Keep a diary of flare-ups"
+    ],
+    "prevention": [
+      "Avoid triggers",
+      "Sun protection"
+    ],
+    "whenToSeeDoctor": [
+      "Persistent facial redness or flushing",
+      "Spots or skin thickening on the nose",
+      "Eye symptoms such as dryness or irritation"
+    ],
+    "emergencySigns": [
+      "Painful red eye with changes in vision"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Rosacea",
+        "url": "https://www.nhs.uk/conditions/rosacea/"
+      },
+      {
+        "label": "MedlinePlus: Rosacea",
+        "url": "https://medlineplus.gov/rosacea.html"
+      }
+    ]
+  },
+  {
+    "id": "athletes-foot",
+    "name": "Athlete's foot",
+    "aliases": [
+      "tinea pedis",
+      "foot fungus",
+      "fungal skin infection"
+    ],
+    "category": "Skin",
+    "overview": "Athlete's foot is a common fungal infection that affects the feet, especially between the toes. It is usually not serious and can be treated with pharmacy antifungal creams, sprays or powders.",
+    "symptoms": [
+      "Itchy white patches between the toes",
+      "Red, sore and flaky patches on the feet (may be less visible on darker skin)",
+      "Cracked, bleeding skin",
+      "Fluid-filled blisters in some cases"
+    ],
+    "causes": [
+      "Fungal infection that thrives in warm, damp places",
+      "Spread by walking barefoot in places like changing rooms or sharing towels"
+    ],
+    "riskFactors": [
+      "Sweaty feet or tight shoes",
+      "Using communal showers and pools",
+      "Diabetes or a weakened immune system"
+    ],
+    "diagnosis": "A pharmacist or GP diagnoses athlete's foot by looking at the skin; a skin sample is rarely needed.",
+    "treatment": [
+      "Antifungal creams, sprays or powders from a pharmacy",
+      "Prescription treatment if pharmacy products do not work"
+    ],
+    "selfCare": [
+      "Dry feet carefully, especially between the toes",
+      "Use a separate towel for your feet",
+      "Wear clean cotton socks and change them daily",
+      "Keep using treatment for the recommended time after symptoms clear"
+    ],
+    "prevention": [
+      "Wear flip-flops in communal showers and changing rooms",
+      "Do not share towels, socks or shoes",
+      "Keep feet clean and dry"
+    ],
+    "whenToSeeDoctor": [
+      "Pharmacy treatment has not worked after 2 weeks",
+      "You have diabetes or a weakened immune system",
+      "Foot is red, hot and swollen (possible cellulitis)"
+    ],
+    "emergencySigns": [],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: Athlete's foot",
+        "url": "https://www.nhs.uk/conditions/athletes-foot/"
+      },
+      {
+        "label": "MedlinePlus: Athlete's Foot",
+        "url": "https://medlineplus.gov/athletesfoot.html"
+      }
+    ]
+  },
+  {
+    "id": "fungal-nail-infection",
+    "name": "Fungal nail infection",
+    "aliases": [
+      "onychomycosis",
+      "nail fungus",
+      "tinea unguium"
+    ],
+    "category": "Skin",
+    "overview": "Fungal nail infections are common, especially in toenails. They are not usually serious but can take a long time to treat.",
+    "symptoms": [
+      "Discoloured nail, often white, black, yellow or green",
+      "Thickened or misshapen nail",
+      "Brittle nail that crumbles",
+      "Nail lifting from the nail bed",
+      "Pain or discomfort in some cases"
+    ],
+    "causes": [
+      "Fungal infection, often spreading from athlete's foot",
+      "Fungi that thrive in warm, moist places"
+    ],
+    "riskFactors": [
+      "Athlete's foot",
+      "Older age",
+      "Diabetes or poor circulation",
+      "Damage to the nail",
+      "Walking barefoot in communal areas"
+    ],
+    "diagnosis": "A doctor may diagnose it by looking at the nail and sending a nail clipping for testing.",
+    "treatment": [
+      "Antifungal nail paint from a pharmacy for mild infections",
+      "Antifungal tablets prescribed by a doctor",
+      "Laser treatment or nail removal in some cases"
+    ],
+    "selfCare": [
+      "Keep nails short and feet clean and dry",
+      "Wear clean socks every day",
+      "Treat athlete's foot promptly"
+    ],
+    "prevention": [
+      "Wear flip-flops in communal areas",
+      "Do not share nail clippers or towels",
+      "Keep feet dry"
+    ],
+    "whenToSeeDoctor": [
+      "Treatment from a pharmacy has not worked",
+      "The infection is spreading or painful",
+      "You have diabetes or a weakened immune system"
+    ],
+    "emergencySigns": [],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: Fungal nail infection",
+        "url": "https://www.nhs.uk/conditions/fungal-nail-infection/"
+      },
+      {
+        "label": "MedlinePlus: Nail Diseases",
+        "url": "https://medlineplus.gov/naildiseases.html"
+      }
+    ]
+  },
+  {
+    "id": "scabies",
+    "name": "Scabies",
+    "aliases": [
+      "mites",
+      "itch mite"
+    ],
+    "category": "Skin",
+    "overview": "Scabies is a common skin condition caused by tiny mites that burrow into the skin. It causes intense itching, especially at night. It spreads easily through close skin contact and is treated with creams or lotions applied to the whole body.",
+    "symptoms": [
+      "Intense itching, especially at night",
+      "A raised rash or spots",
+      "Tiny lines (burrows) on the skin, often between the fingers",
+      "Rash commonly on the hands, wrists, armpits, waist and genitals"
+    ],
+    "causes": [
+      "Infestation with Sarcoptes scabiei mites",
+      "Spread by prolonged skin-to-skin contact or, less often, shared bedding and clothing"
+    ],
+    "riskFactors": [
+      "Living in crowded conditions",
+      "Care homes and nurseries",
+      "Close contact with an infected person"
+    ],
+    "diagnosis": "A pharmacist or GP diagnoses scabies by looking at the rash and burrows.",
+    "treatment": [
+      "Insecticide cream or lotion applied to the whole body, then repeated after a week",
+      "Everyone in the household should be treated at the same time",
+      "Tablets prescribed by a doctor in some cases"
+    ],
+    "selfCare": [
+      "Wash bedding, towels and clothes on a hot wash on the day of the first treatment",
+      "Seal items that cannot be washed in a bag for 3 days",
+      "Avoid close contact until 24 hours after the first treatment"
+    ],
+    "prevention": [
+      "Treat all close contacts at the same time",
+      "Avoid sharing bedding, towels or clothes with someone who has scabies"
+    ],
+    "whenToSeeDoctor": [
+      "Itching continues more than 4 weeks after treatment",
+      "The rash looks infected",
+      "You are pregnant or treating a baby under 2 months"
+    ],
+    "emergencySigns": [],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: Scabies",
+        "url": "https://www.nhs.uk/conditions/scabies/"
+      },
+      {
+        "label": "WHO: Scabies",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/scabies"
+      }
+    ]
+  },
+  {
+    "id": "impetigo",
+    "name": "Impetigo",
+    "aliases": [
+      "school sores",
+      "bacterial skin infection"
+    ],
+    "category": "Skin",
+    "overview": "Impetigo is a common and contagious skin infection that causes sores and blisters. It is most common in young children. It is not usually serious and often improves within a week of treatment.",
+    "symptoms": [
+      "Red sores or blisters that burst and leave crusty, golden-brown patches",
+      "Often around the nose and mouth, but can be anywhere",
+      "Itching",
+      "Sores that spread"
+    ],
+    "causes": [
+      "Bacteria such as Staphylococcus aureus or Streptococcus infecting the skin",
+      "Often through broken skin from cuts, insect bites or eczema"
+    ],
+    "riskFactors": [
+      "Young children",
+      "Eczema or other skin conditions",
+      "Warm, humid weather",
+      "Close contact settings such as nurseries and schools"
+    ],
+    "diagnosis": "A GP diagnoses impetigo by looking at the sores; a swab may be taken if it keeps coming back.",
+    "treatment": [
+      "Antiseptic or antibiotic cream prescribed by a doctor or recommended by a pharmacist",
+      "Antibiotic tablets if widespread or severe"
+    ],
+    "selfCare": [
+      "Wash sores gently with warm soapy water",
+      "Avoid touching or scratching sores",
+      "Do not share towels or flannels",
+      "Stay off school or work until sores have crusted and healed, or 48 hours after starting antibiotics"
+    ],
+    "prevention": [
+      "Keep cuts and bites clean",
+      "Wash hands regularly",
+      "Do not share towels"
+    ],
+    "whenToSeeDoctor": [
+      "You think you or your child has impetigo",
+      "Symptoms do not improve within 7 days of treatment",
+      "Impetigo keeps coming back"
+    ],
+    "emergencySigns": [
+      "Sores spreading rapidly with high temperature and feeling very unwell"
+    ],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: Impetigo",
+        "url": "https://www.nhs.uk/conditions/impetigo/"
+      },
+      {
+        "label": "MedlinePlus: Impetigo",
+        "url": "https://medlineplus.gov/impetigo.html"
+      }
+    ]
+  },
+  {
+    "id": "osteoarthritis",
+    "name": "Osteoarthritis",
+    "aliases": [
+      "OA",
+      "wear and tear arthritis",
+      "degenerative joint disease",
+      "arthritis"
+    ],
+    "category": "Bones, joints & muscles",
+    "overview": "Osteoarthritis is the most common type of arthritis, causing joints to become painful and stiff. It most often affects the knees, hips and small joints of the hands. Exercise, weight management and pain relief help most people stay active.",
+    "symptoms": [
+      "Joint pain and stiffness, often worse after rest or at the end of the day",
+      "Joint swelling",
+      "Reduced range of movement",
+      "A grating or crackling feeling in the joint",
+      "Weakness and loss of muscle around the joint"
+    ],
+    "causes": [
+      "Gradual damage to the cartilage lining the joint, with the body's repair process changing the joint",
+      "Previous joint injury or surgery",
+      "Other joint conditions such as gout or rheumatoid arthritis"
+    ],
+    "riskFactors": [
+      "Age over 45",
+      "Female sex",
+      "Overweight or obesity",
+      "Joint injury",
+      "Family history",
+      "Jobs involving repetitive stress on joints"
+    ],
+    "diagnosis": "A GP usually diagnoses osteoarthritis from symptoms and an examination; X-rays or blood tests are sometimes used to rule out other conditions.",
+    "treatment": [
+      "Exercise and physiotherapy to strengthen muscles",
+      "Weight loss if overweight",
+      "Painkillers and anti-inflammatory creams or tablets",
+      "Steroid injections, or joint replacement surgery for severe cases"
+    ],
+    "selfCare": [
+      "Stay active with low-impact exercise such as walking, swimming or cycling",
+      "Keep to a healthy weight",
+      "Use supportive footwear",
+      "Use heat or cold packs for pain"
+    ],
+    "prevention": [
+      "Keep to a healthy weight",
+      "Stay physically active",
+      "Avoid joint injuries"
+    ],
+    "whenToSeeDoctor": [
+      "Persistent joint pain or stiffness",
+      "Joint pain affecting daily activities",
+      "Pain not controlled by simple painkillers"
+    ],
+    "emergencySigns": [
+      "A hot, red, swollen joint with fever (possible joint infection)",
+      "Sudden inability to bear weight after a fall"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Osteoarthritis",
+        "url": "https://www.nhs.uk/conditions/osteoarthritis/"
+      },
+      {
+        "label": "MedlinePlus: Osteoarthritis",
+        "url": "https://medlineplus.gov/osteoarthritis.html"
+      }
+    ]
+  },
+  {
+    "id": "rheumatoid-arthritis",
+    "name": "Rheumatoid arthritis",
+    "aliases": [
+      "RA",
+      "inflammatory arthritis"
+    ],
+    "category": "Bones, joints & muscles",
+    "overview": "Rheumatoid arthritis is a long-term condition where the immune system attacks the joints, causing pain, swelling and stiffness. It usually affects the hands, feet and wrists on both sides of the body. Early treatment helps prevent joint damage.",
+    "symptoms": [
+      "Painful, swollen joints, often the same joints on both sides",
+      "Stiffness, especially in the morning, lasting more than 30 minutes",
+      "Tiredness and low energy",
+      "High temperature, sweating and weight loss in some people",
+      "Firm lumps under the skin near joints"
+    ],
+    "causes": [
+      "The immune system attacking the lining of the joints (an autoimmune condition)",
+      "A mix of genetic and environmental factors"
+    ],
+    "riskFactors": [
+      "Female sex",
+      "Family history",
+      "Smoking",
+      "Overweight",
+      "Middle age"
+    ],
+    "diagnosis": "RA is diagnosed by a GP and rheumatologist using an examination, blood tests for inflammation and antibodies, and X-rays or scans.",
+    "treatment": [
+      "Disease-modifying medicines to slow the disease",
+      "Biological and targeted medicines",
+      "Painkillers and short-term steroids for flare-ups",
+      "Physiotherapy, occupational therapy, and sometimes surgery"
+    ],
+    "selfCare": [
+      "Stay active with regular gentle exercise",
+      "Stop smoking",
+      "Balance activity with rest",
+      "Eat a healthy diet"
+    ],
+    "prevention": [
+      "Not smoking may reduce risk"
+    ],
+    "whenToSeeDoctor": [
+      "Joint pain, swelling or stiffness lasting more than a few weeks",
+      "Morning stiffness lasting more than 30 minutes",
+      "Flare-ups or side effects if you already have RA"
+    ],
+    "emergencySigns": [
+      "A single hot, swollen, painful joint with high temperature (possible joint infection)",
+      "Fever or signs of serious infection while on immune-suppressing medicine"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Rheumatoid arthritis",
+        "url": "https://www.nhs.uk/conditions/rheumatoid-arthritis/"
+      },
+      {
+        "label": "MedlinePlus: Rheumatoid Arthritis",
+        "url": "https://medlineplus.gov/rheumatoidarthritis.html"
+      }
+    ]
+  },
+  {
+    "id": "gout",
+    "name": "Gout",
+    "aliases": [
+      "gouty arthritis",
+      "uric acid crystals"
+    ],
+    "category": "Bones, joints & muscles",
+    "overview": "Gout is a type of arthritis where crystals form inside joints, causing sudden attacks of severe pain and swelling. It often affects the big toe. Attacks can be treated, and long-term medicines and lifestyle changes help prevent them.",
+    "symptoms": [
+      "Sudden severe pain in a joint, often the big toe",
+      "Hot, swollen, red skin over the joint (may be less visible on darker skin)",
+      "Extreme tenderness, even to light touch",
+      "Attacks often start at night"
+    ],
+    "causes": [
+      "Too much uric acid in the blood, which forms crystals in the joints",
+      "Triggers include alcohol, sugary drinks, some foods such as red meat and seafood, and some medicines"
+    ],
+    "riskFactors": [
+      "Male sex",
+      "Overweight",
+      "High blood pressure, diabetes or kidney disease",
+      "Drinking alcohol, especially beer and spirits",
+      "Some medicines such as diuretics",
+      "Family history"
+    ],
+    "diagnosis": "Gout is diagnosed from symptoms and a blood test for uric acid; sometimes fluid is taken from the joint to look for crystals.",
+    "treatment": [
+      "Anti-inflammatory medicines or steroids to treat attacks",
+      "Long-term medicines to lower uric acid, prescribed by a doctor",
+      "Lifestyle changes"
+    ],
+    "selfCare": [
+      "Rest and raise the joint during an attack",
+      "Use an ice pack wrapped in a towel",
+      "Drink plenty of water",
+      "Cut down on alcohol and sugary drinks"
+    ],
+    "prevention": [
+      "Keep to a healthy weight",
+      "Limit alcohol and sugary drinks",
+      "Take uric acid-lowering medicine as prescribed"
+    ],
+    "whenToSeeDoctor": [
+      "Sudden severe joint pain",
+      "Repeated attacks",
+      "Attacks not improving with treatment"
+    ],
+    "emergencySigns": [
+      "A hot, painful joint with high temperature and feeling unwell (possible joint infection)"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Gout",
+        "url": "https://www.nhs.uk/conditions/gout/"
+      },
+      {
+        "label": "MedlinePlus: Gout",
+        "url": "https://medlineplus.gov/gout.html"
+      }
+    ]
+  },
+  {
+    "id": "osteoporosis",
+    "name": "Osteoporosis",
+    "aliases": [
+      "brittle bones",
+      "low bone density",
+      "osteopenia"
+    ],
+    "category": "Bones, joints & muscles",
+    "overview": "Osteoporosis is a condition that weakens bones, making them fragile and more likely to break. It develops slowly over years and is often only found after a fall or minor injury causes a fracture. Treatment and lifestyle changes help strengthen bones.",
+    "symptoms": [
+      "Usually no symptoms until a bone breaks",
+      "Broken bones after a minor fall, often in the wrist, hip or spine",
+      "Loss of height or a stooped posture",
+      "Sudden back pain from a spinal fracture"
+    ],
+    "causes": [
+      "Natural bone loss with age",
+      "Hormonal changes, especially falling oestrogen after menopause",
+      "Some medicines such as long-term steroids",
+      "Medical conditions affecting hormones or nutrient absorption"
+    ],
+    "riskFactors": [
+      "Older age and menopause",
+      "Family history of osteoporosis or hip fracture",
+      "Long-term steroid use",
+      "Low body weight",
+      "Smoking and heavy drinking",
+      "Low physical activity"
+    ],
+    "diagnosis": "Osteoporosis is diagnosed with a bone density scan (DEXA), often alongside a fracture risk assessment.",
+    "treatment": [
+      "Medicines to strengthen bones, prescribed by a doctor",
+      "Calcium and vitamin D supplements if needed",
+      "Hormone therapy for some people",
+      "Falls prevention"
+    ],
+    "selfCare": [
+      "Regular weight-bearing and muscle-strengthening exercise",
+      "Eat a diet rich in calcium",
+      "Get enough vitamin D",
+      "Stop smoking and limit alcohol",
+      "Reduce fall risks at home"
+    ],
+    "prevention": [
+      "Regular exercise",
+      "Calcium-rich diet and enough vitamin D",
+      "Not smoking and limiting alcohol"
+    ],
+    "whenToSeeDoctor": [
+      "You have risk factors and are worried",
+      "A bone breaks after a minor fall",
+      "Loss of height or curving of the spine"
+    ],
+    "emergencySigns": [
+      "Unable to stand or bear weight after a fall, or severe pain in the hip or back",
+      "A visibly deformed limb after a fall"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Osteoporosis",
+        "url": "https://www.nhs.uk/conditions/osteoporosis/"
+      },
+      {
+        "label": "MedlinePlus: Osteoporosis",
+        "url": "https://medlineplus.gov/osteoporosis.html"
+      }
+    ]
+  },
+  {
+    "id": "back-pain",
+    "name": "Back pain",
+    "aliases": [
+      "lower back pain",
+      "lumbago",
+      "bad back"
+    ],
+    "category": "Bones, joints & muscles",
+    "overview": "Back pain, especially in the lower back, is very common. It usually gets better within a few weeks or months. Staying active is one of the most helpful things you can do.",
+    "symptoms": [
+      "Aching or stiffness anywhere along the spine",
+      "Sharp, localised pain",
+      "Pain that may spread to the buttocks or legs",
+      "Pain that is worse when bending, lifting or sitting for long periods"
+    ],
+    "causes": [
+      "Often no specific cause (non-specific back pain)",
+      "Strains or sprains from lifting or twisting",
+      "Poor posture or long periods of sitting",
+      "Conditions such as a slipped disc, sciatica or osteoarthritis"
+    ],
+    "riskFactors": [
+      "Lack of exercise",
+      "Overweight",
+      "Heavy lifting or physical work",
+      "Smoking",
+      "Stress and low mood"
+    ],
+    "diagnosis": "A GP or physiotherapist diagnoses back pain through questions and an examination; scans are usually not needed unless there are warning signs.",
+    "treatment": [
+      "Staying active and continuing normal activities",
+      "Painkillers such as anti-inflammatory medicines",
+      "Exercises and physiotherapy",
+      "Talking therapies for long-term pain"
+    ],
+    "selfCare": [
+      "Keep moving; avoid bed rest",
+      "Use heat packs",
+      "Do gentle back exercises and stretches",
+      "Return to normal activities gradually"
+    ],
+    "prevention": [
+      "Regular exercise such as walking, swimming or yoga",
+      "Lift safely with knees bent",
+      "Keep to a healthy weight",
+      "Take breaks from sitting"
+    ],
+    "whenToSeeDoctor": [
+      "Pain does not improve after a few weeks",
+      "Pain stops you doing daily activities",
+      "Pain is very bad or getting worse",
+      "You also have numbness, tingling or weakness"
+    ],
+    "emergencySigns": [
+      "Numbness around the genitals or bottom",
+      "Loss of bladder or bowel control, or unable to pee",
+      "Weakness or numbness in both legs",
+      "Back pain with high temperature, or after a serious fall or accident",
+      "Severe pain with chest pain"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Back pain",
+        "url": "https://www.nhs.uk/conditions/back-pain/"
+      },
+      {
+        "label": "MedlinePlus: Back Pain",
+        "url": "https://medlineplus.gov/backpain.html"
+      }
+    ]
+  },
+  {
+    "id": "sciatica",
+    "name": "Sciatica",
+    "aliases": [
+      "trapped nerve",
+      "leg nerve pain",
+      "radiculopathy"
+    ],
+    "category": "Bones, joints & muscles",
+    "overview": "Sciatica is pain caused by irritation or compression of the sciatic nerve, which runs from the lower back down the legs. It usually gets better within 4 to 6 weeks, but can last longer.",
+    "symptoms": [
+      "Pain, tingling or numbness in the bottom, back of the leg, foot and toes",
+      "Pain usually on one side",
+      "Pain that is worse when moving, sneezing or coughing",
+      "Weakness in the leg"
+    ],
+    "causes": [
+      "A slipped (herniated) disc pressing on the nerve",
+      "Narrowing of the spinal canal (spinal stenosis)",
+      "Injury to the spine"
+    ],
+    "riskFactors": [
+      "Age 30 to 50",
+      "Heavy lifting or physical work",
+      "Overweight",
+      "Long periods of sitting"
+    ],
+    "diagnosis": "A GP diagnoses sciatica from symptoms and an examination; scans are only needed in some cases.",
+    "treatment": [
+      "Staying active and doing exercises",
+      "Painkillers",
+      "Physiotherapy",
+      "Steroid injections or surgery in some cases"
+    ],
+    "selfCare": [
+      "Keep moving and continue normal activities as much as possible",
+      "Use heat packs",
+      "Do gentle stretches"
+    ],
+    "prevention": [
+      "Regular exercise",
+      "Lift safely",
+      "Good posture"
+    ],
+    "whenToSeeDoctor": [
+      "Pain has not improved after a few weeks",
+      "Pain is getting worse or stopping daily activities",
+      "Pain in both legs"
+    ],
+    "emergencySigns": [
+      "Numbness around the genitals or bottom",
+      "Loss of bladder or bowel control or unable to pee",
+      "Weakness or numbness in both legs that is getting worse"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Sciatica",
+        "url": "https://www.nhs.uk/conditions/sciatica/"
+      },
+      {
+        "label": "MedlinePlus: Sciatica",
+        "url": "https://medlineplus.gov/sciatica.html"
+      }
+    ]
+  },
+  {
+    "id": "carpal-tunnel-syndrome",
+    "name": "Carpal tunnel syndrome",
+    "aliases": [
+      "CTS",
+      "wrist nerve compression"
+    ],
+    "category": "Bones, joints & muscles",
+    "overview": "Carpal tunnel syndrome is pressure on a nerve in the wrist that causes tingling, numbness and pain in the hand and fingers. It is common and often gets better with simple treatments.",
+    "symptoms": [
+      "Tingling or pins and needles in the thumb, index and middle fingers",
+      "Numbness or pain in the hand and fingers",
+      "Symptoms often worse at night",
+      "Weak thumb or difficulty gripping"
+    ],
+    "causes": [
+      "Pressure on the median nerve as it passes through a narrow channel in the wrist (the carpal tunnel)",
+      "Swelling in the wrist, for example from repetitive use, pregnancy, injury or arthritis"
+    ],
+    "riskFactors": [
+      "Repetitive hand and wrist movements",
+      "Pregnancy",
+      "Overweight",
+      "Diabetes, rheumatoid arthritis or an underactive thyroid",
+      "Family history"
+    ],
+    "diagnosis": "A GP diagnoses carpal tunnel syndrome from symptoms and an examination; nerve conduction tests may be used.",
+    "treatment": [
+      "Wrist splints, especially at night",
+      "Painkillers",
+      "Steroid injections",
+      "Surgery to release pressure on the nerve if symptoms persist"
+    ],
+    "selfCare": [
+      "Wear a wrist splint at night",
+      "Take breaks from repetitive tasks",
+      "Hand exercises"
+    ],
+    "prevention": [
+      "Take regular breaks from repetitive hand movements",
+      "Keep wrists straight when typing"
+    ],
+    "whenToSeeDoctor": [
+      "Symptoms not improving after a few weeks",
+      "Symptoms affecting sleep or daily activities",
+      "Constant numbness or weakness in the hand"
+    ],
+    "emergencySigns": [
+      "Sudden numbness or weakness in one arm or hand with face drooping or speech problems (possible stroke)"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Carpal tunnel syndrome",
+        "url": "https://www.nhs.uk/conditions/carpal-tunnel-syndrome/"
+      },
+      {
+        "label": "MedlinePlus: Carpal Tunnel Syndrome",
+        "url": "https://medlineplus.gov/carpaltunnelsyndrome.html"
+      }
+    ]
+  }
+]

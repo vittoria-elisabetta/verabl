@@ -1,0 +1,741 @@
+[
+  {
+    "id": "no-pregnancy-during-period",
+    "category": "Pregnancy & fertility",
+    "myth": "You can't get pregnant if you have sex during your period.",
+    "rating": "false",
+    "fact": "Pregnancy from sex during a period is less likely but possible. Sperm can survive inside the body for up to about seven days, and some people ovulate soon after their period ends.",
+    "explanation": "Cycles vary, and bleeding is not always a true period. If you want to avoid pregnancy, use contraception every time.",
+    "keywords": [
+      "period",
+      "pregnant",
+      "menstruation",
+      "sex on period",
+      "get pregnant",
+      "contraception",
+      "time of month"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Contraception",
+        "url": "https://www.nhs.uk/contraception/"
+      },
+      {
+        "label": "NHS — Pregnancy",
+        "url": "https://www.nhs.uk/pregnancy/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "no-pregnancy-first-time",
+    "category": "Pregnancy & fertility",
+    "myth": "You can't get pregnant the first time you have sex.",
+    "rating": "false",
+    "fact": "Pregnancy can happen any time sperm meets an egg, including the very first time someone has sex.",
+    "explanation": "Whether it is the first time makes no biological difference. Contraception and condoms protect against pregnancy and sexually transmitted infections from the start.",
+    "keywords": [
+      "first time",
+      "virgin",
+      "pregnant",
+      "first sex",
+      "get pregnant",
+      "contraception"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Contraception",
+        "url": "https://www.nhs.uk/contraception/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "breastfeeding-prevents-pregnancy",
+    "category": "Pregnancy & fertility",
+    "myth": "You can't get pregnant while breastfeeding.",
+    "rating": "misleading",
+    "fact": "Exclusive breastfeeding can prevent pregnancy only under strict conditions: the baby is under six months, fed only breast milk day and night, and periods have not returned. Otherwise pregnancy is possible.",
+    "explanation": "This method, called lactational amenorrhoea, becomes unreliable once feeds are spaced out or other foods are added. You can ovulate before your first period returns, so many people choose other contraception.",
+    "keywords": [
+      "breastfeeding",
+      "pregnant",
+      "contraception",
+      "nursing",
+      "after birth",
+      "lactational amenorrhea",
+      "postpartum"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Contraception",
+        "url": "https://www.nhs.uk/contraception/"
+      },
+      {
+        "label": "ACOG — Women's health",
+        "url": "https://www.acog.org/womens-health"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "withdrawal-method-reliable",
+    "category": "Pregnancy & fertility",
+    "myth": "The pull-out method is a reliable way to avoid pregnancy.",
+    "rating": "false",
+    "fact": "Withdrawal is one of the least reliable methods of contraception because pre-ejaculate can contain sperm and timing is difficult in practice.",
+    "explanation": "With typical use, many couples relying on withdrawal will have an unplanned pregnancy within a year. It also gives no protection against sexually transmitted infections.",
+    "keywords": [
+      "withdrawal",
+      "pull out",
+      "pulling out",
+      "contraception",
+      "pre-cum",
+      "birth control",
+      "reliable"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Contraception",
+        "url": "https://www.nhs.uk/contraception/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "bump-shape-predicts-sex",
+    "category": "Pregnancy & fertility",
+    "myth": "You can tell the baby's sex from the shape of the bump.",
+    "rating": "false",
+    "fact": "Bump shape depends on things like muscle tone, the baby's position and body build, not the baby's sex.",
+    "explanation": "Old wives' tales about carrying high or low, cravings or heart rate are right about half the time, as a guess would be. An ultrasound scan or certain blood tests can determine sex.",
+    "keywords": [
+      "bump",
+      "boy or girl",
+      "baby sex",
+      "gender",
+      "carrying high",
+      "carrying low",
+      "old wives tale"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Pregnancy",
+        "url": "https://www.nhs.uk/pregnancy/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "eating-for-two",
+    "category": "Pregnancy & fertility",
+    "myth": "When you're pregnant you need to eat for two.",
+    "rating": "false",
+    "fact": "Most people do not need extra calories in the first six months of pregnancy, and only a modest amount extra later on.",
+    "explanation": "Eating much more than needed can lead to excess weight gain, which raises the risk of complications such as gestational diabetes. The focus should be on a balanced diet and recommended supplements.",
+    "keywords": [
+      "eating for two",
+      "pregnancy diet",
+      "extra calories",
+      "pregnant",
+      "weight gain",
+      "appetite"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Pregnancy",
+        "url": "https://www.nhs.uk/pregnancy/"
+      },
+      {
+        "label": "ACOG — Women's health",
+        "url": "https://www.acog.org/womens-health"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "no-exercise-in-pregnancy",
+    "category": "Pregnancy & fertility",
+    "myth": "You should stop exercising when you're pregnant.",
+    "rating": "false",
+    "fact": "For most people with a healthy pregnancy, staying active is safe and beneficial. Guidelines suggest around 150 minutes of moderate activity a week.",
+    "explanation": "Exercise in pregnancy can help with mood, sleep and weight gain, and reduce the risk of some complications. Avoid contact sports and activities with a high risk of falling, and check with your midwife or doctor if you have a complication.",
+    "keywords": [
+      "exercise",
+      "pregnancy",
+      "pregnant",
+      "workout",
+      "gym",
+      "running",
+      "safe",
+      "active"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Pregnancy",
+        "url": "https://www.nhs.uk/pregnancy/"
+      },
+      {
+        "label": "ACOG — Women's health",
+        "url": "https://www.acog.org/womens-health"
+      },
+      {
+        "label": "WHO — Physical activity (fact sheet)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "exercise-sex-cause-miscarriage",
+    "category": "Pregnancy & fertility",
+    "myth": "Sex, exercise or lifting things in early pregnancy cause miscarriage.",
+    "rating": "false",
+    "fact": "Most miscarriages are caused by chromosome problems in the pregnancy and are not caused by anything the person did. Sex, normal exercise and working do not cause miscarriage.",
+    "explanation": "Many people blame themselves after a miscarriage, but it is usually not preventable. Smoking, alcohol and some medical conditions do raise the risk. Support is available for anyone affected by pregnancy loss.",
+    "keywords": [
+      "miscarriage",
+      "sex",
+      "exercise",
+      "lifting",
+      "stress",
+      "cause",
+      "early pregnancy",
+      "pregnancy loss"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Miscarriage",
+        "url": "https://www.nhs.uk/conditions/miscarriage/"
+      },
+      {
+        "label": "ACOG — Women's health",
+        "url": "https://www.acog.org/womens-health"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "no-caffeine-pregnancy",
+    "category": "Pregnancy & fertility",
+    "myth": "You must give up coffee completely when pregnant.",
+    "rating": "misleading",
+    "fact": "Health bodies advise limiting caffeine in pregnancy, usually to under 200 mg a day, rather than cutting it out entirely.",
+    "explanation": "High caffeine intake has been linked to low birth weight and miscarriage. Caffeine is also in tea, cola, energy drinks and chocolate, so it all adds up.",
+    "keywords": [
+      "coffee",
+      "caffeine",
+      "pregnant",
+      "pregnancy",
+      "tea",
+      "200mg",
+      "energy drinks"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Pregnancy",
+        "url": "https://www.nhs.uk/pregnancy/"
+      },
+      {
+        "label": "ACOG — Women's health",
+        "url": "https://www.acog.org/womens-health"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "folic-acid-before-pregnancy",
+    "category": "Pregnancy & fertility",
+    "myth": "Taking folic acid before and in early pregnancy helps prevent birth defects.",
+    "rating": "true",
+    "fact": "Folic acid taken before conception and in early pregnancy lowers the risk of neural tube defects such as spina bifida.",
+    "explanation": "The neural tube forms very early, often before people know they are pregnant, so it is recommended that anyone who could become pregnant takes folic acid daily. Some people need a higher dose on medical advice.",
+    "keywords": [
+      "folic acid",
+      "folate",
+      "spina bifida",
+      "birth defects",
+      "neural tube",
+      "trying to conceive",
+      "prenatal vitamins"
+    ],
+    "sources": [
+      {
+        "label": "CDC — Folic acid",
+        "url": "https://www.cdc.gov/folic-acid/"
+      },
+      {
+        "label": "NHS — Pregnancy",
+        "url": "https://www.nhs.uk/pregnancy/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "no-safe-alcohol-pregnancy",
+    "category": "Pregnancy & fertility",
+    "myth": "There is no known safe amount of alcohol in pregnancy.",
+    "rating": "true",
+    "fact": "Health authorities advise not drinking at all during pregnancy because no safe level of alcohol has been established.",
+    "explanation": "Alcohol passes to the baby and can cause fetal alcohol spectrum disorders. If you drank before you knew you were pregnant, the risk of harm is likely to be low; talk to your midwife or doctor if you are worried.",
+    "keywords": [
+      "alcohol",
+      "pregnancy",
+      "drinking",
+      "wine",
+      "glass of wine",
+      "fetal alcohol",
+      "safe amount"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Pregnancy",
+        "url": "https://www.nhs.uk/pregnancy/"
+      },
+      {
+        "label": "ACOG — Women's health",
+        "url": "https://www.acog.org/womens-health"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "pill-causes-infertility",
+    "category": "Pregnancy & fertility",
+    "myth": "Taking the contraceptive pill for years makes you infertile.",
+    "rating": "false",
+    "fact": "The contraceptive pill does not cause long-term infertility. Fertility usually returns quickly after stopping.",
+    "explanation": "Fertility does decline with age, so people who stop the pill later in life may take longer to conceive, but this is due to age rather than the pill. The contraceptive injection can delay the return of fertility for up to a year.",
+    "keywords": [
+      "the pill",
+      "contraceptive pill",
+      "infertile",
+      "infertility",
+      "birth control",
+      "fertility",
+      "long term"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Contraception",
+        "url": "https://www.nhs.uk/contraception/"
+      },
+      {
+        "label": "NHS — Infertility",
+        "url": "https://www.nhs.uk/conditions/infertility/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "fertility-cliff-at-35",
+    "category": "Pregnancy & fertility",
+    "myth": "Fertility falls off a cliff on your 35th birthday.",
+    "rating": "misleading",
+    "fact": "Female fertility declines gradually with age, faster after about 35, but there is no sudden drop on a particular birthday. Many people conceive naturally after 35.",
+    "explanation": "Age does increase the time to conceive and the risk of miscarriage and some complications. People over 35 are often advised to seek help sooner if they have not conceived after six months of trying.",
+    "keywords": [
+      "fertility",
+      "age 35",
+      "over 35",
+      "biological clock",
+      "conceive",
+      "older mother",
+      "trying for a baby"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Infertility",
+        "url": "https://www.nhs.uk/conditions/infertility/"
+      },
+      {
+        "label": "ACOG — Women's health",
+        "url": "https://www.acog.org/womens-health"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "infertility-womans-problem",
+    "category": "Pregnancy & fertility",
+    "myth": "Infertility is usually the woman's problem.",
+    "rating": "false",
+    "fact": "Infertility can be caused by factors in either partner. Problems with sperm are a contributing factor in a substantial share of couples who struggle to conceive.",
+    "explanation": "Both partners are usually assessed when a couple has difficulty conceiving. Smoking, heavy drinking and obesity can affect fertility in men and women.",
+    "keywords": [
+      "infertility",
+      "male infertility",
+      "sperm",
+      "cant conceive",
+      "trying for a baby",
+      "fertility test",
+      "woman fault"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Infertility",
+        "url": "https://www.nhs.uk/conditions/infertility/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "morning-sickness-only-morning",
+    "category": "Pregnancy & fertility",
+    "myth": "Morning sickness only happens in the morning.",
+    "rating": "false",
+    "fact": "Nausea and vomiting in pregnancy can happen at any time of day or night.",
+    "explanation": "It usually eases by around 16 to 20 weeks. Severe vomiting where you cannot keep fluids down may be hyperemesis gravidarum, which needs prompt medical care.",
+    "keywords": [
+      "morning sickness",
+      "nausea",
+      "vomiting",
+      "pregnancy sickness",
+      "hyperemesis",
+      "feeling sick"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Pregnancy",
+        "url": "https://www.nhs.uk/pregnancy/"
+      },
+      {
+        "label": "ACOG — Women's health",
+        "url": "https://www.acog.org/womens-health"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "creams-prevent-stretch-marks",
+    "category": "Pregnancy & fertility",
+    "myth": "Rubbing in cocoa butter or special creams prevents stretch marks in pregnancy.",
+    "rating": "false",
+    "fact": "There is no good evidence that creams or oils prevent stretch marks. Whether you get them depends mostly on genetics and how quickly the skin stretches.",
+    "explanation": "Moisturisers can relieve itchy, dry skin, which may feel helpful. Stretch marks usually fade to a paler colour over time.",
+    "keywords": [
+      "stretch marks",
+      "cocoa butter",
+      "bio oil",
+      "cream",
+      "pregnancy",
+      "prevent",
+      "striae"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Stretch marks",
+        "url": "https://www.nhs.uk/conditions/stretch-marks/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "teething-causes-high-fever",
+    "category": "Children's health",
+    "myth": "Teething causes a high fever in babies.",
+    "rating": "false",
+    "fact": "Teething may cause a slightly raised temperature, but it does not cause a high fever. A high temperature in a baby should be assessed for another cause.",
+    "explanation": "Teething can cause sore gums, drooling and fussiness. Babies under three months with a temperature of 38C or more, or any baby who seems very unwell, need urgent medical advice.",
+    "keywords": [
+      "teething",
+      "fever",
+      "high temperature",
+      "baby",
+      "teeth coming through",
+      "diarrhoea",
+      "infant"
+    ],
+    "sources": [
+      {
+        "label": "HealthyChildren.org (American Academy of Pediatrics)",
+        "url": "https://www.healthychildren.org/"
+      },
+      {
+        "label": "NHS — Fever in children",
+        "url": "https://www.nhs.uk/conditions/fever-in-children/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "sugar-makes-kids-hyper",
+    "category": "Children's health",
+    "myth": "Sugar makes children hyperactive.",
+    "rating": "false",
+    "fact": "Controlled studies have not found that sugar causes hyperactivity in children, including children with ADHD.",
+    "explanation": "Parents who expect sugar to cause hyperactivity tend to rate their children as more hyperactive. Parties and celebrations are exciting anyway. Limiting sugar is still good for teeth and overall health.",
+    "keywords": [
+      "sugar",
+      "hyperactive",
+      "hyper",
+      "sugar rush",
+      "children",
+      "kids",
+      "sweets",
+      "adhd"
+    ],
+    "sources": [
+      {
+        "label": "HealthyChildren.org (American Academy of Pediatrics)",
+        "url": "https://www.healthychildren.org/"
+      },
+      {
+        "label": "Harvard Health Publishing",
+        "url": "https://www.health.harvard.edu/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "babies-sleep-on-tummy",
+    "category": "Children's health",
+    "myth": "Babies should sleep on their tummy so they don't choke if they are sick.",
+    "rating": "false",
+    "fact": "Babies should always be put to sleep on their back. Back sleeping greatly reduces the risk of sudden infant death syndrome and does not increase choking.",
+    "explanation": "Healthy babies naturally swallow or cough up fluids. Since back-sleeping campaigns began, SIDS rates have fallen dramatically. Keep the cot clear of pillows, bumpers and loose bedding.",
+    "keywords": [
+      "baby sleep",
+      "tummy",
+      "stomach",
+      "back to sleep",
+      "sids",
+      "cot death",
+      "choking",
+      "sleep position"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Sudden infant death syndrome",
+        "url": "https://www.nhs.uk/conditions/sudden-infant-death-syndrome-sids/"
+      },
+      {
+        "label": "HealthyChildren.org (American Academy of Pediatrics)",
+        "url": "https://www.healthychildren.org/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "honey-safe-for-babies",
+    "category": "Children's health",
+    "myth": "Honey is a safe natural sweetener or cough remedy for babies.",
+    "rating": "false",
+    "fact": "Babies under one year old should not be given honey because it can contain bacteria that cause infant botulism, a serious illness.",
+    "explanation": "A baby's gut is not mature enough to deal with the bacterial spores. After the first birthday, honey is considered safe and can be used for coughs in children.",
+    "keywords": [
+      "honey",
+      "baby",
+      "infant",
+      "botulism",
+      "under one",
+      "cough",
+      "dummy"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Baby",
+        "url": "https://www.nhs.uk/baby/"
+      },
+      {
+        "label": "HealthyChildren.org (American Academy of Pediatrics)",
+        "url": "https://www.healthychildren.org/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "picking-up-baby-spoils",
+    "category": "Children's health",
+    "myth": "Picking up a crying baby too often will spoil them.",
+    "rating": "false",
+    "fact": "Young babies cannot be spoiled by being comforted. Responding to their needs helps them feel secure.",
+    "explanation": "Crying is how babies communicate hunger, discomfort or the need for closeness. If crying is constant or you feel overwhelmed, it is fine to put the baby down safely and take a short break, and to seek help from a health visitor or doctor.",
+    "keywords": [
+      "crying baby",
+      "spoil",
+      "picking up",
+      "cuddling",
+      "newborn",
+      "comfort",
+      "cry it out"
+    ],
+    "sources": [
+      {
+        "label": "HealthyChildren.org (American Academy of Pediatrics)",
+        "url": "https://www.healthychildren.org/"
+      },
+      {
+        "label": "NHS — Baby",
+        "url": "https://www.nhs.uk/baby/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "baby-walkers-help-walking",
+    "category": "Children's health",
+    "myth": "Baby walkers help babies learn to walk sooner.",
+    "rating": "false",
+    "fact": "Baby walkers do not help babies learn to walk and may delay it. They also cause many injuries, especially falls down stairs.",
+    "explanation": "The American Academy of Pediatrics advises against using mobile baby walkers. Plenty of floor time and stationary play centres are safer alternatives.",
+    "keywords": [
+      "baby walker",
+      "walking",
+      "learn to walk",
+      "infant",
+      "toddler",
+      "stairs",
+      "falls"
+    ],
+    "sources": [
+      {
+        "label": "HealthyChildren.org (American Academy of Pediatrics)",
+        "url": "https://www.healthychildren.org/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "any-fever-dangerous-child",
+    "category": "Children's health",
+    "myth": "Any fever in a child is dangerous and must be brought down immediately.",
+    "rating": "misleading",
+    "fact": "Fever is a normal response to infection and is usually not harmful in itself. Treating fever is mainly for comfort; how the child is behaving matters more than the number.",
+    "explanation": "Babies under three months with a temperature of 38C or above, and children with signs such as a rash that does not fade, drowsiness, breathing difficulty or a fit, need urgent medical help. Febrile seizures can be frightening but rarely cause lasting harm.",
+    "keywords": [
+      "fever",
+      "high temperature",
+      "child",
+      "toddler",
+      "brain damage",
+      "paracetamol",
+      "febrile",
+      "kids"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Fever in children",
+        "url": "https://www.nhs.uk/conditions/fever-in-children/"
+      },
+      {
+        "label": "HealthyChildren.org (American Academy of Pediatrics)",
+        "url": "https://www.healthychildren.org/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "cereal-in-bottle-sleep",
+    "category": "Children's health",
+    "myth": "Adding cereal to a baby's bottle helps them sleep through the night.",
+    "rating": "false",
+    "fact": "Adding cereal to bottles does not reliably improve sleep and can increase the risk of choking and overfeeding.",
+    "explanation": "Babies sleep longer as they grow, regardless of cereal. Solid foods are generally introduced around six months, by spoon, unless a health professional advises otherwise.",
+    "keywords": [
+      "cereal",
+      "baby rice",
+      "bottle",
+      "sleep through the night",
+      "baby sleep",
+      "formula",
+      "solids"
+    ],
+    "sources": [
+      {
+        "label": "HealthyChildren.org (American Academy of Pediatrics)",
+        "url": "https://www.healthychildren.org/"
+      },
+      {
+        "label": "NHS — Baby",
+        "url": "https://www.nhs.uk/baby/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "cough-medicine-safe-toddlers",
+    "category": "Children's health",
+    "myth": "Cough and cold medicines are safe and helpful for toddlers.",
+    "rating": "false",
+    "fact": "Over-the-counter cough and cold medicines are not recommended for young children because they have not been shown to work in this age group and can cause side effects.",
+    "explanation": "Rules differ by country, but many advise against these medicines under six years. Fluids, rest and, for children over one, a little honey can ease coughs. Always check dosing with a pharmacist.",
+    "keywords": [
+      "cough medicine",
+      "cold medicine",
+      "toddler",
+      "children",
+      "syrup",
+      "decongestant",
+      "kids"
+    ],
+    "sources": [
+      {
+        "label": "HealthyChildren.org (American Academy of Pediatrics)",
+        "url": "https://www.healthychildren.org/"
+      },
+      {
+        "label": "Mayo Clinic",
+        "url": "https://www.mayoclinic.org/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "bilingual-speech-delay",
+    "category": "Children's health",
+    "myth": "Raising a child with two languages causes speech delay.",
+    "rating": "false",
+    "fact": "Learning two languages does not cause language delay. Bilingual children reach language milestones within the normal range, though they may mix languages for a while.",
+    "explanation": "A child who is not reaching milestones in either language should be assessed like any other child, rather than the delay being blamed on bilingualism.",
+    "keywords": [
+      "bilingual",
+      "two languages",
+      "speech delay",
+      "talking late",
+      "language",
+      "toddler",
+      "confuse"
+    ],
+    "sources": [
+      {
+        "label": "HealthyChildren.org (American Academy of Pediatrics)",
+        "url": "https://www.healthychildren.org/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "breastfed-babies-vitamin-d",
+    "category": "Children's health",
+    "myth": "Breastfed babies may need a vitamin D supplement.",
+    "rating": "true",
+    "fact": "Health authorities in the UK and US recommend vitamin D drops for breastfed babies, because breast milk alone usually does not provide enough.",
+    "explanation": "Formula is already fortified, so babies drinking enough formula may not need extra. Vitamin D supports healthy bones and helps prevent rickets. Ask a health visitor, pharmacist or paediatrician about the right product.",
+    "keywords": [
+      "vitamin d",
+      "breastfed",
+      "breastfeeding",
+      "baby",
+      "drops",
+      "rickets",
+      "supplement",
+      "infant"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Baby",
+        "url": "https://www.nhs.uk/baby/"
+      },
+      {
+        "label": "HealthyChildren.org (American Academy of Pediatrics)",
+        "url": "https://www.healthychildren.org/"
+      },
+      {
+        "label": "NIH Office of Dietary Supplements — Vitamin D",
+        "url": "https://ods.od.nih.gov/factsheets/VitaminD-Consumer/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]

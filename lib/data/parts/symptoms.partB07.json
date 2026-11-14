@@ -1,0 +1,1136 @@
+[
+  {
+    "id": "fever-in-baby",
+    "name": "Fever in a baby under 6 months",
+    "aliases": [
+      "baby high temperature",
+      "newborn fever",
+      "baby feels hot",
+      "infant fever",
+      "baby temperature 38"
+    ],
+    "bodyArea": "Babies & children",
+    "summary": "A baby under 3 months with a temperature of 38C (100.4F) or higher needs to be seen by a doctor straight away, even if they seem otherwise well. Young babies can become seriously ill quickly.",
+    "redFlags": [
+      "A temperature of 38C (100.4F) or higher in a baby under 3 months",
+      "Pale, blue, grey or blotchy skin, lips or tongue (on darker skin, check the palms, soles and inside the lips)",
+      "Floppy, unresponsive, very drowsy or hard to wake",
+      "A weak, high-pitched or continuous cry that is not like their normal cry",
+      "Difficulty breathing, grunting, very fast breathing, or skin sucking in under the ribs",
+      "A rash that does not fade when you press a glass against it",
+      "A seizure (fit), or a bulging soft spot on the head"
+    ],
+    "urgentFlags": [
+      "A temperature of 39C (102.2F) or higher in a baby aged 3 to 6 months",
+      "Not feeding, or feeding much less than usual",
+      "Fewer wet nappies, or no wet nappy for 8 hours or more",
+      "Vomiting repeatedly, or green vomit",
+      "Fever with a rash, or a fever that lasts 5 days or more",
+      "You feel something is seriously wrong"
+    ],
+    "commonCauses": [
+      {
+        "title": "Viral infections",
+        "detail": "Colds and other viruses are the most common cause, but young babies need checking to rule out serious infection."
+      },
+      {
+        "title": "Vaccinations",
+        "detail": "A mild temperature after vaccinations is common; some vaccines can cause fever within 48 hours."
+      },
+      {
+        "title": "Bacterial infections",
+        "detail": "Urine infections, chest infections, sepsis or meningitis are less common but serious in young babies."
+      }
+    ],
+    "selfCare": [
+      "Get medical help straight away if your baby is under 3 months and has a temperature of 38C or higher",
+      "Keep offering breast or formula milk little and often",
+      "Dress your baby in light clothing; do not wrap them up or bundle them in blankets",
+      "Paracetamol can be given from 2 months and ibuprofen from 3 months (if over 5kg), following the pack instructions; check with a pharmacist or doctor first for young babies",
+      "Check on your baby regularly during the night"
+    ],
+    "avoid": [
+      "Sponging your baby with cold water or giving cold baths",
+      "Giving aspirin to a baby or child under 16",
+      "Giving paracetamol and ibuprofen at the same time, unless a doctor advises it",
+      "Waiting to see if a fever in a baby under 3 months settles"
+    ],
+    "seeDoctorIf": [
+      "Your baby seems unwell or not their usual self, even without a high temperature",
+      "Your baby has had a temperature after vaccination for more than 48 hours",
+      "You are worried about your baby"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {
+        "label": "NHS: High temperature (fever) in children",
+        "url": "https://www.nhs.uk/conditions/fever-in-children/"
+      },
+      {
+        "url": "https://www.nhs.uk/symptoms/fever-in-children/",
+        "label": "NHS — Fever in children"
+      }
+    ]
+  },
+  {
+    "id": "fever-in-child",
+    "name": "Fever in a child",
+    "aliases": [
+      "child high temperature",
+      "toddler fever",
+      "kid has a fever",
+      "child feels hot",
+      "temperature in child"
+    ],
+    "bodyArea": "Babies & children",
+    "summary": "A high temperature is very common in children and is usually caused by a viral infection that the body can fight off. Watch how your child is behaving as well as the number on the thermometer.",
+    "redFlags": [
+      "A rash that does not fade when you press a glass against it",
+      "Pale, blue, grey or blotchy skin, lips or tongue (on darker skin, check the palms, soles and inside the lips)",
+      "Floppy, unresponsive, very drowsy or hard to wake",
+      "Difficulty breathing, grunting, or skin sucking in under the ribs",
+      "A stiff neck or pain looking at bright lights",
+      "A seizure (fit) for the first time",
+      "A weak, high-pitched or continuous cry"
+    ],
+    "urgentFlags": [
+      "A temperature that lasts 5 days or more",
+      "Not drinking, or signs of dehydration such as a dry mouth, no tears or peeing much less",
+      "Your child is getting worse, or you are worried",
+      "A fever with ear pain, pain when peeing, or a sore throat with white spots",
+      "A fever in a child with a long-term condition or weakened immune system"
+    ],
+    "commonCauses": [
+      {
+        "title": "Viral infections",
+        "detail": "Colds, flu and other viruses are the most common cause and get better on their own."
+      },
+      {
+        "title": "Ear, throat or urine infections",
+        "detail": "Some may need antibiotics."
+      },
+      {
+        "title": "Childhood illnesses",
+        "detail": "Chickenpox, hand, foot and mouth disease, and scarlet fever often start with a fever."
+      },
+      {
+        "title": "Vaccinations",
+        "detail": "A mild temperature after vaccines is common and usually settles within 48 hours."
+      }
+    ],
+    "selfCare": [
+      "Give plenty of fluids, and breast or formula milk for babies",
+      "Look out for signs of dehydration",
+      "Give food if your child wants it",
+      "Use children's paracetamol or ibuprofen if your child is distressed, following the pack instructions for their age; do not give ibuprofen if they have chickenpox",
+      "Check on your child regularly during the night and keep them off nursery or school while they have a temperature"
+    ],
+    "avoid": [
+      "Undressing your child completely, sponging with cold water, or over-wrapping them",
+      "Giving aspirin to anyone under 16",
+      "Giving paracetamol and ibuprofen at the same time, unless a doctor advises it"
+    ],
+    "seeDoctorIf": [
+      "The temperature has lasted more than 3 days and your child is not improving",
+      "Your child keeps getting high temperatures",
+      "You are worried about your child"
+    ],
+    "selfCareMaxDays": 3,
+    "sources": [
+      {
+        "label": "NHS: High temperature (fever) in children",
+        "url": "https://www.nhs.uk/conditions/fever-in-children/"
+      },
+      {
+        "label": "NHS: Meningitis",
+        "url": "https://www.nhs.uk/conditions/meningitis/"
+      }
+    ]
+  },
+  {
+    "id": "baby-crying-non-stop",
+    "name": "Baby crying non-stop",
+    "aliases": [
+      "baby won't stop crying",
+      "colic",
+      "inconsolable baby",
+      "baby screaming",
+      "unsettled baby",
+      "crying baby"
+    ],
+    "bodyArea": "Babies & children",
+    "summary": "All babies cry, and colic, wind and tiredness are common reasons. Crying that sounds different, or comes with a fever or your baby being unwell, needs to be checked.",
+    "redFlags": [
+      "A weak, high-pitched or continuous cry that is not like their normal cry",
+      "Floppy, unresponsive, very drowsy or hard to wake",
+      "Difficulty breathing, blue or grey lips, or skin sucking in under the ribs",
+      "A temperature of 38C (100.4F) or higher in a baby under 3 months",
+      "Green vomit, or blood in their poo",
+      "A rash that does not fade when you press a glass against it, or a bulging soft spot on the head"
+    ],
+    "urgentFlags": [
+      "Crying with not feeding, or vomiting most feeds",
+      "Crying with a high temperature",
+      "Fewer wet nappies than usual",
+      "Crying that seems to come with pain, such as drawing up the legs repeatedly with paleness",
+      "A swelling in the groin or a swollen, red scrotum"
+    ],
+    "commonCauses": [
+      {
+        "title": "Hunger, tiredness or a dirty nappy",
+        "detail": "The most common reasons for crying."
+      },
+      {
+        "title": "Colic",
+        "detail": "Long periods of crying, often in the evening, in an otherwise healthy baby; usually starts in the first few weeks and improves by 3 to 4 months."
+      },
+      {
+        "title": "Wind or reflux",
+        "detail": "Discomfort during or after feeds."
+      },
+      {
+        "title": "Illness",
+        "detail": "Infections, ear pain or, rarely, a twisted bowel or hernia."
+      }
+    ],
+    "selfCare": [
+      "Check if your baby is hungry, tired, too hot or too cold, or needs a nappy change",
+      "Hold your baby close, rock or walk gently, and try white noise or a warm bath",
+      "Wind your baby during and after feeds",
+      "If you feel overwhelmed, put your baby safely on their back in their cot and take a few minutes to calm down",
+      "Ask your health visitor, midwife or doctor for support"
+    ],
+    "avoid": [
+      "Ever shaking a baby; this can cause serious brain injury",
+      "Changing formula repeatedly without advice",
+      "Unproven colic remedies, herbal teas or giving water to young babies"
+    ],
+    "seeDoctorIf": [
+      "Your baby cries a lot and you are struggling to cope",
+      "Your baby is not gaining weight or feeding well",
+      "Crying has not improved by 4 months",
+      "You think your baby might have reflux or a cow's milk allergy"
+    ],
+    "selfCareMaxDays": 7,
+    "sources": [
+      {
+        "label": "NHS: Colic",
+        "url": "https://www.nhs.uk/conditions/colic/"
+      },
+      {
+        "label": "NHS: High temperature (fever) in children",
+        "url": "https://www.nhs.uk/conditions/fever-in-children/"
+      }
+    ]
+  },
+  {
+    "id": "rash-in-child",
+    "name": "Rash in a baby or child",
+    "aliases": [
+      "baby rash",
+      "child rash",
+      "spots on toddler",
+      "rash with fever child",
+      "chickenpox",
+      "hand foot and mouth"
+    ],
+    "bodyArea": "Babies & children",
+    "summary": "Most rashes in children are harmless and caused by viruses, heat or skin irritation. A rash that does not fade when pressed with a glass, or a rash with a child who is unwell, needs urgent help.",
+    "redFlags": [
+      "A rash that does not fade when you press a glass against it (on darker skin, check paler areas such as palms, soles and inside the eyelids)",
+      "A rash with a stiff neck, pain looking at bright lights, or confusion",
+      "A rash with floppiness, drowsiness, or being hard to wake",
+      "A rash with swelling of the lips, tongue or face, or difficulty breathing",
+      "Pale, blue, grey or blotchy skin with feeling very unwell"
+    ],
+    "urgentFlags": [
+      "A rash with a high temperature and your child seems unwell",
+      "A rash with a sore throat, swollen glands and a red 'strawberry' tongue",
+      "A temperature for 5 days or more with red eyes, cracked lips or swollen hands and feet",
+      "Blistering, crusting or spreading rash that may be infected",
+      "Chickenpox in a baby under 4 weeks, or with a high temperature, chest pain or difficulty breathing"
+    ],
+    "commonCauses": [
+      {
+        "title": "Viral rashes",
+        "detail": "Blotchy rashes with a cold or fever that fade within a few days."
+      },
+      {
+        "title": "Chickenpox or hand, foot and mouth disease",
+        "detail": "Itchy spots that blister, or spots on the hands, feet and in the mouth."
+      },
+      {
+        "title": "Eczema or heat rash",
+        "detail": "Dry, itchy patches, or tiny red spots when overheated."
+      },
+      {
+        "title": "Impetigo or scarlet fever",
+        "detail": "Crusty golden sores, or a rough, sandpaper-like rash with sore throat; may need treatment."
+      },
+      {
+        "title": "Meningitis or sepsis",
+        "detail": "Rare, but the reason to do the glass test and act fast."
+      }
+    ],
+    "selfCare": [
+      "Do the glass test: press the side of a clear glass firmly on the rash and see if it fades",
+      "Keep your child cool and give plenty of fluids",
+      "Use children's paracetamol for discomfort, following the pack instructions for their age",
+      "For itchy rashes, keep nails short and use plain moisturisers or calamine lotion",
+      "Keep your child off nursery or school until you know whether the rash is infectious"
+    ],
+    "avoid": [
+      "Ibuprofen if your child has chickenpox",
+      "Aspirin for anyone under 16",
+      "Contact with pregnant people, newborns and people with weakened immune systems if chickenpox is possible"
+    ],
+    "seeDoctorIf": [
+      "A rash has not cleared after a week",
+      "A rash is painful, spreading or affecting sleep",
+      "You are unsure what the rash is"
+    ],
+    "selfCareMaxDays": 7,
+    "sources": [
+      {
+        "label": "NHS: Rashes in babies and children",
+        "url": "https://www.nhs.uk/conditions/rashes-babies-and-children/"
+      },
+      {
+        "label": "NHS: Meningitis",
+        "url": "https://www.nhs.uk/conditions/meningitis/"
+      },
+      {
+        "label": "NHS: Chickenpox",
+        "url": "https://www.nhs.uk/conditions/chickenpox/"
+      }
+    ]
+  },
+  {
+    "id": "croup",
+    "name": "Barking cough in a child (croup)",
+    "aliases": [
+      "croup",
+      "barking cough",
+      "seal cough",
+      "child noisy breathing",
+      "hoarse cough at night"
+    ],
+    "bodyArea": "Babies & children",
+    "summary": "Croup is a common viral illness in young children that causes a barking cough, a hoarse voice and noisy breathing. Most cases are mild and get better within 48 hours, but some children need treatment.",
+    "redFlags": [
+      "Your child is struggling to breathe, or the skin is sucking in under the ribs or at the neck",
+      "Blue, grey or very pale lips or skin",
+      "Your child is unusually drowsy, floppy, quiet or not responding",
+      "Your child is drooling, cannot swallow, or is leaning forward to breathe",
+      "Your child stops breathing for a moment"
+    ],
+    "urgentFlags": [
+      "A harsh, high-pitched noise when breathing in (stridor) even when calm or resting",
+      "Symptoms that are getting worse",
+      "A high temperature or your child seems very unwell",
+      "Your child is restless or agitated, or not drinking"
+    ],
+    "commonCauses": [
+      {
+        "title": "Viral croup",
+        "detail": "Caused by viruses such as parainfluenza; most common between 6 months and 3 years."
+      },
+      {
+        "title": "Spasmodic croup",
+        "detail": "Sudden barking cough at night that can come back."
+      },
+      {
+        "title": "Other causes of noisy breathing",
+        "detail": "Rarely, an inhaled object or a serious throat infection."
+      }
+    ],
+    "selfCare": [
+      "Keep your child calm and sit them upright; crying can make symptoms worse",
+      "Give plenty of fluids",
+      "Use children's paracetamol or ibuprofen for a high temperature or discomfort, following the pack instructions for their age",
+      "Check on your child regularly during the night"
+    ],
+    "avoid": [
+      "Putting your child in a steamy room or using steam, which is not proven to help and can cause scalds",
+      "Cough medicines for young children",
+      "Smoking around your child"
+    ],
+    "seeDoctorIf": [
+      "Symptoms have not improved after 2 days",
+      "Your child keeps getting croup",
+      "You are worried about your child's breathing"
+    ],
+    "selfCareMaxDays": 2,
+    "sources": [
+      {
+        "label": "NHS: Croup",
+        "url": "https://www.nhs.uk/conditions/croup/"
+      },
+      {
+        "label": "MedlinePlus: Croup",
+        "url": "https://medlineplus.gov/croup.html"
+      }
+    ]
+  },
+  {
+    "id": "baby-breathing-difficulty",
+    "name": "Fast or noisy breathing in a baby",
+    "aliases": [
+      "bronchiolitis",
+      "baby wheezing",
+      "baby breathing fast",
+      "baby chesty cough",
+      "baby struggling to breathe",
+      "RSV"
+    ],
+    "bodyArea": "Babies & children",
+    "summary": "Bronchiolitis is a common chest infection in babies under 2 that starts like a cold and can cause a cough, fast breathing and difficulty feeding. Most babies get better at home within 2 to 3 weeks.",
+    "redFlags": [
+      "Your baby is struggling to breathe, grunting, or the skin is sucking in under the ribs",
+      "Pauses in breathing, or blue or grey lips or tongue",
+      "Your baby is floppy, unresponsive or very hard to wake",
+      "Your baby is too breathless to feed or make sounds"
+    ],
+    "urgentFlags": [
+      "Feeding less than half the usual amount over the last 2 or 3 feeds",
+      "No wet nappy for 12 hours or more",
+      "A temperature of 38C (100.4F) or higher under 3 months, or 39C (102.2F) or higher at 3 to 6 months",
+      "Breathing faster than usual or getting worse",
+      "A baby born prematurely or with a heart or lung condition who has these symptoms"
+    ],
+    "commonCauses": [
+      {
+        "title": "Bronchiolitis",
+        "detail": "A viral chest infection, most often caused by RSV, common in winter."
+      },
+      {
+        "title": "Colds",
+        "detail": "A blocked nose can make breathing sound noisy and make feeding harder."
+      },
+      {
+        "title": "Viral wheeze or asthma",
+        "detail": "Older babies and toddlers can wheeze with colds."
+      }
+    ],
+    "selfCare": [
+      "Offer smaller feeds more often",
+      "Saline nose drops from a pharmacy can help with a blocked nose before feeds",
+      "Keep your baby upright when they are awake to help breathing",
+      "Use paracetamol or ibuprofen only if your baby is old enough and distressed, following the pack instructions",
+      "Keep your baby away from smoke"
+    ],
+    "avoid": [
+      "Smoking near your baby, in the home or car",
+      "Cough medicines or decongestants for babies",
+      "Raising the cot mattress or putting your baby to sleep on their front"
+    ],
+    "seeDoctorIf": [
+      "Symptoms are not improving after 3 days",
+      "The cough has lasted more than 3 weeks",
+      "You are worried about your baby"
+    ],
+    "selfCareMaxDays": 3,
+    "sources": [
+      {
+        "label": "NHS: Bronchiolitis",
+        "url": "https://www.nhs.uk/conditions/bronchiolitis/"
+      },
+      {
+        "label": "CDC: RSV",
+        "url": "https://www.cdc.gov/rsv/"
+      }
+    ]
+  },
+  {
+    "id": "nappy-rash",
+    "name": "Nappy rash",
+    "aliases": [
+      "diaper rash",
+      "red bottom baby",
+      "sore nappy area",
+      "baby bum rash",
+      "nappy rash spots"
+    ],
+    "bodyArea": "Babies & children",
+    "summary": "Nappy rash is very common and causes red, sore patches in the nappy area. It usually clears in a few days with simple care and a barrier cream.",
+    "redFlags": [
+      "A rash that does not fade when you press a glass against it, with your baby seeming unwell",
+      "Your baby is floppy, very drowsy, or has a temperature of 38C (100.4F) or higher under 3 months"
+    ],
+    "urgentFlags": [
+      "Blisters, open sores, pus or crusting in the nappy area",
+      "A rash with a high temperature",
+      "Bright red rash with spots spreading into the skin folds that is not improving"
+    ],
+    "commonCauses": [
+      {
+        "title": "Irritation from wee and poo",
+        "detail": "Skin in contact with a wet or dirty nappy for too long."
+      },
+      {
+        "title": "Fragranced products",
+        "detail": "Soaps, bubble bath, lotions or wipes containing alcohol or perfume."
+      },
+      {
+        "title": "Thrush infection",
+        "detail": "A bright red rash with spots, often in the skin folds; may need antifungal cream."
+      },
+      {
+        "title": "Bacterial infection",
+        "detail": "Less commonly, sores, blisters or crusts that need treatment."
+      }
+    ],
+    "selfCare": [
+      "Change wet or dirty nappies as soon as possible",
+      "Clean the skin with water or fragrance-free, alcohol-free baby wipes, and pat dry",
+      "Leave the nappy off for as long as practical each day",
+      "Apply a thin layer of barrier cream at each change",
+      "Bath your baby daily, but not more than twice a day"
+    ],
+    "avoid": [
+      "Soap, bubble bath and lotions in the nappy area",
+      "Talcum powder",
+      "Tight nappies or clothing over the nappy area",
+      "Using steroid creams on a baby's nappy area unless a doctor advises it"
+    ],
+    "seeDoctorIf": [
+      "The rash has not cleared after a week of self-care",
+      "The rash keeps coming back",
+      "You think the rash may be thrush"
+    ],
+    "selfCareMaxDays": 7,
+    "sources": [
+      {
+        "url": "https://www.nhs.uk/baby/caring-for-a-newborn/nappy-rash/",
+        "label": "NHS — Nappy rash"
+      }
+    ]
+  },
+  {
+    "id": "vomiting-in-child",
+    "name": "Vomiting in babies and children",
+    "aliases": [
+      "baby being sick",
+      "child vomiting",
+      "toddler throwing up",
+      "projectile vomiting baby",
+      "baby sick after feeds",
+      "tummy bug child"
+    ],
+    "bodyArea": "Babies & children",
+    "summary": "Vomiting in children is usually caused by a stomach bug and stops within 1 to 2 days. The main risk is dehydration, especially in babies.",
+    "redFlags": [
+      "Green or yellow-green vomit, or vomit with blood or that looks like coffee grounds",
+      "Floppy, very drowsy or hard to wake",
+      "A stiff neck, a rash that does not fade when pressed with a glass, or a bulging soft spot",
+      "Severe tummy pain or a swollen, hard tummy",
+      "Signs of severe dehydration such as no wet nappies or not peeing all day, cold hands and feet, or sunken eyes"
+    ],
+    "urgentFlags": [
+      "A baby under 1 who will not take feeds or keeps vomiting feeds",
+      "Signs of dehydration such as fewer wet nappies, a dry mouth or no tears",
+      "Vomiting for more than 2 days, or with diarrhoea for more than 2 days in a child under 5",
+      "Forceful (projectile) vomiting after every feed in a baby under 2 months",
+      "Vomiting after a head injury",
+      "Vomiting in a child with diabetes"
+    ],
+    "commonCauses": [
+      {
+        "title": "Stomach bug",
+        "detail": "Gastroenteritis, usually with diarrhoea, is the most common cause."
+      },
+      {
+        "title": "Posseting and reflux",
+        "detail": "Bringing up small amounts of milk after feeds is normal in babies who are feeding and growing well."
+      },
+      {
+        "title": "Other infections",
+        "detail": "Ear, throat or urine infections can make children vomit."
+      },
+      {
+        "title": "Pyloric stenosis or blockage",
+        "detail": "Less common; forceful vomiting in young babies or green vomit needs urgent checking."
+      }
+    ],
+    "selfCare": [
+      "Keep breast or formula feeding little and often",
+      "Give small, frequent sips of fluids; oral rehydration solution from a pharmacy helps",
+      "Offer food when your child feels able",
+      "Wash hands often and keep children off nursery or school until 48 hours after the last episode"
+    ],
+    "avoid": [
+      "Fruit juice or fizzy drinks",
+      "Anti-sickness or anti-diarrhoea medicines for children unless a doctor prescribes them",
+      "Diluting formula milk"
+    ],
+    "seeDoctorIf": [
+      "Your baby keeps bringing up feeds and is not gaining weight",
+      "Vomiting keeps coming back",
+      "You are worried about your child"
+    ],
+    "selfCareMaxDays": 2,
+    "sources": [
+      {
+        "label": "NHS: Diarrhoea and vomiting",
+        "url": "https://www.nhs.uk/conditions/diarrhoea-and-vomiting/"
+      },
+      {
+        "label": "NHS: Dehydration",
+        "url": "https://www.nhs.uk/conditions/dehydration/"
+      }
+    ]
+  },
+  {
+    "id": "diarrhoea-in-child",
+    "name": "Diarrhoea in babies and children",
+    "aliases": [
+      "baby diarrhoea",
+      "child diarrhea",
+      "toddler runny poo",
+      "watery nappies",
+      "toddler diarrhoea"
+    ],
+    "bodyArea": "Babies & children",
+    "summary": "Diarrhoea in children is usually caused by a stomach bug and gets better within 5 to 7 days. Keeping them drinking is the most important thing.",
+    "redFlags": [
+      "Blood in the poo with your child seeming very unwell",
+      "Floppy, very drowsy or hard to wake",
+      "Signs of severe dehydration such as no wet nappies or not peeing all day, cold hands and feet, or sunken eyes",
+      "Severe tummy pain or a swollen tummy",
+      "Green vomit with diarrhoea"
+    ],
+    "urgentFlags": [
+      "Signs of dehydration such as fewer wet nappies, a dry mouth, no tears or a sunken soft spot on the head",
+      "Blood in the poo",
+      "A baby under 6 months with diarrhoea and a high temperature",
+      "Diarrhoea with vomiting for more than 2 days in a child under 5"
+    ],
+    "commonCauses": [
+      {
+        "title": "Stomach bug",
+        "detail": "Viruses such as rotavirus and norovirus are the most common cause."
+      },
+      {
+        "title": "Food poisoning",
+        "detail": "From contaminated food or water."
+      },
+      {
+        "title": "Antibiotics",
+        "detail": "Can upset the normal balance of gut bacteria."
+      },
+      {
+        "title": "Toddler's diarrhoea",
+        "detail": "Loose poo with undigested food in a well, growing toddler; often linked to lots of juice."
+      },
+      {
+        "title": "Food intolerance or allergy",
+        "detail": "For example cow's milk protein allergy in babies."
+      }
+    ],
+    "selfCare": [
+      "Keep breast or formula feeding; offer extra fluids little and often",
+      "Use oral rehydration solution from a pharmacy if your child is at risk of dehydration",
+      "Offer food when your child feels able",
+      "Wash hands thoroughly and keep children off nursery or school until 48 hours after the last episode"
+    ],
+    "avoid": [
+      "Fruit juice or fizzy drinks",
+      "Anti-diarrhoea medicines for children under 12",
+      "Swimming pools for 2 weeks after the diarrhoea stops"
+    ],
+    "seeDoctorIf": [
+      "Diarrhoea lasts more than 7 days",
+      "Diarrhoea keeps coming back",
+      "Your child is not gaining weight or is losing weight"
+    ],
+    "selfCareMaxDays": 7,
+    "sources": [
+      {
+        "label": "NHS: Diarrhoea and vomiting",
+        "url": "https://www.nhs.uk/conditions/diarrhoea-and-vomiting/"
+      },
+      {
+        "label": "MedlinePlus: Diarrhea",
+        "url": "https://medlineplus.gov/diarrhea.html"
+      }
+    ]
+  },
+  {
+    "id": "unwell-floppy-baby",
+    "name": "Baby floppy, drowsy or not feeding",
+    "aliases": [
+      "baby not feeding",
+      "baby very sleepy",
+      "floppy baby",
+      "baby not waking for feeds",
+      "baby off feeds",
+      "lethargic baby"
+    ],
+    "bodyArea": "Babies & children",
+    "summary": "A baby who is unusually floppy, very drowsy or not feeding can be seriously ill, even without a high temperature. Trust your instincts and get help quickly.",
+    "redFlags": [
+      "Floppy, unresponsive, or very hard to wake",
+      "Pale, blue, grey or blotchy skin, lips or tongue",
+      "Difficulty breathing, grunting, pauses in breathing, or skin sucking in under the ribs",
+      "A weak, high-pitched or continuous cry",
+      "A seizure (fit), or a bulging soft spot on the head",
+      "A rash that does not fade when you press a glass against it",
+      "A temperature of 38C (100.4F) or higher in a baby under 3 months, or a temperature below 36C (96.8F)"
+    ],
+    "urgentFlags": [
+      "Feeding much less than usual or refusing feeds",
+      "Fewer wet nappies than usual, or no wet nappy for 8 hours or more",
+      "Vomiting most feeds",
+      "Yellow skin or eyes with sleepiness and poor feeding",
+      "Your baby is just not themselves and you are worried"
+    ],
+    "commonCauses": [
+      {
+        "title": "Infections",
+        "detail": "Colds and viruses can reduce feeding; serious infections such as sepsis or meningitis must be ruled out."
+      },
+      {
+        "title": "Dehydration",
+        "detail": "From vomiting, diarrhoea or poor feeding."
+      },
+      {
+        "title": "Jaundice",
+        "detail": "Newborns with jaundice can be sleepy and feed poorly."
+      },
+      {
+        "title": "Feeding difficulties",
+        "detail": "Problems with latch or positioning, or a blocked nose."
+      }
+    ],
+    "selfCare": [
+      "Get medical help straight away if any warning signs are present",
+      "Keep offering feeds little and often",
+      "Count wet nappies and note when your baby last fed",
+      "Ask a midwife, health visitor or doctor for feeding support"
+    ],
+    "avoid": [
+      "Waiting overnight to see if a floppy or very drowsy baby improves",
+      "Giving water or other drinks instead of milk to young babies"
+    ],
+    "seeDoctorIf": [
+      "Your baby is not gaining weight",
+      "Feeding is often difficult or painful",
+      "You are worried about your baby's feeding or sleep"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {
+        "label": "NHS: Sepsis",
+        "url": "https://www.nhs.uk/conditions/sepsis/"
+      },
+      {
+        "label": "NHS: High temperature (fever) in children",
+        "url": "https://www.nhs.uk/conditions/fever-in-children/"
+      }
+    ]
+  },
+  {
+    "id": "newborn-jaundice",
+    "name": "Yellow skin in a newborn",
+    "aliases": [
+      "newborn jaundice",
+      "baby yellow skin",
+      "baby yellow eyes",
+      "jaundice in baby",
+      "yellow newborn"
+    ],
+    "bodyArea": "Babies & children",
+    "summary": "Jaundice is common in newborn babies and usually harmless, fading within 2 weeks. Some babies need checks or treatment, so tell your midwife, health visitor or doctor if you notice it.",
+    "redFlags": [
+      "Your baby is floppy, very drowsy, hard to wake or not feeding",
+      "A seizure (fit), arching of the back or a high-pitched cry",
+      "A temperature of 38C (100.4F) or higher"
+    ],
+    "urgentFlags": [
+      "Jaundice that starts in the first 24 hours after birth",
+      "Pale, chalky-coloured poo or dark yellow pee",
+      "Jaundice getting deeper or spreading, or your baby is sleepy and not feeding well",
+      "Jaundice lasting more than 2 weeks (3 weeks if born early)"
+    ],
+    "commonCauses": [
+      {
+        "title": "Physiological jaundice",
+        "detail": "Very common; the baby's liver is still developing and it usually clears within 2 weeks."
+      },
+      {
+        "title": "Breast milk jaundice",
+        "detail": "Can last longer in breastfed babies and is usually harmless."
+      },
+      {
+        "title": "Blood group differences or infection",
+        "detail": "Can cause jaundice in the first 24 hours."
+      },
+      {
+        "title": "Liver problems",
+        "detail": "Rare; pale poo and dark pee need urgent checking."
+      }
+    ],
+    "selfCare": [
+      "Tell your midwife, health visitor or doctor if you think your baby looks yellow",
+      "Feed your baby often, at least 8 to 12 times a day in the first days",
+      "Check the colour of your baby's poo and pee",
+      "Check for yellowing in the whites of the eyes, gums or palms, especially on darker skin"
+    ],
+    "avoid": [
+      "Putting your baby in direct sunlight to treat jaundice",
+      "Giving water or glucose water instead of milk"
+    ],
+    "seeDoctorIf": [
+      "You notice any yellowing of your baby's skin or eyes",
+      "Your baby's poo is pale or pee is dark",
+      "You are worried about how much your baby is feeding"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {
+        "label": "NHS: Newborn jaundice",
+        "url": "https://www.nhs.uk/conditions/jaundice-newborn/"
+      },
+      {
+        "label": "MedlinePlus: Newborn jaundice",
+        "url": "https://medlineplus.gov/ency/article/001559.htm"
+      }
+    ]
+  },
+  {
+    "id": "febrile-seizure",
+    "name": "Fit or seizure with a fever in a child",
+    "aliases": [
+      "febrile convulsion",
+      "febrile seizure",
+      "child fitting with fever",
+      "baby seizure",
+      "child shaking with high temperature"
+    ],
+    "bodyArea": "Babies & children",
+    "summary": "Fits caused by a high temperature are fairly common in children aged 6 months to 5 years and are usually harmless, but a first fit always needs urgent medical assessment.",
+    "redFlags": [
+      "It is your child's first fit",
+      "A fit that lasts more than 5 minutes",
+      "Your child does not wake up or is not breathing normally after the fit",
+      "Your child has another fit during the same illness",
+      "A stiff neck, a rash that does not fade with the glass test, or very drowsy after the fit"
+    ],
+    "urgentFlags": [
+      "A short fit in a child who has had febrile seizures before, once they have recovered",
+      "A fever that is not settling",
+      "Signs of an infection such as ear pain, vomiting or not drinking"
+    ],
+    "commonCauses": [
+      {
+        "title": "High temperature from a viral infection",
+        "detail": "The most common trigger, often at the start of an illness."
+      },
+      {
+        "title": "Other infections",
+        "detail": "Ear, throat or urine infections; rarely meningitis."
+      },
+      {
+        "title": "After vaccinations",
+        "detail": "Rarely, a fever after vaccination can trigger a febrile seizure."
+      }
+    ],
+    "selfCare": [
+      "Place your child on their side on a soft surface, away from anything they could hit",
+      "Stay with them and time the fit",
+      "Once the fit stops, put them in the recovery position and check their breathing",
+      "Use children's paracetamol or ibuprofen for comfort afterwards, following the pack instructions for their age"
+    ],
+    "avoid": [
+      "Putting anything in your child's mouth during a fit",
+      "Holding them down or trying to stop the movements",
+      "Cold baths or sponging to bring down the temperature"
+    ],
+    "seeDoctorIf": [
+      "Your child has had a febrile seizure and you want advice on what to do next time",
+      "Your child has fits without a fever"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {
+        "label": "NHS: Febrile seizures",
+        "url": "https://www.nhs.uk/conditions/febrile-seizures/"
+      },
+      {
+        "label": "NHS: High temperature (fever) in children",
+        "url": "https://www.nhs.uk/conditions/fever-in-children/"
+      }
+    ]
+  },
+  {
+    "id": "child-stomach-ache",
+    "name": "Stomach ache in a child",
+    "aliases": [
+      "tummy ache child",
+      "child belly pain",
+      "kid stomach pain",
+      "toddler tummy pain",
+      "child tummy cramps"
+    ],
+    "bodyArea": "Babies & children",
+    "summary": "Tummy aches are very common in children and are usually caused by constipation, wind, a stomach bug or worry. Severe or worsening pain needs to be checked.",
+    "redFlags": [
+      "Severe pain that does not ease, or a hard, swollen tummy",
+      "Green vomit, or vomit with blood",
+      "Blood or redcurrant-jelly-like material in the poo with pain that comes and goes",
+      "Sudden pain in the testicles, groin or scrotum in a boy",
+      "Floppy, very drowsy or hard to wake"
+    ],
+    "urgentFlags": [
+      "Pain that moves to the lower right side or is worse when walking or jumping",
+      "Pain with a high temperature",
+      "Pain when peeing or peeing more often",
+      "Pain with not drinking or signs of dehydration",
+      "Pain that keeps getting worse over several hours"
+    ],
+    "commonCauses": [
+      {
+        "title": "Constipation",
+        "detail": "One of the most common causes of tummy ache in children."
+      },
+      {
+        "title": "Stomach bugs",
+        "detail": "With vomiting or diarrhoea."
+      },
+      {
+        "title": "Wind, colic or eating too much",
+        "detail": "Usually mild and short-lived."
+      },
+      {
+        "title": "Worry or stress",
+        "detail": "Tummy aches can happen with anxiety about school or other things."
+      },
+      {
+        "title": "Appendicitis or urine infection",
+        "detail": "Less common but need treatment."
+      }
+    ],
+    "selfCare": [
+      "Let your child rest and give small sips of water",
+      "Give children's paracetamol for pain, following the pack instructions for their age",
+      "A warm (not hot) water bottle wrapped in a towel can help",
+      "Offer plain food when they feel like eating"
+    ],
+    "avoid": [
+      "Aspirin for anyone under 16",
+      "Laxatives unless a doctor has advised them",
+      "Fatty or spicy food while the pain lasts"
+    ],
+    "seeDoctorIf": [
+      "Tummy aches keep coming back",
+      "Your child is not growing or gaining weight",
+      "Your child has ongoing constipation or diarrhoea",
+      "Pain is linked to worry or affecting school"
+    ],
+    "selfCareMaxDays": 3,
+    "sources": [
+      {
+        "label": "NHS: Stomach ache",
+        "url": "https://www.nhs.uk/conditions/stomach-ache/"
+      },
+      {
+        "label": "NHS: Appendicitis",
+        "url": "https://www.nhs.uk/conditions/appendicitis/"
+      }
+    ]
+  },
+  {
+    "id": "constipation-in-child",
+    "name": "Constipation in a child",
+    "aliases": [
+      "child can't poo",
+      "toddler constipated",
+      "baby constipation",
+      "hard poo child",
+      "child holding in poo"
+    ],
+    "bodyArea": "Babies & children",
+    "summary": "Constipation is common in children and can usually be helped with more fluids, fibre and a regular toilet routine. Some children need medicine from a doctor.",
+    "redFlags": [
+      "A swollen tummy with green vomit",
+      "Severe tummy pain, or a baby who is floppy and not feeding"
+    ],
+    "urgentFlags": [
+      "Constipation in a baby in the first few weeks of life",
+      "Blood in the poo",
+      "Constipation with a high temperature, vomiting or a very swollen tummy",
+      "Weakness in the legs or problems walking"
+    ],
+    "commonCauses": [
+      {
+        "title": "Not enough fibre or fluid",
+        "detail": "Very common, especially in fussy eaters."
+      },
+      {
+        "title": "Holding in poo",
+        "detail": "Because of pain, fear of the toilet, or during toilet training."
+      },
+      {
+        "title": "Changes in routine or diet",
+        "detail": "Starting solids, switching to cow's milk or travel."
+      },
+      {
+        "title": "Medical causes",
+        "detail": "Rarely, conditions affecting the bowel, nerves or thyroid."
+      }
+    ],
+    "selfCare": [
+      "Give plenty of fluids, especially water",
+      "Offer fruit, vegetables, beans and wholegrains if your child is eating solids",
+      "Encourage a regular toilet routine after meals, with a footstool so their knees are higher than their hips",
+      "Praise your child for using the toilet, even if nothing happens"
+    ],
+    "avoid": [
+      "Giving adult laxatives or suppositories without advice",
+      "Punishing or pressuring a child over toilet use",
+      "Adding extra water to formula milk"
+    ],
+    "seeDoctorIf": [
+      "Constipation has not improved with diet changes after 2 weeks",
+      "Your child is soiling their pants",
+      "Your child is in pain when pooing or has a sore bottom",
+      "Your child is not growing well or losing weight"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {
+        "label": "NHS: Constipation",
+        "url": "https://www.nhs.uk/conditions/constipation/"
+      },
+      {
+        "label": "MedlinePlus: Constipation",
+        "url": "https://medlineplus.gov/constipation.html"
+      }
+    ]
+  },
+  {
+    "id": "child-limp",
+    "name": "Limping or hip pain in a child",
+    "aliases": [
+      "child limping",
+      "toddler limp",
+      "child won't walk",
+      "child hip pain",
+      "irritable hip",
+      "child knee pain no injury"
+    ],
+    "bodyArea": "Babies & children",
+    "summary": "A limp in a child is often caused by a minor injury or a short-lived inflamed hip after a virus, but a limp without a clear cause should be checked by a doctor.",
+    "redFlags": [
+      "A limp or refusing to walk with a high temperature and seeming very unwell",
+      "A very painful, hot, swollen joint with a high temperature",
+      "A limb that looks deformed after an injury"
+    ],
+    "urgentFlags": [
+      "A limp or not putting weight on a leg with no clear injury",
+      "A limp with a high temperature",
+      "A limp in a child under 3",
+      "Hip, thigh or knee pain with a limp in an older child or teenager",
+      "A limp that is getting worse"
+    ],
+    "commonCauses": [
+      {
+        "title": "Minor injury",
+        "detail": "Bumps, sprains or a splinter in the foot."
+      },
+      {
+        "title": "Irritable hip",
+        "detail": "A short-lived hip inflammation after a virus, most common at ages 3 to 10; usually settles within 2 weeks."
+      },
+      {
+        "title": "Joint or bone infection",
+        "detail": "Rare but serious; usually with fever and severe pain."
+      },
+      {
+        "title": "Hip conditions",
+        "detail": "Perthes disease in younger children, or a slipped growth plate in teenagers, which can cause knee pain."
+      }
+    ],
+    "selfCare": [
+      "Check the foot and leg for splinters, cuts or swelling",
+      "Give children's paracetamol or ibuprofen for pain, following the pack instructions for their age",
+      "Let your child rest while you arrange for them to be checked"
+    ],
+    "avoid": [
+      "Making your child walk through pain",
+      "Assuming a limp is a growing pain"
+    ],
+    "seeDoctorIf": [
+      "Your child has been diagnosed with irritable hip and is not better after 2 weeks",
+      "The limp keeps coming back",
+      "Your child has joint pain with a rash or tiredness"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {
+        "label": "NHS: Irritable hip",
+        "url": "https://www.nhs.uk/conditions/irritable-hip/"
+      }
+    ]
+  },
+  {
+    "id": "teething",
+    "name": "Teething",
+    "aliases": [
+      "baby teething",
+      "sore gums baby",
+      "teething pain",
+      "baby drooling and chewing",
+      "teeth coming through"
+    ],
+    "bodyArea": "Babies & children",
+    "summary": "Teething can make babies sore, dribbly and unsettled, usually from around 6 months. Teething does not cause a high temperature or illness.",
+    "redFlags": [
+      "A temperature of 38C (100.4F) or higher in a baby under 3 months",
+      "Floppy, unresponsive or very hard to wake",
+      "A rash that does not fade when you press a glass against it"
+    ],
+    "urgentFlags": [
+      "A temperature of 39C (102.2F) or higher in a baby aged 3 to 6 months",
+      "Not feeding or drinking, or fewer wet nappies",
+      "Diarrhoea or vomiting, which are not caused by teething"
+    ],
+    "commonCauses": [
+      {
+        "title": "Teeth coming through",
+        "detail": "Red, swollen gums, drooling, chewing and being unsettled."
+      },
+      {
+        "title": "Other illnesses",
+        "detail": "Fever, diarrhoea or a rash suggest an infection rather than teething."
+      }
+    ],
+    "selfCare": [
+      "Give your baby a teething ring cooled in the fridge (not the freezer)",
+      "Gently rub the gums with a clean finger",
+      "From 6 months, offer healthy, sugar-free foods to chew, such as cold pieces of vegetable, and stay with them",
+      "Children's paracetamol or ibuprofen can be used from the right age if your baby is distressed, following the pack instructions"
+    ],
+    "avoid": [
+      "Amber teething necklaces or bracelets, which can cause choking or strangulation",
+      "Teething gels with local anaesthetic, such as benzocaine or lidocaine, for young babies unless a pharmacist advises",
+      "Frozen teething rings or sugary foods and drinks"
+    ],
+    "seeDoctorIf": [
+      "Your baby has symptoms of illness, such as a high temperature",
+      "No teeth have come through by 12 months",
+      "You are worried about your baby's teeth"
+    ],
+    "selfCareMaxDays": 7,
+    "sources": [
+      {
+        "label": "FDA: Safely soothing teething pain",
+        "url": "https://www.fda.gov/consumers/consumer-updates/safely-soothing-teething-pain-and-sensory-needs-babies-and-older-children"
+      },
+      {
+        "label": "MedlinePlus: Teething",
+        "url": "https://medlineplus.gov/ency/article/002045.htm"
+      }
+    ]
+  }
+]

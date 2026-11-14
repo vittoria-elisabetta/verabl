@@ -1,0 +1,1069 @@
+[
+  {
+    "id": "painful-urination",
+    "name": "Pain or burning when peeing",
+    "aliases": [
+      "burning when I pee",
+      "painful urination",
+      "stinging when urinating",
+      "dysuria",
+      "it hurts to pee",
+      "cystitis"
+    ],
+    "bodyArea": "Urinary & kidneys",
+    "summary": "Pain or burning when you pee is most often caused by a urinary tract infection (UTI), especially in women. Mild cystitis can settle within a few days, but some people need antibiotics.",
+    "redFlags": [
+      "Feeling confused, very drowsy or very unwell, with a high or very low temperature",
+      "Cold, blotchy or blue-tinged skin, fast breathing or a fast heartbeat",
+      "Not having peed all day"
+    ],
+    "urgentFlags": [
+      "Pain in your back or side under the ribs",
+      "A high temperature, or feeling hot and shivery",
+      "Feeling sick or being sick",
+      "Blood in your pee",
+      "Symptoms in a man, a child, or during pregnancy",
+      "Symptoms that are getting worse"
+    ],
+    "commonCauses": [
+      {
+        "title": "Urinary tract infection (cystitis)",
+        "detail": "Burning, needing to pee often and urgently, and cloudy or strong-smelling pee."
+      },
+      {
+        "title": "Sexually transmitted infection",
+        "detail": "Chlamydia or gonorrhoea can cause pain when peeing, sometimes with discharge."
+      },
+      {
+        "title": "Irritation",
+        "detail": "Scented soaps, bubble bath or spermicides can irritate the urethra."
+      },
+      {
+        "title": "Thrush",
+        "detail": "Vaginal or penile thrush can cause stinging when urine touches irritated skin."
+      },
+      {
+        "title": "Prostate or kidney problems",
+        "detail": "Less commonly, prostate infection or kidney stones."
+      }
+    ],
+    "selfCare": [
+      "Drink enough water so your pee is pale yellow",
+      "Take paracetamol or ibuprofen for pain, following the pack instructions",
+      "Rest, and use a hot water bottle on your lower tummy or between your thighs",
+      "Ask a pharmacist for advice; in some places they can treat uncomplicated UTIs in women"
+    ],
+    "avoid": [
+      "Sex until symptoms have cleared",
+      "Scented soaps, bubble bath and douches",
+      "Relying on cranberry products to treat an infection, as there is no good evidence they do"
+    ],
+    "seeDoctorIf": [
+      "Symptoms have not improved after 2 to 3 days, or come back after treatment",
+      "You get UTIs often",
+      "You might have a sexually transmitted infection",
+      "You have pain when peeing but no obvious infection"
+    ],
+    "selfCareMaxDays": 3,
+    "sources": [
+      {
+        "label": "NHS: Urinary tract infections (UTIs)",
+        "url": "https://www.nhs.uk/conditions/urinary-tract-infections-utis/"
+      },
+      {
+        "label": "NHS: Cystitis",
+        "url": "https://www.nhs.uk/conditions/cystitis/"
+      },
+      {
+        "label": "MedlinePlus: Urinary tract infections",
+        "url": "https://medlineplus.gov/urinarytractinfections.html"
+      }
+    ]
+  },
+  {
+    "id": "frequent-urination",
+    "name": "Needing to pee a lot",
+    "aliases": [
+      "frequent urination",
+      "peeing a lot",
+      "always need the toilet",
+      "getting up at night to pee",
+      "nocturia",
+      "urgent need to pee",
+      "weeing a lot"
+    ],
+    "bodyArea": "Urinary & kidneys",
+    "summary": "Needing to pee more often can be caused by drinking a lot, caffeine, an infection, an overactive bladder, prostate enlargement or diabetes. It is worth checking if it does not settle.",
+    "redFlags": [
+      "Being very thirsty and peeing a lot with vomiting, stomach pain, deep or fast breathing, or confusion",
+      "Feeling very unwell with a high temperature, confusion or fast breathing"
+    ],
+    "urgentFlags": [
+      "Pain or burning when peeing, with a high temperature or pain in your back or side",
+      "Blood in your pee",
+      "Feeling very thirsty, tired and losing weight",
+      "Being unable to pee or only able to pass small amounts despite a strong urge"
+    ],
+    "commonCauses": [
+      {
+        "title": "Drinking a lot, caffeine or alcohol",
+        "detail": "Tea, coffee, energy drinks and alcohol make you pee more."
+      },
+      {
+        "title": "Urinary tract infection",
+        "detail": "Usually with burning and an urgent need to go."
+      },
+      {
+        "title": "Overactive bladder",
+        "detail": "Sudden urges to pee, sometimes with leaking."
+      },
+      {
+        "title": "Enlarged prostate",
+        "detail": "Common in older men, with a weak flow and getting up at night to pee."
+      },
+      {
+        "title": "Diabetes or pregnancy",
+        "detail": "High blood sugar and pregnancy both cause more frequent peeing."
+      }
+    ],
+    "selfCare": [
+      "Cut down on caffeine, fizzy drinks and alcohol",
+      "Drink normally through the day but less in the 2 hours before bed",
+      "Try bladder training, gradually lengthening the time between toilet visits",
+      "Do pelvic floor exercises if you also leak urine"
+    ],
+    "avoid": [
+      "Cutting down drastically on fluids, which can cause dehydration and concentrated, irritating urine",
+      "Ignoring frequent peeing with thirst and weight loss"
+    ],
+    "seeDoctorIf": [
+      "You need to pee more often than usual for no obvious reason",
+      "You are getting up several times a night to pee",
+      "You have a weak flow, dribbling or a feeling you have not emptied your bladder",
+      "You are very thirsty or tired"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {
+        "label": "MedlinePlus: Frequent or urgent urination",
+        "url": "https://medlineplus.gov/ency/article/003140.htm"
+      },
+      {
+        "url": "https://www.nhs.uk/conditions/enlarged-prostate/",
+        "label": "NHS — Enlarged prostate"
+      },
+      {
+        "label": "NHS: Type 2 diabetes",
+        "url": "https://www.nhs.uk/conditions/type-2-diabetes/"
+      }
+    ]
+  },
+  {
+    "id": "blood-in-urine",
+    "name": "Blood in urine",
+    "aliases": [
+      "blood in pee",
+      "red urine",
+      "pink pee",
+      "haematuria",
+      "hematuria",
+      "cola-coloured urine"
+    ],
+    "bodyArea": "Urinary & kidneys",
+    "summary": "Blood in your pee can be caused by an infection or kidney stones, but it can also be a sign of something more serious, so it should always be checked by a doctor.",
+    "redFlags": [
+      "Being unable to pee at all",
+      "Passing large blood clots or heavy bleeding",
+      "Feeling faint, confused or very unwell with a high or very low temperature"
+    ],
+    "urgentFlags": [
+      "Blood in your pee with pain in your back or side",
+      "Blood in your pee with a high temperature or shivering",
+      "Blood in your pee after an injury",
+      "Passing small blood clots"
+    ],
+    "commonCauses": [
+      {
+        "title": "Urinary tract infection",
+        "detail": "Often with burning, needing to pee often and cloudy pee."
+      },
+      {
+        "title": "Kidney stones",
+        "detail": "Usually with severe pain in the side, back or groin that comes in waves."
+      },
+      {
+        "title": "Enlarged prostate",
+        "detail": "Can cause blood in the pee in older men."
+      },
+      {
+        "title": "Kidney or bladder disease or cancer",
+        "detail": "Less common, but the reason blood in pee always needs tests."
+      },
+      {
+        "title": "Harmless colour changes",
+        "detail": "Beetroot, blackberries, some medicines and periods can colour pee red or pink."
+      }
+    ],
+    "selfCare": [
+      "Think about whether food such as beetroot, a medicine, or a period could explain the colour",
+      "Drink enough fluids so your pee is pale",
+      "Book a doctor's appointment even if it only happened once"
+    ],
+    "avoid": [
+      "Ignoring blood in your pee because it has stopped",
+      "Taking leftover antibiotics without advice"
+    ],
+    "seeDoctorIf": [
+      "You have seen blood in your pee, even once",
+      "A urine test has found blood",
+      "You have a need to pee more often or a weak flow"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {
+        "label": "NHS: Blood in urine",
+        "url": "https://www.nhs.uk/conditions/blood-in-urine/"
+      },
+      {
+        "label": "MedlinePlus: Urine - bloody",
+        "url": "https://medlineplus.gov/ency/article/003138.htm"
+      }
+    ]
+  },
+  {
+    "id": "flank-pain",
+    "name": "Kidney or side pain",
+    "aliases": [
+      "kidney pain",
+      "flank pain",
+      "pain in my side and back",
+      "pain under ribs at the back",
+      "kidney stone pain",
+      "loin pain"
+    ],
+    "bodyArea": "Urinary & kidneys",
+    "summary": "Pain in your side or back just under the ribs can come from the kidneys, for example a kidney infection or kidney stone, or from muscles. Kidney problems need prompt treatment.",
+    "redFlags": [
+      "Severe pain with a high temperature and shivering, or feeling confused or very unwell",
+      "Cold, blotchy or blue-tinged skin, fast breathing or fainting",
+      "Not having peed all day",
+      "Sudden severe pain in the back or tummy in someone over 60, especially with fainting"
+    ],
+    "urgentFlags": [
+      "Pain in your side with a high temperature, feeling sick or being sick",
+      "Severe pain that comes in waves and spreads to your groin",
+      "Pain in your side with blood in your pee",
+      "Pain in your side during pregnancy",
+      "Pain in your side with burning when peeing"
+    ],
+    "commonCauses": [
+      {
+        "title": "Kidney infection",
+        "detail": "Pain in the side or back with a high temperature, shivering and feeling sick, often after cystitis."
+      },
+      {
+        "title": "Kidney stones",
+        "detail": "Severe pain that comes in waves, often spreading to the groin, sometimes with blood in the pee."
+      },
+      {
+        "title": "Muscle strain",
+        "detail": "Pain that is worse with movement and better with rest, without fever or urine symptoms."
+      },
+      {
+        "title": "Shingles",
+        "detail": "Burning pain on one side followed by a blistering rash a few days later."
+      }
+    ],
+    "selfCare": [
+      "Drink plenty of fluids while you arrange to be seen",
+      "Paracetamol can help with pain, following the pack instructions",
+      "If muscular, gentle movement and heat can help"
+    ],
+    "avoid": [
+      "Waiting to see if suspected kidney infection gets better on its own",
+      "Taking ibuprofen if you have kidney disease, unless a doctor has advised it"
+    ],
+    "seeDoctorIf": [
+      "You have mild side pain that keeps coming back",
+      "You have had kidney stones before and have similar mild pain",
+      "Side pain lasts more than a few days without other symptoms"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {
+        "label": "NHS: Kidney infection",
+        "url": "https://www.nhs.uk/conditions/kidney-infection/"
+      },
+      {
+        "label": "NHS: Kidney stones",
+        "url": "https://www.nhs.uk/conditions/kidney-stones/"
+      }
+    ]
+  },
+  {
+    "id": "urinary-incontinence",
+    "name": "Leaking urine",
+    "aliases": [
+      "bladder leakage",
+      "urinary incontinence",
+      "wetting myself",
+      "leak when I cough or sneeze",
+      "can't hold my pee",
+      "weak bladder"
+    ],
+    "bodyArea": "Urinary & kidneys",
+    "summary": "Leaking urine is common, especially after childbirth, with age and around the menopause. It can usually be improved with pelvic floor exercises and other treatments.",
+    "redFlags": [
+      "New loss of bladder or bowel control with back pain, or numbness around the genitals or bottom",
+      "New loss of bladder control with sudden weakness, numbness or confusion"
+    ],
+    "urgentFlags": [
+      "Leaking with burning when peeing and a high temperature",
+      "Leaking because the bladder is overfull and you cannot empty it",
+      "Sudden new leaking with pain in your back or side"
+    ],
+    "commonCauses": [
+      {
+        "title": "Stress incontinence",
+        "detail": "Leaking when you cough, sneeze, laugh or exercise, often due to weak pelvic floor muscles."
+      },
+      {
+        "title": "Urge incontinence or overactive bladder",
+        "detail": "A sudden, strong need to pee and leaking before you reach the toilet."
+      },
+      {
+        "title": "Urinary tract infection",
+        "detail": "Can cause sudden new leaking with burning and urgency."
+      },
+      {
+        "title": "Enlarged prostate",
+        "detail": "Can cause dribbling and leaking in men."
+      }
+    ],
+    "selfCare": [
+      "Do pelvic floor exercises every day; results usually take a few months",
+      "Cut down on caffeine, fizzy drinks and alcohol",
+      "Lose weight if you are overweight",
+      "Stop smoking, as coughing strains the pelvic floor",
+      "Try bladder training to increase the time between toilet visits"
+    ],
+    "avoid": [
+      "Drinking much less fluid, which can make the bladder more irritable",
+      "Putting off getting help because of embarrassment"
+    ],
+    "seeDoctorIf": [
+      "Leaking urine affects your daily life",
+      "Pelvic floor exercises have not helped after 3 months",
+      "You also have difficulty emptying your bladder",
+      "You have blood in your pee"
+    ],
+    "selfCareMaxDays": 60,
+    "sources": [
+      {
+        "label": "NHS: Urinary incontinence",
+        "url": "https://www.nhs.uk/conditions/urinary-incontinence/"
+      },
+      {
+        "label": "MedlinePlus: Urinary incontinence",
+        "url": "https://medlineplus.gov/urinaryincontinence.html"
+      }
+    ]
+  },
+  {
+    "id": "difficulty-urinating",
+    "name": "Difficulty peeing or weak flow",
+    "aliases": [
+      "weak urine stream",
+      "can't pee",
+      "trouble urinating",
+      "dribbling after peeing",
+      "straining to pee",
+      "bladder not emptying"
+    ],
+    "bodyArea": "Urinary & kidneys",
+    "summary": "A weak flow, straining or dribbling is common in older men and often due to an enlarged prostate. Suddenly being unable to pee at all is an emergency.",
+    "redFlags": [
+      "Being suddenly unable to pee at all, often with a painful, swollen lower tummy",
+      "Difficulty peeing with new numbness around the genitals or bottom, or weakness in the legs and back pain"
+    ],
+    "urgentFlags": [
+      "Difficulty peeing with a high temperature or pain in your back or side",
+      "Blood in your pee",
+      "Difficulty peeing after starting a new medicine"
+    ],
+    "commonCauses": [
+      {
+        "title": "Enlarged prostate",
+        "detail": "Very common in men over 50, causing a weak flow, straining and getting up at night."
+      },
+      {
+        "title": "Infection",
+        "detail": "A bladder or prostate infection can make peeing difficult and painful."
+      },
+      {
+        "title": "Medicines",
+        "detail": "Some cold remedies, antihistamines and other medicines can make it harder to pee."
+      },
+      {
+        "title": "Constipation",
+        "detail": "A full bowel can press on the bladder."
+      },
+      {
+        "title": "Narrowing of the urethra or prostate cancer",
+        "detail": "Less common causes that need tests."
+      }
+    ],
+    "selfCare": [
+      "Cut down on alcohol, caffeine and fizzy drinks, especially in the evening",
+      "Take your time when peeing and try peeing again a few minutes later (double voiding)",
+      "Treat constipation if you have it"
+    ],
+    "avoid": [
+      "Over-the-counter decongestants and some antihistamines, which can make it harder to pee",
+      "Assuming it is just age and not getting checked"
+    ],
+    "seeDoctorIf": [
+      "You have a weak flow, straining or dribbling",
+      "You feel your bladder does not empty fully",
+      "You get up several times at night to pee",
+      "You are worried about your prostate"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {
+        "url": "https://www.nhs.uk/conditions/enlarged-prostate/",
+        "label": "NHS — Enlarged prostate"
+      },
+      {
+        "label": "NHS: Prostate cancer",
+        "url": "https://www.nhs.uk/conditions/prostate-cancer/"
+      }
+    ]
+  },
+  {
+    "id": "dark-or-cloudy-urine",
+    "name": "Dark, cloudy or smelly urine",
+    "aliases": [
+      "dark pee",
+      "cloudy urine",
+      "smelly pee",
+      "strong smelling urine",
+      "brown urine",
+      "foamy urine"
+    ],
+    "bodyArea": "Urinary & kidneys",
+    "summary": "Dark pee usually means you need to drink more. Cloudy or strong-smelling pee can also be a sign of a urine infection.",
+    "redFlags": [
+      "Dark pee with confusion, fainting or extreme drowsiness",
+      "Not having peed all day"
+    ],
+    "urgentFlags": [
+      "Dark pee with yellowing of the skin or the whites of the eyes, or pale poo",
+      "Cloudy pee with burning, a high temperature or pain in your back or side",
+      "Brown or cola-coloured pee after intense exercise or a crush injury, with muscle pain",
+      "Dark pee that stays dark even after drinking more"
+    ],
+    "commonCauses": [
+      {
+        "title": "Not drinking enough",
+        "detail": "Concentrated pee is darker and smells stronger."
+      },
+      {
+        "title": "Urinary tract infection",
+        "detail": "Cloudy, strong-smelling pee with burning and needing to pee often."
+      },
+      {
+        "title": "Food and medicines",
+        "detail": "Asparagus, beetroot, vitamins and some medicines change pee colour or smell."
+      },
+      {
+        "title": "Liver problems",
+        "detail": "Dark brown pee with yellow skin or eyes can be a sign of a liver or gallbladder problem."
+      }
+    ],
+    "selfCare": [
+      "Drink enough fluids so your pee is pale yellow",
+      "Drink more in hot weather and when exercising",
+      "Check whether a new food, vitamin or medicine could explain the change"
+    ],
+    "avoid": [
+      "Ignoring dark pee that comes with yellow skin or eyes",
+      "Using cranberry products instead of getting a suspected infection checked"
+    ],
+    "seeDoctorIf": [
+      "Your pee stays dark or cloudy for more than a few days despite drinking more",
+      "Your pee is frothy or foamy most of the time",
+      "You keep getting urine infections"
+    ],
+    "selfCareMaxDays": 3,
+    "sources": [
+      {
+        "label": "NHS: Dehydration",
+        "url": "https://www.nhs.uk/conditions/dehydration/"
+      },
+      {
+        "label": "NHS: Urinary tract infections (UTIs)",
+        "url": "https://www.nhs.uk/conditions/urinary-tract-infections-utis/"
+      }
+    ]
+  },
+  {
+    "id": "period-pain",
+    "name": "Period pain",
+    "aliases": [
+      "period cramps",
+      "menstrual cramps",
+      "painful periods",
+      "dysmenorrhoea",
+      "dysmenorrhea",
+      "cramps on my period"
+    ],
+    "bodyArea": "Sexual & reproductive health",
+    "summary": "Period pain is common and is usually felt as cramps in the lower tummy, sometimes spreading to the back and thighs. Self-care usually helps, but severe pain should be checked.",
+    "redFlags": [
+      "Sudden, severe pain in the lower tummy, especially on one side, if you could be pregnant",
+      "Severe pain with fainting, dizziness or shoulder-tip pain",
+      "Soaking through pads or tampons every hour with feeling faint"
+    ],
+    "urgentFlags": [
+      "Severe pain with a high temperature or unusual smelly discharge",
+      "Pain that is much worse than your usual period pain",
+      "Pain with a coil (IUD) fitted and a high temperature"
+    ],
+    "commonCauses": [
+      {
+        "title": "Normal period cramps",
+        "detail": "The womb muscle tightens to shed its lining; pain is often worst in the first 1 to 2 days."
+      },
+      {
+        "title": "Endometriosis",
+        "detail": "Tissue like the womb lining grows elsewhere, causing severe period pain, pain during sex or pain when pooing."
+      },
+      {
+        "title": "Fibroids or adenomyosis",
+        "detail": "Non-cancerous growths or changes in the womb that can cause heavy, painful periods."
+      },
+      {
+        "title": "Pelvic inflammatory disease",
+        "detail": "An infection, often with discharge, pain during sex or a high temperature."
+      }
+    ],
+    "selfCare": [
+      "Take ibuprofen or paracetamol, following the pack instructions; ibuprofen often works best if started early",
+      "Put a heat pad or hot water bottle on your tummy",
+      "Take a warm bath or shower",
+      "Gentle exercise such as walking, swimming or yoga can help",
+      "Stop smoking, as it can make period pain worse"
+    ],
+    "avoid": [
+      "Aspirin if you are under 16",
+      "Taking more painkillers than the pack allows if the pain is not controlled"
+    ],
+    "seeDoctorIf": [
+      "Your period pain is severe or stops you doing daily activities",
+      "Your period pain has changed or got worse",
+      "You have heavy periods, bleeding between periods or pain during sex",
+      "Pharmacy painkillers do not help"
+    ],
+    "selfCareMaxDays": 7,
+    "sources": [
+      {
+        "label": "NHS: Period pain",
+        "url": "https://www.nhs.uk/conditions/period-pain/"
+      },
+      {
+        "label": "NHS: Endometriosis",
+        "url": "https://www.nhs.uk/conditions/endometriosis/"
+      }
+    ]
+  },
+  {
+    "id": "heavy-periods",
+    "name": "Heavy periods",
+    "aliases": [
+      "heavy menstrual bleeding",
+      "flooding",
+      "passing clots on period",
+      "menorrhagia",
+      "bleeding through pads",
+      "long periods"
+    ],
+    "bodyArea": "Sexual & reproductive health",
+    "summary": "Heavy periods are common and can affect daily life. A doctor can check for a cause and offer treatments, and test for low iron.",
+    "redFlags": [
+      "Soaking through a pad or tampon every hour for several hours, with dizziness or fainting",
+      "Very heavy bleeding with a racing heart, breathlessness or feeling faint",
+      "Heavy bleeding with severe tummy pain if you could be pregnant"
+    ],
+    "urgentFlags": [
+      "Bleeding that is heavier than you have ever had and not easing",
+      "Heavy bleeding with a high temperature or unusual smelly discharge",
+      "Heavy bleeding while pregnant or after a positive pregnancy test"
+    ],
+    "commonCauses": [
+      {
+        "title": "No obvious cause",
+        "detail": "Many people have heavy periods without any underlying problem."
+      },
+      {
+        "title": "Fibroids or polyps",
+        "detail": "Non-cancerous growths in the womb."
+      },
+      {
+        "title": "Hormone changes",
+        "detail": "Around puberty, the menopause or with polycystic ovary syndrome."
+      },
+      {
+        "title": "Contraception or medicines",
+        "detail": "The copper coil and blood thinners can make periods heavier."
+      },
+      {
+        "title": "Endometriosis, adenomyosis or bleeding disorders",
+        "detail": "Less common causes that may need tests."
+      }
+    ],
+    "selfCare": [
+      "Keep a diary of how heavy your periods are and how long they last",
+      "Use ibuprofen or paracetamol for pain, following the pack instructions",
+      "Eat iron-rich foods such as red meat, beans, lentils and green leafy vegetables",
+      "Use a heat pad for cramps"
+    ],
+    "avoid": [
+      "Aspirin for period pain, as it can make bleeding heavier",
+      "Putting up with heavy periods that affect your life"
+    ],
+    "seeDoctorIf": [
+      "You have to change pads or tampons every 1 to 2 hours, or empty a menstrual cup more often than recommended",
+      "You pass blood clots larger than about 2.5cm",
+      "Your periods last more than 7 days",
+      "You feel tired, breathless or look pale",
+      "You also have bleeding between periods or after sex"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {
+        "label": "NHS: Heavy periods",
+        "url": "https://www.nhs.uk/conditions/heavy-periods/"
+      },
+      {
+        "label": "MedlinePlus: Menstruation",
+        "url": "https://medlineplus.gov/menstruation.html"
+      }
+    ]
+  },
+  {
+    "id": "missed-period",
+    "name": "Missed or irregular periods",
+    "aliases": [
+      "late period",
+      "no period",
+      "period stopped",
+      "irregular periods",
+      "skipped period",
+      "amenorrhoea"
+    ],
+    "bodyArea": "Sexual & reproductive health",
+    "summary": "A late or missed period is often caused by pregnancy, stress, weight changes, exercise or contraception. Do a pregnancy test first if you could be pregnant.",
+    "redFlags": [
+      "A missed period with sudden severe tummy pain, especially on one side",
+      "A missed period with shoulder-tip pain, fainting or dizziness",
+      "A positive pregnancy test with heavy bleeding and severe pain"
+    ],
+    "urgentFlags": [
+      "A positive pregnancy test with one-sided tummy pain or light bleeding",
+      "Being unable to keep food or fluids down"
+    ],
+    "commonCauses": [
+      {
+        "title": "Pregnancy",
+        "detail": "The most common reason if you have had sex; a home pregnancy test is accurate from the first day of a missed period."
+      },
+      {
+        "title": "Stress, weight loss or intense exercise",
+        "detail": "These can stop or delay ovulation."
+      },
+      {
+        "title": "Hormonal contraception",
+        "detail": "Pills, injections, implants and hormonal coils can make periods lighter, irregular or stop."
+      },
+      {
+        "title": "Polycystic ovary syndrome",
+        "detail": "Irregular periods, sometimes with acne, extra hair growth or weight gain."
+      },
+      {
+        "title": "Menopause or thyroid problems",
+        "detail": "Periods become irregular before the menopause; an over- or underactive thyroid can also affect them."
+      }
+    ],
+    "selfCare": [
+      "Take a pregnancy test if you could be pregnant",
+      "Keep a record of your periods using a diary or app",
+      "Look after your wellbeing: eat regular balanced meals and manage stress where you can"
+    ],
+    "avoid": [
+      "Assuming you cannot get pregnant because your periods are irregular",
+      "Herbal products claimed to 'bring on' a period, which are unproven and may be unsafe"
+    ],
+    "seeDoctorIf": [
+      "You have missed 3 periods in a row and are not pregnant",
+      "You are under 45 and your periods have stopped",
+      "You are 15 or older and have not started your periods",
+      "Your periods are irregular and you are trying to get pregnant",
+      "You have bleeding after the menopause"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {
+        "label": "NHS: Stopped or missed periods",
+        "url": "https://www.nhs.uk/conditions/stopped-or-missed-periods/"
+      },
+      {
+        "label": "NHS: Irregular periods",
+        "url": "https://www.nhs.uk/conditions/irregular-periods/"
+      }
+    ]
+  },
+  {
+    "id": "bleeding-between-periods",
+    "name": "Bleeding between periods or after sex",
+    "aliases": [
+      "spotting between periods",
+      "bleeding after sex",
+      "intermenstrual bleeding",
+      "unexpected vaginal bleeding",
+      "brown spotting"
+    ],
+    "bodyArea": "Sexual & reproductive health",
+    "summary": "Light spotting can happen with hormonal contraception or around ovulation, but bleeding between periods or after sex should be checked by a doctor.",
+    "redFlags": [
+      "Heavy bleeding with dizziness, fainting or a racing heart",
+      "Bleeding with severe tummy pain if you could be pregnant"
+    ],
+    "urgentFlags": [
+      "Bleeding with a positive pregnancy test",
+      "Bleeding with a high temperature, pelvic pain or unusual smelly discharge"
+    ],
+    "commonCauses": [
+      {
+        "title": "Hormonal contraception",
+        "detail": "Spotting is common when starting or changing pills, implants, injections or hormonal coils, or after missing pills."
+      },
+      {
+        "title": "Sexually transmitted infections",
+        "detail": "Chlamydia and gonorrhoea can cause bleeding after sex or between periods."
+      },
+      {
+        "title": "Cervical changes or polyps",
+        "detail": "Small growths or changes on the cervix can bleed, especially after sex."
+      },
+      {
+        "title": "Pregnancy",
+        "detail": "Bleeding can happen in early pregnancy, including with miscarriage or ectopic pregnancy."
+      },
+      {
+        "title": "Cervical or womb cancer",
+        "detail": "Less common, but the reason unexplained bleeding should be checked."
+      }
+    ],
+    "selfCare": [
+      "Do a pregnancy test if you could be pregnant",
+      "Keep a diary of when bleeding happens",
+      "Make sure you are up to date with cervical screening"
+    ],
+    "avoid": [
+      "Ignoring bleeding after sex",
+      "Assuming spotting is caused by contraception without checking if it continues"
+    ],
+    "seeDoctorIf": [
+      "You have bleeding between periods or after sex",
+      "Spotting on contraception lasts more than 3 months",
+      "You might have a sexually transmitted infection",
+      "You are 45 or over with new irregular bleeding"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {
+        "label": "MedlinePlus: Vaginal bleeding",
+        "url": "https://medlineplus.gov/vaginalbleeding.html"
+      },
+      {
+        "label": "NHS: Cervical cancer symptoms",
+        "url": "https://www.nhs.uk/conditions/cervical-cancer/symptoms/"
+      }
+    ]
+  },
+  {
+    "id": "postmenopausal-bleeding",
+    "name": "Bleeding after the menopause",
+    "aliases": [
+      "post-menopausal bleeding",
+      "bleeding after menopause",
+      "spotting after menopause",
+      "vaginal bleeding older woman"
+    ],
+    "bodyArea": "Sexual & reproductive health",
+    "summary": "Any vaginal bleeding a year or more after your last period is not normal and should be checked by a doctor. It is often caused by something treatable, but it can be an early sign of womb cancer.",
+    "redFlags": [
+      "Heavy bleeding with dizziness, fainting or a racing heart"
+    ],
+    "urgentFlags": [
+      "Heavy or continuous bleeding",
+      "Bleeding with pelvic pain and a high temperature"
+    ],
+    "commonCauses": [
+      {
+        "title": "Thinning of the vaginal or womb lining",
+        "detail": "Lower oestrogen after the menopause can make the tissues thin and bleed easily."
+      },
+      {
+        "title": "Hormone replacement therapy",
+        "detail": "HRT can cause some bleeding, especially when starting or changing treatment."
+      },
+      {
+        "title": "Polyps",
+        "detail": "Small non-cancerous growths in the womb or cervix."
+      },
+      {
+        "title": "Thickened womb lining or womb cancer",
+        "detail": "Less common, but the reason any bleeding after the menopause must be investigated."
+      }
+    ],
+    "selfCare": [
+      "Make an appointment with a doctor even if the bleeding was light or happened once",
+      "Note when the bleeding happened and how heavy it was"
+    ],
+    "avoid": [
+      "Waiting to see if it happens again",
+      "Assuming it is a period returning"
+    ],
+    "seeDoctorIf": [
+      "You have any bleeding a year or more after your last period",
+      "You have unexpected bleeding while on HRT",
+      "You have new vaginal discharge after the menopause"
+    ],
+    "selfCareMaxDays": 0,
+    "sources": [
+      {
+        "label": "NHS: Post-menopausal bleeding",
+        "url": "https://www.nhs.uk/conditions/post-menopausal-bleeding/"
+      },
+      {
+        "label": "NHS: Womb (uterus) cancer",
+        "url": "https://www.nhs.uk/conditions/womb-cancer/"
+      }
+    ]
+  },
+  {
+    "id": "vaginal-discharge",
+    "name": "Unusual vaginal discharge",
+    "aliases": [
+      "smelly discharge",
+      "fishy smell down there",
+      "thick white discharge",
+      "green discharge",
+      "yellow discharge",
+      "change in discharge"
+    ],
+    "bodyArea": "Sexual & reproductive health",
+    "summary": "Some vaginal discharge is normal and changes during the cycle. A change in colour, smell or texture, or itching, is often due to thrush or bacterial vaginosis, which are easily treated.",
+    "redFlags": [
+      "Discharge with severe tummy pain, a high temperature and feeling very unwell",
+      "Feeling faint, confused or very unwell with a high temperature and a tampon or menstrual cup in place"
+    ],
+    "urgentFlags": [
+      "Discharge with pelvic pain or a high temperature",
+      "Discharge with bleeding between periods or after sex",
+      "Unusual discharge during pregnancy"
+    ],
+    "commonCauses": [
+      {
+        "title": "Bacterial vaginosis",
+        "detail": "Thin, grey-white discharge with a strong fishy smell."
+      },
+      {
+        "title": "Thrush",
+        "detail": "Thick, white discharge like cottage cheese, with itching and soreness."
+      },
+      {
+        "title": "Sexually transmitted infections",
+        "detail": "Trichomoniasis, chlamydia or gonorrhoea can cause green, yellow or frothy discharge."
+      },
+      {
+        "title": "Normal changes",
+        "detail": "Discharge changes with the menstrual cycle, pregnancy, contraception and the menopause."
+      }
+    ],
+    "selfCare": [
+      "Wash the outside of the vagina gently with water or plain unperfumed soap",
+      "Wear cotton underwear and avoid tight clothing",
+      "Ask a pharmacist about treatments for thrush or bacterial vaginosis if you have had it diagnosed before and recognise the symptoms",
+      "Use condoms with new or casual partners"
+    ],
+    "avoid": [
+      "Douching or washing inside the vagina",
+      "Perfumed soaps, wipes and feminine deodorants",
+      "Home remedies such as yoghurt, garlic or tea tree oil inside the vagina"
+    ],
+    "seeDoctorIf": [
+      "This is the first time you have had these symptoms",
+      "Treatment has not worked or symptoms keep coming back",
+      "You might have a sexually transmitted infection",
+      "You are pregnant, under 16 or have gone through the menopause"
+    ],
+    "selfCareMaxDays": 7,
+    "sources": [
+      {
+        "label": "NHS: Vaginal discharge",
+        "url": "https://www.nhs.uk/conditions/vaginal-discharge/"
+      },
+      {
+        "label": "NHS: Bacterial vaginosis",
+        "url": "https://www.nhs.uk/conditions/bacterial-vaginosis/"
+      }
+    ]
+  },
+  {
+    "id": "genital-itching",
+    "name": "Itching or soreness in the genital area",
+    "aliases": [
+      "itchy vagina",
+      "itchy vulva",
+      "itchy penis",
+      "sore genitals",
+      "thrush",
+      "itchy down there"
+    ],
+    "bodyArea": "Sexual & reproductive health",
+    "summary": "Itching and soreness in the genital area is commonly caused by thrush or irritation from soaps. It is usually easy to treat.",
+    "redFlags": [
+      "Rapidly spreading redness, swelling and severe pain in the genital area with a high temperature and feeling very unwell"
+    ],
+    "urgentFlags": [
+      "Painful blisters or sores on the genitals",
+      "Itching with pelvic pain or a high temperature",
+      "Swelling that makes it hard to pee"
+    ],
+    "commonCauses": [
+      {
+        "title": "Thrush",
+        "detail": "Itching, soreness and thick white discharge; can affect women and men."
+      },
+      {
+        "title": "Irritation",
+        "detail": "Soaps, bubble bath, wipes, washing powders or latex condoms."
+      },
+      {
+        "title": "Sexually transmitted infections",
+        "detail": "Genital herpes, trichomoniasis or genital warts can cause itching."
+      },
+      {
+        "title": "Skin conditions",
+        "detail": "Eczema, psoriasis or lichen sclerosus can affect the genital skin."
+      }
+    ],
+    "selfCare": [
+      "Wash with water or plain unperfumed soap and pat dry",
+      "Wear loose cotton underwear",
+      "Use a plain emollient instead of soap",
+      "Ask a pharmacist about thrush treatment if you have had thrush before and recognise the symptoms"
+    ],
+    "avoid": [
+      "Scented products, douches and wipes",
+      "Scratching",
+      "Using thrush treatment repeatedly without being checked"
+    ],
+    "seeDoctorIf": [
+      "This is the first time you have had these symptoms",
+      "Symptoms have not improved after 7 to 14 days of treatment",
+      "You get thrush more than twice in 6 months",
+      "You might have a sexually transmitted infection",
+      "You have white patches or skin changes in the genital area"
+    ],
+    "selfCareMaxDays": 14,
+    "sources": [
+      {
+        "label": "NHS: Thrush in men and women",
+        "url": "https://www.nhs.uk/conditions/thrush-in-men-and-women/"
+      },
+      {
+        "label": "NHS: Vaginal thrush",
+        "url": "https://www.nhs.uk/conditions/vaginal-thrush/"
+      }
+    ]
+  },
+  {
+    "id": "pelvic-pain",
+    "name": "Pelvic pain",
+    "aliases": [
+      "pain in lower abdomen",
+      "pelvic cramps",
+      "pain in pelvis",
+      "ovary pain",
+      "lower tummy pain women",
+      "womb pain"
+    ],
+    "bodyArea": "Sexual & reproductive health",
+    "summary": "Pain in the area below your belly button and between your hips is often linked to periods, ovulation or a urine infection. Sudden or severe pelvic pain needs to be checked quickly.",
+    "redFlags": [
+      "Sudden, severe pelvic pain, especially on one side, if you could be pregnant",
+      "Pelvic pain with shoulder-tip pain, fainting or dizziness",
+      "Severe pain with a high temperature, vomiting and feeling very unwell",
+      "Sudden severe one-sided pain with vomiting"
+    ],
+    "urgentFlags": [
+      "Pelvic pain with a high temperature or unusual discharge",
+      "Pelvic pain with pain or burning when peeing",
+      "Pelvic pain with bleeding between periods or after sex",
+      "Pelvic pain during pregnancy"
+    ],
+    "commonCauses": [
+      {
+        "title": "Period pain or ovulation pain",
+        "detail": "Cramping around a period, or a one-sided ache mid-cycle."
+      },
+      {
+        "title": "Urinary tract infection",
+        "detail": "Low tummy pain with burning and needing to pee often."
+      },
+      {
+        "title": "Pelvic inflammatory disease",
+        "detail": "An infection of the womb, tubes or ovaries, often with discharge or pain during sex."
+      },
+      {
+        "title": "Endometriosis or ovarian cysts",
+        "detail": "Long-term pain that often gets worse around periods."
+      },
+      {
+        "title": "Ectopic pregnancy or miscarriage",
+        "detail": "Pain with a missed period or positive pregnancy test needs urgent assessment."
+      }
+    ],
+    "selfCare": [
+      "Do a pregnancy test if you could be pregnant",
+      "Use paracetamol or ibuprofen for mild pain, following the pack instructions",
+      "A heat pad or warm bath may ease cramping",
+      "Keep a diary of when the pain happens and what makes it better or worse"
+    ],
+    "avoid": [
+      "Waiting at home with sudden severe pain",
+      "Assuming new pelvic pain is just period pain if it feels different"
+    ],
+    "seeDoctorIf": [
+      "You have pelvic pain that keeps coming back or lasts more than a few weeks",
+      "You have pain during sex",
+      "Your periods have become more painful",
+      "You might have a sexually transmitted infection"
+    ],
+    "selfCareMaxDays": 7,
+    "sources": [
+      {
+        "label": "NHS: Pelvic pain",
+        "url": "https://www.nhs.uk/conditions/pelvic-pain/"
+      },
+      {
+        "label": "NHS: Ectopic pregnancy",
+        "url": "https://www.nhs.uk/conditions/ectopic-pregnancy/"
+      }
+    ]
+  }
+]

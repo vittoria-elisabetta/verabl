@@ -1,0 +1,730 @@
+[
+  {
+    "id": "croup",
+    "name": "Croup",
+    "aliases": [
+      "barking cough",
+      "laryngotracheobronchitis"
+    ],
+    "category": "Children",
+    "overview": "Croup is a common childhood condition that affects the windpipe and airways, causing a distinctive barking cough. It is usually mild and gets better within 48 hours, but can sometimes make breathing difficult.",
+    "symptoms": [
+      "A barking cough, often worse at night",
+      "A rasping sound when breathing in (stridor)",
+      "Hoarse voice",
+      "Cold-like symptoms such as a runny nose and high temperature",
+      "Difficulty breathing"
+    ],
+    "causes": [
+      "Usually a viral infection, such as parainfluenza virus",
+      "Spread through coughs and sneezes"
+    ],
+    "riskFactors": [
+      "Age 6 months to 3 years",
+      "Autumn and winter months"
+    ],
+    "diagnosis": "A doctor diagnoses croup from the typical cough and by examining the child's breathing.",
+    "treatment": [
+      "Steroid medicine prescribed by a doctor to reduce swelling in the airways",
+      "Paracetamol or ibuprofen for fever or discomfort",
+      "Hospital treatment, including oxygen, for severe croup"
+    ],
+    "selfCare": [
+      "Keep your child calm and comfortable; crying can make it worse",
+      "Give plenty of fluids",
+      "Sit your child upright",
+      "Do not put a child in a steamy room or give them steam to breathe"
+    ],
+    "prevention": [
+      "Wash hands regularly",
+      "Routine childhood vaccinations"
+    ],
+    "whenToSeeDoctor": [
+      "You think your child has croup",
+      "Symptoms are getting worse or lasting more than 48 hours",
+      "Your child has a high temperature or seems unwell"
+    ],
+    "emergencySigns": [
+      "Struggling to breathe, with the tummy sucking under the ribs",
+      "Lips or skin turning blue or grey",
+      "Unusually drowsy or floppy",
+      "Drooling or unable to swallow",
+      "Making a high-pitched noise when breathing at rest"
+    ],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: Croup",
+        "url": "https://www.nhs.uk/conditions/croup/"
+      },
+      {
+        "label": "MedlinePlus: Croup",
+        "url": "https://medlineplus.gov/croup.html"
+      }
+    ]
+  },
+  {
+    "id": "bronchiolitis",
+    "name": "Bronchiolitis",
+    "aliases": [
+      "baby chest infection",
+      "infant bronchiolitis"
+    ],
+    "category": "Children",
+    "overview": "Bronchiolitis is a common chest infection that affects babies and children under 2. It is usually mild and gets better within 2 to 3 weeks, but some babies need hospital care.",
+    "symptoms": [
+      "Runny nose and cough at first",
+      "High temperature",
+      "Wheezing or rapid breathing",
+      "Feeding less and fewer wet nappies",
+      "Being sick after feeding",
+      "Being irritable"
+    ],
+    "causes": [
+      "Viral infection, most commonly respiratory syncytial virus (RSV)",
+      "Spread through coughs, sneezes and touching contaminated surfaces"
+    ],
+    "riskFactors": [
+      "Babies under 3 months",
+      "Premature birth",
+      "Heart or lung conditions",
+      "Exposure to cigarette smoke",
+      "Winter months"
+    ],
+    "diagnosis": "A GP diagnoses bronchiolitis from the symptoms and by listening to the chest.",
+    "treatment": [
+      "Most babies get better at home with fluids and rest",
+      "Hospital care for breathing or feeding problems, including oxygen and fluids",
+      "Antibiotics are not used because it is caused by a virus"
+    ],
+    "selfCare": [
+      "Give small feeds more often",
+      "Use saline drops to ease a blocked nose if advised",
+      "Keep your baby upright",
+      "Keep your baby away from smoke"
+    ],
+    "prevention": [
+      "Wash hands often",
+      "Keep babies away from people with colds",
+      "Do not smoke around children",
+      "RSV immunisation for babies or in pregnancy where offered"
+    ],
+    "whenToSeeDoctor": [
+      "Your baby is feeding much less than usual",
+      "Fewer wet nappies",
+      "A high temperature",
+      "Your baby seems very tired or irritable"
+    ],
+    "emergencySigns": [
+      "Pauses in breathing",
+      "Struggling to breathe, with the tummy sucking under the ribs",
+      "Lips or tongue turning blue or grey",
+      "Your baby is floppy or not responding"
+    ],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: Bronchiolitis",
+        "url": "https://www.nhs.uk/conditions/bronchiolitis/"
+      }
+    ]
+  },
+  {
+    "id": "rsv",
+    "name": "Respiratory syncytial virus (RSV)",
+    "aliases": [
+      "RSV",
+      "respiratory syncytial virus"
+    ],
+    "category": "Children",
+    "overview": "RSV is a common virus that causes cough and cold symptoms. Most people recover within a few weeks, but it can cause serious breathing problems such as bronchiolitis and pneumonia in babies and older adults. Immunisations are available for some groups.",
+    "symptoms": [
+      "Runny or blocked nose",
+      "Cough",
+      "Sneezing",
+      "Tiredness",
+      "High temperature",
+      "In babies: wheezing, fast breathing and difficulty feeding"
+    ],
+    "causes": [
+      "Infection with respiratory syncytial virus",
+      "Spread through coughs, sneezes and touching contaminated surfaces"
+    ],
+    "riskFactors": [
+      "Babies, especially under 6 months or born prematurely",
+      "Adults over 75",
+      "Heart or lung conditions",
+      "A weakened immune system"
+    ],
+    "diagnosis": "RSV is usually diagnosed from symptoms; a nose or throat swab test may be used in hospital.",
+    "treatment": [
+      "Most people get better at home with rest and fluids",
+      "Paracetamol or ibuprofen for fever",
+      "Hospital care for breathing or feeding problems"
+    ],
+    "selfCare": [
+      "Rest and drink plenty of fluids",
+      "Wash hands often",
+      "Keep away from babies and frail older people while unwell"
+    ],
+    "prevention": [
+      "RSV vaccine in pregnancy and for older adults where offered",
+      "Antibody immunisation for some babies",
+      "Regular handwashing",
+      "Catch coughs and sneezes in a tissue"
+    ],
+    "whenToSeeDoctor": [
+      "Symptoms getting worse",
+      "A baby is feeding less or has fewer wet nappies",
+      "You have a long-term condition and are worried"
+    ],
+    "emergencySigns": [
+      "Difficulty breathing or pauses in breathing",
+      "Lips or skin turning blue or grey",
+      "A baby who is floppy or unresponsive",
+      "Confusion in older adults"
+    ],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: Respiratory syncytial virus (RSV)",
+        "url": "https://www.nhs.uk/conditions/respiratory-syncytial-virus-rsv/"
+      },
+      {
+        "label": "CDC: RSV",
+        "url": "https://www.cdc.gov/rsv/"
+      }
+    ]
+  },
+  {
+    "id": "scarlet-fever",
+    "name": "Scarlet fever",
+    "aliases": [
+      "scarlatina",
+      "strep A rash"
+    ],
+    "category": "Children",
+    "overview": "Scarlet fever is a bacterial infection caused by group A streptococcus that mostly affects young children. It causes a rash and flu-like symptoms. It is easily treated with antibiotics.",
+    "symptoms": [
+      "Flu-like symptoms such as high temperature, sore throat and swollen neck glands",
+      "A rash appearing 12 to 48 hours later, often starting on the chest and tummy, that feels like sandpaper",
+      "On darker skin the rash may be harder to see but still feels rough",
+      "A white coating on the tongue that peels, leaving it red and swollen ('strawberry tongue')",
+      "Red cheeks"
+    ],
+    "causes": [
+      "Group A streptococcus bacteria",
+      "Spread through coughs, sneezes and touching contaminated surfaces"
+    ],
+    "riskFactors": [
+      "Children aged 5 to 15",
+      "Close contact in schools and nurseries"
+    ],
+    "diagnosis": "A GP diagnoses scarlet fever from the symptoms and may take a throat swab.",
+    "treatment": [
+      "Antibiotics prescribed by a doctor",
+      "Paracetamol or ibuprofen for fever and discomfort"
+    ],
+    "selfCare": [
+      "Drink plenty of fluids",
+      "Eat soft foods if the throat is sore",
+      "Use calamine lotion or antihistamines for itching",
+      "Stay off school or work until 24 hours after starting antibiotics"
+    ],
+    "prevention": [
+      "Wash hands often",
+      "Do not share cutlery, cups or towels",
+      "Bin used tissues quickly"
+    ],
+    "whenToSeeDoctor": [
+      "You think your child has scarlet fever",
+      "Your child is not getting better in a week, or has had chickenpox or measles recently",
+      "Your child is dehydrated"
+    ],
+    "emergencySigns": [
+      "Difficulty breathing, with the tummy sucking under the ribs",
+      "A child who is floppy, unresponsive or very drowsy",
+      "Blue lips or a rash that does not fade when a glass is pressed against it",
+      "Pauses in breathing"
+    ],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: Scarlet fever",
+        "url": "https://www.nhs.uk/conditions/scarlet-fever/"
+      },
+      {
+        "url": "https://medlineplus.gov/streptococcalinfections.html",
+        "label": "MedlinePlus — Streptococcal infections"
+      }
+    ]
+  },
+  {
+    "id": "roseola",
+    "name": "Roseola",
+    "aliases": [
+      "roseola infantum",
+      "sixth disease",
+      "exanthem subitum"
+    ],
+    "category": "Children",
+    "overview": "Roseola is a common illness in babies and young children. It causes a high temperature followed by a rash. It usually gets better on its own within a week.",
+    "symptoms": [
+      "A sudden high temperature lasting a few days",
+      "A rash of small pink or red spots on the chest, tummy and back after the fever goes",
+      "Runny nose and sore throat",
+      "Irritability",
+      "Swollen glands"
+    ],
+    "causes": [
+      "Infection with human herpesvirus 6 (HHV-6) or 7",
+      "Spread through saliva and droplets"
+    ],
+    "riskFactors": [
+      "Age 6 months to 2 years"
+    ],
+    "diagnosis": "A doctor diagnoses roseola from the pattern of fever followed by rash.",
+    "treatment": [
+      "No specific treatment; it gets better on its own",
+      "Paracetamol or ibuprofen for fever"
+    ],
+    "selfCare": [
+      "Give plenty of fluids",
+      "Let your child rest",
+      "Keep your child away from others until the fever has gone"
+    ],
+    "prevention": [
+      "Wash hands regularly"
+    ],
+    "whenToSeeDoctor": [
+      "Your child has a seizure for the first time",
+      "Fever lasts more than 5 days",
+      "Your child is not feeding or drinking well",
+      "Your child is under 3 months with a temperature of 38C or higher"
+    ],
+    "emergencySigns": [
+      "A rash that does not fade when a glass is pressed against it",
+      "A seizure lasting more than 5 minutes",
+      "Difficulty breathing",
+      "A child who is floppy or unresponsive"
+    ],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: Roseola",
+        "url": "https://www.nhs.uk/conditions/roseola/"
+      }
+    ]
+  },
+  {
+    "id": "slapped-cheek-syndrome",
+    "name": "Slapped cheek syndrome",
+    "aliases": [
+      "fifth disease",
+      "parvovirus B19",
+      "erythema infectiosum"
+    ],
+    "category": "Children",
+    "overview": "Slapped cheek syndrome is a common viral infection in children that causes a bright red rash on the cheeks. It is usually mild and gets better on its own within 3 weeks. It can occasionally be more serious for pregnant people and people with some blood disorders.",
+    "symptoms": [
+      "Mild cold-like symptoms such as high temperature, runny nose and sore throat",
+      "A bright red rash on both cheeks (may be less noticeable on darker skin)",
+      "A few days later, a spotty rash on the chest, arms and legs",
+      "Joint pain, especially in adults"
+    ],
+    "causes": [
+      "Infection with parvovirus B19",
+      "Spread through coughs and sneezes"
+    ],
+    "riskFactors": [
+      "Children in nurseries and schools",
+      "Spring and winter months"
+    ],
+    "diagnosis": "A GP diagnoses slapped cheek syndrome from the typical rash; a blood test may be done in pregnancy.",
+    "treatment": [
+      "No specific treatment; it gets better on its own",
+      "Paracetamol or ibuprofen for fever and joint pain",
+      "Antihistamines or emollients for itching"
+    ],
+    "selfCare": [
+      "Rest and drink plenty of fluids",
+      "Children can usually go to school once the rash appears, as they are no longer infectious"
+    ],
+    "prevention": [
+      "Wash hands often",
+      "Pregnant people in contact with it should speak to a doctor"
+    ],
+    "whenToSeeDoctor": [
+      "You are pregnant and have been in contact with slapped cheek syndrome or have a rash",
+      "You have a blood disorder such as sickle cell disease or a weakened immune system",
+      "Symptoms are severe or not improving"
+    ],
+    "emergencySigns": [
+      "Very pale skin, breathlessness or fainting in someone with a blood disorder",
+      "A rash that does not fade when a glass is pressed against it"
+    ],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: Slapped cheek syndrome",
+        "url": "https://www.nhs.uk/conditions/slapped-cheek-syndrome/"
+      }
+    ]
+  },
+  {
+    "id": "hand-foot-and-mouth-disease",
+    "name": "Hand, foot and mouth disease",
+    "aliases": [
+      "HFMD",
+      "coxsackievirus"
+    ],
+    "category": "Children",
+    "overview": "Hand, foot and mouth disease is a common infection in young children that causes mouth ulcers and spots on the hands and feet. It usually gets better on its own within 7 to 10 days. It is not related to foot and mouth disease in animals.",
+    "symptoms": [
+      "Sore throat and high temperature",
+      "Not wanting to eat",
+      "Painful mouth ulcers",
+      "A rash of spots or blisters on the hands, feet and sometimes the bottom or legs",
+      "Spots may be red, or darker or grey on darker skin"
+    ],
+    "causes": [
+      "Infection with enteroviruses such as coxsackievirus",
+      "Spread through coughs, sneezes, poo and fluid from blisters"
+    ],
+    "riskFactors": [
+      "Children under 10",
+      "Nurseries and schools"
+    ],
+    "diagnosis": "It is diagnosed from the typical spots and mouth ulcers.",
+    "treatment": [
+      "No specific treatment; it gets better on its own",
+      "Paracetamol or ibuprofen for pain and fever",
+      "Mouth gels or sprays for ulcers, as advised by a pharmacist"
+    ],
+    "selfCare": [
+      "Drink fluids, such as water or milk, to avoid dehydration",
+      "Eat soft foods and avoid hot, spicy or acidic food",
+      "Wash hands often"
+    ],
+    "prevention": [
+      "Wash hands with soap and water, especially after nappy changes and the toilet",
+      "Do not share towels or utensils",
+      "Bin used tissues quickly"
+    ],
+    "whenToSeeDoctor": [
+      "Symptoms not improving after 10 days",
+      "Your child is not drinking or has fewer wet nappies",
+      "Your child has a weakened immune system",
+      "You are pregnant and have been in contact with it"
+    ],
+    "emergencySigns": [
+      "Your child is floppy, very drowsy or unresponsive",
+      "A stiff neck or seizures",
+      "Difficulty breathing"
+    ],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: Hand, foot and mouth disease",
+        "url": "https://www.nhs.uk/conditions/hand-foot-mouth-disease/"
+      }
+    ]
+  },
+  {
+    "id": "head-lice",
+    "name": "Head lice and nits",
+    "aliases": [
+      "nits",
+      "lice",
+      "pediculosis"
+    ],
+    "category": "Children",
+    "overview": "Head lice are tiny insects that live in hair, and nits are their empty egg cases. They are very common in children and are not a sign of poor hygiene. They can be treated at home with wet combing or pharmacy treatments.",
+    "symptoms": [
+      "Itchy scalp",
+      "Feeling like something is moving in the hair",
+      "Live lice in the hair, found by combing",
+      "Nits (empty egg cases) attached to hair close to the scalp"
+    ],
+    "causes": [
+      "Lice spreading by direct head-to-head contact",
+      "They cannot jump, fly or swim"
+    ],
+    "riskFactors": [
+      "School-aged children",
+      "Close head-to-head contact during play"
+    ],
+    "diagnosis": "Head lice are confirmed by finding live lice using a detection comb on wet or dry hair.",
+    "treatment": [
+      "Wet combing with a special detection comb, repeated over 2 weeks",
+      "Lotions or sprays from a pharmacy",
+      "Treating everyone in the household found to have live lice on the same day"
+    ],
+    "selfCare": [
+      "Use conditioner and a fine-toothed comb to wet comb",
+      "Check the whole family",
+      "Repeat combing as instructed"
+    ],
+    "prevention": [
+      "Regular detection combing",
+      "There is no need to keep children off school"
+    ],
+    "whenToSeeDoctor": [
+      "Treatment has not worked after several attempts",
+      "The scalp is very sore or looks infected"
+    ],
+    "emergencySigns": [],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: Head lice and nits",
+        "url": "https://www.nhs.uk/conditions/head-lice-and-nits/"
+      },
+      {
+        "label": "MedlinePlus: Head Lice",
+        "url": "https://medlineplus.gov/headlice.html"
+      }
+    ]
+  },
+  {
+    "id": "nappy-rash",
+    "name": "Nappy rash",
+    "aliases": [
+      "diaper rash",
+      "diaper dermatitis"
+    ],
+    "category": "Children",
+    "overview": "Nappy rash is very common in babies and young children. It causes red, sore patches on the skin in the nappy area. It can usually be treated at home with simple care and barrier creams.",
+    "symptoms": [
+      "Red or darker patches on the bottom or genital area",
+      "Sore, hot or uncomfortable skin",
+      "Spots, pimples or blisters",
+      "Baby may be more unsettled"
+    ],
+    "causes": [
+      "Skin in contact with wee or poo for a long time",
+      "Rubbing from the nappy",
+      "Soaps, bubble bath or wipes that irritate the skin",
+      "A fungal (thrush) infection in some cases"
+    ],
+    "riskFactors": [
+      "Infrequent nappy changes",
+      "Diarrhoea",
+      "Recent antibiotics"
+    ],
+    "diagnosis": "Nappy rash is recognised by looking at the skin; a GP or health visitor can check whether an infection is present.",
+    "treatment": [
+      "Barrier cream applied at each nappy change",
+      "Antifungal cream if thrush is suspected, as advised by a pharmacist or GP"
+    ],
+    "selfCare": [
+      "Change nappies as soon as they are wet or dirty",
+      "Clean with water or fragrance-free wipes",
+      "Leave the nappy off for a while each day",
+      "Pat skin dry rather than rubbing"
+    ],
+    "prevention": [
+      "Frequent nappy changes",
+      "Use barrier cream",
+      "Avoid perfumed soaps and wipes"
+    ],
+    "whenToSeeDoctor": [
+      "The rash does not improve after a week of treatment",
+      "Your baby has a high temperature",
+      "The rash spreads or looks infected, with blisters or pus"
+    ],
+    "emergencySigns": [
+      "A rash that does not fade when a glass is pressed against it",
+      "Your baby is floppy, very drowsy or not feeding"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "url": "https://www.nhs.uk/baby/caring-for-a-newborn/nappy-rash/",
+        "label": "NHS — Nappy rash"
+      }
+    ]
+  },
+  {
+    "id": "febrile-seizures",
+    "name": "Febrile seizures",
+    "aliases": [
+      "febrile convulsions",
+      "fever fits"
+    ],
+    "category": "Children",
+    "overview": "Febrile seizures are fits that can happen when a child has a high temperature. They are frightening to see but are usually harmless and most children recover fully. They are most common between 6 months and 3 years.",
+    "symptoms": [
+      "Body becoming stiff and arms and legs twitching",
+      "Loss of consciousness",
+      "Eyes rolling back",
+      "Wetting or soiling themselves",
+      "Sleepiness for up to an hour afterwards"
+    ],
+    "causes": [
+      "A rapid rise in temperature during an infection such as a cold, flu, ear infection or chickenpox",
+      "Rarely, after some vaccinations"
+    ],
+    "riskFactors": [
+      "Age 6 months to 3 years",
+      "Family history of febrile seizures",
+      "Previous febrile seizure"
+    ],
+    "diagnosis": "A doctor diagnoses a febrile seizure from the description and checks for the cause of the fever.",
+    "treatment": [
+      "Most stop on their own without treatment",
+      "Treatment of the underlying infection",
+      "Hospital care for long or repeated seizures"
+    ],
+    "selfCare": [
+      "During a seizure, place your child on their side on a soft surface",
+      "Do not put anything in their mouth",
+      "Time the seizure",
+      "Stay with your child"
+    ],
+    "prevention": [
+      "There is no reliable way to prevent febrile seizures; fever medicines make children more comfortable but do not prevent seizures"
+    ],
+    "whenToSeeDoctor": [
+      "After any first febrile seizure, even if it stopped",
+      "Your child seems unwell after a seizure"
+    ],
+    "emergencySigns": [
+      "A seizure lasting more than 5 minutes",
+      "First-ever seizure",
+      "Difficulty breathing or not waking up afterwards",
+      "Another seizure soon after the first",
+      "Signs of meningitis such as a rash that does not fade or a stiff neck"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Febrile seizures",
+        "url": "https://www.nhs.uk/conditions/febrile-seizures/"
+      },
+      {
+        "label": "MedlinePlus: Febrile Seizures",
+        "url": "https://medlineplus.gov/ency/article/000980.htm"
+      }
+    ]
+  },
+  {
+    "id": "glue-ear",
+    "name": "Glue ear",
+    "aliases": [
+      "otitis media with effusion",
+      "OME"
+    ],
+    "category": "Children",
+    "overview": "Glue ear is when the middle part of the ear fills with sticky fluid, which can affect hearing. It is common in young children and usually clears up on its own within 3 months.",
+    "symptoms": [
+      "Hearing loss: turning up the TV, mishearing or not responding",
+      "Mild earache",
+      "Delayed speech or behaviour changes",
+      "Ringing or buzzing in the ears",
+      "Problems with balance"
+    ],
+    "causes": [
+      "Fluid build-up in the middle ear, often after a cold or ear infection",
+      "The tube linking the ear and throat not draining properly"
+    ],
+    "riskFactors": [
+      "Age 2 to 5",
+      "Nursery attendance",
+      "Exposure to cigarette smoke",
+      "Down's syndrome or cleft palate",
+      "Autumn and winter"
+    ],
+    "diagnosis": "A GP looks in the ear and may refer for hearing tests.",
+    "treatment": [
+      "Watchful waiting, as it often clears within 3 months",
+      "Grommets (small tubes) inserted in the eardrum if it persists",
+      "Hearing aids in some cases",
+      "Antibiotics are not usually helpful"
+    ],
+    "selfCare": [
+      "Speak clearly and face your child when talking",
+      "Reduce background noise",
+      "Tell the school or nursery"
+    ],
+    "prevention": [
+      "Avoid exposure to cigarette smoke",
+      "Keep up with vaccinations"
+    ],
+    "whenToSeeDoctor": [
+      "You think your child has hearing problems",
+      "Speech or behaviour concerns",
+      "Ear pain or discharge"
+    ],
+    "emergencySigns": [
+      "Swelling or redness behind the ear with fever",
+      "Severe headache, stiff neck or drowsiness"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Glue ear",
+        "url": "https://www.nhs.uk/conditions/glue-ear/"
+      }
+    ]
+  },
+  {
+    "id": "threadworms",
+    "name": "Threadworms",
+    "aliases": [
+      "pinworms",
+      "worms",
+      "enterobiasis"
+    ],
+    "category": "Children",
+    "overview": "Threadworms are tiny worms in poo. They are common in children and spread easily. They can be treated with medicine from a pharmacy and strict hygiene.",
+    "symptoms": [
+      "Extreme itching around the bottom, especially at night",
+      "Seeing small white worms in poo or around the bottom",
+      "Irritability and waking at night",
+      "Itching around the vagina in girls"
+    ],
+    "causes": [
+      "Swallowing threadworm eggs, which are passed from fingers to the mouth",
+      "Eggs can survive on surfaces, bedding and clothes for up to 2 weeks"
+    ],
+    "riskFactors": [
+      "Young children",
+      "Living with someone who has threadworms",
+      "Nail biting or thumb sucking"
+    ],
+    "diagnosis": "Threadworms are usually diagnosed by seeing the worms; occasionally a sticky tape test around the bottom is used.",
+    "treatment": [
+      "Medicine from a pharmacy for everyone in the household",
+      "Strict hygiene measures for 2 weeks"
+    ],
+    "selfCare": [
+      "Wash hands and scrub under nails, especially before eating and after the toilet",
+      "Bath or shower every morning",
+      "Wash bedding, towels and soft toys",
+      "Keep nails short and discourage scratching"
+    ],
+    "prevention": [
+      "Good hand hygiene",
+      "Do not share towels",
+      "Clean surfaces regularly"
+    ],
+    "whenToSeeDoctor": [
+      "Your child is under 2",
+      "You are pregnant or breastfeeding",
+      "Treatment has not worked"
+    ],
+    "emergencySigns": [],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: Threadworms",
+        "url": "https://www.nhs.uk/conditions/threadworms/"
+      },
+      {
+        "label": "MedlinePlus: Pinworms",
+        "url": "https://medlineplus.gov/pinworms.html"
+      }
+    ]
+  }
+]

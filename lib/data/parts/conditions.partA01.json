@@ -1,0 +1,1096 @@
+[
+  {
+    "id": "common-cold",
+    "name": "Common cold",
+    "aliases": [
+      "cold",
+      "head cold",
+      "upper respiratory tract infection",
+      "URTI"
+    ],
+    "category": "Infections",
+    "overview": "A common cold is a mild viral infection of the nose and throat. It usually gets better on its own within about 1 to 2 weeks. Antibiotics do not work against colds because they are caused by viruses.",
+    "symptoms": [
+      "Blocked or runny nose",
+      "Sore throat",
+      "Sneezing",
+      "Cough",
+      "Mild headache or muscle aches",
+      "Feeling generally unwell or slightly raised temperature"
+    ],
+    "causes": [
+      "Infection with one of many cold viruses, most often rhinoviruses",
+      "Spread through droplets from coughs and sneezes",
+      "Touching contaminated surfaces and then the eyes, nose or mouth"
+    ],
+    "riskFactors": [
+      "Close contact with people who have a cold",
+      "Young children and those around them, such as in nurseries and schools",
+      "A weakened immune system"
+    ],
+    "diagnosis": "A cold is usually recognised from the symptoms and does not normally need a doctor or any tests.",
+    "treatment": [
+      "Rest and plenty of fluids",
+      "Paracetamol or ibuprofen to ease aches and fever",
+      "Pharmacy remedies such as decongestants, following the label and pharmacist advice"
+    ],
+    "selfCare": [
+      "Rest and sleep",
+      "Drink plenty of water",
+      "Gargle with salt water for a sore throat",
+      "Use honey and lemon in a warm drink (not for babies under 1)"
+    ],
+    "prevention": [
+      "Wash hands often with soap and warm water",
+      "Use tissues for coughs and sneezes and bin them straight away",
+      "Avoid sharing towels and cups with someone who is ill"
+    ],
+    "whenToSeeDoctor": [
+      "Symptoms have not improved after 3 weeks",
+      "Symptoms get suddenly worse",
+      "A high temperature or feeling hot and shivery",
+      "You have a long-term condition or weakened immune system and are concerned",
+      "Chest pain or coughing up blood-stained mucus"
+    ],
+    "emergencySigns": [
+      "Severe difficulty breathing",
+      "Lips or tongue turning blue or grey",
+      "Confusion or being very difficult to wake"
+    ],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: Common cold",
+        "url": "https://www.nhs.uk/conditions/common-cold/"
+      },
+      {
+        "label": "MedlinePlus: Common Cold",
+        "url": "https://medlineplus.gov/commoncold.html"
+      }
+    ]
+  },
+  {
+    "id": "flu",
+    "name": "Flu (influenza)",
+    "aliases": [
+      "influenza",
+      "seasonal flu",
+      "the flu"
+    ],
+    "category": "Infections",
+    "overview": "Flu is a viral infection of the nose, throat and lungs that tends to come on quickly. Most people feel better within about a week, but it can be serious for older people, pregnant people, young children and those with long-term conditions. A yearly vaccine is the best protection.",
+    "symptoms": [
+      "Sudden high temperature",
+      "Aching body and tiredness",
+      "Dry cough",
+      "Sore throat",
+      "Headache",
+      "Loss of appetite, diarrhoea or tummy pain"
+    ],
+    "causes": [
+      "Infection with influenza viruses",
+      "Spread by droplets from coughs and sneezes",
+      "Touching contaminated surfaces"
+    ],
+    "riskFactors": [
+      "Age 65 or over",
+      "Pregnancy",
+      "Long-term conditions such as heart disease, lung disease or diabetes",
+      "A weakened immune system",
+      "Young children"
+    ],
+    "diagnosis": "Flu is usually diagnosed from symptoms during flu season; a swab test may be used in some settings, especially for people at higher risk.",
+    "treatment": [
+      "Rest, fluids and paracetamol or ibuprofen for fever and aches",
+      "Antiviral medicines may be prescribed for people at higher risk of complications",
+      "Antibiotics only if a bacterial complication develops"
+    ],
+    "selfCare": [
+      "Rest and keep warm",
+      "Drink plenty of fluids",
+      "Stay away from others while you have a high temperature"
+    ],
+    "prevention": [
+      "Yearly flu vaccine if eligible",
+      "Wash hands regularly",
+      "Catch coughs and sneezes in a tissue"
+    ],
+    "whenToSeeDoctor": [
+      "You are worried about a baby's or child's symptoms",
+      "You are 65 or over, pregnant, or have a long-term condition or weakened immune system",
+      "Symptoms have not improved after 7 days",
+      "Symptoms get worse after starting to improve"
+    ],
+    "emergencySigns": [
+      "Sudden chest pain",
+      "Difficulty breathing",
+      "Coughing up a lot of blood",
+      "Confusion, seizures or being hard to wake",
+      "Lips or skin turning blue or grey"
+    ],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: Flu",
+        "url": "https://www.nhs.uk/conditions/flu/"
+      },
+      {
+        "label": "WHO: Influenza (seasonal)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/influenza-(seasonal)"
+      }
+    ]
+  },
+  {
+    "id": "covid-19",
+    "name": "COVID-19",
+    "aliases": [
+      "coronavirus",
+      "covid",
+      "SARS-CoV-2 infection"
+    ],
+    "category": "Infections",
+    "overview": "COVID-19 is an infection caused by the SARS-CoV-2 coronavirus. Most people have a mild illness and recover at home, but some people become seriously ill. Vaccination lowers the risk of severe illness.",
+    "symptoms": [
+      "High temperature or shivering",
+      "New continuous cough",
+      "Loss or change to sense of smell or taste",
+      "Shortness of breath",
+      "Tiredness, aches and headache",
+      "Sore throat, blocked or runny nose"
+    ],
+    "causes": [
+      "Infection with the SARS-CoV-2 virus",
+      "Spread through droplets and tiny airborne particles from infected people",
+      "Less often, touching contaminated surfaces"
+    ],
+    "riskFactors": [
+      "Older age",
+      "Long-term conditions such as heart, lung or kidney disease or diabetes",
+      "A weakened immune system",
+      "Pregnancy",
+      "Not being vaccinated"
+    ],
+    "diagnosis": "COVID-19 is confirmed with a rapid lateral flow test or a laboratory PCR test from a nose or throat swab.",
+    "treatment": [
+      "Rest, fluids and paracetamol or ibuprofen for most people",
+      "Antiviral or other treatments for people at highest risk, prescribed by a doctor",
+      "Hospital care, including oxygen, for severe illness"
+    ],
+    "selfCare": [
+      "Rest and drink plenty of fluids",
+      "Try to stay at home and avoid contact with others while unwell or with a high temperature",
+      "Ventilate rooms by opening windows"
+    ],
+    "prevention": [
+      "COVID-19 vaccination if eligible",
+      "Stay home when unwell",
+      "Wash hands regularly and cover coughs and sneezes",
+      "Let fresh air into shared spaces"
+    ],
+    "whenToSeeDoctor": [
+      "You are worried about your symptoms or a child's symptoms",
+      "Symptoms are getting worse or not improving",
+      "You are at higher risk and test positive, in case treatment is suitable",
+      "Symptoms last 4 weeks or more"
+    ],
+    "emergencySigns": [
+      "Severe shortness of breath or breathing getting worse quickly",
+      "Being unable to complete short sentences when at rest",
+      "Lips or skin turning blue or grey",
+      "Confusion or being very drowsy",
+      "Persistent chest pain or pressure"
+    ],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: COVID-19",
+        "url": "https://www.nhs.uk/conditions/covid-19/"
+      },
+      {
+        "label": "WHO: Coronavirus disease (COVID-19)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/coronavirus-disease-(covid-19)"
+      }
+    ]
+  },
+  {
+    "id": "strep-throat",
+    "name": "Strep throat",
+    "aliases": [
+      "streptococcal pharyngitis",
+      "group A strep throat infection",
+      "bacterial sore throat"
+    ],
+    "category": "Infections",
+    "overview": "Strep throat is a throat infection caused by group A streptococcus bacteria. It is most common in children and is treated with antibiotics. Most sore throats are caused by viruses rather than strep.",
+    "symptoms": [
+      "Sore throat that starts quickly",
+      "Pain when swallowing",
+      "Fever",
+      "Red, swollen tonsils, sometimes with white patches",
+      "Swollen, tender glands in the neck",
+      "Usually no cough"
+    ],
+    "causes": [
+      "Infection with group A streptococcus bacteria",
+      "Spread by droplets from coughs, sneezes or close contact"
+    ],
+    "riskFactors": [
+      "Being a school-aged child",
+      "Close contact with someone who has strep",
+      "Crowded settings such as schools and nurseries"
+    ],
+    "diagnosis": "A doctor examines the throat and may take a throat swab for a rapid strep test or a laboratory culture.",
+    "treatment": [
+      "Antibiotics prescribed by a doctor",
+      "Paracetamol or ibuprofen for pain and fever",
+      "Finish the full antibiotic course even when feeling better"
+    ],
+    "selfCare": [
+      "Drink plenty of fluids",
+      "Eat soft, cool foods",
+      "Gargle with warm salty water (adults and older children)",
+      "Rest"
+    ],
+    "prevention": [
+      "Wash hands regularly",
+      "Do not share cups, cutlery or toothbrushes",
+      "Stay off school or work until at least 24 hours after starting antibiotics, or as advised"
+    ],
+    "whenToSeeDoctor": [
+      "Sore throat with high temperature and no cough",
+      "Sore throat not improving after a week",
+      "Frequent sore throats",
+      "A rash appears with the sore throat"
+    ],
+    "emergencySigns": [
+      "Difficulty breathing or making high-pitched breathing sounds",
+      "Unable to swallow or drooling",
+      "Severe swelling of the throat or neck"
+    ],
+    "contagious": true,
+    "sources": [
+      {
+        "url": "https://medlineplus.gov/streptococcalinfections.html",
+        "label": "MedlinePlus — Streptococcal infections"
+      },
+      {
+        "label": "NHS: Sore throat",
+        "url": "https://www.nhs.uk/conditions/sore-throat/"
+      }
+    ]
+  },
+  {
+    "id": "sinusitis",
+    "name": "Sinusitis",
+    "aliases": [
+      "sinus infection",
+      "rhinosinusitis"
+    ],
+    "category": "Infections",
+    "overview": "Sinusitis is swelling of the sinuses, the air-filled spaces behind the face, usually after a cold. Most cases clear up on their own within 2 to 3 weeks. It can sometimes last longer and become chronic.",
+    "symptoms": [
+      "Pain, swelling and tenderness around the cheeks, eyes or forehead",
+      "Blocked nose",
+      "Thick green or yellow nasal discharge",
+      "Reduced sense of smell",
+      "Headache",
+      "Toothache or bad breath"
+    ],
+    "causes": [
+      "A cold or flu virus spreading to the sinuses",
+      "Less often, a bacterial infection",
+      "Allergies such as hay fever",
+      "Nasal polyps"
+    ],
+    "riskFactors": [
+      "Recent cold",
+      "Hay fever or allergies",
+      "Asthma",
+      "Smoking",
+      "Nasal polyps"
+    ],
+    "diagnosis": "A doctor usually diagnoses sinusitis from the symptoms and an examination; scans or referral are only needed for long-lasting or recurrent cases.",
+    "treatment": [
+      "Paracetamol or ibuprofen for pain",
+      "Decongestant nasal sprays for short-term use",
+      "Steroid nasal sprays prescribed by a doctor for longer-lasting symptoms",
+      "Antibiotics only if a bacterial infection is likely"
+    ],
+    "selfCare": [
+      "Rest and drink plenty of fluids",
+      "Hold a warm compress over the face",
+      "Rinse the nose with a salt-water solution",
+      "Avoid smoking"
+    ],
+    "prevention": [
+      "Treat allergies",
+      "Avoid smoking and smoky environments",
+      "Wash hands to reduce colds"
+    ],
+    "whenToSeeDoctor": [
+      "Symptoms are severe",
+      "Symptoms do not improve after 10 days or keep coming back",
+      "Symptoms get worse after starting to improve"
+    ],
+    "emergencySigns": [
+      "Swelling or redness around the eyes",
+      "Changes in vision such as double vision",
+      "Severe headache with a stiff neck or confusion"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Sinusitis (sinus infection)",
+        "url": "https://www.nhs.uk/conditions/sinusitis-sinus-infection/"
+      },
+      {
+        "label": "MedlinePlus: Sinusitis",
+        "url": "https://medlineplus.gov/sinusitis.html"
+      }
+    ]
+  },
+  {
+    "id": "tonsillitis",
+    "name": "Tonsillitis",
+    "aliases": [
+      "inflamed tonsils",
+      "tonsil infection"
+    ],
+    "category": "Infections",
+    "overview": "Tonsillitis is an infection of the tonsils at the back of the throat. It is common in children but can affect anyone, and usually gets better on its own within about a week.",
+    "symptoms": [
+      "Sore throat",
+      "Problems swallowing",
+      "High temperature",
+      "Coughing",
+      "Headache",
+      "Swollen, red tonsils, sometimes with white pus-filled spots"
+    ],
+    "causes": [
+      "Usually a viral infection",
+      "Sometimes a bacterial infection such as group A strep"
+    ],
+    "riskFactors": [
+      "Being a child or teenager",
+      "Close contact with people who have throat infections"
+    ],
+    "diagnosis": "A GP looks at the throat and asks about symptoms; a throat swab is sometimes taken to check for bacteria.",
+    "treatment": [
+      "Rest, fluids and paracetamol or ibuprofen",
+      "Antibiotics if a bacterial infection is likely",
+      "Surgery to remove the tonsils is only considered for frequent, severe tonsillitis"
+    ],
+    "selfCare": [
+      "Get plenty of rest",
+      "Drink cool drinks",
+      "Eat soft foods",
+      "Gargle with warm salty water (not for children)"
+    ],
+    "prevention": [
+      "Wash hands often",
+      "Avoid sharing cups and cutlery"
+    ],
+    "whenToSeeDoctor": [
+      "Symptoms do not improve after 4 days",
+      "Severe pain making it hard to eat or drink",
+      "Very high temperature",
+      "Frequent episodes of tonsillitis"
+    ],
+    "emergencySigns": [
+      "Difficulty breathing",
+      "Drooling or unable to swallow",
+      "Making a high-pitched sound when breathing",
+      "Symptoms getting rapidly worse"
+    ],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: Tonsillitis",
+        "url": "https://www.nhs.uk/conditions/tonsillitis/"
+      },
+      {
+        "label": "MedlinePlus: Tonsillitis",
+        "url": "https://medlineplus.gov/tonsillitis.html"
+      }
+    ]
+  },
+  {
+    "id": "ear-infection",
+    "name": "Ear infection",
+    "aliases": [
+      "otitis media",
+      "middle ear infection",
+      "otitis externa",
+      "earache infection"
+    ],
+    "category": "Eyes & ears",
+    "overview": "Ear infections are very common, especially in young children. Most get better on their own within about 3 days. They can affect the middle ear behind the eardrum or the outer ear canal.",
+    "symptoms": [
+      "Pain inside the ear",
+      "High temperature",
+      "Being sick or lack of energy",
+      "Difficulty hearing",
+      "Discharge running out of the ear",
+      "Itching or irritation in the ear"
+    ],
+    "causes": [
+      "Viral or bacterial infection, often after a cold",
+      "Water trapped in the ear canal (outer ear infection)",
+      "Damage to the skin of the ear canal"
+    ],
+    "riskFactors": [
+      "Young age",
+      "Recent cold or throat infection",
+      "Exposure to cigarette smoke",
+      "Swimming",
+      "Using cotton buds in the ears"
+    ],
+    "diagnosis": "A GP looks inside the ear with an otoscope to check the eardrum and ear canal.",
+    "treatment": [
+      "Paracetamol or ibuprofen for pain and fever",
+      "Antibiotics are not usually needed but may be prescribed in some cases",
+      "Ear drops for outer ear infections, prescribed by a doctor or recommended by a pharmacist"
+    ],
+    "selfCare": [
+      "Hold a warm or cold flannel on the ear",
+      "Do not put anything inside the ear, such as cotton buds",
+      "Keep the ear dry"
+    ],
+    "prevention": [
+      "Avoid smoky environments",
+      "Keep ears dry after swimming",
+      "Keep up to date with routine childhood vaccines"
+    ],
+    "whenToSeeDoctor": [
+      "Symptoms last more than 3 days",
+      "Swelling around the ear",
+      "Fluid coming out of the ear",
+      "Hearing loss or a change in hearing",
+      "Frequent ear infections",
+      "A child under 2 has an infection in both ears"
+    ],
+    "emergencySigns": [
+      "Severe headache with a stiff neck",
+      "Sudden swelling, redness or pain behind the ear",
+      "Confusion, drowsiness or a seizure"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Ear infections",
+        "url": "https://www.nhs.uk/conditions/ear-infections/"
+      },
+      {
+        "label": "MedlinePlus: Ear Infections",
+        "url": "https://medlineplus.gov/earinfections.html"
+      }
+    ]
+  },
+  {
+    "id": "conjunctivitis",
+    "name": "Conjunctivitis",
+    "aliases": [
+      "pink eye",
+      "red eye infection",
+      "sticky eye"
+    ],
+    "category": "Eyes & ears",
+    "overview": "Conjunctivitis is inflammation of the thin layer covering the white of the eye and inner eyelids. It is common and often gets better on its own within about 2 weeks. It can be caused by infection or allergy.",
+    "symptoms": [
+      "Red or pink eyes",
+      "Burning, itchy or gritty feeling",
+      "Discharge that may stick the eyelashes together",
+      "Watery eyes",
+      "Swollen eyelids"
+    ],
+    "causes": [
+      "Viral infection",
+      "Bacterial infection",
+      "Allergies such as pollen or dust",
+      "Irritants such as chlorine or smoke"
+    ],
+    "riskFactors": [
+      "Close contact with someone who has infectious conjunctivitis",
+      "Wearing contact lenses",
+      "Allergies such as hay fever"
+    ],
+    "diagnosis": "A pharmacist or GP can usually tell from looking at the eye and asking about symptoms; swabs are rarely needed.",
+    "treatment": [
+      "Often clears without treatment",
+      "Antibiotic eye drops or ointment if a bacterial infection is likely",
+      "Antihistamine eye drops or tablets for allergic conjunctivitis"
+    ],
+    "selfCare": [
+      "Clean eyelids with cotton wool soaked in cooled boiled water",
+      "Use a cool compress",
+      "Stop wearing contact lenses until eyes are better",
+      "Do not rub the eyes"
+    ],
+    "prevention": [
+      "Wash hands regularly",
+      "Do not share towels, pillows or eye make-up",
+      "Avoid known allergens"
+    ],
+    "whenToSeeDoctor": [
+      "A baby under 28 days old has red, sticky eyes",
+      "Symptoms have not improved after 2 weeks",
+      "You wear contact lenses and have symptoms"
+    ],
+    "emergencySigns": [
+      "Changes in vision such as blurred vision or wavy lines",
+      "Sensitivity to light that is painful",
+      "Very red, painful eye",
+      "Severe headache with nausea"
+    ],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: Conjunctivitis",
+        "url": "https://www.nhs.uk/conditions/conjunctivitis/"
+      },
+      {
+        "label": "MedlinePlus: Pink Eye",
+        "url": "https://medlineplus.gov/pinkeye.html"
+      }
+    ]
+  },
+  {
+    "id": "pneumonia",
+    "name": "Pneumonia",
+    "aliases": [
+      "chest infection",
+      "lung infection"
+    ],
+    "category": "Lungs & breathing",
+    "overview": "Pneumonia is inflammation of the lungs, usually caused by an infection. Many people get better at home in a few weeks, but it can be serious, especially for babies, older adults and people with other health problems.",
+    "symptoms": [
+      "Cough, which may bring up yellow, green or blood-stained mucus",
+      "Difficulty breathing or breathlessness",
+      "Rapid heartbeat",
+      "High temperature",
+      "Chest pain when breathing or coughing",
+      "Feeling generally unwell, loss of appetite or confusion in older people"
+    ],
+    "causes": [
+      "Bacterial infection, most commonly pneumococcus",
+      "Viral infections such as flu or COVID-19",
+      "Less often, fungi or inhaling food or vomit"
+    ],
+    "riskFactors": [
+      "Babies and young children",
+      "Age 65 or over",
+      "Smoking",
+      "Long-term lung, heart, kidney or liver conditions",
+      "A weakened immune system"
+    ],
+    "diagnosis": "A doctor listens to the chest and checks breathing and oxygen levels; a chest X-ray or blood tests may be used to confirm it.",
+    "treatment": [
+      "Antibiotics prescribed by a doctor for bacterial pneumonia",
+      "Rest, fluids and paracetamol or ibuprofen",
+      "Hospital treatment, including oxygen, for severe pneumonia"
+    ],
+    "selfCare": [
+      "Get plenty of rest",
+      "Drink lots of fluids",
+      "Do not smoke",
+      "Finish any course of antibiotics"
+    ],
+    "prevention": [
+      "Pneumococcal, flu and COVID-19 vaccines if eligible",
+      "Stop smoking",
+      "Wash hands regularly"
+    ],
+    "whenToSeeDoctor": [
+      "A cough lasting more than 3 weeks",
+      "Coughing up blood",
+      "Chest pain when breathing",
+      "Feeling unwell with a cough and high temperature",
+      "Breathing problems getting worse"
+    ],
+    "emergencySigns": [
+      "Severe difficulty breathing or breathing that stops and starts",
+      "Lips, tongue or skin turning blue or grey",
+      "Sudden confusion or being very drowsy",
+      "Coughing up a lot of blood",
+      "Chest pain that will not go away"
+    ],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: Pneumonia",
+        "url": "https://www.nhs.uk/conditions/pneumonia/"
+      },
+      {
+        "label": "MedlinePlus: Pneumonia",
+        "url": "https://medlineplus.gov/pneumonia.html"
+      }
+    ]
+  },
+  {
+    "id": "bronchitis",
+    "name": "Bronchitis",
+    "aliases": [
+      "acute bronchitis",
+      "chest cold",
+      "chest infection"
+    ],
+    "category": "Lungs & breathing",
+    "overview": "Bronchitis is an infection of the main airways of the lungs that causes a cough. It usually follows a cold and gets better on its own within about 3 weeks. Antibiotics are not usually needed.",
+    "symptoms": [
+      "Cough that may bring up clear, yellow, grey or green mucus",
+      "Sore throat",
+      "Headache",
+      "Runny or blocked nose",
+      "Aches and pains",
+      "Tiredness"
+    ],
+    "causes": [
+      "Usually a viral infection, often the same viruses that cause colds and flu",
+      "Less often a bacterial infection",
+      "Smoke and other irritants can make it more likely"
+    ],
+    "riskFactors": [
+      "Smoking or exposure to smoke",
+      "Recent cold or flu",
+      "Asthma or other lung conditions"
+    ],
+    "diagnosis": "A GP usually diagnoses bronchitis by asking about symptoms and listening to the chest; a chest X-ray may be used to rule out pneumonia.",
+    "treatment": [
+      "Rest, fluids and paracetamol or ibuprofen",
+      "Antibiotics only if a bacterial infection is suspected or there is a higher risk of complications",
+      "Pharmacy cough remedies, following pharmacist advice"
+    ],
+    "selfCare": [
+      "Rest and drink plenty of fluids",
+      "Honey and lemon in warm water (not for babies under 1)",
+      "Avoid smoking and smoky places"
+    ],
+    "prevention": [
+      "Do not smoke",
+      "Get the flu vaccine if eligible",
+      "Wash hands regularly"
+    ],
+    "whenToSeeDoctor": [
+      "Cough is very bad or lasts longer than 3 weeks",
+      "High temperature for more than 3 days",
+      "Coughing up blood-streaked mucus",
+      "You have a long-term heart or lung condition",
+      "Breathlessness or chest pain"
+    ],
+    "emergencySigns": [
+      "Severe difficulty breathing",
+      "Coughing up a lot of blood",
+      "Lips or skin turning blue or grey",
+      "Sudden confusion"
+    ],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: Bronchitis",
+        "url": "https://www.nhs.uk/conditions/bronchitis/"
+      }
+    ]
+  },
+  {
+    "id": "gastroenteritis",
+    "name": "Gastroenteritis (stomach bug)",
+    "aliases": [
+      "stomach bug",
+      "stomach flu",
+      "diarrhoea and vomiting",
+      "norovirus",
+      "tummy bug"
+    ],
+    "category": "Digestive system",
+    "overview": "Gastroenteritis is an infection of the gut that causes diarrhoea and vomiting. It is very common and usually gets better within a few days without treatment. The main risk is dehydration, especially in babies and older people.",
+    "symptoms": [
+      "Sudden diarrhoea",
+      "Feeling sick or vomiting",
+      "Stomach cramps",
+      "High temperature",
+      "Aching limbs and headache"
+    ],
+    "causes": [
+      "Viruses such as norovirus or rotavirus",
+      "Bacteria or parasites, often from contaminated food or water",
+      "Spread by close contact, unwashed hands and contaminated surfaces"
+    ],
+    "riskFactors": [
+      "Young children and older adults",
+      "Living or working in close communities such as care homes, schools or cruise ships",
+      "Poor hand hygiene",
+      "Travel to areas with unsafe drinking water"
+    ],
+    "diagnosis": "It is usually diagnosed from symptoms; a stool sample may be tested if symptoms are severe, long-lasting or after travel.",
+    "treatment": [
+      "Fluids to prevent dehydration, including oral rehydration solutions",
+      "Rest at home",
+      "Paracetamol for pain or fever",
+      "Hospital treatment for severe dehydration"
+    ],
+    "selfCare": [
+      "Drink plenty of fluids, little and often",
+      "Keep breastfeeding or bottle feeding babies",
+      "Eat when you feel able",
+      "Stay off school or work until 2 days after symptoms stop"
+    ],
+    "prevention": [
+      "Wash hands with soap and water (alcohol gel does not kill norovirus)",
+      "Clean surfaces with a bleach-based cleaner",
+      "Wash contaminated clothing and bedding on a hot wash",
+      "Rotavirus vaccine for babies"
+    ],
+    "whenToSeeDoctor": [
+      "Signs of dehydration such as passing little urine",
+      "Vomiting for more than 2 days or diarrhoea for more than 7 days",
+      "Blood in diarrhoea or bleeding from the bottom",
+      "You are worried about a baby under 12 months",
+      "You have a weakened immune system"
+    ],
+    "emergencySigns": [
+      "Vomiting blood or vomit that looks like coffee grounds",
+      "Green or yellow-green vomit",
+      "A stiff neck and pain when looking at bright lights",
+      "Sudden severe headache or stomach pain",
+      "Very drowsy, confused or not passing urine all day"
+    ],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: Diarrhoea and vomiting",
+        "url": "https://www.nhs.uk/conditions/diarrhoea-and-vomiting/"
+      },
+      {
+        "label": "NHS: Norovirus",
+        "url": "https://www.nhs.uk/conditions/norovirus/"
+      }
+    ]
+  },
+  {
+    "id": "food-poisoning",
+    "name": "Food poisoning",
+    "aliases": [
+      "foodborne illness"
+    ],
+    "category": "Digestive system",
+    "overview": "Food poisoning is illness caused by eating food contaminated with germs such as bacteria or viruses. It is rarely serious and usually gets better within a week. Keeping hydrated is the most important thing.",
+    "symptoms": [
+      "Feeling sick or vomiting",
+      "Diarrhoea",
+      "Stomach cramps",
+      "High temperature",
+      "Feeling generally unwell, with aches or chills"
+    ],
+    "causes": [
+      "Bacteria such as Campylobacter, Salmonella, E. coli or Listeria",
+      "Viruses such as norovirus",
+      "Food that is undercooked, poorly stored or handled with unwashed hands"
+    ],
+    "riskFactors": [
+      "Pregnancy",
+      "Age over 65 or very young children",
+      "A weakened immune system",
+      "Eating raw or undercooked meat, eggs or shellfish"
+    ],
+    "diagnosis": "Food poisoning is usually diagnosed from the symptoms; a stool sample may be tested if symptoms are severe or prolonged.",
+    "treatment": [
+      "Rest and plenty of fluids",
+      "Oral rehydration solutions if at risk of dehydration",
+      "Antibiotics are only needed for some specific bacterial infections"
+    ],
+    "selfCare": [
+      "Drink plenty of fluids, little and often",
+      "Eat when you feel able, starting with small, plain meals",
+      "Stay off work or school until 2 days after symptoms stop"
+    ],
+    "prevention": [
+      "Wash hands before handling food",
+      "Cook food thoroughly, especially meat and poultry",
+      "Keep raw and ready-to-eat foods apart",
+      "Refrigerate food promptly and respect use-by dates"
+    ],
+    "whenToSeeDoctor": [
+      "You are pregnant",
+      "You are worried about a baby or young child",
+      "Signs of dehydration",
+      "Vomiting for more than 2 days or diarrhoea for more than 7 days",
+      "You have a long-term condition or weakened immune system"
+    ],
+    "emergencySigns": [
+      "Vomiting blood or bloody diarrhoea",
+      "Severe stomach pain",
+      "Unable to keep any fluids down and not passing urine",
+      "Confusion or a stiff neck"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Food poisoning",
+        "url": "https://www.nhs.uk/conditions/food-poisoning/"
+      },
+      {
+        "label": "MedlinePlus: Foodborne Illness",
+        "url": "https://medlineplus.gov/foodborneillness.html"
+      }
+    ]
+  },
+  {
+    "id": "chickenpox",
+    "name": "Chickenpox",
+    "aliases": [
+      "varicella"
+    ],
+    "category": "Infections",
+    "overview": "Chickenpox is a common illness that mainly affects children and causes an itchy, spotty rash. It is usually mild and gets better on its own within 1 to 2 weeks, but it can be more serious for adults, pregnant people, newborns and people with weakened immunity.",
+    "symptoms": [
+      "Itchy spots that appear anywhere on the body",
+      "Spots that fill with fluid to become blisters, then scab over",
+      "High temperature",
+      "Aches and pains",
+      "Loss of appetite"
+    ],
+    "causes": [
+      "Infection with the varicella-zoster virus",
+      "Spread by close contact and through the air from coughs and sneezes",
+      "Contact with fluid from the blisters"
+    ],
+    "riskFactors": [
+      "Never having had chickenpox or the vaccine",
+      "Contact with someone with chickenpox or shingles",
+      "Children in nurseries and schools"
+    ],
+    "diagnosis": "Chickenpox is usually recognised from the typical rash; tests are rarely needed.",
+    "treatment": [
+      "Paracetamol for pain and fever",
+      "Cooling creams or gels and antihistamines for itching, as advised by a pharmacist",
+      "Antiviral medicine for some higher-risk people, prescribed by a doctor"
+    ],
+    "selfCare": [
+      "Drink plenty of fluids",
+      "Keep nails short and cover hands at night to reduce scratching",
+      "Wear loose, cotton clothing",
+      "Stay away from school or work until all spots have crusted over"
+    ],
+    "prevention": [
+      "Chickenpox vaccine where offered",
+      "Keep away from pregnant people, newborns and people with weak immunity while infectious"
+    ],
+    "whenToSeeDoctor": [
+      "Skin around blisters becomes red, hot or painful",
+      "You are pregnant, or have a weakened immune system, and have been exposed or have symptoms",
+      "A baby under 4 weeks has chickenpox",
+      "An adult has chickenpox"
+    ],
+    "emergencySigns": [
+      "Difficulty breathing",
+      "Chest pain",
+      "A stiff neck, severe headache or sensitivity to light",
+      "Confusion, seizures or being very drowsy",
+      "A rash that does not fade when a glass is pressed against it"
+    ],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: Chickenpox",
+        "url": "https://www.nhs.uk/conditions/chickenpox/"
+      },
+      {
+        "label": "MedlinePlus: Chickenpox",
+        "url": "https://medlineplus.gov/chickenpox.html"
+      }
+    ]
+  },
+  {
+    "id": "shingles",
+    "name": "Shingles",
+    "aliases": [
+      "herpes zoster",
+      "zoster"
+    ],
+    "category": "Infections",
+    "overview": "Shingles is a painful rash caused by the chickenpox virus becoming active again later in life. It usually affects one side of the body and gets better in about 2 to 4 weeks. Early treatment can help, and a vaccine is offered to some age groups.",
+    "symptoms": [
+      "Tingling or burning feeling in an area of skin before the rash appears",
+      "A painful rash of blisters on one side of the body, often the chest or tummy",
+      "Rash may also appear on the face, eyes or ears",
+      "Headache or feeling generally unwell"
+    ],
+    "causes": [
+      "Reactivation of the varicella-zoster virus that stays dormant in the nerves after chickenpox",
+      "Reactivation is more likely when the immune system is weaker, such as with age, illness or some medicines"
+    ],
+    "riskFactors": [
+      "Older age",
+      "A weakened immune system",
+      "Stress or being run down",
+      "Having had chickenpox in the past"
+    ],
+    "diagnosis": "A doctor usually diagnoses shingles from the appearance and pattern of the rash.",
+    "treatment": [
+      "Antiviral medicine, ideally started within 3 days of the rash appearing",
+      "Painkillers for pain",
+      "Stronger pain treatment if nerve pain continues after the rash heals"
+    ],
+    "selfCare": [
+      "Keep the rash clean and dry",
+      "Wear loose-fitting clothes",
+      "Use a cool compress",
+      "Avoid contact with pregnant people, babies and people with weak immunity until blisters have scabbed"
+    ],
+    "prevention": [
+      "Shingles vaccine if eligible"
+    ],
+    "whenToSeeDoctor": [
+      "You think you have shingles, especially within 3 days of the rash",
+      "You are pregnant or have a weakened immune system",
+      "Pain continues after the rash has cleared"
+    ],
+    "emergencySigns": [
+      "Rash near the eye with eye pain, redness or changes in vision",
+      "Rash spreading over a large area of the body with feeling very unwell",
+      "Weakness of the face, confusion or severe headache"
+    ],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: Shingles",
+        "url": "https://www.nhs.uk/conditions/shingles/"
+      },
+      {
+        "label": "MedlinePlus: Shingles",
+        "url": "https://medlineplus.gov/shingles.html"
+      }
+    ]
+  },
+  {
+    "id": "measles",
+    "name": "Measles",
+    "aliases": [
+      "rubeola"
+    ],
+    "category": "Infections",
+    "overview": "Measles is a highly infectious viral illness that can be very unpleasant and sometimes lead to serious problems. It starts with cold-like symptoms followed by a rash. Two doses of the MMR vaccine give strong protection.",
+    "symptoms": [
+      "High temperature",
+      "Runny or blocked nose, sneezing and cough",
+      "Red, sore, watery eyes",
+      "Small white spots inside the cheeks",
+      "A blotchy rash starting on the face and behind the ears, then spreading"
+    ],
+    "causes": [
+      "Infection with the measles virus",
+      "Spread through the air from coughs and sneezes of an infected person"
+    ],
+    "riskFactors": [
+      "Not being vaccinated with MMR",
+      "Babies too young for the vaccine",
+      "Pregnancy",
+      "A weakened immune system",
+      "Travel to areas with outbreaks"
+    ],
+    "diagnosis": "A doctor suspects measles from the symptoms and confirms it with a saliva, swab or blood test; call ahead before visiting so you can be kept apart from others.",
+    "treatment": [
+      "There is no specific antiviral cure; care focuses on easing symptoms",
+      "Rest, fluids and paracetamol or ibuprofen",
+      "Hospital treatment for complications"
+    ],
+    "selfCare": [
+      "Rest and drink plenty of fluids",
+      "Stay away from nursery, school or work for at least 4 days after the rash appears",
+      "Avoid contact with babies, pregnant people and people with weak immunity"
+    ],
+    "prevention": [
+      "Two doses of the MMR vaccine",
+      "Check vaccination status before travel"
+    ],
+    "whenToSeeDoctor": [
+      "You or your child might have measles (phone first)",
+      "You have been in contact with someone with measles and are not fully vaccinated, are pregnant, or have weak immunity",
+      "A baby has been in contact with measles"
+    ],
+    "emergencySigns": [
+      "Difficulty breathing",
+      "Chest pain",
+      "Seizures or confusion",
+      "Very drowsy or hard to wake",
+      "Coughing up blood"
+    ],
+    "contagious": true,
+    "sources": [
+      {
+        "label": "NHS: Measles",
+        "url": "https://www.nhs.uk/conditions/measles/"
+      },
+      {
+        "label": "WHO: Measles",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/measles"
+      }
+    ]
+  },
+  {
+    "id": "cellulitis",
+    "name": "Cellulitis",
+    "aliases": [
+      "skin infection",
+      "bacterial skin infection"
+    ],
+    "category": "Skin",
+    "overview": "Cellulitis is an infection of the deeper layers of the skin and the tissue beneath it. It can be serious if not treated quickly, but usually responds well to antibiotics.",
+    "symptoms": [
+      "Skin that is red, hot, swollen and painful (redness may be harder to see on darker skin)",
+      "Often affects the legs",
+      "Blisters on the affected area",
+      "Feeling generally unwell, with high temperature or shivering"
+    ],
+    "causes": [
+      "Bacteria, most often streptococcus or staphylococcus, entering through broken skin",
+      "Entry points such as cuts, grazes, bites, ulcers or cracked skin from athlete's foot or eczema"
+    ],
+    "riskFactors": [
+      "Cuts, wounds or insect bites",
+      "Skin conditions such as eczema or athlete's foot",
+      "Swelling of the legs (lymphoedema)",
+      "Diabetes or a weakened immune system",
+      "Obesity"
+    ],
+    "diagnosis": "A doctor diagnoses cellulitis by examining the skin; blood tests or swabs may be done if it is severe.",
+    "treatment": [
+      "Antibiotics prescribed by a doctor",
+      "Painkillers",
+      "Hospital treatment with antibiotics through a drip if severe"
+    ],
+    "selfCare": [
+      "Raise the affected area to reduce swelling",
+      "Drink plenty of fluids",
+      "Finish the course of antibiotics",
+      "Avoid compression stockings until healed unless advised otherwise"
+    ],
+    "prevention": [
+      "Clean and cover cuts and grazes",
+      "Treat skin conditions such as athlete's foot or eczema",
+      "Keep skin moisturised to prevent cracking"
+    ],
+    "whenToSeeDoctor": [
+      "Skin is red, hot, swollen and painful",
+      "Symptoms not improving 2 to 3 days after starting antibiotics"
+    ],
+    "emergencySigns": [
+      "Skin around the eye or face is red, swollen and painful",
+      "Fast heartbeat or fast breathing",
+      "Confusion or feeling faint",
+      "Cold, clammy, pale or blotchy skin",
+      "Rapidly spreading redness with feeling very unwell"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Cellulitis",
+        "url": "https://www.nhs.uk/conditions/cellulitis/"
+      },
+      {
+        "label": "MedlinePlus: Cellulitis",
+        "url": "https://medlineplus.gov/cellulitis.html"
+      }
+    ]
+  }
+]

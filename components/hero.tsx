@@ -70,7 +70,7 @@ export function Hero() {
         <div className="relative">
           <div className="overflow-hidden rounded-3xl border border-border bg-card p-4 shadow-sm">
             <Image
-              src="/hero-filter.png"
+              src={`${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/hero-filter.png`}
               alt="Illustration of health misinformation being filtered into reliable, verified medical knowledge"
               width={1024}
               height={1024}

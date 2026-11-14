@@ -11,12 +11,16 @@ const links = [
   { href: '/', label: 'Home' },
   { href: '/symptom-checker', label: 'Symptom Checker' },
   { href: '/fact-checker', label: 'Fact Checker' },
+  { href: '/conditions', label: 'Conditions' },
   { href: '/myths', label: 'Medical Myths' },
   { href: '/resources', label: 'Resources' },
 ]
 
 export function SiteHeader() {
   const pathname = usePathname()
+  // Normalise trailing slash (static export uses /page/ URLs); sub-pages keep their section active.
+  const current = pathname.replace(/\/+$/, '') || '/'
+  const isActive = (href: string) => (href === '/' ? current === '/' : current === href || current.startsWith(href + '/'))
   const [open, setOpen] = useState(false)
 
   return (
@@ -31,7 +35,7 @@ export function SiteHeader() {
 
         <nav className="hidden items-center gap-1 md:flex" aria-label="Primary">
           {links.map((link) => {
-            const active = pathname === link.href
+            const active = isActive(link.href)
             return (
               <Link
                 key={link.href}
@@ -70,7 +74,7 @@ export function SiteHeader() {
         <nav className="border-t border-border/60 bg-background px-4 pb-4 pt-2 md:hidden" aria-label="Mobile">
           <ul className="flex flex-col gap-1">
             {links.map((link) => {
-              const active = pathname === link.href
+              const active = isActive(link.href)
               return (
                 <li key={link.href}>
                   <Link

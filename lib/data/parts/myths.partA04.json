@@ -1,0 +1,774 @@
+[
+  {
+    "id": "alkaline-water-balances-body-ph",
+    "category": "Nutrition",
+    "myth": "Alkaline water balances your body's pH and makes you healthier.",
+    "rating": "false",
+    "fact": "Your body tightly controls blood pH through the lungs and kidneys, and drinking alkaline water does not change it in a meaningful way. There is no good evidence that alkaline water offers health benefits over ordinary safe drinking water.",
+    "explanation": "Alkaline water is marketed with claims about neutralising acidity, boosting energy and preventing disease. Stomach acid neutralises much of what you drink anyway. Staying hydrated with tap water, where it is safe, is just as good and cheaper.",
+    "keywords": [
+      "alkaline water",
+      "ph balance",
+      "body ph",
+      "acidic body",
+      "alkaline",
+      "ionized water",
+      "kangen water",
+      "alkalize"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Healthy diet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
+      },
+      {
+        "label": "MedlinePlus — Nutrition",
+        "url": "https://medlineplus.gov/nutrition.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "microwaving-destroys-nutrients",
+    "category": "Nutrition",
+    "myth": "Microwaving destroys all the nutrients in food.",
+    "rating": "false",
+    "fact": "All cooking methods change nutrients to some degree. Microwaving often keeps nutrients as well as or better than boiling, because it uses shorter cooking times and less water.",
+    "explanation": "Some vitamins, such as vitamin C and some B vitamins, are sensitive to heat and leak into cooking water. Because microwaving is quick and uses little water, vegetables can keep more of these vitamins. Steaming is another good option.",
+    "keywords": [
+      "microwave nutrients",
+      "microwaving food",
+      "microwave vitamins",
+      "kills nutrients",
+      "microwave vegetables",
+      "cooking destroys nutrients"
+    ],
+    "sources": [
+      {
+        "label": "FDA — Microwave oven radiation",
+        "url": "https://www.fda.gov/radiation-emitting-products/resources-you-radiation-emitting-products/microwave-oven-radiation"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "carbs-are-bad-for-you",
+    "category": "Nutrition",
+    "myth": "Carbohydrates are bad for you and should be cut out.",
+    "rating": "false",
+    "fact": "Carbohydrates are a main source of energy, and whole grains, vegetables, fruit and pulses are linked to better health. Health bodies recommend choosing high-fibre, wholegrain carbohydrates and limiting refined carbs and added sugars, not avoiding all carbs.",
+    "explanation": "Low-carb diets became popular and some people do lose weight on them, mainly because they eat fewer calories overall. Cutting out whole groups of foods can mean missing out on fibre, which supports digestion and lowers the risk of bowel cancer and heart disease. The type and amount of carbohydrate matter most.",
+    "keywords": [
+      "carbs",
+      "carbohydrates",
+      "carbs bad",
+      "low carb",
+      "keto",
+      "bread",
+      "rice",
+      "pasta",
+      "cut carbs",
+      "no carb diet"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Healthy diet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
+      },
+      {
+        "label": "MedlinePlus — Carbohydrates",
+        "url": "https://medlineplus.gov/carbohydrates.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "frozen-vegetables-less-nutritious",
+    "category": "Nutrition",
+    "myth": "Frozen fruit and vegetables are much less nutritious than fresh.",
+    "rating": "false",
+    "fact": "Frozen fruit and vegetables are usually frozen soon after picking, which preserves most of their nutrients. They can be just as nutritious as fresh produce, and sometimes more so than fresh produce that has been stored for days.",
+    "explanation": "Fresh food feels more natural, so frozen options are often seen as second best. Frozen, canned (in water or juice) and dried fruit and vegetables all count towards daily fruit and vegetable intake. Check labels on frozen products for added salt, sugar or sauces.",
+    "keywords": [
+      "frozen vegetables",
+      "frozen fruit",
+      "fresh vs frozen",
+      "frozen food",
+      "canned vegetables",
+      "nutrients frozen"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Eat well",
+        "url": "https://www.nhs.uk/live-well/eat-well/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "must-drink-eight-glasses-of-water",
+    "category": "Nutrition",
+    "myth": "Everyone must drink exactly eight glasses of water a day.",
+    "rating": "misleading",
+    "fact": "Fluid needs vary with body size, activity, climate and health. Guidance such as the NHS's suggestion of 6 to 8 glasses of fluid a day is a rough guide, and all drinks, including tea, coffee and milk, plus water in food, count towards it.",
+    "explanation": "The 'eight glasses' rule is easy to remember but was never a strict scientific requirement. Thirst and pale yellow urine are useful guides for most healthy people. Some people, such as those with certain heart or kidney conditions, may be told to limit fluids.",
+    "keywords": [
+      "8 glasses of water",
+      "eight glasses",
+      "how much water",
+      "drink water",
+      "water a day",
+      "hydration",
+      "2 litres water"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Eat well",
+        "url": "https://www.nhs.uk/live-well/eat-well/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "msg-is-dangerous",
+    "category": "Nutrition",
+    "myth": "MSG (monosodium glutamate) is dangerous and causes 'Chinese restaurant syndrome'.",
+    "rating": "false",
+    "fact": "MSG is considered safe to eat by food safety agencies, including the US FDA. Studies have not consistently shown that MSG causes headaches or other symptoms in normal amounts eaten with food.",
+    "explanation": "The term 'Chinese restaurant syndrome' came from a 1968 letter and spread with little evidence, and it has been criticised as reflecting bias. Glutamate occurs naturally in foods such as tomatoes, cheese and mushrooms. A small number of people may report short-lived mild symptoms after large amounts of MSG without food.",
+    "keywords": [
+      "msg",
+      "monosodium glutamate",
+      "chinese restaurant syndrome",
+      "flavour enhancer",
+      "e621",
+      "glutamate",
+      "msg headache"
+    ],
+    "sources": [
+      {
+        "label": "FDA — Questions and answers on monosodium glutamate (MSG)",
+        "url": "https://www.fda.gov/food/food-additives-petitions/questions-and-answers-monosodium-glutamate-msg"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "organic-food-more-nutritious",
+    "category": "Nutrition",
+    "myth": "Organic food is much more nutritious than non-organic food.",
+    "rating": "misleading",
+    "fact": "Studies have not found consistent, meaningful differences in vitamins and minerals between organic and conventionally grown foods. Organic produce tends to have lower pesticide residues, but residues on conventional food are generally within safety limits.",
+    "explanation": "People choose organic for many reasons, including environmental and animal welfare concerns, which are valid personal choices. From a nutrition point of view, eating plenty of fruit and vegetables matters more than whether they are organic. Washing produce under running water is sensible either way.",
+    "keywords": [
+      "organic",
+      "organic food",
+      "non organic",
+      "pesticides",
+      "organic vegetables",
+      "organic healthier",
+      "conventional food"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Eat well",
+        "url": "https://www.nhs.uk/live-well/eat-well/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "gluten-free-is-healthier",
+    "category": "Nutrition",
+    "myth": "A gluten-free diet is healthier for everyone.",
+    "rating": "false",
+    "fact": "A gluten-free diet is essential for people with coeliac disease, but there is no evidence that it benefits people who do not have coeliac disease or a gluten-related condition. Gluten-free processed products are often lower in fibre and can be higher in sugar or fat.",
+    "explanation": "Some people feel better after cutting gluten, often because they also cut down on processed foods. If you suspect coeliac disease, get tested before going gluten-free, because the tests need you to be eating gluten to be accurate. Whole grains that contain gluten, such as wholewheat, barley and rye, provide fibre and nutrients.",
+    "keywords": [
+      "gluten free",
+      "gluten",
+      "gluten-free diet",
+      "coeliac",
+      "celiac",
+      "wheat",
+      "gluten intolerance",
+      "gluten sensitivity"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Coeliac disease",
+        "url": "https://www.nhs.uk/conditions/coeliac-disease/"
+      },
+      {
+        "label": "MedlinePlus — Celiac disease",
+        "url": "https://medlineplus.gov/celiacdisease.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "brown-sugar-honey-healthier-than-sugar",
+    "category": "Nutrition",
+    "myth": "Brown sugar, honey and coconut sugar are much healthier than white sugar.",
+    "rating": "false",
+    "fact": "Brown sugar, honey, syrups and coconut sugar are all forms of free sugars and have similar effects on teeth and calories as white sugar. WHO advises limiting all free sugars, including honey and syrups.",
+    "explanation": "These sugars are often marketed as natural or unrefined, and some contain tiny amounts of minerals. The amounts are too small to make a real difference to health. Honey should not be given to babies under one year old because of the risk of infant botulism.",
+    "keywords": [
+      "brown sugar",
+      "honey",
+      "coconut sugar",
+      "white sugar",
+      "natural sugar",
+      "maple syrup",
+      "agave",
+      "healthier sugar"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Healthy diet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
+      },
+      {
+        "label": "NHS — Eat well",
+        "url": "https://www.nhs.uk/live-well/eat-well/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "sugar-makes-children-hyperactive",
+    "category": "Nutrition",
+    "myth": "Sugar makes children hyperactive.",
+    "rating": "false",
+    "fact": "Controlled studies, in which neither parents nor children knew whether the child had sugar, have not found that sugar causes hyperactivity. Parents who believed their child had eaten sugar were more likely to rate them as hyperactive.",
+    "explanation": "Children often get sugary food at parties and celebrations, where excitement levels are already high. Too much sugar is still bad for teeth and can contribute to unhealthy weight gain. Limiting sweets and sugary drinks is good advice, just not for behaviour reasons.",
+    "keywords": [
+      "sugar hyperactive",
+      "sugar rush",
+      "hyperactivity",
+      "kids sugar",
+      "children sugar",
+      "sugar high",
+      "adhd sugar"
+    ],
+    "sources": [
+      {
+        "label": "HealthyChildren.org (American Academy of Pediatrics)",
+        "url": "https://www.healthychildren.org/"
+      },
+      {
+        "label": "WHO — Healthy diet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "fruit-and-vegetables-lower-disease-risk",
+    "category": "Nutrition",
+    "myth": "Eating plenty of fruit and vegetables lowers your risk of heart disease and some cancers.",
+    "rating": "true",
+    "fact": "Diets rich in fruit and vegetables are linked to lower risks of heart disease, stroke and some cancers. WHO recommends eating at least 400 grams, about five portions, of fruit and vegetables a day.",
+    "explanation": "This advice is repeated so often that some people doubt it makes a real difference. Fruit and vegetables provide fibre, vitamins, minerals and other plant compounds, and help replace less healthy foods. Variety matters, and potatoes and other starchy roots do not count towards the five portions in WHO's guidance.",
+    "keywords": [
+      "fruit and vegetables",
+      "five a day",
+      "5 a day",
+      "vegetables",
+      "fruit",
+      "eat vegetables",
+      "plant based",
+      "veggies"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Healthy diet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
+      },
+      {
+        "label": "NHS — Eat well",
+        "url": "https://www.nhs.uk/live-well/eat-well/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "coffee-dehydrates-you",
+    "category": "Nutrition",
+    "myth": "Coffee dehydrates you, so it doesn't count towards your fluid intake.",
+    "rating": "false",
+    "fact": "Caffeine has a mild diuretic effect, but in usual amounts coffee and tea still provide more fluid than they cause you to lose. They count towards daily fluid intake.",
+    "explanation": "People who rarely drink caffeine may notice they urinate more after a coffee, which led to this belief. Regular drinkers develop tolerance to this effect. Very high caffeine intake can cause problems such as poor sleep, anxiety and a fast heartbeat, so moderation is still wise.",
+    "keywords": [
+      "coffee dehydrates",
+      "caffeine dehydration",
+      "tea dehydrates",
+      "diuretic",
+      "coffee water intake",
+      "coffee hydration"
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus — Caffeine",
+        "url": "https://medlineplus.gov/caffeine.html"
+      },
+      {
+        "label": "NHS — Eat well",
+        "url": "https://www.nhs.uk/live-well/eat-well/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "raw-milk-is-healthier",
+    "category": "Nutrition",
+    "myth": "Raw (unpasteurised) milk is healthier than pasteurised milk.",
+    "rating": "false",
+    "fact": "Pasteurisation kills harmful bacteria such as Salmonella, E. coli, Listeria and Campylobacter while having little effect on milk's nutritional value. Raw milk carries a much higher risk of serious food poisoning.",
+    "explanation": "Raw milk is promoted as more natural, with claims about enzymes, probiotics and allergy benefits that are not supported by good evidence. Children, pregnant people, older adults and people with weakened immune systems are most at risk of serious illness. Raw milk can also carry bird flu virus from infected dairy herds.",
+    "keywords": [
+      "raw milk",
+      "unpasteurised milk",
+      "unpasteurized milk",
+      "pasteurisation",
+      "pasteurization",
+      "farm milk",
+      "raw dairy"
+    ],
+    "sources": [
+      {
+        "label": "CDC — Raw milk",
+        "url": "https://www.cdc.gov/food-safety/foods/raw-milk.html"
+      },
+      {
+        "label": "FDA — Raw milk",
+        "url": "https://www.fda.gov/food/buy-store-serve-safe-food/food-safety-and-raw-milk"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "fruit-is-bad-because-of-sugar",
+    "category": "Nutrition",
+    "myth": "Fruit is unhealthy because it is full of sugar.",
+    "rating": "false",
+    "fact": "The sugar in whole fruit comes packaged with fibre, water, vitamins and minerals, and eating whole fruit is linked to better health. WHO's advice to limit free sugars does not apply to sugar naturally present in whole fruit.",
+    "explanation": "Low-sugar and low-carb trends have led some people to cut out fruit. Fruit juices and smoothies are different, because blending and juicing release the sugars, so health bodies suggest limiting them. Whole fruit is a better snack than most processed sweet foods.",
+    "keywords": [
+      "fruit sugar",
+      "fruit bad",
+      "too much fruit",
+      "fructose",
+      "fruit unhealthy",
+      "bananas sugar",
+      "fruit juice"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Healthy diet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
+      },
+      {
+        "label": "NHS — Eat well",
+        "url": "https://www.nhs.uk/live-well/eat-well/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "vitamin-c-prevents-colds",
+    "category": "Supplements",
+    "myth": "Taking vitamin C supplements stops you catching colds.",
+    "rating": "misleading",
+    "fact": "For most people, regular vitamin C supplements do not reduce the chance of catching a cold. They may slightly shorten colds, and people under heavy physical stress, such as marathon runners, may get some protection.",
+    "explanation": "Vitamin C became famous as a cold remedy in the 1970s, and the idea has stuck. Starting vitamin C after symptoms begin does not appear to help. Most people get enough vitamin C from fruit and vegetables, and very high doses can cause stomach upset.",
+    "keywords": [
+      "vitamin c",
+      "vitamin c cold",
+      "ascorbic acid",
+      "prevent colds",
+      "vitamin c supplements",
+      "immune boost",
+      "emergen-c"
+    ],
+    "sources": [
+      {
+        "label": "NIH ODS — Vitamin C fact sheet",
+        "url": "https://ods.od.nih.gov/factsheets/VitaminC-Consumer/"
+      },
+      {
+        "label": "NHS — Common cold",
+        "url": "https://www.nhs.uk/conditions/common-cold/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "colloidal-silver-cures-infections",
+    "category": "Supplements",
+    "myth": "Colloidal silver cures infections and boosts the immune system.",
+    "rating": "false",
+    "fact": "There is no reliable evidence that taking colloidal silver by mouth treats or prevents any disease. It can cause argyria, a permanent blue-grey discolouration of the skin, and can interfere with some medicines.",
+    "explanation": "Silver has antibacterial uses in some medical dressings, which lends the idea credibility. Swallowed silver products are different and have not been shown to work. US regulators have taken action against companies making false claims about silver products.",
+    "keywords": [
+      "colloidal silver",
+      "silver",
+      "argyria",
+      "silver water",
+      "silver supplement",
+      "natural antibiotic",
+      "silver cure"
+    ],
+    "sources": [
+      {
+        "label": "NCCIH — Colloidal silver",
+        "url": "https://www.nccih.nih.gov/health/colloidal-silver"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "more-vitamins-are-better",
+    "category": "Supplements",
+    "myth": "Taking more vitamins is always better, because extra just gets flushed out.",
+    "rating": "false",
+    "fact": "Some vitamins and minerals are harmful in high doses. Too much vitamin A, vitamin D or iron, for example, can cause serious side effects, and vitamin A in high doses can harm an unborn baby.",
+    "explanation": "It is true that excess of some water-soluble vitamins is passed in urine, but even these can cause problems at very high doses, such as nerve damage from large amounts of vitamin B6. Fat-soluble vitamins (A, D, E and K) can build up in the body. Check labels and talk to a pharmacist before taking high-dose products.",
+    "keywords": [
+      "megadose",
+      "too many vitamins",
+      "vitamin overdose",
+      "high dose vitamins",
+      "vitamin toxicity",
+      "flushed out",
+      "excess vitamins"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Vitamins and minerals",
+        "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/"
+      },
+      {
+        "label": "NIH ODS — Vitamin A fact sheet",
+        "url": "https://ods.od.nih.gov/factsheets/VitaminA-Consumer/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "multivitamins-prevent-disease",
+    "category": "Supplements",
+    "myth": "A daily multivitamin prevents heart disease and cancer.",
+    "rating": "false",
+    "fact": "Large studies have generally found that multivitamins do not prevent heart disease, cancer or early death in well-nourished people. Some groups do benefit from specific supplements, such as folic acid before and in early pregnancy.",
+    "explanation": "Taking a multivitamin feels like an easy health insurance policy. A varied diet provides most nutrients for most people. People with specific needs, such as older adults, vegans, or those with absorption problems, may be advised to take particular supplements.",
+    "keywords": [
+      "multivitamin",
+      "multivitamins",
+      "daily vitamin",
+      "vitamin pill",
+      "prevent cancer",
+      "prevent heart disease",
+      "one a day"
+    ],
+    "sources": [
+      {
+        "label": "NIH ODS — Multivitamin/mineral supplements",
+        "url": "https://ods.od.nih.gov/factsheets/MVMS-Consumer/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "supplements-tested-like-medicines",
+    "category": "Supplements",
+    "myth": "Dietary supplements are tested and approved for safety and effectiveness like medicines.",
+    "rating": "false",
+    "fact": "In the US, the FDA does not approve dietary supplements for safety or effectiveness before they are sold. Manufacturers are responsible for their products, and some supplements have been found to contain undeclared drugs or different amounts of ingredients than labelled.",
+    "explanation": "Supplements are sold next to medicines in pharmacies, so people assume they are regulated in the same way. Rules vary between countries, but in many places they are regulated more like foods. Products for weight loss, bodybuilding and sexual performance are most often found to be contaminated.",
+    "keywords": [
+      "supplements approved",
+      "fda approved",
+      "supplement regulation",
+      "supplement safety",
+      "are supplements tested",
+      "dietary supplements"
+    ],
+    "sources": [
+      {
+        "label": "FDA — Dietary supplements",
+        "url": "https://www.fda.gov/food/dietary-supplements"
+      },
+      {
+        "label": "NCCIH — Using dietary supplements wisely",
+        "url": "https://www.nccih.nih.gov/health/using-dietary-supplements-wisely"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "turmeric-cures-disease",
+    "category": "Supplements",
+    "myth": "Turmeric or curcumin cures inflammation, arthritis and cancer.",
+    "rating": "false",
+    "fact": "There is no convincing evidence that turmeric or curcumin cures any disease. Curcumin is poorly absorbed by the body, and research results for conditions like arthritis have been limited and mixed.",
+    "explanation": "Turmeric has a long history in traditional medicine and lab studies of curcumin are often promoted online. High-dose turmeric supplements have been linked to cases of liver injury. Using turmeric in cooking is safe for most people.",
+    "keywords": [
+      "turmeric",
+      "curcumin",
+      "golden milk",
+      "turmeric inflammation",
+      "turmeric arthritis",
+      "turmeric cancer",
+      "anti-inflammatory"
+    ],
+    "sources": [
+      {
+        "label": "NCCIH — Turmeric",
+        "url": "https://www.nccih.nih.gov/health/turmeric"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "fish-oil-pills-prevent-heart-attacks",
+    "category": "Supplements",
+    "myth": "Fish oil capsules prevent heart attacks.",
+    "rating": "misleading",
+    "fact": "Most large trials have found that standard fish oil supplements do not prevent heart attacks or strokes in the general population. Eating oily fish as part of a healthy diet is linked to better heart health, and some prescription omega-3 medicines are used for specific people with high triglycerides.",
+    "explanation": "The link between fish-eating populations and lower heart disease led to supplement popularity. Some studies have linked omega-3 supplements to a higher risk of atrial fibrillation, an irregular heart rhythm. Speak to a doctor if you are considering omega-3 for a heart condition.",
+    "keywords": [
+      "fish oil",
+      "omega 3",
+      "omega-3",
+      "cod liver oil",
+      "fish oil heart",
+      "heart supplement",
+      "epa",
+      "dha"
+    ],
+    "sources": [
+      {
+        "label": "NIH ODS — Omega-3 fatty acids",
+        "url": "https://ods.od.nih.gov/factsheets/Omega3FattyAcids-Consumer/"
+      },
+      {
+        "label": "NCCIH — Omega-3 supplements",
+        "url": "https://www.nccih.nih.gov/health/omega3-supplements-what-you-need-to-know"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "antioxidant-supplements-prevent-cancer",
+    "category": "Supplements",
+    "myth": "Antioxidant supplements protect you from cancer.",
+    "rating": "false",
+    "fact": "Clinical trials have not shown that antioxidant supplements prevent cancer. In some trials, beta-carotene supplements increased lung cancer risk in smokers, and vitamin E supplements were linked to a higher risk of prostate cancer.",
+    "explanation": "Antioxidants in foods like fruit and vegetables are part of a healthy diet, which led to the assumption that concentrated pills would help even more. The effects of isolated, high-dose supplements can differ from those of whole foods. People having cancer treatment should check with their care team before taking antioxidants.",
+    "keywords": [
+      "antioxidants",
+      "antioxidant supplements",
+      "beta carotene",
+      "vitamin e",
+      "free radicals",
+      "prevent cancer",
+      "selenium"
+    ],
+    "sources": [
+      {
+        "label": "National Cancer Institute — Antioxidants and cancer prevention",
+        "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet"
+      },
+      {
+        "label": "NCCIH — Antioxidant supplements",
+        "url": "https://www.nccih.nih.gov/health/antioxidant-supplements-what-you-need-to-know"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "iron-supplements-for-tiredness",
+    "category": "Supplements",
+    "myth": "If you feel tired, you should just take iron tablets.",
+    "rating": "false",
+    "fact": "Iron supplements only help tiredness if you are actually low in iron, which needs a blood test to confirm. Taking iron you don't need can cause constipation and stomach upset, and too much can be toxic.",
+    "explanation": "Iron deficiency is common, especially in people with heavy periods, pregnancy or restricted diets, so it is a reasonable thing to check. Tiredness has many causes, including poor sleep, thyroid problems, depression and diabetes. Iron overdose is a leading cause of poisoning in young children, so keep tablets out of reach.",
+    "keywords": [
+      "iron",
+      "iron tablets",
+      "iron supplements",
+      "tired",
+      "fatigue",
+      "anaemia",
+      "anemia",
+      "low iron"
+    ],
+    "sources": [
+      {
+        "label": "NIH ODS — Iron fact sheet",
+        "url": "https://ods.od.nih.gov/factsheets/Iron-Consumer/"
+      },
+      {
+        "label": "NHS — Iron deficiency anaemia",
+        "url": "https://www.nhs.uk/conditions/iron-deficiency-anaemia/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "b12-shots-boost-energy",
+    "category": "Supplements",
+    "myth": "Vitamin B12 injections give everyone an energy boost.",
+    "rating": "false",
+    "fact": "Vitamin B12 injections treat B12 deficiency, which can cause tiredness and anaemia. In people with normal B12 levels, extra B12 has not been shown to increase energy.",
+    "explanation": "B12 shots are sold at clinics and wellness centres as energy or weight-loss boosters. People at risk of deficiency include those with pernicious anaemia, older adults, vegans, and people taking certain medicines such as metformin. A blood test can show whether you need treatment.",
+    "keywords": [
+      "b12",
+      "vitamin b12",
+      "b12 injection",
+      "b12 shot",
+      "energy boost",
+      "b12 energy",
+      "vitamin shot"
+    ],
+    "sources": [
+      {
+        "label": "NIH ODS — Vitamin B12 fact sheet",
+        "url": "https://ods.od.nih.gov/factsheets/VitaminB12-Consumer/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "probiotic-supplements-help-everyone",
+    "category": "Supplements",
+    "myth": "Probiotic supplements improve everyone's health.",
+    "rating": "misleading",
+    "fact": "Some specific probiotic strains may help with certain problems, such as reducing antibiotic-associated diarrhoea. But benefits depend on the strain and the condition, and there is little evidence that healthy people gain general health benefits from taking them.",
+    "explanation": "Interest in the gut microbiome has led to many bold marketing claims. Probiotics are generally safe for healthy people but have caused serious infections in rare cases in very ill or immunocompromised patients, including premature babies. Foods like yoghurt and kefir can be part of a varied diet.",
+    "keywords": [
+      "probiotics",
+      "probiotic supplements",
+      "gut health",
+      "good bacteria",
+      "microbiome",
+      "yakult",
+      "kefir"
+    ],
+    "sources": [
+      {
+        "label": "NCCIH — Probiotics",
+        "url": "https://www.nccih.nih.gov/health/probiotics-what-you-need-to-know"
+      },
+      {
+        "label": "NIH ODS — Probiotics",
+        "url": "https://ods.od.nih.gov/factsheets/Probiotics-Consumer/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "vitamin-d-supplement-in-winter",
+    "category": "Supplements",
+    "myth": "Many people need a vitamin D supplement in winter.",
+    "rating": "mostly-true",
+    "fact": "In countries with little winter sunshine, such as the UK, health authorities advise considering a daily 10 microgram vitamin D supplement in autumn and winter, because the body cannot make enough from sunlight then. Some groups are advised to take it all year.",
+    "explanation": "Advice varies by country, skin colour, age and lifestyle, so this does not apply to everyone everywhere. People with darker skin, those who cover their skin or rarely go outdoors, and some older adults are at higher risk of low vitamin D. Taking very high doses for long periods can be harmful.",
+    "keywords": [
+      "vitamin d",
+      "vitamin d winter",
+      "sunshine vitamin",
+      "vitamin d supplement",
+      "vitamin d deficiency",
+      "10 micrograms",
+      "vitamin d3"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Vitamin D",
+        "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/"
+      },
+      {
+        "label": "NIH ODS — Vitamin D fact sheet",
+        "url": "https://ods.od.nih.gov/factsheets/VitaminD-Consumer/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "miracle-mineral-solution-cures-disease",
+    "category": "Supplements",
+    "myth": "Miracle Mineral Solution (MMS, chlorine dioxide) cures autism, COVID-19 and other diseases.",
+    "rating": "false",
+    "fact": "MMS becomes chlorine dioxide, a type of industrial bleach, when mixed as instructed. It has no proven health benefits and can cause severe vomiting, diarrhoea, dangerously low blood pressure and life-threatening reactions.",
+    "explanation": "MMS has been promoted online and in private groups as a cure for autism, cancer, HIV and COVID-19. US regulators have warned consumers not to buy or drink it, and sellers have been prosecuted. If someone has swallowed it and is unwell, contact a poison centre or emergency services.",
+    "keywords": [
+      "mms",
+      "miracle mineral solution",
+      "miracle mineral supplement",
+      "chlorine dioxide",
+      "bleach",
+      "cd protocol",
+      "drinking bleach"
+    ],
+    "sources": [
+      {
+        "label": "FDA — Dietary supplements",
+        "url": "https://www.fda.gov/food/dietary-supplements"
+      },
+      {
+        "label": "NCCIH — Using dietary supplements wisely",
+        "url": "https://www.nccih.nih.gov/health/using-dietary-supplements-wisely"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "zinc-lozenges-cure-colds",
+    "category": "Supplements",
+    "myth": "Zinc lozenges cure the common cold.",
+    "rating": "misleading",
+    "fact": "Zinc does not cure colds. Some studies suggest zinc lozenges or syrups started soon after symptoms begin may shorten a cold slightly, but results vary and side effects such as a bad taste and nausea are common.",
+    "explanation": "Zinc plays a role in immune function, which makes it a popular cold remedy. Zinc nasal sprays have been linked to permanent loss of smell and should be avoided. Long-term high-dose zinc can cause copper deficiency.",
+    "keywords": [
+      "zinc",
+      "zinc lozenges",
+      "zinc cold",
+      "zinc supplement",
+      "cold remedy",
+      "zinc immune",
+      "cure cold"
+    ],
+    "sources": [
+      {
+        "label": "NIH ODS — Zinc fact sheet",
+        "url": "https://ods.od.nih.gov/factsheets/Zinc-Consumer/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "echinacea-prevents-colds",
+    "category": "Supplements",
+    "myth": "Echinacea reliably prevents and cures colds.",
+    "rating": "misleading",
+    "fact": "Research on echinacea for colds has produced mixed results. Some studies suggest a small benefit in preventing colds, but there is no strong evidence that it cures them or shortens them substantially.",
+    "explanation": "Echinacea products vary widely in the plant species, parts used and preparation, which makes results hard to compare. It may cause allergic reactions, especially in people allergic to plants in the daisy family. Rest, fluids and time remain the mainstays of cold care.",
+    "keywords": [
+      "echinacea",
+      "echinacea cold",
+      "herbal cold remedy",
+      "immune herbs",
+      "prevent colds",
+      "coneflower"
+    ],
+    "sources": [
+      {
+        "label": "NCCIH — Echinacea",
+        "url": "https://www.nccih.nih.gov/health/echinacea"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]

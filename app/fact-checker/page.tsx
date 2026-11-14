@@ -1,10 +1,11 @@
+import { Suspense } from 'react'
 import { PageShell, PageIntro } from '@/components/page-shell'
 import { FactChecker } from '@/components/fact-checker'
 
 export const metadata = {
   title: 'Fact Checker — Verabl',
   description:
-    'Paste a medical claim you saw on social media and get an accuracy rating backed by trusted evidence.',
+    'Paste a medical claim you saw on social media and compare it with health claims reviewed against trusted sources.',
 }
 
 export default function FactCheckerPage() {
@@ -14,9 +15,12 @@ export default function FactCheckerPage() {
         <PageIntro
           eyebrow="Fact Checker"
           title="Is that health claim actually true?"
-          description="Paste something you saw online and get a clear accuracy rating, an explanation, and the trusted evidence behind it."
+          description="Paste something you saw online and see what trusted medical sources say about it."
         />
-        <FactChecker />
+        {/* Suspense is required around useSearchParams in a statically exported page. */}
+        <Suspense>
+          <FactChecker />
+        </Suspense>
       </section>
     </PageShell>
   )

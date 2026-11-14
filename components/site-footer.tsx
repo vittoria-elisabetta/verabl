@@ -24,6 +24,7 @@ export function SiteFooter() {
               items={[
                 { label: 'Symptom Checker', href: '/symptom-checker' },
                 { label: 'Fact Checker', href: '/fact-checker' },
+                { label: 'Conditions A–Z', href: '/conditions' },
                 { label: 'Medical Myths', href: '/myths' },
               ]}
             />

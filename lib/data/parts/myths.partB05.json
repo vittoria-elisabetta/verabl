@@ -1,0 +1,755 @@
+[
+  {
+    "id": "reading-dim-light-ruins-eyes",
+    "category": "Eyes & vision",
+    "myth": "Reading in dim light ruins your eyesight.",
+    "rating": "false",
+    "fact": "Reading in dim light can make your eyes feel tired and strained, but it does not cause permanent damage to your eyes.",
+    "explanation": "Low light makes the eyes work harder to focus, which can cause temporary discomfort or headaches. Good lighting makes reading more comfortable. Lasting changes in vision should be checked by an optometrist.",
+    "keywords": [
+      "dim light",
+      "reading",
+      "eyesight",
+      "eyes",
+      "ruin",
+      "damage eyes",
+      "dark",
+      "low light"
+    ],
+    "sources": [
+      {
+        "label": "American Academy of Ophthalmology — Eye health",
+        "url": "https://www.aao.org/eye-health"
+      },
+      {
+        "label": "National Eye Institute",
+        "url": "https://www.nei.nih.gov/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "carrots-night-vision",
+    "category": "Eyes & vision",
+    "myth": "Eating lots of carrots gives you better night vision.",
+    "rating": "misleading",
+    "fact": "Carrots contain beta-carotene, which the body turns into vitamin A, and vitamin A deficiency can cause night blindness. But for people who already get enough vitamin A, eating extra carrots does not improve vision.",
+    "explanation": "The idea is often traced to Second World War stories used to explain pilots' success at night. A balanced diet supports eye health, but it will not give better-than-normal sight.",
+    "keywords": [
+      "carrots",
+      "night vision",
+      "see in the dark",
+      "vitamin a",
+      "beta carotene",
+      "eyesight",
+      "eyes"
+    ],
+    "sources": [
+      {
+        "label": "NIH Office of Dietary Supplements — Vitamin A",
+        "url": "https://ods.od.nih.gov/factsheets/VitaminA-Consumer/"
+      },
+      {
+        "label": "American Academy of Ophthalmology — Eye health",
+        "url": "https://www.aao.org/eye-health"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "sitting-close-to-tv-damages-eyes",
+    "category": "Eyes & vision",
+    "myth": "Sitting too close to the TV damages children's eyes.",
+    "rating": "false",
+    "fact": "Sitting close to a TV or screen does not damage the eyes, though it may cause temporary eye strain.",
+    "explanation": "Children can focus up close more easily than adults, so they often sit near the screen. A child who always sits very close or squints may be short-sighted and should have an eye test.",
+    "keywords": [
+      "tv",
+      "television",
+      "sitting close",
+      "screen",
+      "children",
+      "eyes",
+      "damage",
+      "square eyes"
+    ],
+    "sources": [
+      {
+        "label": "American Academy of Ophthalmology — Eye health",
+        "url": "https://www.aao.org/eye-health"
+      },
+      {
+        "label": "NHS — Short-sightedness (myopia)",
+        "url": "https://www.nhs.uk/conditions/short-sightedness/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "glasses-weaken-eyes",
+    "category": "Eyes & vision",
+    "myth": "Wearing glasses makes your eyes weaker and dependent on them.",
+    "rating": "false",
+    "fact": "Glasses correct blurry vision but do not weaken the eyes or make the underlying condition worse.",
+    "explanation": "Vision can change over time with age or as children grow, which people sometimes blame on their glasses. In children, not wearing prescribed glasses can actually harm visual development in some conditions, such as lazy eye.",
+    "keywords": [
+      "glasses",
+      "spectacles",
+      "weaken eyes",
+      "dependent",
+      "eyes worse",
+      "prescription",
+      "lenses"
+    ],
+    "sources": [
+      {
+        "label": "American Academy of Ophthalmology — Eye health",
+        "url": "https://www.aao.org/eye-health"
+      },
+      {
+        "label": "National Eye Institute",
+        "url": "https://www.nei.nih.gov/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "screens-permanently-damage-eyes",
+    "category": "Eyes & vision",
+    "myth": "Using computers and phones permanently damages your eyes.",
+    "rating": "false",
+    "fact": "Screen use can cause digital eye strain, with tired, dry or sore eyes and blurred vision, but there is no evidence it causes permanent eye damage in adults.",
+    "explanation": "We blink less when focusing on screens, which dries the eyes. Taking regular breaks, such as looking about 20 feet away for 20 seconds every 20 minutes, can help. Lots of close work and little time outdoors may play a role in childhood short-sightedness.",
+    "keywords": [
+      "screens",
+      "computer",
+      "phone",
+      "eye strain",
+      "damage",
+      "digital eye strain",
+      "eyes",
+      "screen time"
+    ],
+    "sources": [
+      {
+        "label": "American Academy of Ophthalmology — Eye health",
+        "url": "https://www.aao.org/eye-health"
+      },
+      {
+        "label": "National Eye Institute",
+        "url": "https://www.nei.nih.gov/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "blue-light-damages-eyes",
+    "category": "Eyes & vision",
+    "myth": "Blue light from screens damages your eyes, so you need blue-light glasses.",
+    "rating": "false",
+    "fact": "There is no good evidence that the blue light from screens damages the eyes, and eye doctors do not generally recommend blue-light-blocking glasses for eye health.",
+    "explanation": "Screen discomfort is mainly due to eye strain and reduced blinking, which blue-light glasses do not fix. Light from screens at night may affect sleep, which is a separate issue.",
+    "keywords": [
+      "blue light",
+      "blue light glasses",
+      "screens",
+      "eye damage",
+      "computer glasses",
+      "phone",
+      "eyes"
+    ],
+    "sources": [
+      {
+        "label": "American Academy of Ophthalmology — Eye health",
+        "url": "https://www.aao.org/eye-health"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "crossing-eyes-get-stuck",
+    "category": "Eyes & vision",
+    "myth": "If you cross your eyes, they'll get stuck that way.",
+    "rating": "false",
+    "fact": "Crossing your eyes on purpose is harmless and they will not stay crossed. The eye muscles relax when you stop.",
+    "explanation": "A squint that appears on its own, particularly in a child, is different and should be checked by an eye specialist, as early treatment matters.",
+    "keywords": [
+      "cross eyes",
+      "crossed eyes",
+      "stuck",
+      "squint",
+      "cross-eyed",
+      "eyes",
+      "pulling faces"
+    ],
+    "sources": [
+      {
+        "label": "American Academy of Ophthalmology — Eye health",
+        "url": "https://www.aao.org/eye-health"
+      },
+      {
+        "label": "NHS — Squint",
+        "url": "https://www.nhs.uk/conditions/squint/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "outdoor-time-protects-against-myopia",
+    "category": "Eyes & vision",
+    "myth": "Spending time outdoors helps protect children from becoming short-sighted.",
+    "rating": "mostly-true",
+    "fact": "Studies show children who spend more time outdoors are less likely to develop short-sightedness (myopia).",
+    "explanation": "Bright daylight is thought to be part of the reason. Outdoor time may delay onset more than slow existing myopia. Regular eye tests help catch vision problems early.",
+    "keywords": [
+      "outdoors",
+      "myopia",
+      "short sighted",
+      "nearsighted",
+      "children",
+      "daylight",
+      "outside play",
+      "eyesight"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Short-sightedness (myopia)",
+        "url": "https://www.nhs.uk/conditions/short-sightedness/"
+      },
+      {
+        "label": "American Academy of Ophthalmology — Eye health",
+        "url": "https://www.aao.org/eye-health"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "eye-exercises-replace-glasses",
+    "category": "Eyes & vision",
+    "myth": "Eye exercises can cure short-sightedness so you don't need glasses.",
+    "rating": "false",
+    "fact": "Eye exercises cannot correct refractive errors such as short-sightedness, long-sightedness or astigmatism, which are due to the shape of the eye.",
+    "explanation": "Some specific exercises are used for certain eye-muscle or focusing problems under specialist supervision. Glasses, contact lenses and laser surgery are the proven ways to correct refractive errors.",
+    "keywords": [
+      "eye exercises",
+      "cure",
+      "glasses",
+      "myopia",
+      "short sighted",
+      "improve eyesight naturally",
+      "bates method"
+    ],
+    "sources": [
+      {
+        "label": "American Academy of Ophthalmology — Eye health",
+        "url": "https://www.aao.org/eye-health"
+      },
+      {
+        "label": "National Eye Institute",
+        "url": "https://www.nei.nih.gov/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "sunglasses-safe-for-eclipse",
+    "category": "Eyes & vision",
+    "myth": "It's safe to look at a solar eclipse through ordinary sunglasses.",
+    "rating": "false",
+    "fact": "Ordinary sunglasses do not protect the eyes from a solar eclipse. Looking at the sun can cause permanent damage to the retina.",
+    "explanation": "Special solar viewing glasses that meet the ISO 12312-2 standard, or indirect methods such as a pinhole projector, are needed. Retina damage can occur without pain.",
+    "keywords": [
+      "eclipse",
+      "solar eclipse",
+      "sunglasses",
+      "look at the sun",
+      "retina",
+      "eye damage",
+      "eclipse glasses"
+    ],
+    "sources": [
+      {
+        "label": "American Academy of Ophthalmology — Eye health",
+        "url": "https://www.aao.org/eye-health"
+      },
+      {
+        "label": "National Eye Institute",
+        "url": "https://www.nei.nih.gov/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "colour-blind-see-black-white",
+    "category": "Eyes & vision",
+    "myth": "Colour-blind people see only in black and white.",
+    "rating": "false",
+    "fact": "Most people with colour vision deficiency see colours but have trouble telling certain colours apart, most often red and green.",
+    "explanation": "Seeing no colour at all is very rare. Colour vision deficiency is usually inherited and is much more common in males.",
+    "keywords": [
+      "colour blind",
+      "color blind",
+      "black and white",
+      "red green",
+      "colour vision",
+      "see colours"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Colour vision deficiency",
+        "url": "https://www.nhs.uk/conditions/colour-vision-deficiency/"
+      },
+      {
+        "label": "National Eye Institute",
+        "url": "https://www.nei.nih.gov/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "children-outgrow-lazy-eye",
+    "category": "Eyes & vision",
+    "myth": "Children will grow out of a lazy eye or squint on their own.",
+    "rating": "false",
+    "fact": "A lazy eye usually needs treatment, such as glasses or patching, and treatment works best when started early in childhood.",
+    "explanation": "If untreated, reduced vision in the affected eye can become permanent. Children's eye checks help pick up problems early.",
+    "keywords": [
+      "lazy eye",
+      "amblyopia",
+      "squint",
+      "grow out of",
+      "children",
+      "patch",
+      "eye patch"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Lazy eye",
+        "url": "https://www.nhs.uk/conditions/lazy-eye/"
+      },
+      {
+        "label": "American Academy of Ophthalmology — Eye health",
+        "url": "https://www.aao.org/eye-health"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "glaucoma-noticeable-early",
+    "category": "Eyes & vision",
+    "myth": "You'd notice if you had glaucoma.",
+    "rating": "false",
+    "fact": "The most common type of glaucoma develops slowly and often causes no symptoms until vision is lost, which cannot be restored.",
+    "explanation": "Regular eye tests can detect glaucoma early, when treatment can prevent further loss. Risk is higher with age, family history and certain ethnic backgrounds. Sudden eye pain with blurred vision needs emergency care.",
+    "keywords": [
+      "glaucoma",
+      "eye pressure",
+      "symptoms",
+      "vision loss",
+      "eye test",
+      "silent",
+      "blind"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Glaucoma",
+        "url": "https://www.nhs.uk/conditions/glaucoma/"
+      },
+      {
+        "label": "National Eye Institute",
+        "url": "https://www.nei.nih.gov/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "cataracts-must-ripen",
+    "category": "Eyes & vision",
+    "myth": "Cataracts have to be 'ripe' before they can be removed.",
+    "rating": "false",
+    "fact": "Modern cataract surgery does not need the cataract to 'ripen'. Surgery is usually considered when the cataract affects your daily life.",
+    "explanation": "The idea dates from older surgical techniques. Today's procedure is common and usually done under local anaesthetic.",
+    "keywords": [
+      "cataract",
+      "ripe",
+      "cataract surgery",
+      "cloudy vision",
+      "lens",
+      "operation",
+      "wait"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Cataracts",
+        "url": "https://www.nhs.uk/conditions/cataracts/"
+      },
+      {
+        "label": "American Academy of Ophthalmology — Eye health",
+        "url": "https://www.aao.org/eye-health"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "sugar-free-means-tooth-safe",
+    "category": "Teeth & mouth",
+    "myth": "If a drink is sugar-free, it can't harm your teeth.",
+    "rating": "misleading",
+    "fact": "Sugar-free drinks do not cause decay from sugar, but many are acidic and can wear away tooth enamel (dental erosion).",
+    "explanation": "Fizzy drinks, diet colas, sports drinks and fruit juices can all be acidic. Drinking them with meals, using a straw and choosing water or milk between meals helps protect teeth.",
+    "keywords": [
+      "sugar free",
+      "diet soda",
+      "diet coke",
+      "teeth",
+      "enamel",
+      "erosion",
+      "acid",
+      "fizzy drinks"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Healthy teeth and gums",
+        "url": "https://www.nhs.uk/live-well/healthy-teeth-and-gums/"
+      },
+      {
+        "label": "MouthHealthy (American Dental Association)",
+        "url": "https://www.mouthhealthy.org/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "baby-teeth-dont-matter",
+    "category": "Teeth & mouth",
+    "myth": "Baby teeth don't matter because they fall out anyway.",
+    "rating": "false",
+    "fact": "Baby teeth are important for eating, speech and holding space for adult teeth. Decay in baby teeth can cause pain, infection and problems with the adult teeth.",
+    "explanation": "Tooth decay is one of the most common chronic diseases of childhood. Brushing with fluoride toothpaste from the first tooth and regular dental visits are recommended.",
+    "keywords": [
+      "baby teeth",
+      "milk teeth",
+      "primary teeth",
+      "fall out",
+      "children",
+      "decay",
+      "cavities",
+      "kids teeth"
+    ],
+    "sources": [
+      {
+        "label": "CDC — Oral health",
+        "url": "https://www.cdc.gov/oral-health/"
+      },
+      {
+        "label": "MouthHealthy (American Dental Association)",
+        "url": "https://www.mouthhealthy.org/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "brush-harder-cleaner-teeth",
+    "category": "Teeth & mouth",
+    "myth": "Brushing harder gets your teeth cleaner.",
+    "rating": "false",
+    "fact": "Brushing too hard can wear down enamel and damage gums. Gentle brushing with a soft brush for two minutes is enough.",
+    "explanation": "Plaque is soft and comes off with gentle technique. Electric toothbrushes with pressure sensors can help people who brush too hard.",
+    "keywords": [
+      "brushing hard",
+      "toothbrush",
+      "scrub",
+      "hard bristles",
+      "enamel",
+      "gums",
+      "clean teeth"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Healthy teeth and gums",
+        "url": "https://www.nhs.uk/live-well/healthy-teeth-and-gums/"
+      },
+      {
+        "label": "MouthHealthy (American Dental Association)",
+        "url": "https://www.mouthhealthy.org/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "bleeding-gums-stop-brushing",
+    "category": "Teeth & mouth",
+    "myth": "If your gums bleed, you should stop brushing them.",
+    "rating": "false",
+    "fact": "Bleeding gums are usually a sign of gum inflammation caused by plaque. Gentle, thorough brushing and cleaning between teeth usually helps them recover.",
+    "explanation": "Avoiding sore areas lets plaque build up and makes things worse. If bleeding continues for more than a couple of weeks, see a dentist. Untreated gum disease can lead to tooth loss.",
+    "keywords": [
+      "bleeding gums",
+      "gums bleed",
+      "stop brushing",
+      "gingivitis",
+      "gum disease",
+      "brushing",
+      "flossing"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Gum disease",
+        "url": "https://www.nhs.uk/conditions/gum-disease/"
+      },
+      {
+        "label": "NHS — Healthy teeth and gums",
+        "url": "https://www.nhs.uk/live-well/healthy-teeth-and-gums/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "rinse-after-brushing",
+    "category": "Teeth & mouth",
+    "myth": "You should always rinse your mouth with water after brushing.",
+    "rating": "misleading",
+    "fact": "Dental advice in the UK and elsewhere is to spit out toothpaste after brushing rather than rinsing, so the fluoride stays on the teeth longer.",
+    "explanation": "Rinsing is not harmful, but it washes away fluoride that helps prevent decay. Using mouthwash at a different time from brushing is also suggested.",
+    "keywords": [
+      "rinse",
+      "brushing",
+      "spit dont rinse",
+      "fluoride",
+      "toothpaste",
+      "mouthwash",
+      "water"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Healthy teeth and gums",
+        "url": "https://www.nhs.uk/live-well/healthy-teeth-and-gums/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "white-teeth-are-healthy",
+    "category": "Teeth & mouth",
+    "myth": "White teeth are healthy teeth.",
+    "rating": "false",
+    "fact": "Tooth colour is not a reliable sign of dental health. Teeth naturally vary in shade, and white teeth can still have decay or gum disease.",
+    "explanation": "Teeth can also darken with age, food, drinks and smoking. Whitening is cosmetic and is best done with dental advice.",
+    "keywords": [
+      "white teeth",
+      "whitening",
+      "healthy teeth",
+      "yellow teeth",
+      "tooth colour",
+      "stains",
+      "bleaching"
+    ],
+    "sources": [
+      {
+        "label": "MouthHealthy (American Dental Association)",
+        "url": "https://www.mouthhealthy.org/"
+      },
+      {
+        "label": "MedlinePlus — Dental health",
+        "url": "https://medlineplus.gov/dentalhealth.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "flossing-pointless",
+    "category": "Teeth & mouth",
+    "myth": "Flossing is pointless.",
+    "rating": "misleading",
+    "fact": "The research evidence for flossing specifically is limited, but cleaning between the teeth with floss or interdental brushes is still recommended because a toothbrush cannot reach those surfaces.",
+    "explanation": "Headlines about weak flossing studies led some people to stop. Many dentists find interdental brushes easier and effective. Ask your dentist which method suits you.",
+    "keywords": [
+      "flossing",
+      "floss",
+      "pointless",
+      "interdental brushes",
+      "between teeth",
+      "gums",
+      "plaque"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Healthy teeth and gums",
+        "url": "https://www.nhs.uk/live-well/healthy-teeth-and-gums/"
+      },
+      {
+        "label": "MouthHealthy (American Dental Association)",
+        "url": "https://www.mouthhealthy.org/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "lose-tooth-each-pregnancy",
+    "category": "Teeth & mouth",
+    "myth": "You lose a tooth for every baby.",
+    "rating": "false",
+    "fact": "Pregnancy does not take calcium from the teeth. However, hormonal changes can make gums more prone to inflammation, and vomiting can expose teeth to acid.",
+    "explanation": "Good brushing, cleaning between teeth and dental check-ups during pregnancy help prevent problems. Dental care is safe in pregnancy.",
+    "keywords": [
+      "pregnancy",
+      "lose a tooth",
+      "teeth",
+      "calcium",
+      "gums",
+      "pregnancy gingivitis",
+      "baby"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Healthy teeth and gums",
+        "url": "https://www.nhs.uk/live-well/healthy-teeth-and-gums/"
+      },
+      {
+        "label": "MouthHealthy (American Dental Association)",
+        "url": "https://www.mouthhealthy.org/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "fluoride-toothpaste-harmful",
+    "category": "Teeth & mouth",
+    "myth": "Fluoride toothpaste is harmful and should be avoided.",
+    "rating": "false",
+    "fact": "Fluoride toothpaste is one of the most effective ways to prevent tooth decay and is safe when used as directed.",
+    "explanation": "Children should use the right amount for their age (a smear or pea-sized amount) and be supervised so they spit rather than swallow. Too much fluoride in early childhood can cause harmless white marks on teeth.",
+    "keywords": [
+      "fluoride",
+      "toothpaste",
+      "harmful",
+      "toxic",
+      "fluoride free",
+      "cavities",
+      "decay"
+    ],
+    "sources": [
+      {
+        "label": "CDC — Community water fluoridation",
+        "url": "https://www.cdc.gov/fluoridation/"
+      },
+      {
+        "label": "NHS — Healthy teeth and gums",
+        "url": "https://www.nhs.uk/live-well/healthy-teeth-and-gums/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "aspirin-on-tooth-for-toothache",
+    "category": "Teeth & mouth",
+    "myth": "Putting an aspirin directly on a sore tooth helps toothache.",
+    "rating": "false",
+    "fact": "Placing aspirin against the gum or tooth does not work better than swallowing it and can cause a painful chemical burn to the gum.",
+    "explanation": "Painkillers work when taken by mouth as directed. Toothache often means decay or infection, so see a dentist. Facial swelling with fever or trouble swallowing needs urgent care.",
+    "keywords": [
+      "aspirin",
+      "toothache",
+      "tooth pain",
+      "gum",
+      "burn",
+      "painkiller",
+      "home remedy"
+    ],
+    "sources": [
+      {
+        "label": "MouthHealthy (American Dental Association)",
+        "url": "https://www.mouthhealthy.org/"
+      },
+      {
+        "label": "NHS — Healthy teeth and gums",
+        "url": "https://www.nhs.uk/live-well/healthy-teeth-and-gums/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "no-pain-no-dentist",
+    "category": "Teeth & mouth",
+    "myth": "If your teeth don't hurt, you don't need to see a dentist.",
+    "rating": "false",
+    "fact": "Tooth decay and gum disease often cause no pain until they are advanced. Regular check-ups find problems early, when treatment is simpler.",
+    "explanation": "How often you need a check-up depends on your oral health; your dentist can advise. Dentists also check for signs of mouth cancer.",
+    "keywords": [
+      "dentist",
+      "check up",
+      "no pain",
+      "toothache",
+      "regular visits",
+      "decay",
+      "cavity"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Healthy teeth and gums",
+        "url": "https://www.nhs.uk/live-well/healthy-teeth-and-gums/"
+      },
+      {
+        "label": "CDC — Oral health",
+        "url": "https://www.cdc.gov/oral-health/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "mouthwash-replaces-brushing",
+    "category": "Teeth & mouth",
+    "myth": "Using mouthwash is as good as brushing your teeth.",
+    "rating": "false",
+    "fact": "Mouthwash cannot replace brushing and cleaning between teeth because it does not remove plaque stuck to the teeth.",
+    "explanation": "Some mouthwashes contain fluoride or antibacterial agents that can be a useful extra. Persistent bad breath may have an underlying cause worth checking with a dentist.",
+    "keywords": [
+      "mouthwash",
+      "instead of brushing",
+      "bad breath",
+      "listerine",
+      "plaque",
+      "rinse"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Healthy teeth and gums",
+        "url": "https://www.nhs.uk/live-well/healthy-teeth-and-gums/"
+      },
+      {
+        "label": "MouthHealthy (American Dental Association)",
+        "url": "https://www.mouthhealthy.org/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "sugar-frequency-matters",
+    "category": "Teeth & mouth",
+    "myth": "How often you eat sugar matters for your teeth, not just how much.",
+    "rating": "true",
+    "fact": "Each time you have sugary food or drinks, bacteria in plaque make acid that attacks the teeth for a while afterwards. Frequent sugary snacks and drinks keep teeth under attack.",
+    "explanation": "Keeping sugary foods and drinks to mealtimes and cutting down overall both help. Sipping sugary drinks throughout the day is particularly harmful.",
+    "keywords": [
+      "sugar",
+      "snacking",
+      "teeth",
+      "how often",
+      "tooth decay",
+      "cavities",
+      "sweets",
+      "sugary drinks"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Tooth decay",
+        "url": "https://www.nhs.uk/conditions/tooth-decay/"
+      },
+      {
+        "label": "NHS — Healthy teeth and gums",
+        "url": "https://www.nhs.uk/live-well/healthy-teeth-and-gums/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]

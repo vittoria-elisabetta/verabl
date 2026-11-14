@@ -1,0 +1,157 @@
+[
+  {
+    "id": "lemon-water-cancer",
+    "category": "Cancer",
+    "myth": "Drinking lemon water cures cancer.",
+    "rating": "false",
+    "fact": "A healthy diet supports overall wellbeing, but there is no scientific evidence that lemon water cures or prevents cancer. Cancer requires diagnosis and treatment guided by qualified oncologists.",
+    "explanation": "Lemon water can be part of a healthy diet and helps with hydration, but no food or drink has been shown to cure cancer. Delaying proven treatment in favour of unproven remedies can let cancer grow and spread.",
+    "keywords": [
+      "lemon water",
+      "lemon",
+      "cancer",
+      "cure",
+      "cures cancer",
+      "alkaline"
+    ],
+    "sources": [
+      {
+        "label": "World Health Organization — Cancer",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/cancer"
+      },
+      {
+        "label": "National Cancer Institute",
+        "url": "https://www.cancer.gov/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "vaccines-immune",
+    "category": "Vaccines",
+    "myth": "Vaccines weaken your immune system.",
+    "rating": "false",
+    "fact": "Vaccines train your immune system to recognise specific pathogens. They strengthen your body’s defences rather than weakening them, and are among the most studied medical interventions in history.",
+    "explanation": "Vaccines contain weakened, inactivated or partial pieces of a germ, or instructions to make a harmless piece, that teach the immune system to respond quickly. Mild side effects like a sore arm or brief fever are signs the immune system is responding, not being damaged.",
+    "keywords": [
+      "vaccine",
+      "vaccines",
+      "vaccination",
+      "jab",
+      "immune system",
+      "weaken",
+      "immunity"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Vaccines and immunization",
+        "url": "https://www.who.int/health-topics/vaccines-and-immunization"
+      },
+      {
+        "label": "CDC — Vaccine safety",
+        "url": "https://www.cdc.gov/vaccine-safety/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "antibiotics-viral",
+    "category": "Infections & colds",
+    "myth": "Antibiotics can treat colds and the flu.",
+    "rating": "false",
+    "fact": "Colds and flu are caused by viruses, and antibiotics only work against bacteria. Taking antibiotics for viral infections is ineffective and fuels antibiotic resistance.",
+    "explanation": "Most colds, flu and sore throats are caused by viruses and get better on their own. Using antibiotics when they are not needed can cause side effects and makes bacteria more resistant, so antibiotics may not work when they are really needed.",
+    "keywords": [
+      "antibiotics",
+      "antibiotic",
+      "cold",
+      "flu",
+      "virus",
+      "viral",
+      "common cold",
+      "influenza"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Antimicrobial resistance",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance"
+      },
+      {
+        "label": "CDC — Antibiotic use",
+        "url": "https://www.cdc.gov/antibiotic-use/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "detox-teas",
+    "category": "Nutrition",
+    "myth": "Detox teas flush toxins out of your body.",
+    "rating": "false",
+    "fact": "Your liver and kidneys already remove waste efficiently. \"Detox\" products are not proven to remove toxins and some can cause dehydration or digestive harm.",
+    "explanation": "Your liver and kidneys remove waste products continuously. Many detox teas contain laxatives or diuretics, which cause water loss rather than removing toxins, and can lead to dehydration or interact with medicines.",
+    "keywords": [
+      "detox",
+      "detox tea",
+      "cleanse",
+      "toxins",
+      "flush",
+      "teatox",
+      "liver detox"
+    ],
+    "sources": [
+      {
+        "label": "NIH — \"Detoxes\" and cleanses",
+        "url": "https://www.nccih.nih.gov/health/detoxes-and-cleanses-what-you-need-to-know"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "natural-safe",
+    "category": "Supplements",
+    "myth": "If it’s natural, it’s automatically safe.",
+    "rating": "false",
+    "fact": "\"Natural\" does not mean risk-free. Many plants and supplements interact with medications or can be toxic in large doses. Always check with a pharmacist or doctor.",
+    "explanation": "Many powerful medicines come from plants, which is exactly why natural products can have strong effects. Herbal remedies and supplements can cause side effects, contain contaminants, or interact with prescribed medicines, so tell your doctor or pharmacist what you take.",
+    "keywords": [
+      "natural",
+      "herbal",
+      "safe",
+      "supplements",
+      "plant",
+      "herbs",
+      "natural remedy"
+    ],
+    "sources": [
+      {
+        "label": "NIH — Dietary supplements",
+        "url": "https://ods.od.nih.gov/HealthInformation/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "crack-knuckles",
+    "category": "Bones & joints",
+    "myth": "Cracking your knuckles causes arthritis.",
+    "rating": "false",
+    "fact": "Research has found no link between habitual knuckle cracking and arthritis. The sound comes from gas bubbles in the joint fluid, not damage.",
+    "explanation": "The popping sound comes from gas bubbles forming in the fluid that lubricates the joint. Studies comparing habitual knuckle crackers with non-crackers have not found more arthritis, although pain or swelling in a joint should be checked.",
+    "keywords": [
+      "crack knuckles",
+      "knuckle cracking",
+      "cracking knuckles",
+      "knuckles",
+      "arthritis",
+      "joints"
+    ],
+    "sources": [
+      {
+        "label": "Harvard Health",
+        "url": "https://www.health.harvard.edu/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]

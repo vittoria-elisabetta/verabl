@@ -1,0 +1,980 @@
+[
+  {
+    "id": "high-blood-pressure",
+    "name": "High blood pressure (hypertension)",
+    "aliases": [
+      "hypertension",
+      "HBP",
+      "raised blood pressure"
+    ],
+    "category": "Heart & circulation",
+    "overview": "High blood pressure means the force of blood against the artery walls is consistently too high. It rarely causes symptoms, so the only way to know is to have it measured. Left untreated it raises the risk of heart attack, stroke and kidney disease, but lifestyle changes and medicines can control it.",
+    "symptoms": [
+      "Usually no symptoms",
+      "Very high blood pressure can occasionally cause headaches, blurred vision or chest pain"
+    ],
+    "causes": [
+      "Often no single cause, but linked to lifestyle and genes",
+      "Being overweight, eating too much salt and not exercising enough",
+      "Drinking too much alcohol and smoking",
+      "Some conditions such as kidney disease, or certain medicines"
+    ],
+    "riskFactors": [
+      "Older age",
+      "Family history of high blood pressure",
+      "Being of Black African or Black Caribbean descent",
+      "Overweight or obesity",
+      "High-salt diet, low physical activity, alcohol and smoking",
+      "Long-term stress or poor sleep"
+    ],
+    "diagnosis": "Blood pressure is measured with a cuff on several occasions; home or 24-hour ambulatory monitoring is often used to confirm the diagnosis.",
+    "treatment": [
+      "Lifestyle changes: less salt, healthy diet, more activity, less alcohol, stopping smoking",
+      "Blood pressure-lowering medicines prescribed by a doctor",
+      "Regular blood pressure checks"
+    ],
+    "selfCare": [
+      "Cut down on salt",
+      "Be active most days",
+      "Keep to a healthy weight",
+      "Limit alcohol and stop smoking",
+      "Check blood pressure at home if advised"
+    ],
+    "prevention": [
+      "Healthy, balanced diet with plenty of fruit and vegetables",
+      "Regular exercise",
+      "Regular blood pressure checks, especially over 40"
+    ],
+    "whenToSeeDoctor": [
+      "You are over 40 and have not had your blood pressure checked recently",
+      "Home readings are consistently high",
+      "Side effects from blood pressure medicines"
+    ],
+    "emergencySigns": [
+      "Very high reading with chest pain, shortness of breath or severe headache",
+      "Signs of stroke: face drooping, arm weakness or speech problems",
+      "Sudden changes in vision or confusion"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: High blood pressure (hypertension)",
+        "url": "https://www.nhs.uk/conditions/high-blood-pressure-hypertension/"
+      },
+      {
+        "label": "WHO: Hypertension",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/hypertension"
+      }
+    ]
+  },
+  {
+    "id": "high-cholesterol",
+    "name": "High cholesterol",
+    "aliases": [
+      "hypercholesterolaemia",
+      "hyperlipidaemia",
+      "high LDL"
+    ],
+    "category": "Heart & circulation",
+    "overview": "Cholesterol is a fatty substance in the blood. Too much of it can build up in the arteries and raise the risk of heart attack and stroke. It does not usually cause symptoms and is found with a blood test.",
+    "symptoms": [
+      "Usually no symptoms",
+      "It is often found only through a blood test or after a heart attack or stroke",
+      "Very high inherited cholesterol can occasionally cause fatty lumps on tendons or yellowish patches around the eyes"
+    ],
+    "causes": [
+      "Eating a lot of saturated fat",
+      "Not exercising enough, being overweight, smoking and drinking alcohol",
+      "Inherited conditions such as familial hypercholesterolaemia",
+      "Other conditions such as diabetes, kidney disease or an underactive thyroid"
+    ],
+    "riskFactors": [
+      "Family history of high cholesterol or early heart disease",
+      "Diet high in saturated fat",
+      "Overweight",
+      "Inactivity",
+      "Smoking",
+      "Older age"
+    ],
+    "diagnosis": "High cholesterol is diagnosed with a blood test, often as part of a routine health check alongside an assessment of overall heart risk.",
+    "treatment": [
+      "Diet and lifestyle changes",
+      "Cholesterol-lowering medicines such as statins, prescribed by a doctor",
+      "Treating linked conditions such as diabetes"
+    ],
+    "selfCare": [
+      "Eat less saturated fat and more fibre, fruit, vegetables and oily fish",
+      "Exercise regularly",
+      "Stop smoking and limit alcohol"
+    ],
+    "prevention": [
+      "Healthy, balanced diet",
+      "Regular physical activity",
+      "Healthy weight",
+      "Regular checks if you are at higher risk"
+    ],
+    "whenToSeeDoctor": [
+      "You are over 40 and have not had a cholesterol test",
+      "A family history of high cholesterol or early heart disease",
+      "You are overweight or have diabetes or high blood pressure"
+    ],
+    "emergencySigns": [
+      "Chest pain or pressure, which could be a heart attack",
+      "Sudden face drooping, arm weakness or speech problems (possible stroke)"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: High cholesterol",
+        "url": "https://www.nhs.uk/conditions/high-cholesterol/"
+      },
+      {
+        "label": "MedlinePlus: Cholesterol",
+        "url": "https://medlineplus.gov/cholesterol.html"
+      }
+    ]
+  },
+  {
+    "id": "coronary-heart-disease",
+    "name": "Coronary heart disease",
+    "aliases": [
+      "CHD",
+      "coronary artery disease",
+      "CAD",
+      "ischaemic heart disease",
+      "angina"
+    ],
+    "category": "Heart & circulation",
+    "overview": "Coronary heart disease happens when the arteries supplying the heart become narrowed by fatty deposits. It can cause chest pain (angina) and heart attacks. It cannot be cured, but treatment and lifestyle changes can greatly reduce the risk.",
+    "symptoms": [
+      "Chest pain or tightness (angina), often brought on by exertion or stress",
+      "Shortness of breath",
+      "Pain in the arm, neck, jaw, back or stomach",
+      "Feeling faint or sick",
+      "Some people have no symptoms before a heart attack"
+    ],
+    "causes": [
+      "Build-up of fatty material in the walls of the coronary arteries (atherosclerosis)",
+      "Damage to arteries from smoking, high blood pressure, high cholesterol and diabetes"
+    ],
+    "riskFactors": [
+      "Smoking",
+      "High blood pressure",
+      "High cholesterol",
+      "Diabetes",
+      "Inactivity and overweight",
+      "Family history of heart disease",
+      "Older age and being male"
+    ],
+    "diagnosis": "Doctors use a risk assessment, blood tests, an ECG, and tests such as an exercise test, CT scan or coronary angiogram.",
+    "treatment": [
+      "Medicines to reduce symptoms and risk of heart attack, prescribed by a doctor",
+      "Procedures to widen arteries (angioplasty and stents)",
+      "Coronary artery bypass surgery",
+      "Cardiac rehabilitation"
+    ],
+    "selfCare": [
+      "Stop smoking",
+      "Eat a healthy diet and be physically active",
+      "Keep blood pressure, cholesterol and diabetes under control",
+      "Carry any prescribed angina spray and know how to use it"
+    ],
+    "prevention": [
+      "Not smoking",
+      "Healthy diet, weight and activity",
+      "Limiting alcohol",
+      "Managing blood pressure, cholesterol and diabetes"
+    ],
+    "whenToSeeDoctor": [
+      "Chest pain or tightness that comes on with activity and settles with rest",
+      "Increasing breathlessness",
+      "Angina that is happening more often or with less effort"
+    ],
+    "emergencySigns": [
+      "Chest pain that is sudden, severe or lasts more than a few minutes, or does not settle with rest or your angina medicine",
+      "Chest pain spreading to the arms, neck, jaw or back",
+      "Chest pain with sweating, breathlessness or feeling sick"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Coronary heart disease",
+        "url": "https://www.nhs.uk/conditions/coronary-heart-disease/"
+      },
+      {
+        "label": "NHS: Angina",
+        "url": "https://www.nhs.uk/conditions/angina/"
+      }
+    ]
+  },
+  {
+    "id": "heart-attack",
+    "name": "Heart attack",
+    "aliases": [
+      "myocardial infarction",
+      "MI",
+      "acute coronary syndrome"
+    ],
+    "category": "Heart & circulation",
+    "overview": "A heart attack is a medical emergency where the blood supply to part of the heart is suddenly blocked, usually by a blood clot. Calling emergency services immediately saves lives and heart muscle. Treatment and rehabilitation help people recover and prevent another attack.",
+    "symptoms": [
+      "Chest pain: pressure, tightness or squeezing in the centre of the chest",
+      "Pain spreading to the arms, neck, jaw, back or tummy",
+      "Shortness of breath",
+      "Sweating",
+      "Feeling sick, lightheaded or dizzy",
+      "An overwhelming feeling of anxiety"
+    ],
+    "causes": [
+      "Usually coronary heart disease, where a fatty plaque in an artery bursts and a clot forms",
+      "Less commonly, a spasm or tear in a coronary artery"
+    ],
+    "riskFactors": [
+      "Smoking",
+      "High blood pressure, high cholesterol and diabetes",
+      "Overweight and inactivity",
+      "Family history of heart disease",
+      "Older age"
+    ],
+    "diagnosis": "A heart attack is diagnosed in hospital with an ECG and blood tests that measure heart muscle damage.",
+    "treatment": [
+      "Emergency treatment to restore blood flow, such as a stent procedure or clot-dissolving medicine",
+      "Medicines to protect the heart and prevent another heart attack",
+      "Cardiac rehabilitation programme"
+    ],
+    "selfCare": [
+      "Call emergency services straight away if you suspect a heart attack",
+      "While waiting, sit down and rest; chew aspirin only if advised by the call handler and not allergic",
+      "Take part in cardiac rehabilitation after a heart attack"
+    ],
+    "prevention": [
+      "Do not smoke",
+      "Healthy diet, weight and regular activity",
+      "Control blood pressure, cholesterol and diabetes",
+      "Limit alcohol"
+    ],
+    "whenToSeeDoctor": [
+      "Chest discomfort that comes and goes with activity (possible angina)",
+      "After a heart attack, any new or worsening symptoms"
+    ],
+    "emergencySigns": [
+      "Chest pain or pressure that does not go away",
+      "Chest pain with breathlessness, sweating or feeling sick",
+      "Pain spreading to the arm, jaw, neck or back",
+      "Collapse or unconsciousness"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Heart attack",
+        "url": "https://www.nhs.uk/conditions/heart-attack/"
+      },
+      {
+        "label": "MedlinePlus: Heart Attack",
+        "url": "https://medlineplus.gov/heartattack.html"
+      }
+    ]
+  },
+  {
+    "id": "heart-failure",
+    "name": "Heart failure",
+    "aliases": [
+      "congestive heart failure",
+      "CHF",
+      "cardiac failure"
+    ],
+    "category": "Heart & circulation",
+    "overview": "Heart failure means the heart is not pumping blood around the body as well as it should. It is a long-term condition that usually gets worse over time, but treatment can control symptoms for many years and help people live well.",
+    "symptoms": [
+      "Breathlessness after activity or at rest",
+      "Feeling tired most of the time",
+      "Swollen ankles and legs",
+      "Breathlessness when lying down or waking at night breathless",
+      "Feeling lightheaded or fainting"
+    ],
+    "causes": [
+      "Coronary heart disease and previous heart attacks",
+      "High blood pressure",
+      "Problems with heart muscle (cardiomyopathy) or heart valves",
+      "Irregular heart rhythms such as atrial fibrillation"
+    ],
+    "riskFactors": [
+      "Coronary heart disease or past heart attack",
+      "High blood pressure",
+      "Diabetes",
+      "Obesity",
+      "Heavy alcohol use",
+      "Older age"
+    ],
+    "diagnosis": "Heart failure is diagnosed with blood tests, an ECG and an echocardiogram (heart ultrasound).",
+    "treatment": [
+      "Medicines to help the heart work better and reduce fluid build-up",
+      "Devices such as pacemakers or implantable defibrillators in some people",
+      "Surgery or procedures for valve or artery problems",
+      "Heart failure rehabilitation"
+    ],
+    "selfCare": [
+      "Weigh yourself daily if advised, as sudden gain can mean fluid build-up",
+      "Take medicines as prescribed",
+      "Stay active within your limits",
+      "Limit salt and alcohol and stop smoking"
+    ],
+    "prevention": [
+      "Control blood pressure",
+      "Treat coronary heart disease risk factors",
+      "Not smoking and limiting alcohol"
+    ],
+    "whenToSeeDoctor": [
+      "Persistent breathlessness or tiredness",
+      "Swollen ankles or legs",
+      "Symptoms getting worse if you already have heart failure",
+      "Rapid weight gain over a few days"
+    ],
+    "emergencySigns": [
+      "Severe breathlessness or struggling to breathe",
+      "Chest pain",
+      "Coughing up frothy pink mucus",
+      "Fainting or collapse"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Heart failure",
+        "url": "https://www.nhs.uk/conditions/heart-failure/"
+      },
+      {
+        "label": "MedlinePlus: Heart Failure",
+        "url": "https://medlineplus.gov/heartfailure.html"
+      }
+    ]
+  },
+  {
+    "id": "atrial-fibrillation",
+    "name": "Atrial fibrillation",
+    "aliases": [
+      "AF",
+      "AFib",
+      "irregular heartbeat"
+    ],
+    "category": "Heart & circulation",
+    "overview": "Atrial fibrillation is a common heart rhythm problem that causes an irregular and often fast heartbeat. It raises the risk of stroke because blood clots can form in the heart. Treatment controls the heart rate or rhythm and lowers stroke risk.",
+    "symptoms": [
+      "Irregular heartbeat or palpitations",
+      "Breathlessness",
+      "Tiredness and less able to exercise",
+      "Dizziness or feeling faint",
+      "Some people have no symptoms"
+    ],
+    "causes": [
+      "High blood pressure",
+      "Coronary heart disease, heart failure or heart valve problems",
+      "Overactive thyroid",
+      "Heavy alcohol use",
+      "Sometimes no clear cause"
+    ],
+    "riskFactors": [
+      "Older age",
+      "High blood pressure",
+      "Heart disease",
+      "Obesity",
+      "Diabetes",
+      "Sleep apnoea",
+      "Heavy drinking"
+    ],
+    "diagnosis": "AF is diagnosed with an electrocardiogram (ECG), sometimes using a portable monitor worn for a day or longer.",
+    "treatment": [
+      "Anticoagulant medicines to reduce the risk of stroke",
+      "Medicines to control heart rate or rhythm",
+      "Cardioversion (a controlled electric shock) to reset the rhythm",
+      "Catheter ablation in some people"
+    ],
+    "selfCare": [
+      "Take medicines exactly as prescribed",
+      "Limit alcohol and caffeine if they trigger symptoms",
+      "Keep to a healthy weight and be active",
+      "Learn to check your pulse"
+    ],
+    "prevention": [
+      "Control blood pressure",
+      "Limit alcohol",
+      "Healthy weight and regular activity",
+      "Treat sleep apnoea"
+    ],
+    "whenToSeeDoctor": [
+      "Your heartbeat feels irregular or very fast",
+      "Palpitations with dizziness or breathlessness",
+      "An irregular pulse found on a smartwatch or home check"
+    ],
+    "emergencySigns": [
+      "Chest pain",
+      "Severe breathlessness",
+      "Fainting or collapse",
+      "Signs of stroke: face drooping, arm weakness, speech problems"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Atrial fibrillation",
+        "url": "https://www.nhs.uk/conditions/atrial-fibrillation/"
+      },
+      {
+        "label": "MedlinePlus: Atrial Fibrillation",
+        "url": "https://medlineplus.gov/atrialfibrillation.html"
+      }
+    ]
+  },
+  {
+    "id": "stroke",
+    "name": "Stroke",
+    "aliases": [
+      "brain attack",
+      "CVA",
+      "cerebrovascular accident",
+      "TIA",
+      "mini-stroke"
+    ],
+    "category": "Heart & circulation",
+    "overview": "A stroke is a medical emergency where the blood supply to part of the brain is cut off, by a clot or by bleeding. The faster treatment starts, the less damage there is. A transient ischaemic attack (TIA or mini-stroke) has similar symptoms that pass, but is a warning that needs urgent assessment.",
+    "symptoms": [
+      "Face drooping on one side or unable to smile",
+      "Weakness or numbness in one arm or leg",
+      "Slurred speech or difficulty understanding",
+      "Sudden loss of vision, dizziness or loss of balance",
+      "Sudden severe headache",
+      "Confusion"
+    ],
+    "causes": [
+      "A blood clot blocking an artery to the brain (ischaemic stroke)",
+      "Bleeding in or around the brain (haemorrhagic stroke)"
+    ],
+    "riskFactors": [
+      "High blood pressure",
+      "Atrial fibrillation",
+      "Smoking",
+      "High cholesterol and diabetes",
+      "Obesity and inactivity",
+      "Heavy drinking",
+      "Older age and family history"
+    ],
+    "diagnosis": "A stroke is diagnosed in hospital with an urgent brain scan (CT or MRI) and other tests to find the cause.",
+    "treatment": [
+      "Clot-busting medicine or clot removal for ischaemic stroke, if given quickly enough",
+      "Medicines to prevent further strokes",
+      "Surgery for some bleeds",
+      "Rehabilitation: physiotherapy, speech and occupational therapy"
+    ],
+    "selfCare": [
+      "Use the FAST test and call emergency services immediately",
+      "Note the time symptoms started",
+      "Take part in rehabilitation and take prevention medicines as prescribed"
+    ],
+    "prevention": [
+      "Control blood pressure",
+      "Treat atrial fibrillation",
+      "Do not smoke",
+      "Healthy diet, weight and activity",
+      "Limit alcohol"
+    ],
+    "whenToSeeDoctor": [
+      "Stroke-like symptoms that went away (possible TIA) need urgent same-day assessment",
+      "Risk factors such as high blood pressure or an irregular pulse"
+    ],
+    "emergencySigns": [
+      "Face drooping",
+      "Arm or leg weakness",
+      "Speech problems",
+      "Sudden loss of vision, balance or a sudden very severe headache"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Stroke",
+        "url": "https://www.nhs.uk/conditions/stroke/"
+      },
+      {
+        "label": "NHS: Transient ischaemic attack (TIA)",
+        "url": "https://www.nhs.uk/conditions/transient-ischaemic-attack-tia/"
+      }
+    ]
+  },
+  {
+    "id": "deep-vein-thrombosis",
+    "name": "Deep vein thrombosis (DVT)",
+    "aliases": [
+      "DVT",
+      "blood clot in the leg",
+      "venous thromboembolism"
+    ],
+    "category": "Heart & circulation",
+    "overview": "A DVT is a blood clot in a deep vein, usually in the leg. It can be serious because part of the clot can break off and travel to the lungs (pulmonary embolism). It is treated with medicines that stop clots growing.",
+    "symptoms": [
+      "Throbbing or cramping pain in one leg, usually the calf or thigh",
+      "Swelling in one leg",
+      "Warm skin around the painful area",
+      "Red or darker skin around the painful area",
+      "Swollen, hard veins that are sore to touch"
+    ],
+    "causes": [
+      "Slow or reduced blood flow in the deep veins, for example during long periods of immobility",
+      "Damage to a vein wall, such as from surgery or injury",
+      "Blood that clots more easily than usual, due to pregnancy, hormones, cancer or inherited conditions"
+    ],
+    "riskFactors": [
+      "Being immobile, such as after surgery, in hospital or on long journeys",
+      "Pregnancy or recently giving birth",
+      "Combined contraceptive pill or hormone therapy",
+      "Cancer and its treatment",
+      "Overweight, smoking, older age",
+      "Previous DVT"
+    ],
+    "diagnosis": "A DVT is diagnosed with a blood test (D-dimer) and an ultrasound scan of the leg.",
+    "treatment": [
+      "Anticoagulant medicines to stop the clot growing",
+      "Compression stockings may be advised for symptoms",
+      "Occasionally procedures to remove the clot"
+    ],
+    "selfCare": [
+      "Take anticoagulants exactly as prescribed",
+      "Keep active and walk regularly",
+      "Raise the leg when resting"
+    ],
+    "prevention": [
+      "Keep moving during long journeys and after surgery",
+      "Drink fluids and avoid long periods of sitting",
+      "Follow hospital advice on clot prevention",
+      "Stop smoking and keep to a healthy weight"
+    ],
+    "whenToSeeDoctor": [
+      "Pain and swelling in one leg (get help urgently, the same day)",
+      "Symptoms in a leg after surgery, a long journey or during pregnancy"
+    ],
+    "emergencySigns": [
+      "Sudden breathlessness",
+      "Chest pain, especially when breathing in",
+      "Coughing up blood",
+      "Fast heartbeat or collapse"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: DVT (deep vein thrombosis)",
+        "url": "https://www.nhs.uk/conditions/deep-vein-thrombosis-dvt/"
+      },
+      {
+        "label": "MedlinePlus: Deep Vein Thrombosis",
+        "url": "https://medlineplus.gov/deepveinthrombosis.html"
+      }
+    ]
+  },
+  {
+    "id": "pulmonary-embolism",
+    "name": "Pulmonary embolism",
+    "aliases": [
+      "PE",
+      "blood clot in the lung"
+    ],
+    "category": "Heart & circulation",
+    "overview": "A pulmonary embolism is a blockage of a blood vessel in the lungs, usually by a clot that has travelled from the leg. It can be life-threatening and needs urgent treatment.",
+    "symptoms": [
+      "Sudden shortness of breath",
+      "Chest pain, especially when breathing in",
+      "Coughing, sometimes with blood",
+      "Fast heartbeat",
+      "Feeling faint or collapsing",
+      "Pain and swelling in a leg (from a DVT)"
+    ],
+    "causes": [
+      "A blood clot, usually from a deep vein in the leg (DVT), travelling to the lungs",
+      "Rarely, a blockage from fat, air or other material entering the bloodstream"
+    ],
+    "riskFactors": [
+      "Recent surgery or immobility",
+      "Previous DVT or PE",
+      "Pregnancy or recently giving birth",
+      "Cancer",
+      "Combined hormonal contraception or hormone therapy",
+      "Long-distance travel"
+    ],
+    "diagnosis": "A PE is diagnosed in hospital with blood tests and scans such as a CT pulmonary angiogram or a lung scan.",
+    "treatment": [
+      "Anticoagulant medicines",
+      "Clot-dissolving medicine or procedures in severe cases",
+      "Hospital monitoring"
+    ],
+    "selfCare": [
+      "Take anticoagulants exactly as prescribed",
+      "Stay active as advised during recovery"
+    ],
+    "prevention": [
+      "Clot prevention measures after surgery or in hospital",
+      "Move regularly on long journeys",
+      "Treat DVT promptly"
+    ],
+    "whenToSeeDoctor": [
+      "Breathlessness or chest pain after recent surgery or immobility: seek urgent help",
+      "Pain and swelling in one leg, which may be a DVT that could lead to PE",
+      "New or worsening symptoms while on treatment"
+    ],
+    "emergencySigns": [
+      "Sudden breathlessness",
+      "Chest pain when breathing in",
+      "Coughing up blood",
+      "Collapse"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Pulmonary embolism",
+        "url": "https://www.nhs.uk/conditions/pulmonary-embolism/"
+      },
+      {
+        "label": "MedlinePlus: Pulmonary Embolism",
+        "url": "https://medlineplus.gov/pulmonaryembolism.html"
+      }
+    ]
+  },
+  {
+    "id": "varicose-veins",
+    "name": "Varicose veins",
+    "aliases": [
+      "swollen veins",
+      "spider veins"
+    ],
+    "category": "Heart & circulation",
+    "overview": "Varicose veins are swollen, twisted veins, usually in the legs, caused by weak valves in the veins. They are common and often harmless, though they can ache or itch. Treatment is usually only needed if they cause problems.",
+    "symptoms": [
+      "Blue or dark purple, bulging, twisted veins",
+      "Aching, heavy or uncomfortable legs",
+      "Swollen feet and ankles",
+      "Burning or throbbing in the legs",
+      "Muscle cramps, especially at night",
+      "Dry, itchy skin over the vein"
+    ],
+    "causes": [
+      "Weak or damaged valves inside the veins that let blood flow backwards and collect",
+      "Increased pressure in the leg veins, for example from pregnancy, overweight or long periods of standing"
+    ],
+    "riskFactors": [
+      "Female sex",
+      "Family history",
+      "Older age",
+      "Overweight",
+      "Jobs involving long periods of standing",
+      "Pregnancy"
+    ],
+    "diagnosis": "A GP diagnoses varicose veins by looking at the legs; an ultrasound scan may be done if treatment is considered.",
+    "treatment": [
+      "Compression stockings",
+      "Procedures such as heat or laser treatment to seal veins",
+      "Injections to close veins (sclerotherapy)",
+      "Surgery to remove veins in some cases"
+    ],
+    "selfCare": [
+      "Avoid standing still for long periods",
+      "Raise the legs when resting",
+      "Exercise regularly",
+      "Keep to a healthy weight"
+    ],
+    "prevention": [
+      "Regular activity",
+      "Healthy weight",
+      "Avoid standing or sitting for long periods without moving"
+    ],
+    "whenToSeeDoctor": [
+      "Veins are painful or causing discomfort",
+      "Skin over the veins is changing colour, sore or itchy",
+      "Veins become hot, red and painful (possible inflammation)"
+    ],
+    "emergencySigns": [
+      "A vein that is bleeding heavily and does not stop with pressure",
+      "Sudden leg swelling and pain with breathlessness or chest pain"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Varicose veins",
+        "url": "https://www.nhs.uk/conditions/varicose-veins/"
+      },
+      {
+        "label": "MedlinePlus: Varicose Veins",
+        "url": "https://medlineplus.gov/varicoseveins.html"
+      }
+    ]
+  },
+  {
+    "id": "peripheral-arterial-disease",
+    "name": "Peripheral arterial disease (PAD)",
+    "aliases": [
+      "PAD",
+      "peripheral artery disease",
+      "intermittent claudication"
+    ],
+    "category": "Heart & circulation",
+    "overview": "Peripheral arterial disease is a narrowing of the arteries that carry blood to the legs, caused by fatty deposits. It is a sign of a higher risk of heart attack and stroke. Lifestyle changes, exercise and medicines can help.",
+    "symptoms": [
+      "Painful cramping in the hips, thighs or calves when walking, which eases with rest",
+      "Hair loss on the legs and feet",
+      "Numbness or weakness in the legs",
+      "Shiny skin or skin colour changes on the legs",
+      "Sores on the feet or legs that do not heal",
+      "Cold feet"
+    ],
+    "causes": [
+      "Build-up of fatty deposits in the leg arteries (atherosclerosis)",
+      "Artery damage made worse by smoking, diabetes, high blood pressure and high cholesterol"
+    ],
+    "riskFactors": [
+      "Smoking",
+      "Diabetes",
+      "High blood pressure",
+      "High cholesterol",
+      "Older age"
+    ],
+    "diagnosis": "PAD is usually diagnosed by comparing blood pressure in the ankles and arms (ankle-brachial index), sometimes followed by an ultrasound scan.",
+    "treatment": [
+      "Stopping smoking and supervised exercise programmes",
+      "Medicines to lower cholesterol, control blood pressure and reduce clotting",
+      "Angioplasty or bypass surgery in severe cases"
+    ],
+    "selfCare": [
+      "Stop smoking",
+      "Walk regularly, gradually increasing distance",
+      "Look after your feet and check them daily"
+    ],
+    "prevention": [
+      "Do not smoke",
+      "Control diabetes, blood pressure and cholesterol",
+      "Be physically active"
+    ],
+    "whenToSeeDoctor": [
+      "Leg pain when walking that goes away with rest",
+      "Sores on the legs or feet that do not heal",
+      "Cold, numb or discoloured legs or feet"
+    ],
+    "emergencySigns": [
+      "A suddenly cold, pale, painful, numb leg or foot",
+      "Black or dying skin on the toes or foot"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Peripheral arterial disease (PAD)",
+        "url": "https://www.nhs.uk/conditions/peripheral-arterial-disease-pad/"
+      },
+      {
+        "label": "MedlinePlus: Peripheral Arterial Disease",
+        "url": "https://medlineplus.gov/peripheralarterialdisease.html"
+      }
+    ]
+  },
+  {
+    "id": "asthma",
+    "name": "Asthma",
+    "aliases": [
+      "asthma attack",
+      "wheezing",
+      "bronchial asthma"
+    ],
+    "category": "Lungs & breathing",
+    "overview": "Asthma is a common long-term condition where the airways become inflamed and narrow, making it hard to breathe at times. It usually starts in childhood but can begin at any age. With the right treatment most people can control their symptoms well.",
+    "symptoms": [
+      "Wheezing (a whistling sound when breathing)",
+      "Breathlessness",
+      "A tight chest",
+      "Coughing, often worse at night or early morning"
+    ],
+    "causes": [
+      "Inflamed, sensitive airways that react to triggers",
+      "Triggers such as colds, allergies (pollen, dust mites, pets), smoke, exercise, cold air and air pollution"
+    ],
+    "riskFactors": [
+      "Allergies, eczema or hay fever",
+      "Family history of asthma or allergies",
+      "Smoking or exposure to smoke",
+      "Low birth weight or premature birth",
+      "Work exposure to dusts or chemicals"
+    ],
+    "diagnosis": "Asthma is diagnosed from symptoms and breathing tests such as spirometry, peak flow monitoring or a FeNO test.",
+    "treatment": [
+      "Inhalers: relievers to ease symptoms and preventers to reduce airway inflammation",
+      "Combination inhalers",
+      "Tablets or other medicines if inhalers alone do not control symptoms",
+      "A personal asthma action plan"
+    ],
+    "selfCare": [
+      "Use inhalers as prescribed and check your technique",
+      "Know and avoid your triggers where possible",
+      "Follow your asthma action plan",
+      "Do not smoke"
+    ],
+    "prevention": [
+      "Take preventer medicine regularly if prescribed",
+      "Have annual asthma reviews",
+      "Get flu and other recommended vaccines"
+    ],
+    "whenToSeeDoctor": [
+      "You think you or your child may have asthma",
+      "You need your reliever inhaler 3 or more times a week",
+      "Symptoms wake you at night",
+      "Your asthma is affecting daily life"
+    ],
+    "emergencySigns": [
+      "Reliever inhaler is not helping",
+      "Too breathless to speak, eat or sleep",
+      "Breathing getting faster and you cannot catch your breath",
+      "Lips or fingers turning blue or grey",
+      "Drowsiness or confusion"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Asthma",
+        "url": "https://www.nhs.uk/conditions/asthma/"
+      },
+      {
+        "label": "MedlinePlus: Asthma",
+        "url": "https://medlineplus.gov/asthma.html"
+      }
+    ]
+  },
+  {
+    "id": "copd",
+    "name": "Chronic obstructive pulmonary disease (COPD)",
+    "aliases": [
+      "COPD",
+      "emphysema",
+      "chronic bronchitis"
+    ],
+    "category": "Lungs & breathing",
+    "overview": "COPD is a long-term lung condition, including emphysema and chronic bronchitis, that makes it harder to breathe. It is mostly caused by smoking and gets slowly worse over time. Treatment and stopping smoking can slow it down and help people stay active.",
+    "symptoms": [
+      "Breathlessness, especially when active",
+      "A persistent cough with mucus",
+      "Frequent chest infections",
+      "Wheezing",
+      "Tiredness"
+    ],
+    "causes": [
+      "Smoking, the main cause",
+      "Long-term exposure to fumes, dust or air pollution",
+      "Rarely, an inherited condition called alpha-1 antitrypsin deficiency"
+    ],
+    "riskFactors": [
+      "Smoking or past smoking",
+      "Exposure to second-hand smoke",
+      "Workplace dust and chemicals",
+      "Indoor smoke from cooking or heating fuels",
+      "Age over 35"
+    ],
+    "diagnosis": "COPD is diagnosed with a breathing test called spirometry, along with a chest X-ray and blood tests to rule out other causes.",
+    "treatment": [
+      "Stopping smoking",
+      "Inhalers to open the airways",
+      "Pulmonary rehabilitation (an exercise and education programme)",
+      "Tablets, oxygen therapy or surgery in some cases"
+    ],
+    "selfCare": [
+      "Stop smoking",
+      "Stay as active as possible",
+      "Use inhalers correctly",
+      "Have a rescue plan for flare-ups"
+    ],
+    "prevention": [
+      "Do not smoke",
+      "Avoid workplace dust and fumes with proper protection",
+      "Flu, pneumococcal and other recommended vaccines"
+    ],
+    "whenToSeeDoctor": [
+      "Persistent breathlessness, cough or wheeze",
+      "Frequent chest infections",
+      "Symptoms getting worse over days (a flare-up)"
+    ],
+    "emergencySigns": [
+      "Severe breathlessness that is not relieved by usual treatment",
+      "Lips or skin turning blue or grey",
+      "Confusion or drowsiness",
+      "Chest pain"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: COPD",
+        "url": "https://www.nhs.uk/conditions/chronic-obstructive-pulmonary-disease-copd/"
+      },
+      {
+        "label": "MedlinePlus: COPD",
+        "url": "https://medlineplus.gov/copd.html"
+      }
+    ]
+  },
+  {
+    "id": "obstructive-sleep-apnoea",
+    "name": "Obstructive sleep apnoea",
+    "aliases": [
+      "sleep apnea",
+      "OSA",
+      "snoring with pauses in breathing"
+    ],
+    "category": "Lungs & breathing",
+    "overview": "Obstructive sleep apnoea is when the throat walls relax and narrow during sleep, interrupting breathing. It causes loud snoring and daytime sleepiness. Treatment can improve sleep and lower risks such as high blood pressure and accidents.",
+    "symptoms": [
+      "Breathing stopping and starting during sleep (often noticed by a partner)",
+      "Loud snoring, gasping or choking noises",
+      "Waking often during the night",
+      "Feeling very sleepy during the day",
+      "Morning headaches",
+      "Difficulty concentrating or mood changes"
+    ],
+    "causes": [
+      "The muscles and soft tissue in the throat relaxing and narrowing the airway during sleep",
+      "Extra tissue around the neck or a narrow airway, for example from overweight or large tonsils"
+    ],
+    "riskFactors": [
+      "Overweight",
+      "Large neck size",
+      "Being male",
+      "Older age",
+      "Drinking alcohol or taking sedatives before bed",
+      "Smoking",
+      "Enlarged tonsils or a small jaw"
+    ],
+    "diagnosis": "Sleep apnoea is diagnosed with a sleep study, often using a device worn at home overnight that measures breathing and oxygen levels.",
+    "treatment": [
+      "Lifestyle changes such as weight loss and less alcohol",
+      "A CPAP machine that gently pumps air through a mask during sleep",
+      "A mouth device (mandibular advancement device) for some people",
+      "Surgery is rarely needed"
+    ],
+    "selfCare": [
+      "Lose weight if overweight",
+      "Avoid alcohol and sleeping pills before bed",
+      "Sleep on your side",
+      "Stop smoking"
+    ],
+    "prevention": [
+      "Keep to a healthy weight",
+      "Limit alcohol",
+      "Do not smoke"
+    ],
+    "whenToSeeDoctor": [
+      "Someone notices you stop breathing or gasp while asleep",
+      "You feel very tired during the day despite sleeping",
+      "You fall asleep at inappropriate times, such as while driving"
+    ],
+    "emergencySigns": [
+      "Chest pain or severe breathlessness",
+      "Being extremely drowsy and hard to wake"
+    ],
+    "contagious": false,
+    "sources": [
+      {
+        "label": "NHS: Sleep apnoea",
+        "url": "https://www.nhs.uk/conditions/sleep-apnoea/"
+      },
+      {
+        "label": "MedlinePlus: Sleep Apnea",
+        "url": "https://medlineplus.gov/sleepapnea.html"
+      }
+    ]
+  }
+]
