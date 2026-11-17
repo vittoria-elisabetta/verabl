@@ -1,0 +1,387 @@
+[
+  {
+    "id": "walking-not-real-exercise",
+    "category": "Exercise & fitness",
+    "myth": "Walking doesn't count as real exercise.",
+    "rating": "false",
+    "fact": "Brisk walking is moderate-intensity aerobic activity and counts towards the recommended 150 minutes a week. Regular walking is linked to a lower risk of heart disease, type 2 diabetes, some cancers and depression.",
+    "explanation": "Walking fast enough to raise your heart rate and make you breathe faster, while still being able to talk, is a good guide to moderate intensity. It is free, low-impact and easy to fit into daily life, which makes it one of the most practical ways to get active. Adding hills or a faster pace increases the challenge.",
+    "keywords": [
+      "walking exercise",
+      "is walking enough",
+      "brisk walking",
+      "walking counts",
+      "walk for health",
+      "walking vs running",
+      "daily walk"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Walking for health",
+        "url": "https://www.nhs.uk/live-well/exercise/walking-for-health/"
+      },
+      {
+        "label": "WHO — Physical activity",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "adults-150-minutes-activity-a-week",
+    "category": "Exercise & fitness",
+    "myth": "Adults should aim for at least 150 minutes of moderate activity a week, plus muscle-strengthening on two days.",
+    "rating": "true",
+    "fact": "WHO and national health services recommend that adults do at least 150 to 300 minutes of moderate activity, or 75 to 150 minutes of vigorous activity, a week, plus muscle-strengthening activities on at least two days. Some activity is better than none.",
+    "explanation": "Moderate activity includes brisk walking, cycling or dancing; vigorous activity, such as running or swimming fast, makes it hard to say more than a few words. Activity can be spread across the week in whatever chunks suit you. Reducing long periods of sitting also helps.",
+    "keywords": [
+      "150 minutes",
+      "exercise guidelines",
+      "how much exercise",
+      "physical activity guidelines",
+      "exercise per week",
+      "recommended exercise",
+      "75 minutes vigorous"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Physical activity",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
+      },
+      {
+        "label": "NHS — Physical activity guidelines for adults aged 19 to 64",
+        "url": "https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-for-adults-aged-19-to-64/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "cardio-only-no-strength-needed",
+    "category": "Exercise & fitness",
+    "myth": "If you do plenty of cardio, you don't need any strength exercises.",
+    "rating": "false",
+    "fact": "Health guidelines recommend muscle-strengthening activities that work all the major muscle groups on at least two days a week, in addition to aerobic activity. Strength work helps maintain muscle, bones and balance in ways that cardio alone does not.",
+    "explanation": "Strength exercises don't have to mean a gym: carrying heavy shopping, bodyweight exercises such as squats and push-ups, resistance bands, yoga and heavy gardening all count. Keeping muscles strong becomes especially important with age to help prevent falls and stay independent.",
+    "keywords": [
+      "strength training",
+      "only cardio",
+      "muscle strengthening",
+      "resistance training",
+      "weights and cardio",
+      "strength exercises",
+      "bodyweight exercises"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Physical activity guidelines for adults aged 19 to 64",
+        "url": "https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-for-adults-aged-19-to-64/"
+      },
+      {
+        "label": "NHS — Strength exercises",
+        "url": "https://www.nhs.uk/live-well/exercise/strength-exercises/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "sitting-is-the-new-smoking",
+    "category": "Exercise & fitness",
+    "myth": "Sitting is the new smoking — it's just as deadly.",
+    "rating": "misleading",
+    "fact": "Spending long periods sitting or lying down is linked to a higher risk of health problems, independent of how much exercise you do, so health services advise breaking up sitting time. However, the risks of smoking are far greater than those of sitting.",
+    "explanation": "The slogan helps draw attention to a real issue but exaggerates it. Simple changes, such as standing up regularly, walking during phone calls, or taking short movement breaks, can reduce sedentary time. Being physically active most days remains one of the best things you can do for your health.",
+    "keywords": [
+      "sitting new smoking",
+      "sitting too much",
+      "sedentary",
+      "desk job health",
+      "sitting deadly",
+      "standing desk",
+      "sedentary lifestyle"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Benefits of exercise",
+        "url": "https://www.nhs.uk/live-well/exercise/exercise-health-benefits/"
+      },
+      {
+        "label": "WHO — Physical activity",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "cramps-mean-low-potassium-eat-bananas",
+    "category": "Exercise & fitness",
+    "myth": "Muscle cramps mean you're low on potassium, so eat a banana.",
+    "rating": "misleading",
+    "fact": "Most leg cramps have no clear cause and are not due to low potassium. They are usually harmless and short-lived, and stretching and massaging the muscle can ease them.",
+    "explanation": "Cramps can be linked to exercise, pregnancy, getting older, some medicines and some health conditions. Bananas are a healthy snack, but there is little evidence they prevent cramps. See a GP if cramps are frequent, severe, disrupt your sleep, or come with swelling, numbness or muscle weakness.",
+    "keywords": [
+      "muscle cramps",
+      "leg cramps",
+      "banana cramps",
+      "potassium cramps",
+      "cramp cause",
+      "night cramps",
+      "calf cramp"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Leg cramps",
+        "url": "https://www.nhs.uk/conditions/leg-cramps/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "cannot-drink-too-much-water-exercising",
+    "category": "Exercise & fitness",
+    "myth": "During long exercise like a marathon, you can never drink too much water.",
+    "rating": "false",
+    "fact": "Drinking much more water than you lose in sweat during long endurance events can dilute the sodium in your blood, a condition called hyponatraemia. It can cause nausea, headache, confusion, seizures and, rarely, death.",
+    "explanation": "A sensible approach for most people is to drink according to thirst during long exercise rather than forcing down large amounts. Slower runners in long races are at higher risk because they have more time to drink. Confusion or vomiting during or after an endurance event needs urgent medical help.",
+    "keywords": [
+      "too much water",
+      "hyponatremia",
+      "hyponatraemia",
+      "marathon water",
+      "overhydration",
+      "drinking water exercise",
+      "water intoxication"
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus — Low blood sodium",
+        "url": "https://medlineplus.gov/ency/article/000394.htm"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "protein-shakes-needed-to-build-muscle",
+    "category": "Exercise & fitness",
+    "myth": "You need protein shakes and supplements to build muscle.",
+    "rating": "misleading",
+    "fact": "Most people can get enough protein for building muscle from ordinary food such as meat, fish, eggs, dairy, beans, lentils, tofu and nuts. Protein powders are a convenience, not a necessity, and strength training is what drives muscle growth.",
+    "explanation": "People doing a lot of strength training, and older adults, may benefit from somewhat more protein than the basic requirement, spread across meals. Very high protein intakes are not proven to add extra muscle. Supplements are not regulated like medicines and some have been found to contain undeclared ingredients.",
+    "keywords": [
+      "protein shake",
+      "protein powder",
+      "whey protein",
+      "build muscle",
+      "how much protein",
+      "protein supplements",
+      "muscle gain"
+    ],
+    "sources": [
+      {
+        "label": "Harvard Health Publishing — How much protein do you need every day?",
+        "url": "https://www.health.harvard.edu/blog/how-much-protein-do-you-need-every-day-201506188096"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "exercise-pointless-without-weight-loss",
+    "category": "Exercise & fitness",
+    "myth": "If exercise isn't making you lose weight, it's pointless.",
+    "rating": "false",
+    "fact": "Regular physical activity lowers the risk of heart disease, stroke, type 2 diabetes, some cancers, depression and dementia, and strengthens muscles and bones, whether or not you lose weight.",
+    "explanation": "Fitness itself is strongly linked to health and longevity. People often notice better mood, sleep and energy long before any change on the scales, and muscle gained from activity can offset fat lost. Focusing on these benefits can make it easier to keep going.",
+    "keywords": [
+      "exercise not losing weight",
+      "exercise benefits",
+      "why exercise",
+      "exercise pointless",
+      "fit but not thin",
+      "health benefits of exercise"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Benefits of exercise",
+        "url": "https://www.nhs.uk/live-well/exercise/exercise-health-benefits/"
+      },
+      {
+        "label": "WHO — Physical activity",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "ice-baths-proven-health-boost",
+    "category": "Exercise & fitness",
+    "myth": "Cold plunges and ice baths are proven to burn fat, boost immunity and speed up recovery.",
+    "rating": "misleading",
+    "fact": "Cold water immersion is popular, and some people find it helps with muscle soreness or feel energised afterwards, but scientific evidence for its wider health claims remains inconclusive. It also carries real risks.",
+    "explanation": "Sudden immersion in cold water can trigger gasping, rapid breathing and spikes in heart rate and blood pressure, and hypothermia can start within minutes. People with heart problems, high blood pressure or circulation problems should check with a doctor first, and nobody should take an ice bath alone.",
+    "keywords": [
+      "cold plunge",
+      "ice bath",
+      "cold water immersion",
+      "cold shower benefits",
+      "wim hof",
+      "cold therapy",
+      "ice bath recovery",
+      "brown fat"
+    ],
+    "sources": [
+      {
+        "label": "Harvard Health Publishing — Can ice baths improve your health?",
+        "url": "https://www.health.harvard.edu/staying-healthy/can-ice-baths-improve-your-health"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "ab-stimulator-belts-give-six-pack",
+    "category": "Exercise & fitness",
+    "myth": "Electric ab belts give you a six-pack without exercise.",
+    "rating": "false",
+    "fact": "The US Food and Drug Administration states that electrical muscle stimulators alone will not give you 'six-pack' abs. Repeated stimulation may strengthen muscles somewhat, but it does not remove the fat that covers them.",
+    "explanation": "Visible abdominal muscles depend mostly on overall body fat, which changes through diet and activity. Many of these devices have not been cleared by regulators, and poorly made ones can cause shocks, burns or skin irritation. People with pacemakers or other implanted devices should not use them.",
+    "keywords": [
+      "ab belt",
+      "ems belt",
+      "electric muscle stimulator",
+      "six pack belt",
+      "slendertone",
+      "abs without exercise",
+      "toning belt"
+    ],
+    "sources": [
+      {
+        "label": "US FDA — Electronic muscle stimulators",
+        "url": "https://www.fda.gov/medical-devices/consumer-products/electronic-muscle-stimulators"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "push-through-chest-pain-exercising",
+    "category": "Exercise & fitness",
+    "myth": "If you get chest pain while exercising, just push through it.",
+    "rating": "false",
+    "fact": "Chest pain during exercise should never be ignored. Stop exercising, and call emergency services if the pain is severe, spreads to the arms, back, neck or jaw, or comes with breathlessness, sweating or feeling sick.",
+    "explanation": "Chest pain can have many causes, including muscle strain, but it can also be a sign of a heart problem. Even if it settles quickly, chest pain on exertion should be checked by a doctor before you exercise again.",
+    "keywords": [
+      "chest pain exercise",
+      "chest pain running",
+      "chest tightness workout",
+      "push through pain",
+      "heart pain exercise",
+      "angina exercise"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Chest pain",
+        "url": "https://www.nhs.uk/symptoms/chest-pain/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "anabolic-steroids-safe-if-cycled",
+    "category": "Exercise & fitness",
+    "myth": "Anabolic steroids are safe if you 'cycle' them and use them sensibly.",
+    "rating": "false",
+    "fact": "Using anabolic steroids without medical need can cause serious side effects, including heart and liver problems, high blood pressure, infertility, shrunken testicles, breast growth in men, severe acne, mood changes and dependence. 'Cycling', 'stacking' or extra drugs do not make them safe.",
+    "explanation": "Many people who use steroids believe they can manage the risks, but there is no proven safe way to use them for muscle building. Products bought illegally may contain unknown substances, and injecting carries infection risks. Confidential support is available from GPs and drug services.",
+    "keywords": [
+      "anabolic steroids",
+      "steroid cycle",
+      "roids",
+      "steroids safe",
+      "sarms",
+      "testosterone gym",
+      "bodybuilding steroids"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Anabolic steroid misuse",
+        "url": "https://www.nhs.uk/conditions/anabolic-steroid-misuse/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "dark-urine-after-workout-just-dehydration",
+    "category": "Exercise & fitness",
+    "myth": "Very dark brown urine and severe muscle pain after a hard workout are just dehydration.",
+    "rating": "false",
+    "fact": "Dark, tea- or cola-coloured urine with severe muscle pain, swelling or weakness after extreme exercise can be a sign of rhabdomyolysis, where damaged muscle releases substances that can harm the kidneys. It needs urgent medical attention.",
+    "explanation": "Rhabdomyolysis is uncommon but has been linked to very intense or unaccustomed workouts, especially in heat or when dehydrated. Building up intensity gradually, particularly when starting a new class or programme, lowers the risk. Ordinary dark yellow urine is usually a sign of needing more fluids.",
+    "keywords": [
+      "rhabdomyolysis",
+      "rhabdo",
+      "dark urine after workout",
+      "cola urine",
+      "brown pee exercise",
+      "extreme muscle pain",
+      "spin class kidney"
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus — Rhabdomyolysis",
+        "url": "https://medlineplus.gov/ency/article/000473.htm"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "long-term-condition-means-no-exercise",
+    "category": "Exercise & fitness",
+    "myth": "If you have a long-term condition or disability, exercise isn't for you.",
+    "rating": "false",
+    "fact": "WHO recommends physical activity for people living with chronic conditions and disabilities, adjusted to what they are able to do. Activity can improve fitness, mood, independence and the management of conditions such as diabetes, arthritis and heart disease.",
+    "explanation": "The right type and amount depends on the condition, so it's sensible to get advice from a doctor, physiotherapist or specialist service when starting. Starting small and building up gradually is safer than doing nothing.",
+    "keywords": [
+      "exercise with disability",
+      "chronic illness exercise",
+      "exercise long term condition",
+      "arthritis exercise",
+      "exercise with heart disease",
+      "adapted exercise"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Physical activity",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
+      },
+      {
+        "label": "NHS — Benefits of exercise",
+        "url": "https://www.nhs.uk/live-well/exercise/exercise-health-benefits/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "thin-people-dont-need-exercise",
+    "category": "Exercise & fitness",
+    "myth": "If you're slim, you don't need to exercise.",
+    "rating": "false",
+    "fact": "Physical activity benefits everyone regardless of weight. It strengthens the heart, muscles and bones, improves mood and sleep, and lowers the risk of many diseases, including in people with a healthy weight.",
+    "explanation": "Slim people who are inactive can still have poor fitness, weak muscles and higher risk of conditions such as heart disease and type 2 diabetes. Exercise guidelines apply to all adults, not just those trying to lose weight.",
+    "keywords": [
+      "skinny no exercise",
+      "slim exercise",
+      "thin and healthy",
+      "skinny fat",
+      "dont need to exercise",
+      "naturally thin"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Benefits of exercise",
+        "url": "https://www.nhs.uk/live-well/exercise/exercise-health-benefits/"
+      },
+      {
+        "label": "WHO — Physical activity",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]

@@ -1,0 +1,289 @@
+[
+  {
+    "id": "oil-pulling-cleans-teeth",
+    "category": "Teeth & mouth",
+    "myth": "Swishing coconut oil around your mouth (oil pulling) prevents cavities, whitens teeth and removes toxins.",
+    "rating": "false",
+    "fact": "There are no reliable scientific studies showing that oil pulling reduces tooth decay, whitens teeth or improves oral or general health. The American Dental Association does not recommend it as a dental hygiene practice.",
+    "explanation": "Oil pulling comes from traditional Ayurvedic practice and is widely promoted online. It does not replace brushing twice a day with fluoride toothpaste and cleaning between the teeth. Swallowing the oil, or inhaling it, is not advised.",
+    "keywords": ["oil pulling", "coconut oil teeth", "swishing oil", "ayurvedic mouth", "oil pulling cavities", "detox mouth", "sesame oil teeth"],
+    "sources": [
+      { "label": "MouthHealthy (ADA) — Oil pulling", "url": "https://www.mouthhealthy.org/all-topics-a-z/oil-pulling" },
+      { "label": "ADA — Tooth whitening", "url": "https://www.ada.org/resources/ada-library/oral-health-topics/whitening" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "charcoal-toothpaste-whitens-safely",
+    "category": "Teeth & mouth",
+    "myth": "Charcoal toothpaste or powder is a safe, natural way to whiten teeth.",
+    "rating": "false",
+    "fact": "There is no good evidence that charcoal products whiten teeth effectively, and they can be abrasive. One study reviewed by the American Dental Association found a charcoal and salt mixture wore away enamel, which can make teeth look more yellow over time.",
+    "explanation": "Most charcoal toothpastes contain little or no fluoride, so using them instead of regular toothpaste may raise the risk of decay. Surface stains can be reduced with regular brushing and professional cleaning. If you want whitening, ask a dentist about safe options.",
+    "keywords": ["charcoal toothpaste", "activated charcoal teeth", "charcoal whitening", "natural teeth whitening", "charcoal powder", "black toothpaste"],
+    "sources": [
+      { "label": "ADA — Tooth whitening", "url": "https://www.ada.org/resources/ada-library/oral-health-topics/whitening" },
+      { "label": "NHS — Teeth whitening", "url": "https://www.nhs.uk/tests-and-treatments/teeth-whitening/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "no-fluoride-toothpaste-for-young-children",
+    "category": "Teeth & mouth",
+    "myth": "Young children shouldn't use fluoride toothpaste until they're about 6.",
+    "rating": "false",
+    "fact": "Health services recommend brushing a child's teeth with fluoride toothpaste as soon as the first tooth appears. Children under 3 need only a smear of toothpaste, and children aged 3 to 6 a pea-sized amount.",
+    "explanation": "Fluoride strengthens enamel and is one of the most effective ways to prevent tooth decay in children. Using the right small amount and encouraging children to spit out rather than swallow keeps it safe. Supervise brushing until about age 7.",
+    "keywords": ["fluoride toothpaste children", "toddler toothpaste", "baby toothpaste fluoride", "kids fluoride", "smear of toothpaste", "children's teeth", "fluoride free toothpaste"],
+    "sources": [
+      { "label": "NHS — Taking care of children's teeth", "url": "https://www.nhs.uk/live-well/healthy-teeth-and-gums/taking-care-of-childrens-teeth/" },
+      { "label": "MouthHealthy (ADA) — Fluoride", "url": "https://www.mouthhealthy.org/all-topics-a-z/fluoride" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "sugar-free-gum-helps-teeth",
+    "category": "Teeth & mouth",
+    "myth": "Chewing sugar-free gum after meals can help protect your teeth.",
+    "rating": "mostly-true",
+    "fact": "Chewing sugar-free gum increases the flow of saliva, which helps neutralise acids and wash away food after eating. As an extra to brushing twice a day and cleaning between teeth, it may help lower the risk of tooth decay.",
+    "explanation": "It is not a replacement for brushing. Gum sweetened with sugar has the opposite effect. People with jaw problems may find chewing gum makes them worse.",
+    "keywords": ["sugar free gum", "chewing gum teeth", "gum after meals", "xylitol gum", "saliva teeth", "gum cavities"],
+    "sources": [
+      { "label": "ADA — Chewing gum", "url": "https://www.ada.org/resources/ada-library/oral-health-topics/chewing-gum" },
+      { "label": "MouthHealthy (ADA) — Chewing gum", "url": "https://www.mouthhealthy.org/all-topics-a-z/chewing-gum" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "bad-breath-comes-from-stomach",
+    "category": "Teeth & mouth",
+    "myth": "Bad breath usually comes from your stomach.",
+    "rating": "misleading",
+    "fact": "Most bad breath starts in the mouth, from bacteria on the tongue, gum disease, tooth decay or food between the teeth. Strong foods, smoking, dry mouth and some conditions such as tonsillitis or acid reflux can also cause it.",
+    "explanation": "Brushing twice a day, cleaning between teeth, gently cleaning the tongue and regular dental check-ups usually help. Mouthwash may mask the smell for a short time but does not fix the cause. See a dentist if bad breath continues despite good cleaning.",
+    "keywords": ["bad breath", "halitosis", "breath from stomach", "smelly breath", "bad breath cause", "tongue bacteria"],
+    "sources": [
+      { "label": "NHS — Bad breath", "url": "https://www.nhs.uk/symptoms/bad-breath/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "wisdom-teeth-must-be-removed",
+    "category": "Teeth & mouth",
+    "myth": "Everyone needs to have their wisdom teeth taken out.",
+    "rating": "false",
+    "fact": "Wisdom teeth only need removing if they are causing problems, such as repeated infection, decay, gum disease or damage to nearby teeth, often because there is not enough room for them to come through.",
+    "explanation": "Many people keep their wisdom teeth without trouble. Removing healthy teeth 'just in case' carries the risks of surgery without clear benefit. Your dentist can check them and advise.",
+    "keywords": ["wisdom teeth", "wisdom tooth removal", "impacted wisdom tooth", "extract wisdom teeth", "third molars", "wisdom teeth pain"],
+    "sources": [
+      { "label": "NHS — Wisdom tooth removal", "url": "https://www.nhs.uk/tests-and-treatments/wisdom-tooth-removal/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "root-canal-makes-you-ill",
+    "category": "Teeth & mouth",
+    "myth": "Root canal treatment leaves bacteria in your body that cause cancer, heart disease and other illnesses.",
+    "rating": "false",
+    "fact": "There is no valid scientific evidence that root canal-treated teeth cause disease elsewhere in the body. Root canal treatment removes infection from inside a tooth so the tooth can be saved.",
+    "explanation": "The idea comes from a 'focal infection' theory based on research from the early 1900s that was later found to be poorly designed and could not be repeated. Leaving an infected tooth untreated can lead to an abscess. Most root canal treatments are successful.",
+    "keywords": ["root canal", "root canal cancer", "root canal toxic", "focal infection", "root canal illness", "dead tooth", "endodontic"],
+    "sources": [
+      { "label": "MouthHealthy (ADA) — Root canals", "url": "https://www.mouthhealthy.org/all-topics-a-z/root-canals" },
+      { "label": "NHS — Root canal treatment", "url": "https://www.nhs.uk/tests-and-treatments/root-canal-treatment/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "amalgam-fillings-poison-you",
+    "category": "Teeth & mouth",
+    "myth": "Silver (amalgam) fillings slowly poison you with mercury and should all be removed.",
+    "rating": "misleading",
+    "fact": "Amalgam fillings release very small amounts of mercury vapour, and for most people they are considered safe. The US FDA advises that some higher-risk groups, such as pregnant women and young children, use alternatives where appropriate, but recommends against removing existing fillings that are in good condition.",
+    "explanation": "Drilling out a sound filling can release more mercury and remove healthy tooth. Some countries are phasing out amalgam mainly for environmental reasons. Discuss filling options with your dentist.",
+    "keywords": ["amalgam fillings", "mercury fillings", "silver fillings", "remove fillings", "mercury poisoning teeth", "dental amalgam"],
+    "sources": [
+      { "label": "FDA — Dental amalgam fillings", "url": "https://www.fda.gov/medical-devices/dental-devices/dental-amalgam-fillings" },
+      { "label": "ADA — Amalgam", "url": "https://www.ada.org/resources/ada-library/oral-health-topics/amalgam" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "no-dental-treatment-in-pregnancy",
+    "category": "Teeth & mouth",
+    "myth": "You should avoid the dentist, X-rays and dental injections while pregnant.",
+    "rating": "false",
+    "fact": "Preventive, diagnostic and restorative dental treatment, including dental X-rays and local anaesthetic, is safe at any point in pregnancy. Dental organisations and obstetricians agree that pregnant people should keep up dental care.",
+    "explanation": "Pregnancy hormones can make gums more prone to inflammation and bleeding, so check-ups are especially useful. Untreated tooth infections can be harmful. Tell your dentist you are pregnant so they can plan treatment; in the UK, NHS dental care is free during pregnancy and for a year after.",
+    "keywords": ["dentist pregnancy", "dental x-ray pregnant", "dental treatment pregnant", "pregnancy gums", "local anaesthetic pregnancy", "filling while pregnant"],
+    "sources": [
+      { "label": "ADA — Pregnancy", "url": "https://www.ada.org/resources/ada-library/oral-health-topics/pregnancy" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "bottle-at-bedtime-fine-for-teeth",
+    "category": "Teeth & mouth",
+    "myth": "Letting a baby fall asleep with a bottle of milk or juice is fine for their teeth.",
+    "rating": "false",
+    "fact": "Putting a baby to bed with a bottle, or using a bottle as a comforter, bathes the teeth in sugars for long periods and can cause severe tooth decay. Even milk contains natural sugars.",
+    "explanation": "Babies should finish bedtime and nap-time bottles before going to sleep, and only milk or water should go in bottles. Encourage drinking from a cup from around 6 months and aim to stop bottles by about 12 months. Start brushing with fluoride toothpaste as soon as the first tooth appears.",
+    "keywords": ["bottle at bedtime", "baby bottle tooth decay", "bottle rot", "milk bottle sleep", "juice bottle baby", "nursing caries"],
+    "sources": [
+      { "label": "MouthHealthy (ADA) — Tooth decay with baby bottles", "url": "https://www.mouthhealthy.org/all-topics-a-z/tooth-decay-with-baby-bottles" },
+      { "label": "NHS — Taking care of children's teeth", "url": "https://www.nhs.uk/live-well/healthy-teeth-and-gums/taking-care-of-childrens-teeth/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "knocked-out-tooth-cannot-be-saved",
+    "category": "Teeth & mouth",
+    "myth": "Once an adult tooth is knocked out, it can't be saved.",
+    "rating": "false",
+    "fact": "A knocked-out adult tooth can often be saved if it is put back in its socket, or kept in milk, and a dentist is seen as soon as possible, ideally within an hour. Hold it by the crown, not the root, and rinse briefly in milk or saline if dirty.",
+    "explanation": "Do not scrub the tooth or let it dry out. Baby teeth should never be put back in, as this can damage the adult tooth underneath, but the child should still see a dentist. Speed matters, so treat it as a dental emergency.",
+    "keywords": ["knocked out tooth", "tooth knocked out", "tooth in milk", "avulsed tooth", "save tooth", "dental emergency", "lost tooth accident"],
+    "sources": [
+      { "label": "NHS — Knocked-out tooth", "url": "https://www.nhs.uk/conditions/knocked-out-tooth/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "gum-disease-only-mouth-problem",
+    "category": "Teeth & mouth",
+    "myth": "Gum disease is just a minor mouth problem that doesn't matter much.",
+    "rating": "misleading",
+    "fact": "Untreated gum disease can destroy the tissue and bone that hold teeth in place and is a major cause of tooth loss in adults. It is also linked with other conditions, such as diabetes, and makes blood sugar harder to control.",
+    "explanation": "Researchers are still studying how gum disease relates to conditions such as heart disease; links have been found but cause and effect is not proven. Bleeding gums when brushing are an early sign. Brushing well, cleaning between teeth, not smoking and regular dental check-ups help prevent it.",
+    "keywords": ["gum disease", "periodontitis", "gingivitis", "bleeding gums", "gum disease diabetes", "gum disease heart", "loose teeth"],
+    "sources": [
+      { "label": "NIDCR — Gum disease", "url": "https://www.nidcr.nih.gov/health-info/gum-disease" },
+      { "label": "NHS — Gum disease", "url": "https://www.nhs.uk/conditions/gum-disease/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "mouth-ulcer-will-always-heal",
+    "category": "Teeth & mouth",
+    "myth": "A mouth ulcer that won't heal is nothing to worry about.",
+    "rating": "false",
+    "fact": "Most mouth ulcers clear up on their own within a week or two. But an ulcer that lasts longer than 3 weeks should be checked by a dentist or GP, because a persistent ulcer can occasionally be a sign of mouth cancer.",
+    "explanation": "Common causes of ordinary ulcers include biting the cheek, sharp teeth, stress and some foods. A pharmacist can suggest mouthwashes or gels to ease pain. Also get checked if an ulcer is unusually large, keeps coming back, or you have a red or white patch or lump in the mouth.",
+    "keywords": ["mouth ulcer", "ulcer not healing", "canker sore", "mouth sore 3 weeks", "mouth cancer sign", "tongue ulcer"],
+    "sources": [
+      { "label": "NHS — Mouth ulcers", "url": "https://www.nhs.uk/conditions/mouth-ulcers/" },
+      { "label": "NHS — Mouth cancer", "url": "https://www.nhs.uk/conditions/mouth-cancer/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "only-smokers-get-mouth-cancer",
+    "category": "Teeth & mouth",
+    "myth": "Only smokers get mouth cancer.",
+    "rating": "false",
+    "fact": "Smoking and other tobacco use, including chewing tobacco, betel quid and paan, are major causes of mouth cancer, but it also affects non-smokers. Drinking alcohol and infection with HPV (for cancers at the back of the throat) also raise the risk.",
+    "explanation": "Mouth cancer can appear as an ulcer that does not heal, a red or white patch, or a lump in the mouth or neck. Dentists check for signs of it at routine check-ups. Cutting down on alcohol, avoiding all forms of tobacco and HPV vaccination lower the risk.",
+    "keywords": ["mouth cancer", "oral cancer", "non smokers mouth cancer", "throat cancer hpv", "chewing tobacco", "paan cancer", "oral cancer causes"],
+    "sources": [
+      { "label": "NIDCR — Oral cancer", "url": "https://www.nidcr.nih.gov/health-info/oral-cancer" },
+      { "label": "NHS — Mouth cancer", "url": "https://www.nhs.uk/conditions/mouth-cancer/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "clove-oil-cures-toothache",
+    "category": "Teeth & mouth",
+    "myth": "Clove oil cures toothache, so you don't need a dentist.",
+    "rating": "misleading",
+    "fact": "Clove oil has a mild numbing effect and may ease toothache for a short time, but it does not treat the cause, such as decay, a cracked tooth or an abscess. Toothache lasting more than 2 days should be seen by a dentist.",
+    "explanation": "Undiluted clove oil can irritate or burn the gums. Over-the-counter painkillers such as paracetamol or ibuprofen can help while you wait for an appointment. Get urgent help if you have facial swelling, a high temperature or difficulty swallowing or breathing.",
+    "keywords": ["clove oil", "toothache remedy", "toothache home remedy", "clove toothache", "natural toothache relief", "tooth pain"],
+    "sources": [
+      { "label": "NHS — Toothache", "url": "https://www.nhs.uk/symptoms/toothache/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "early-gum-disease-reversible",
+    "category": "Teeth & mouth",
+    "myth": "Early gum disease can be reversed with good brushing and cleaning between your teeth.",
+    "rating": "true",
+    "fact": "Gingivitis, the early stage of gum disease, can usually be reversed by removing plaque with careful brushing twice a day, cleaning between teeth and professional cleaning if needed.",
+    "explanation": "If it is left untreated, it can progress to periodontitis, which damages the bone supporting the teeth and cannot be fully reversed, although it can be managed. Bleeding gums are a common early sign; keep brushing gently rather than stopping.",
+    "keywords": ["gingivitis", "reverse gum disease", "early gum disease", "bleeding gums", "gum disease cure", "plaque"],
+    "sources": [
+      { "label": "NHS — Gum disease", "url": "https://www.nhs.uk/conditions/gum-disease/" },
+      { "label": "NIDCR — Gum disease", "url": "https://www.nidcr.nih.gov/health-info/gum-disease" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "kids-dentist-only-at-school-age",
+    "category": "Teeth & mouth",
+    "myth": "Children don't need to see a dentist until they start school.",
+    "rating": "false",
+    "fact": "Health services advise taking children to the dentist as soon as their first teeth appear, or by their first birthday. Early visits help find problems and get children used to the dentist.",
+    "explanation": "Tooth decay is common in young children and can start soon after teeth come through. Regular check-ups let the dentist give advice on brushing, diet and fluoride. In the UK, NHS dental care is free for children.",
+    "keywords": ["first dentist visit", "child dentist age", "baby dentist", "toddler dentist", "when to take child to dentist", "kids dental check"],
+    "sources": [
+      { "label": "NHS — Taking care of children's teeth", "url": "https://www.nhs.uk/live-well/healthy-teeth-and-gums/taking-care-of-childrens-teeth/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "losing-teeth-normal-in-old-age",
+    "category": "Teeth & mouth",
+    "myth": "Losing your teeth is a normal part of getting old.",
+    "rating": "false",
+    "fact": "Tooth loss is mainly caused by tooth decay and gum disease, which are largely preventable, not by ageing itself. With good care, many people keep their natural teeth for life.",
+    "explanation": "Older adults may face extra risks, such as dry mouth from medicines and receding gums, so regular dental check-ups remain important. Brushing with fluoride toothpaste, cleaning between teeth, limiting sugar and not smoking all help. Dentures and implants can replace missing teeth if needed.",
+    "keywords": ["losing teeth old age", "tooth loss ageing", "dentures inevitable", "elderly teeth", "keep teeth for life", "old people teeth"],
+    "sources": [
+      { "label": "WHO — Oral health", "url": "https://www.who.int/news-room/fact-sheets/detail/oral-health" },
+      { "label": "NIDCR — Gum disease", "url": "https://www.nidcr.nih.gov/health-info/gum-disease" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "dental-xrays-dangerous",
+    "category": "Teeth & mouth",
+    "myth": "Dental X-rays expose you to dangerous amounts of radiation.",
+    "rating": "false",
+    "fact": "Dental X-rays use very low doses of radiation. Dentists follow the principle of keeping doses as low as reasonably achievable and only take X-rays when the benefit justifies it.",
+    "explanation": "X-rays help find problems that cannot be seen during an exam, such as decay between teeth, infections and bone loss. Modern digital X-rays use even lower doses. If you are unsure why an X-ray is needed, ask your dentist.",
+    "keywords": ["dental x-ray", "dental x ray radiation", "teeth x-ray safe", "bitewing", "dental radiation", "x-ray dentist"],
+    "sources": [
+      { "label": "ADA — X-rays/radiographs", "url": "https://www.ada.org/resources/ada-library/oral-health-topics/x-rays-radiographs" },
+      { "label": "MouthHealthy (ADA) — X-rays", "url": "https://www.mouthhealthy.org/all-topics-a-z/x-rays" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "lemon-baking-soda-whitening",
+    "category": "Teeth & mouth",
+    "myth": "Rubbing lemon juice, baking soda or strawberries on your teeth is a safe way to whiten them.",
+    "rating": "false",
+    "fact": "Studies of these DIY methods have not shown real whitening, and acidic fruit such as lemon can erode tooth enamel. Abrasive mixtures can also wear enamel away, which can make teeth look more yellow.",
+    "explanation": "Enamel does not grow back once it is lost. Whitening should be done by a dentist or with products that are legally sold and used as directed. A dentist can also check whether discolouration has a cause that needs treatment.",
+    "keywords": ["lemon teeth whitening", "baking soda teeth", "strawberry whitening", "diy teeth whitening", "natural whitening", "home whitening"],
+    "sources": [
+      { "label": "ADA — Tooth whitening", "url": "https://www.ada.org/resources/ada-library/oral-health-topics/whitening" },
+      { "label": "NHS — Teeth whitening", "url": "https://www.nhs.uk/tests-and-treatments/teeth-whitening/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "brushing-once-a-day-enough",
+    "category": "Teeth & mouth",
+    "myth": "Brushing your teeth once a day is enough.",
+    "rating": "false",
+    "fact": "Dental and health organisations recommend brushing twice a day for about 2 minutes with fluoride toothpaste, including last thing at night before bed.",
+    "explanation": "Plaque builds up throughout the day, and saliva flow drops at night, so night-time brushing is especially important. Spit out after brushing rather than rinsing, to leave fluoride on the teeth. Cleaning between the teeth helps remove plaque the brush misses.",
+    "keywords": ["brush once a day", "how often brush teeth", "brushing twice a day", "brush at night", "two minutes brushing", "tooth brushing routine"],
+    "sources": [
+      { "label": "NHS — How to keep your teeth clean", "url": "https://www.nhs.uk/live-well/healthy-teeth-and-gums/how-to-keep-your-teeth-clean/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]

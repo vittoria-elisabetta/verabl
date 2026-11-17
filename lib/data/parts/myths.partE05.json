@@ -1,0 +1,302 @@
+[
+  {
+    "id": "contact-lens-lost-behind-eye",
+    "category": "Eyes & vision",
+    "myth": "A contact lens can get lost behind your eye.",
+    "rating": "false",
+    "fact": "A contact lens cannot slip behind the eye. A thin membrane (the conjunctiva) lines the inside of the eyelids and folds over onto the white of the eye, forming a closed pocket that stops anything from passing behind the eyeball.",
+    "explanation": "A lens can move up under the upper eyelid and feel 'lost', especially after rubbing the eye. Rinsing with sterile saline or lens solution and gently massaging the closed lid usually brings it back into view. If you cannot find it and your eye is painful or red, see an optometrist or eye doctor.",
+    "keywords": ["contact lens stuck", "lens behind eye", "lost contact lens", "contact lens under eyelid", "contact disappeared", "contacts myth"],
+    "sources": [
+      { "label": "American Academy of Ophthalmology — Contact lens use", "url": "https://www.aao.org/eye-health/glasses-contacts/contact-lens-use" },
+      { "label": "American Academy of Ophthalmology — Eye myths", "url": "https://www.aao.org/eye-health/tips-prevention/eye-myths" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "sleeping-in-contact-lenses-fine",
+    "category": "Eyes & vision",
+    "myth": "It's fine to sleep in your contact lenses now and then.",
+    "rating": "false",
+    "fact": "Sleeping in contact lenses, even occasionally, greatly increases the risk of serious eye infections such as microbial keratitis, which can scar the cornea and permanently damage sight. This applies even to lenses sold for overnight wear, though some are approved for it under supervision.",
+    "explanation": "Lenses reduce the oxygen reaching the cornea, and this is worse with the eye closed. Take lenses out before sleeping unless your eye care professional has specifically prescribed them for overnight use. Remove lenses and seek help promptly if your eye becomes painful, red or light-sensitive.",
+    "keywords": ["sleep in contacts", "nap in contact lenses", "overnight contacts", "contact lens infection", "keratitis", "falling asleep contacts"],
+    "sources": [
+      { "label": "American Academy of Ophthalmology — Contact lens care", "url": "https://www.aao.org/eye-health/glasses-contacts/contact-lens-care" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "tap-water-ok-for-contact-lenses",
+    "category": "Eyes & vision",
+    "myth": "Rinsing or storing contact lenses in tap water is fine.",
+    "rating": "false",
+    "fact": "Contact lenses should never be rinsed or stored in tap water, bottled water or saliva. Water can carry a microscopic organism called Acanthamoeba that can cause a rare but severe eye infection which can lead to sight loss.",
+    "explanation": "Use only fresh contact lens solution, never top up old solution, and keep lenses away from water, including when swimming or showering. Wash and dry your hands before handling lenses. Replace your lens case regularly.",
+    "keywords": ["tap water contacts", "contact lens water", "acanthamoeba", "rinse contacts water", "swimming contacts", "contact lens case"],
+    "sources": [
+      { "label": "American Academy of Ophthalmology — Contact lens care", "url": "https://www.aao.org/eye-health/glasses-contacts/contact-lens-care" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "readers-or-others-glasses-damage-eyes",
+    "category": "Eyes & vision",
+    "myth": "Wearing someone else's glasses or cheap ready-made reading glasses will damage your eyes.",
+    "rating": "false",
+    "fact": "Wearing the wrong glasses may cause blurred vision, eye strain or a headache, but it does not damage the eyes. Ready-made reading glasses are fine for many people whose eyes need the same strength in both eyes and who have no astigmatism.",
+    "explanation": "Discomfort goes away once you take the glasses off. Ready-made readers are not a substitute for an eye test, which also checks for eye diseases such as glaucoma. Children should wear glasses prescribed for them.",
+    "keywords": ["someone else's glasses", "reading glasses", "readers damage eyes", "wrong glasses", "drugstore glasses", "pharmacy glasses", "borrow glasses"],
+    "sources": [
+      { "label": "American Academy of Ophthalmology — Reading glasses", "url": "https://www.aao.org/eye-health/glasses-contacts/reading-glasses" },
+      { "label": "American Academy of Ophthalmology — Eye myths", "url": "https://www.aao.org/eye-health/tips-prevention/eye-myths" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "redness-relief-drops-daily",
+    "category": "Eyes & vision",
+    "myth": "'Get the red out' eye drops are fine to use every day.",
+    "rating": "misleading",
+    "fact": "Redness-relief drops work by narrowing blood vessels on the eye. Used often, the eye can become dependent on them, and redness can come back worse when they wear off (rebound redness).",
+    "explanation": "They are meant only for occasional short-term use, and they do not treat the cause. Ongoing red eyes can be due to dry eye, allergies, infection or other problems that need different treatment. A red eye with pain, light sensitivity or blurred vision needs prompt medical attention.",
+    "keywords": ["redness drops", "red eye drops", "visine", "rebound redness", "eye whitening drops", "bloodshot eyes"],
+    "sources": [
+      { "label": "American Academy of Ophthalmology — Red eye drops", "url": "https://www.aao.org/eye-health/tips-prevention/red-eye-drops" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "rubbing-eyes-harmless",
+    "category": "Eyes & vision",
+    "myth": "Rubbing your eyes is completely harmless.",
+    "rating": "misleading",
+    "fact": "Occasional gentle rubbing is unlikely to cause harm, but frequent, hard rubbing is linked to keratoconus, a condition where the cornea thins and bulges, and it can spread infection from the hands to the eyes.",
+    "explanation": "People often rub because of itchy, allergic or dry eyes, so treating those causes helps. Cool compresses and lubricating or anti-allergy drops can reduce the urge. If you have keratoconus or have had eye surgery, avoiding rubbing is especially important.",
+    "keywords": ["rubbing eyes", "eye rubbing", "keratoconus", "itchy eyes", "rub eyes damage", "allergy eyes"],
+    "sources": [
+      { "label": "American Academy of Ophthalmology — What is keratoconus?", "url": "https://www.aao.org/eye-health/diseases/what-is-keratoconus" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "pink-eye-needs-antibiotic-drops",
+    "category": "Eyes & vision",
+    "myth": "Pink eye (conjunctivitis) always needs antibiotic eye drops.",
+    "rating": "false",
+    "fact": "Most conjunctivitis is caused by viruses or allergies, and antibiotics do not help these. Bacterial conjunctivitis often clears on its own within a week or two, although antibiotics are sometimes prescribed.",
+    "explanation": "Cleaning the eyelids with cooled boiled water, avoiding contact lenses and not sharing towels help while it clears. See a doctor urgently if the eye is painful, sensitive to light, vision changes, or if a newborn has red, sticky eyes.",
+    "keywords": ["pink eye", "conjunctivitis", "antibiotic eye drops", "sticky eye", "red eye infection", "chloramphenicol"],
+    "sources": [
+      { "label": "NHS — Conjunctivitis", "url": "https://www.nhs.uk/conditions/conjunctivitis/" },
+      { "label": "American Academy of Ophthalmology — Pink eye (conjunctivitis)", "url": "https://www.aao.org/eye-health/diseases/pink-eye-conjunctivitis" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "breast-milk-cures-pink-eye",
+    "category": "Eyes & vision",
+    "myth": "Putting breast milk in a baby's eye cures conjunctivitis or a sticky eye.",
+    "rating": "false",
+    "fact": "There is no good evidence that breast milk treats eye infections, and it is not sterile, so it could introduce bacteria. Sticky eyes in babies are often caused by a blocked tear duct and are usually cleaned with cooled boiled water.",
+    "explanation": "Red, swollen or sticky eyes in a newborn in the first few weeks of life can be a sign of a serious infection and need to be checked by a doctor urgently. Older babies and children with conjunctivitis usually get better on their own.",
+    "keywords": ["breast milk eye", "breast milk pink eye", "breastmilk conjunctivitis", "sticky eye baby", "home remedy pink eye", "blocked tear duct"],
+    "sources": [
+      { "label": "NHS — Conjunctivitis", "url": "https://www.nhs.uk/conditions/conjunctivitis/" },
+      { "label": "American Academy of Ophthalmology — Pink eye (conjunctivitis)", "url": "https://www.aao.org/eye-health/diseases/pink-eye-conjunctivitis" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "eye-drops-dissolve-cataracts",
+    "category": "Eyes & vision",
+    "myth": "Special eye drops can dissolve cataracts without surgery.",
+    "rating": "false",
+    "fact": "No eye drops have been proven to treat or dissolve cataracts in people. Surgery to replace the cloudy lens with an artificial one is the only effective treatment, and it is one of the most common and successful operations.",
+    "explanation": "Drops sold online, often containing N-acetylcarnosine or lanosterol, are not approved treatments. In early cataracts, stronger glasses and brighter lighting can help for a while. Surgery is usually offered when cataracts start to affect daily life.",
+    "keywords": ["cataract eye drops", "dissolve cataracts", "cataract cure", "lanosterol drops", "n-acetylcarnosine", "cataract without surgery"],
+    "sources": [
+      { "label": "National Eye Institute — Cataracts", "url": "https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/cataracts" },
+      { "label": "NHS — Cataracts", "url": "https://www.nhs.uk/conditions/cataracts/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "laser-surgery-never-need-glasses",
+    "category": "Eyes & vision",
+    "myth": "After laser eye surgery you'll never need glasses again.",
+    "rating": "misleading",
+    "fact": "Laser eye surgery can correct short-sightedness, long-sightedness and astigmatism for many people, but it does not stop age-related changes. Most people will still need reading glasses as they get older, usually from their 40s.",
+    "explanation": "Some people also need a touch-up procedure or glasses for certain tasks such as night driving. Not everyone is suitable for laser surgery, and it carries risks such as dry eyes and glare. A careful assessment with a surgeon helps set realistic expectations.",
+    "keywords": ["laser eye surgery", "lasik", "never need glasses", "lasik reading glasses", "presbyopia", "eye surgery results"],
+    "sources": [
+      { "label": "NHS — Laser eye surgery and lens surgery", "url": "https://www.nhs.uk/tests-and-treatments/laser-eye-surgery-and-lens-surgery/" },
+      { "label": "American Academy of Ophthalmology — LASIK", "url": "https://www.aao.org/eye-health/treatments/lasik" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "macular-degeneration-untreatable",
+    "category": "Eyes & vision",
+    "myth": "Nothing can be done for macular degeneration.",
+    "rating": "false",
+    "fact": "Wet age-related macular degeneration can often be treated with injections into the eye that slow or stop vision loss, especially if started early. For dry AMD there is no cure yet, but certain vitamin supplements can slow progression in people with intermediate disease.",
+    "explanation": "Sudden changes such as straight lines looking wavy or a dark patch in central vision should be checked urgently, because wet AMD can progress quickly. Low-vision aids, good lighting and support services help people make the most of their sight. Not smoking lowers the risk.",
+    "keywords": ["macular degeneration", "amd", "wet amd", "dry amd", "eye injections", "central vision loss", "anti-vegf"],
+    "sources": [
+      { "label": "National Eye Institute — Age-related macular degeneration", "url": "https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/age-related-macular-degeneration" },
+      { "label": "NHS — Age-related macular degeneration (AMD)", "url": "https://www.nhs.uk/conditions/age-related-macular-degeneration-amd/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "diabetes-damages-eyes-before-symptoms",
+    "category": "Eyes & vision",
+    "myth": "Diabetes can damage your eyes before you notice any change in your vision.",
+    "rating": "true",
+    "fact": "Diabetic retinopathy often causes no symptoms in its early stages, even when damage is building up at the back of the eye. Regular eye screening can find it early, when treatment can prevent sight loss.",
+    "explanation": "People with diabetes are advised to have eye screening regularly, usually every one to two years. Keeping blood sugar, blood pressure and cholesterol under control lowers the risk. Get seen quickly if your vision suddenly worsens or you notice new floaters or dark patches.",
+    "keywords": ["diabetic retinopathy", "diabetes eyes", "diabetic eye screening", "diabetes blindness", "eye damage diabetes", "no symptoms"],
+    "sources": [
+      { "label": "National Eye Institute — Diabetic retinopathy", "url": "https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/diabetic-retinopathy" },
+      { "label": "NHS — Diabetic retinopathy", "url": "https://www.nhs.uk/conditions/diabetic-retinopathy/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "eye-floaters-always-serious",
+    "category": "Eyes & vision",
+    "myth": "Seeing floaters in your vision always means something serious is wrong with your eye.",
+    "rating": "misleading",
+    "fact": "Floaters are common, especially with age and short-sightedness, and are usually harmless. But new floaters appearing suddenly, especially with flashes of light or a shadow over your vision, can be a sign of a retinal tear or detachment and need urgent attention.",
+    "explanation": "Long-standing floaters often become less noticeable over time. If you suddenly get floaters or flashes for the first time, or many more than usual, get an urgent eye check the same day, as a detached retina needs prompt treatment to save sight.",
+    "keywords": ["floaters", "eye floaters", "flashes of light", "retinal detachment", "spots in vision", "cobwebs in vision"],
+    "sources": [
+      { "label": "NHS — Floaters and flashes in the eyes", "url": "https://www.nhs.uk/symptoms/floaters-and-flashes-in-the-eyes/" },
+      { "label": "American Academy of Ophthalmology — What are floaters?", "url": "https://www.aao.org/eye-health/diseases/what-is-floaters" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "kids-need-eye-test-only-if-complain",
+    "category": "Eyes & vision",
+    "myth": "Children only need an eye test if they complain about their sight.",
+    "rating": "false",
+    "fact": "Children rarely complain about poor vision because they assume everyone sees the way they do. Eye checks are offered to newborns and young children, and regular sight tests help find problems such as a lazy eye or short-sightedness early, when treatment works best.",
+    "explanation": "Signs to look out for include squinting, sitting very close to screens, rubbing eyes, headaches or one eye turning in or out. In the UK, sight tests are free for children under 16. A lazy eye is much easier to treat when found before about age 7.",
+    "keywords": ["children eye test", "kids eye exam", "child vision check", "school eye test", "lazy eye", "child glasses", "eye screening children"],
+    "sources": [
+      { "label": "NHS — Eye tests for children", "url": "https://www.nhs.uk/tests-and-treatments/eye-tests-in-children/" },
+      { "label": "American Academy of Ophthalmology — Eye screening for children", "url": "https://www.aao.org/eye-health/tips-prevention/children-eye-screening" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "smoking-harms-eyes",
+    "category": "Eyes & vision",
+    "myth": "Smoking raises your risk of eye diseases such as cataracts and macular degeneration.",
+    "rating": "true",
+    "fact": "Smoking is a major risk factor for age-related macular degeneration and cataracts, two leading causes of sight loss. Smokers are much more likely to develop macular degeneration than non-smokers.",
+    "explanation": "Smoking also worsens dry eye and diabetic eye disease. Stopping smoking lowers the risk over time, at any age. Regular eye tests help catch problems early.",
+    "keywords": ["smoking eyes", "smoking blindness", "smoking macular degeneration", "smoking cataracts", "cigarettes eyesight", "quit smoking eyes"],
+    "sources": [
+      { "label": "American Academy of Ophthalmology — Smoking and eye health", "url": "https://www.aao.org/eye-health/tips-prevention/smokers" },
+      { "label": "National Eye Institute — Age-related macular degeneration", "url": "https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/age-related-macular-degeneration" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "darker-sunglasses-more-uv-protection",
+    "category": "Eyes & vision",
+    "myth": "The darker the sunglasses, the better they protect your eyes from UV.",
+    "rating": "false",
+    "fact": "How dark the lenses are does not tell you how much ultraviolet (UV) light they block. Protection comes from a UV filter; look for sunglasses labelled as blocking 100% of UVA and UVB (or UV400).",
+    "explanation": "Dark lenses without UV protection can be worse than none, because the pupils widen behind them and let in more UV. Wraparound styles and a wide-brimmed hat give extra protection. Long-term UV exposure is linked to cataracts and other eye problems.",
+    "keywords": ["sunglasses uv", "dark sunglasses", "uv protection", "uv400", "polarised sunglasses", "cheap sunglasses", "sun damage eyes"],
+    "sources": [
+      { "label": "American Academy of Ophthalmology — Sunglasses", "url": "https://www.aao.org/eye-health/tips-prevention/sunglasses" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "fish-oil-cures-dry-eye",
+    "category": "Eyes & vision",
+    "myth": "Fish oil supplements cure dry eyes.",
+    "rating": "misleading",
+    "fact": "Some small studies suggested omega-3 supplements might ease dry eye symptoms, but a large year-long NIH-funded trial (the DREAM study) found them no better than a placebo. The evidence is mixed and they are not a cure.",
+    "explanation": "Dry eye can have many causes, including screen use, ageing, hormonal changes, blepharitis and some medicines. Lubricating drops, warm compresses and lid hygiene help many people. See an optometrist if symptoms persist.",
+    "keywords": ["fish oil dry eye", "omega 3 dry eyes", "dry eye supplement", "dry eye cure", "dream study", "dry eyes remedy"],
+    "sources": [
+      { "label": "NCCIH — Omega-3 supplements: what you need to know", "url": "https://www.nccih.nih.gov/health/omega3-supplements-what-you-need-to-know" },
+      { "label": "National Eye Institute — Dry eye", "url": "https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/dry-eye" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "bilberry-improves-night-vision",
+    "category": "Eyes & vision",
+    "myth": "Bilberry supplements improve your night vision.",
+    "rating": "false",
+    "fact": "There is no good evidence that bilberry improves night vision or treats eye conditions. The idea is often traced to Second World War stories about pilots, but controlled studies have not supported it.",
+    "explanation": "Bilberry is a fruit related to blueberries and is fine as food. Supplements are not regulated like medicines and may interact with blood-thinning medicines. Difficulty seeing at night can be an early sign of cataracts or other eye problems, so an eye test is a better first step.",
+    "keywords": ["bilberry", "night vision supplement", "bilberry eyes", "improve night vision", "blueberry eyesight", "eye vitamins"],
+    "sources": [
+      { "label": "NCCIH — Bilberry", "url": "https://www.nccih.nih.gov/health/bilberry" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "eye-vitamins-prevent-macular-degeneration",
+    "category": "Eyes & vision",
+    "myth": "Taking eye vitamins will stop you ever getting macular degeneration.",
+    "rating": "misleading",
+    "fact": "Large NIH trials (AREDS and AREDS2) found that a specific combination of vitamins and minerals can slow the progression of intermediate to advanced AMD. They have not been shown to prevent AMD in people who do not have it.",
+    "explanation": "Many 'eye health' supplements do not match the formula tested in these trials. People with early or no AMD are unlikely to benefit. Not smoking, a diet rich in leafy greens and fish, and regular eye tests are the main ways to look after your eyes; ask your eye doctor whether supplements suit you.",
+    "keywords": ["areds", "eye vitamins", "macular degeneration supplements", "lutein", "zeaxanthin", "prevent amd", "preservision"],
+    "sources": [
+      { "label": "National Eye Institute — Age-Related Eye Disease Studies (AREDS/AREDS2)", "url": "https://www.nei.nih.gov/eye-health-information/clinical-trials/age-related-eye-disease-studies-aredsareds2" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "squeeze-a-stye",
+    "category": "Eyes & vision",
+    "myth": "You should squeeze or pop a stye to make it go away faster.",
+    "rating": "false",
+    "fact": "You should not try to burst a stye, as this can spread the infection. Most styes get better on their own within a few weeks; holding a clean warm compress against the eye for a few minutes several times a day can help.",
+    "explanation": "Avoid eye make-up and contact lenses until it has healed. See a GP if a stye does not improve within a few weeks, and get urgent advice if the swelling spreads, the whole eyelid is red and swollen, or vision is affected. Rubbing a gold ring on a stye, a traditional remedy, has no proven effect.",
+    "keywords": ["stye", "sty", "pop a stye", "squeeze stye", "eyelid lump", "warm compress", "gold ring stye"],
+    "sources": [
+      { "label": "NHS — Stye", "url": "https://www.nhs.uk/conditions/stye/" },
+      { "label": "American Academy of Ophthalmology — What is a stye?", "url": "https://www.aao.org/eye-health/diseases/what-is-stye" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "only-men-are-colour-blind",
+    "category": "Eyes & vision",
+    "myth": "Only men can be colour-blind.",
+    "rating": "false",
+    "fact": "Colour vision deficiency is much more common in men because the genes for the most common type are on the X chromosome, but women can have it too. Red-green colour blindness, the most common type, affects many times more men than women.",
+    "explanation": "Women who carry the gene can pass it to their sons. Colour vision problems can also develop later in life because of eye diseases, some medicines or injury, in both men and women. Simple tests at an optician can check colour vision.",
+    "keywords": ["colour blind women", "color blindness women", "colour blindness genetics", "red green colour blind", "only men colour blind", "colour vision deficiency"],
+    "sources": [
+      { "label": "National Eye Institute — Color blindness", "url": "https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/color-blindness" },
+      { "label": "NHS — Colour vision deficiency", "url": "https://www.nhs.uk/conditions/colour-vision-deficiency/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "eyelid-twitch-means-serious-illness",
+    "category": "Eyes & vision",
+    "myth": "A twitching eyelid is a sign of a serious brain or nerve problem.",
+    "rating": "false",
+    "fact": "Eyelid twitching (myokymia) is very common and almost always harmless. It is often linked to tiredness, stress, caffeine, alcohol or eye strain, and usually goes away on its own.",
+    "explanation": "Rest, cutting down on caffeine and managing stress can help. See a doctor if twitching lasts for weeks, the eyelid closes completely, other parts of the face twitch, or there is drooping or weakness, as these can be signs of other conditions.",
+    "keywords": ["eye twitching", "eyelid twitch", "twitchy eye", "eye spasm", "myokymia", "eyelid jumping"],
+    "sources": [
+      { "label": "American Academy of Ophthalmology — Eyelid twitching", "url": "https://www.aao.org/eye-health/diseases/eyelid-twitching" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]

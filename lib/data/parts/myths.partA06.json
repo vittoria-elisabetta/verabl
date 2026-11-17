@@ -521,33 +521,6 @@
     "lastReviewed": "Reviewed November 2026"
   },
   {
-    "id": "wait-after-eating-before-swimming",
-    "category": "First aid",
-    "myth": "You must wait 30 minutes after eating before swimming or you'll get cramps and drown.",
-    "rating": "false",
-    "fact": "There is no evidence that swimming after eating causes dangerous cramps or drowning. Drowning risk is linked to factors such as not being able to swim, lack of supervision, alcohol use and dangerous water conditions.",
-    "explanation": "Parents have repeated this rule for generations. Swimming hard right after a very large meal may be uncomfortable, but it is not dangerous. Close supervision of children around water and avoiding alcohol when swimming are what really prevent drowning.",
-    "keywords": [
-      "swimming after eating",
-      "wait 30 minutes",
-      "cramp",
-      "drowning",
-      "eat before swimming",
-      "swim after lunch"
-    ],
-    "sources": [
-      {
-        "label": "WHO — Drowning",
-        "url": "https://www.who.int/news-room/fact-sheets/detail/drowning"
-      },
-      {
-        "label": "CDC — Drowning prevention",
-        "url": "https://www.cdc.gov/drowning/"
-      }
-    ],
-    "lastReviewed": "Reviewed November 2026"
-  },
-  {
     "id": "pull-out-embedded-object",
     "category": "First aid",
     "myth": "If something is stuck in a wound, like a knife or glass, you should pull it out.",

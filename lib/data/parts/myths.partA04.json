@@ -236,34 +236,6 @@
     "lastReviewed": "Reviewed November 2026"
   },
   {
-    "id": "sugar-makes-children-hyperactive",
-    "category": "Nutrition",
-    "myth": "Sugar makes children hyperactive.",
-    "rating": "false",
-    "fact": "Controlled studies, in which neither parents nor children knew whether the child had sugar, have not found that sugar causes hyperactivity. Parents who believed their child had eaten sugar were more likely to rate them as hyperactive.",
-    "explanation": "Children often get sugary food at parties and celebrations, where excitement levels are already high. Too much sugar is still bad for teeth and can contribute to unhealthy weight gain. Limiting sweets and sugary drinks is good advice, just not for behaviour reasons.",
-    "keywords": [
-      "sugar hyperactive",
-      "sugar rush",
-      "hyperactivity",
-      "kids sugar",
-      "children sugar",
-      "sugar high",
-      "adhd sugar"
-    ],
-    "sources": [
-      {
-        "label": "HealthyChildren.org (American Academy of Pediatrics)",
-        "url": "https://www.healthychildren.org/"
-      },
-      {
-        "label": "WHO — Healthy diet",
-        "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
-      }
-    ],
-    "lastReviewed": "Reviewed November 2026"
-  },
-  {
     "id": "fruit-and-vegetables-lower-disease-risk",
     "category": "Nutrition",
     "myth": "Eating plenty of fruit and vegetables lowers your risk of heart disease and some cancers.",

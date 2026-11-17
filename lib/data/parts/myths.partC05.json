@@ -1,0 +1,716 @@
+[
+  {
+    "id": "grapefruit-safe-with-all-medicines",
+    "category": "Medicines & antibiotics",
+    "myth": "Grapefruit juice is fine to drink with any medicine.",
+    "rating": "false",
+    "fact": "Grapefruit and grapefruit juice can interact with a number of medicines, including some statins, blood pressure medicines and others. It can make the level of the medicine in the blood too high, or sometimes too low.",
+    "explanation": "The effect can last for more than a day, so taking the medicine at a different time does not always solve it. Read the leaflet that comes with your medicine or ask a pharmacist whether you need to avoid grapefruit. Seville oranges and pomelos can have the same effect.",
+    "keywords": [
+      "grapefruit",
+      "grapefruit juice",
+      "grapefruit statins",
+      "food drug interaction",
+      "pomelo",
+      "juice with medicine",
+      "grapefruit medication"
+    ],
+    "sources": [
+      {
+        "label": "FDA — Grapefruit juice and some drugs don't mix",
+        "url": "https://www.fda.gov/consumers/consumer-updates/grapefruit-juice-and-some-drugs-dont-mix"
+      },
+      {
+        "label": "MedlinePlus — Drug safety",
+        "url": "https://medlineplus.gov/drugsafety.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "prescribed-opioids-not-addictive",
+    "category": "Medicines & antibiotics",
+    "myth": "Opioid painkillers can't be addictive if a doctor prescribed them.",
+    "rating": "false",
+    "fact": "Prescribed opioids, such as codeine, tramadol, oxycodone and morphine, can cause dependence and addiction, especially when taken for longer than a few days or at higher doses.",
+    "explanation": "Opioids are important for some kinds of pain, such as after surgery or for cancer pain, and are safest when used at the lowest dose for the shortest time. Do not stop suddenly after long-term use, as this can cause withdrawal; ask your doctor for a plan. Never mix opioids with alcohol or sleeping pills.",
+    "keywords": [
+      "opioids",
+      "prescription painkillers addictive",
+      "codeine addiction",
+      "tramadol addictive",
+      "oxycodone",
+      "morphine",
+      "painkiller dependence"
+    ],
+    "sources": [
+      {
+        "label": "FDA — Opioid medications",
+        "url": "https://www.fda.gov/drugs/food-and-drug-administration-overdose-prevention-framework/opioid-medications"
+      },
+      {
+        "label": "NHS — Codeine",
+        "url": "https://www.nhs.uk/medicines/codeine/"
+      },
+      {
+        "label": "MedlinePlus — Opioids and opioid use disorder",
+        "url": "https://medlineplus.gov/opioidsandopioidusedisorderoud.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "naloxone-encourages-drug-use",
+    "category": "Medicines & antibiotics",
+    "myth": "Giving out naloxone only encourages people to use more drugs.",
+    "rating": "false",
+    "fact": "Naloxone is a medicine that can quickly reverse an opioid overdose and save a life. Public health agencies encourage making it widely available to people who use opioids and their friends and families.",
+    "explanation": "Naloxone has no effect on someone who has not taken opioids and is not a drug of misuse. The effects can wear off before the opioids do, so emergency services should always be called. Studies of naloxone programmes have generally not found that they increase drug use.",
+    "keywords": [
+      "naloxone",
+      "narcan",
+      "opioid overdose",
+      "overdose reversal",
+      "harm reduction",
+      "naloxone kit",
+      "nasal naloxone"
+    ],
+    "sources": [
+      {
+        "label": "FDA — Opioid overdose reversal medications",
+        "url": "https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/opioid-overdose-reversal-medications"
+      },
+      {
+        "label": "MedlinePlus — Opioids and opioid use disorder",
+        "url": "https://medlineplus.gov/opioidsandopioidusedisorderoud.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "traditional-remedies-no-heavy-metals",
+    "category": "Medicines & antibiotics",
+    "myth": "Traditional remedies like Ayurvedic or Chinese herbal pills can't contain anything harmful because they're plant-based.",
+    "rating": "false",
+    "fact": "Some Ayurvedic and other traditional remedies have been found to contain lead, mercury or arsenic at harmful levels, either added deliberately or through contamination. Some herbal products have also been found to contain hidden prescription drugs.",
+    "explanation": "Heavy-metal poisoning can cause anaemia, stomach pain, nerve damage and kidney problems, and lead is especially dangerous for children and in pregnancy. Buy products from reputable sources and tell your doctor what you take; blood tests can check for lead if there is concern.",
+    "keywords": [
+      "ayurvedic heavy metals",
+      "lead in ayurveda",
+      "mercury herbal",
+      "bhasma",
+      "chinese herbal pills",
+      "traditional medicine poisoning",
+      "herbal remedy lead"
+    ],
+    "sources": [
+      {
+        "label": "NCCIH — Ayurvedic medicine: in depth",
+        "url": "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth"
+      },
+      {
+        "label": "WHO — Lead poisoning and health",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/lead-poisoning-and-health"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "blood-thinners-thin-your-blood",
+    "category": "Medicines & antibiotics",
+    "myth": "Blood thinners make your blood thin and watery.",
+    "rating": "misleading",
+    "fact": "So-called blood thinners do not thin the blood. Anticoagulants such as warfarin, apixaban and rivaroxaban, and antiplatelets such as aspirin and clopidogrel, make blood less likely to form harmful clots.",
+    "explanation": "They are used to prevent strokes, heart attacks and clots in the legs and lungs. Because they increase bleeding, tell doctors and dentists you take them, and get urgent help for heavy bleeding, black stools or a head injury. Do not stop them without advice.",
+    "keywords": [
+      "blood thinners",
+      "anticoagulants",
+      "warfarin",
+      "apixaban",
+      "rivaroxaban",
+      "thin blood",
+      "clopidogrel",
+      "blood clot medicine"
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus — Blood thinners",
+        "url": "https://medlineplus.gov/bloodthinners.html"
+      },
+      {
+        "label": "NHS — Atrial fibrillation",
+        "url": "https://www.nhs.uk/conditions/atrial-fibrillation/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "drinking-hydrogen-peroxide-cures",
+    "category": "Medicines & antibiotics",
+    "myth": "Drinking \"food-grade\" hydrogen peroxide oxygenates your body and cures diseases.",
+    "rating": "false",
+    "fact": "Drinking hydrogen peroxide does not cure any disease and can be very dangerous. Concentrated \"food-grade\" solutions can burn the mouth, throat and stomach and cause gas bubbles in the blood vessels, leading to stroke-like injuries or death.",
+    "explanation": "Hydrogen peroxide is sometimes promoted online as an oxygen therapy for cancer, infections and other illnesses, with no evidence. If someone swallows it, get emergency medical help or contact a poison centre.",
+    "keywords": [
+      "hydrogen peroxide",
+      "food grade hydrogen peroxide",
+      "oxygen therapy",
+      "drink peroxide",
+      "h2o2 cure",
+      "35 percent peroxide",
+      "oxygenate body"
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus — Hydrogen peroxide poisoning",
+        "url": "https://medlineplus.gov/ency/article/002652.htm"
+      },
+      {
+        "label": "FDA — Health fraud scams",
+        "url": "https://www.fda.gov/consumers/health-fraud-scams"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "turpentine-kerosene-cure-parasites",
+    "category": "Medicines & antibiotics",
+    "myth": "Drinking turpentine or kerosene kills parasites and cleans out the body.",
+    "rating": "false",
+    "fact": "Turpentine and kerosene are poisons. Swallowing them can damage the lungs, stomach, kidneys and nervous system and can be fatal; they do not treat parasites or \"candida\".",
+    "explanation": "These remedies are promoted online and in some folk traditions. Small amounts can be breathed into the lungs while swallowing, causing a severe chemical pneumonia. If someone has swallowed them, get emergency help and do not make them vomit. Proven medicines exist for confirmed parasite infections.",
+    "keywords": [
+      "turpentine",
+      "kerosene",
+      "paraffin drink",
+      "turpentine parasites",
+      "turpentine cleanse",
+      "candida cleanse",
+      "petrol remedy"
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus — Turpentine oil poisoning",
+        "url": "https://medlineplus.gov/ency/article/002746.htm"
+      },
+      {
+        "label": "MedlinePlus — Kerosene poisoning",
+        "url": "https://medlineplus.gov/ency/article/002807.htm"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "cough-syrup-cures-cough",
+    "category": "Medicines & antibiotics",
+    "myth": "Cough syrup cures a cough.",
+    "rating": "misleading",
+    "fact": "Most coughs are caused by viral infections and get better on their own within three to four weeks. There is little evidence that cough medicines speed recovery, though some people find them soothing.",
+    "explanation": "Honey and lemon in warm water may help adults and children over 1. Many cough and cold medicines are not suitable for young children. See a doctor if a cough lasts more than three weeks, you cough up blood, or you have chest pain, breathlessness or weight loss.",
+    "keywords": [
+      "cough syrup",
+      "cough medicine",
+      "cough mixture",
+      "linctus",
+      "cough remedy",
+      "chesty cough",
+      "dry cough medicine"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Cough",
+        "url": "https://www.nhs.uk/symptoms/cough/"
+      },
+      {
+        "label": "MedlinePlus — Over-the-counter medicines",
+        "url": "https://medlineplus.gov/overthecountermedicines.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "more-medicine-works-faster",
+    "category": "Medicines & antibiotics",
+    "myth": "Taking more than the recommended dose makes medicine work faster or better.",
+    "rating": "false",
+    "fact": "Taking more than the recommended dose usually does not make a medicine work better, but it does increase the risk of side effects and overdose. Paracetamol overdose, for example, can cause liver failure even when the person feels well at first.",
+    "explanation": "Follow the dose and timing on the label or prescription, and do not combine products that contain the same ingredient. If a medicine is not helping, speak to a pharmacist or doctor rather than taking more. In case of overdose, seek urgent medical help even if there are no symptoms.",
+    "keywords": [
+      "extra dose",
+      "overdose",
+      "more tablets",
+      "take more painkillers",
+      "maximum dose",
+      "stronger dose"
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus — Acetaminophen overdose",
+        "url": "https://medlineplus.gov/ency/article/002598.htm"
+      },
+      {
+        "label": "MedlinePlus — Medication errors",
+        "url": "https://medlineplus.gov/medicationerrors.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "market-medicines-same-as-pharmacy",
+    "category": "Medicines & antibiotics",
+    "myth": "Medicines sold cheaply at markets, roadside stalls or on social media are just as good as those from a pharmacy.",
+    "rating": "false",
+    "fact": "Medicines from unregulated sellers are much more likely to be substandard or falsified. They may contain the wrong amount of the active ingredient, the wrong ingredient, or toxic substances.",
+    "explanation": "Falsified medicines can fail to treat serious illnesses such as malaria and infections, contribute to drug resistance, and cause poisoning. Buy medicines from licensed pharmacies, check packaging, and report anything that looks suspicious or does not work as expected.",
+    "keywords": [
+      "fake medicines",
+      "counterfeit drugs",
+      "falsified medicines",
+      "street medicine",
+      "market pharmacy",
+      "buy medicine online",
+      "cheap medicine"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Substandard and falsified medical products",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/substandard-and-falsified-medical-products"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "antibiotic-resistance-future-problem",
+    "category": "Medicines & antibiotics",
+    "myth": "Antibiotic resistance is a problem for the distant future, not today.",
+    "rating": "false",
+    "fact": "Antimicrobial resistance is already causing deaths around the world today. Infections such as pneumonia, urinary tract infections, gonorrhoea and tuberculosis are becoming harder, and sometimes impossible, to treat with standard antibiotics.",
+    "explanation": "Resistance makes surgery, cancer treatment and childbirth riskier, because they depend on antibiotics to prevent and treat infections. Everyone can help by using antibiotics only when prescribed, taking them as directed and never sharing them, and by preventing infections through vaccination and hygiene.",
+    "keywords": [
+      "antibiotic resistance",
+      "superbugs",
+      "antimicrobial resistance",
+      "amr",
+      "resistant bacteria",
+      "antibiotics stop working",
+      "drug resistant infections"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Antimicrobial resistance",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance"
+      },
+      {
+        "label": "MedlinePlus — Antibiotic resistance",
+        "url": "https://medlineplus.gov/antibioticresistance.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "cannot-take-ibuprofen-with-paracetamol",
+    "category": "Medicines & antibiotics",
+    "myth": "You must never take ibuprofen and paracetamol together.",
+    "rating": "false",
+    "fact": "For most adults it is safe to take ibuprofen and paracetamol at the same time or alternate them, as long as you do not exceed the maximum dose of each. They work in different ways.",
+    "explanation": "Ibuprofen is not suitable for everyone, for example some people with asthma, stomach ulcers, kidney or heart problems, or in later pregnancy. Check the labels, avoid other products containing the same ingredients and ask a pharmacist if unsure. For children, follow the dosing for their age.",
+    "keywords": [
+      "ibuprofen and paracetamol together",
+      "mix painkillers",
+      "alternate paracetamol ibuprofen",
+      "combine painkillers",
+      "acetaminophen and ibuprofen",
+      "nurofen panadol"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Ibuprofen for adults",
+        "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+      },
+      {
+        "label": "NHS — Paracetamol for adults",
+        "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "castor-oil-detox-cures",
+    "category": "Supplements",
+    "myth": "Drinking castor oil, or putting it in your belly button or on castor oil packs, detoxes your liver and dissolves cysts and tumours.",
+    "rating": "false",
+    "fact": "There is no evidence that castor oil detoxes the liver, removes toxins or shrinks cysts, fibroids or tumours, whether swallowed, applied to the navel or used in packs. Swallowed castor oil is a strong laxative.",
+    "explanation": "Taking too much by mouth can cause cramping, severe diarrhoea, dehydration and salt imbalances. It should not be used to try to start labour except under medical advice. The liver and kidneys clear waste from the body without the need for \"detox\" products.",
+    "keywords": [
+      "castor oil",
+      "castor oil pack",
+      "castor oil belly button",
+      "navel oiling",
+      "castor oil detox",
+      "liver detox",
+      "dissolve cysts",
+      "fibroids castor oil"
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus — Castor oil overdose",
+        "url": "https://medlineplus.gov/ency/article/002768.htm"
+      },
+      {
+        "label": "NCCIH — \"Detoxes\" and \"cleanses\": what you need to know",
+        "url": "https://www.nccih.nih.gov/health/detoxes-and-cleanses-what-you-need-to-know"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "borax-is-a-healthy-supplement",
+    "category": "Supplements",
+    "myth": "Drinking borax in water is a healthy supplement that cures arthritis and removes toxins.",
+    "rating": "false",
+    "fact": "Borax (sodium borate) is a cleaning and laundry product, not a dietary supplement. Swallowing boron compounds such as borax or boric acid can cause poisoning, with vomiting, diarrhoea, skin rashes and, in larger amounts, kidney damage and collapse.",
+    "explanation": "Social media videos promote \"borax water\" for joint pain, inflammation and to \"remove fluoride\" or \"detox\", with no evidence. Small amounts of boron are naturally present in fruit, vegetables and nuts. If someone swallows borax, contact a poison centre.",
+    "keywords": [
+      "borax",
+      "borax water",
+      "drinking borax",
+      "sodium borate",
+      "boron supplement",
+      "boric acid",
+      "borax arthritis",
+      "borax detox"
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus — Boric acid poisoning",
+        "url": "https://medlineplus.gov/ency/article/002485.htm"
+      },
+      {
+        "label": "MedlinePlus — Poisoning",
+        "url": "https://medlineplus.gov/poisoning.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "iv-vitamin-drips-boost-immunity",
+    "category": "Supplements",
+    "myth": "IV vitamin drips boost your immune system, energy and hydration better than food or drink.",
+    "rating": "misleading",
+    "fact": "For people who are healthy and can eat and drink normally, there is little evidence that IV vitamin drips boost immunity or energy. The body uses what it needs and gets rid of extra water-soluble vitamins in urine.",
+    "explanation": "IV treatments are important in hospitals for people who are dehydrated or cannot absorb nutrients. Wellness drips carry small risks such as infection, bruising, vein inflammation and fluid overload in people with heart or kidney problems. Some vitamins in high doses can also cause harm.",
+    "keywords": [
+      "iv drip",
+      "vitamin drip",
+      "iv therapy",
+      "hangover drip",
+      "immunity drip",
+      "myers cocktail",
+      "glutathione drip",
+      "iv vitamins"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Vitamins and minerals",
+        "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/"
+      },
+      {
+        "label": "MedlinePlus — Vitamins",
+        "url": "https://medlineplus.gov/vitamins.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "red-yeast-rice-safe-natural-statin",
+    "category": "Supplements",
+    "myth": "Red yeast rice is a safe, natural alternative to statins.",
+    "rating": "misleading",
+    "fact": "Some red yeast rice products contain monacolin K, which is chemically identical to the statin lovastatin. That means they can lower cholesterol, but they can also cause the same side effects and interactions as statins.",
+    "explanation": "The amount of monacolin K varies widely between products, so you cannot know what dose you are getting, and some products have contained a kidney toxin called citrinin. If you need to lower cholesterol, talk to your doctor about tested medicines and lifestyle changes.",
+    "keywords": [
+      "red yeast rice",
+      "natural statin",
+      "monacolin k",
+      "lovastatin",
+      "cholesterol supplement",
+      "statin alternative",
+      "lower cholesterol naturally"
+    ],
+    "sources": [
+      {
+        "label": "NCCIH — Red yeast rice",
+        "url": "https://www.nccih.nih.gov/health/red-yeast-rice"
+      },
+      {
+        "label": "NHS — Statins",
+        "url": "https://www.nhs.uk/medicines/statins/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "chromium-controls-diabetes",
+    "category": "Supplements",
+    "myth": "Chromium supplements can control diabetes so you don't need medicine.",
+    "rating": "false",
+    "fact": "There is only weak evidence that chromium might help with blood sugar, and it has not been shown to replace diabetes medicines. Most studies of supplements for diabetes are small or of low quality.",
+    "explanation": "Taking supplements instead of prescribed treatment can let blood sugar rise and increase the risk of complications. Some supplements can also interact with diabetes medicines. Talk to your diabetes team before trying any supplement.",
+    "keywords": [
+      "chromium",
+      "chromium picolinate",
+      "diabetes supplement",
+      "blood sugar supplement",
+      "natural diabetes treatment",
+      "gymnema",
+      "sugar control pills"
+    ],
+    "sources": [
+      {
+        "label": "NCCIH — Diabetes and dietary supplements",
+        "url": "https://www.nccih.nih.gov/health/diabetes-and-dietary-supplements-what-you-need-to-know"
+      },
+      {
+        "label": "MedlinePlus — Diabetes medicines",
+        "url": "https://medlineplus.gov/diabetesmedicines.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "ashwagandha-safe-for-everyone",
+    "category": "Supplements",
+    "myth": "Ashwagandha is a natural herb, so it's safe for everyone to take.",
+    "rating": "misleading",
+    "fact": "Ashwagandha may cause drowsiness and stomach upset, and rare cases of liver injury have been linked to it. It should be avoided in pregnancy and while breastfeeding, and it is not recommended for people with thyroid or autoimmune conditions or before surgery.",
+    "explanation": "It may interact with medicines for diabetes, high blood pressure, thyroid problems, epilepsy and with sedatives and immunosuppressants. Some studies suggest possible benefits for stress or sleep, but the evidence is limited and long-term safety is not well known.",
+    "keywords": [
+      "ashwagandha",
+      "withania",
+      "adaptogen",
+      "ashwagandha side effects",
+      "ashwagandha liver",
+      "ashwagandha thyroid",
+      "stress supplement",
+      "ksm-66"
+    ],
+    "sources": [
+      {
+        "label": "NCCIH — Ashwagandha",
+        "url": "https://www.nccih.nih.gov/health/ashwagandha"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "kratom-safe-natural-painkiller",
+    "category": "Supplements",
+    "myth": "Kratom is a safe, natural painkiller and a harmless way to come off opioids.",
+    "rating": "false",
+    "fact": "Kratom is not approved for any medical use, and it has been linked to serious harms, including liver damage, seizures, addiction and deaths, particularly when combined with other substances.",
+    "explanation": "Kratom acts on some of the same brain receptors as opioids, and people can become dependent on it and experience withdrawal. Products are unregulated and may be contaminated. Proven, safe treatments for opioid use disorder are available through doctors and addiction services.",
+    "keywords": [
+      "kratom",
+      "mitragynine",
+      "kratom painkiller",
+      "kratom withdrawal",
+      "kratom opioid",
+      "kratom safe",
+      "7-oh"
+    ],
+    "sources": [
+      {
+        "label": "NCCIH — Kratom",
+        "url": "https://www.nccih.nih.gov/health/kratom"
+      },
+      {
+        "label": "FDA — FDA and kratom",
+        "url": "https://www.fda.gov/news-events/public-health-focus/fda-and-kratom"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "elderberry-cures-flu",
+    "category": "Supplements",
+    "myth": "Elderberry syrup cures flu and prevents COVID-19.",
+    "rating": "misleading",
+    "fact": "Some small studies suggest elderberry may ease cold and flu symptoms, but the evidence is limited and it is not a cure. There is no good evidence that it prevents or treats COVID-19.",
+    "explanation": "Raw or unripe elderberries, and the leaves and stems, can cause nausea, vomiting and diarrhoea if not properly prepared. Flu vaccination and, for people at high risk, antiviral medicines prescribed by a doctor are the proven ways to prevent and treat flu.",
+    "keywords": [
+      "elderberry",
+      "sambucus",
+      "elderberry syrup",
+      "flu remedy",
+      "natural flu cure",
+      "elderberry covid",
+      "immune syrup"
+    ],
+    "sources": [
+      {
+        "label": "NCCIH — Elderberry",
+        "url": "https://www.nccih.nih.gov/health/elderberry"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "vegans-need-b12",
+    "category": "Supplements",
+    "myth": "People on a vegan diet need a reliable source of vitamin B12, such as fortified foods or a supplement.",
+    "rating": "true",
+    "fact": "Yes. Vitamin B12 is found naturally almost only in animal foods, so people who eat no animal products need fortified foods (such as some plant milks, cereals and yeast extracts) or a B12 supplement.",
+    "explanation": "Lack of B12 can cause anaemia, tiredness and, if not treated, nerve damage, which may not be fully reversible. Plant foods such as seaweed and spirulina are not reliable sources. This is especially important during pregnancy and breastfeeding and for vegan children.",
+    "keywords": [
+      "vegan b12",
+      "vitamin b12",
+      "b12 deficiency",
+      "plant based b12",
+      "vegetarian b12",
+      "b12 supplement",
+      "fortified foods"
+    ],
+    "sources": [
+      {
+        "label": "NHS — The vegan diet",
+        "url": "https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/"
+      },
+      {
+        "label": "NHS — Vitamin B12 or folate deficiency anaemia",
+        "url": "https://www.nhs.uk/conditions/vitamin-b12-or-folate-deficiency-anaemia/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "supplements-can-contain-hidden-drugs",
+    "category": "Supplements",
+    "myth": "Some supplements sold for weight loss, sex or bodybuilding have been found to contain hidden prescription drugs.",
+    "rating": "true",
+    "fact": "Yes. Regulators regularly find products marketed as natural supplements that contain undeclared medicines, such as erectile dysfunction drugs, steroids, stimulants or withdrawn weight-loss drugs.",
+    "explanation": "These hidden ingredients can cause dangerous side effects and interactions, for example with heart medicines. Be wary of products that promise fast or dramatic results, are sold mainly online, or are labelled in a foreign language. Report suspected side effects to your doctor or medicines regulator.",
+    "keywords": [
+      "tainted supplements",
+      "hidden drugs",
+      "weight loss pills",
+      "sex enhancement pills",
+      "bodybuilding supplements",
+      "adulterated",
+      "natural viagra"
+    ],
+    "sources": [
+      {
+        "label": "FDA — Medication health fraud",
+        "url": "https://www.fda.gov/drugs/buying-using-medicine-safely/medication-health-fraud"
+      },
+      {
+        "label": "FDA — Health fraud scams",
+        "url": "https://www.fda.gov/consumers/health-fraud-scams"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "vitamin-b1-garlic-repel-mosquitoes",
+    "category": "Supplements",
+    "myth": "Taking vitamin B1 or eating garlic keeps mosquitoes from biting you.",
+    "rating": "false",
+    "fact": "There is no good evidence that taking vitamin B1 (thiamin) or eating garlic stops mosquitoes from biting. Registered insect repellents and covering up do.",
+    "explanation": "Repellents containing DEET, picaridin, IR3535 or oil of lemon eucalyptus are proven to work when used as directed. Long sleeves, bed nets and window screens also help. This matters most in places where mosquitoes spread malaria, dengue and other diseases.",
+    "keywords": [
+      "vitamin b1 mosquitoes",
+      "thiamine mosquito",
+      "garlic mosquito",
+      "mosquito repellent",
+      "natural repellent",
+      "stop mosquito bites",
+      "b vitamins insects"
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus — Mosquito bites",
+        "url": "https://medlineplus.gov/mosquitobites.html"
+      },
+      {
+        "label": "NHS — Malaria",
+        "url": "https://www.nhs.uk/conditions/malaria/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "iron-tablets-harmless-for-children",
+    "category": "Supplements",
+    "myth": "Iron tablets are harmless, so it doesn't matter if children get hold of them.",
+    "rating": "false",
+    "fact": "Iron overdose is dangerous and has been one of the commonest causes of fatal poisoning in young children. Even a small number of adult iron tablets can seriously harm a child.",
+    "explanation": "Symptoms can include vomiting, diarrhoea and stomach pain, and may seem to improve before serious problems with the liver and circulation develop. Keep all supplements, including iron and pregnancy vitamins, out of children's sight and reach, and get emergency help if a child swallows them.",
+    "keywords": [
+      "iron tablets children",
+      "iron overdose",
+      "iron poisoning",
+      "child swallowed vitamins",
+      "prenatal vitamins child",
+      "ferrous sulphate"
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus — Iron overdose",
+        "url": "https://medlineplus.gov/ency/article/002659.htm"
+      },
+      {
+        "label": "NHS — Iron",
+        "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/iron/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "noni-juice-cures-disease",
+    "category": "Supplements",
+    "myth": "Noni juice cures cancer, diabetes and high blood pressure.",
+    "rating": "false",
+    "fact": "Noni has not been shown to have a beneficial effect on any health condition in studies of people.",
+    "explanation": "Several cases of liver damage have been reported in people drinking noni juice or tea, although it is not certain noni was the cause. Noni is high in potassium, which can be risky for people with kidney disease or taking some blood pressure medicines.",
+    "keywords": [
+      "noni",
+      "noni juice",
+      "morinda",
+      "tahitian noni",
+      "noni cure",
+      "miracle juice",
+      "noni cancer"
+    ],
+    "sources": [
+      {
+        "label": "NCCIH — Noni",
+        "url": "https://www.nccih.nih.gov/health/noni"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "kava-safe-for-anxiety",
+    "category": "Supplements",
+    "myth": "Kava is a completely safe, natural remedy for anxiety.",
+    "rating": "misleading",
+    "fact": "Kava supplements may help some people with anxiety, but they have been linked to rare cases of serious liver injury, some fatal. It can also cause drowsiness and affect driving.",
+    "explanation": "Kava is a traditional drink in Pacific Island cultures. The risk may be higher with some products, with alcohol, or with large or prolonged use. Avoid it if you have liver problems or take medicines that affect the liver, and talk to a doctor about other treatments for anxiety.",
+    "keywords": [
+      "kava",
+      "kava kava",
+      "kava anxiety",
+      "kava liver",
+      "natural anxiety remedy",
+      "kava drink",
+      "kava tea"
+    ],
+    "sources": [
+      {
+        "label": "NCCIH — Kava",
+        "url": "https://www.nccih.nih.gov/health/kava"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]

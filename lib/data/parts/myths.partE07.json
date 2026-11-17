@@ -1,0 +1,375 @@
+[
+  {
+    "id": "ginkgo-prevents-memory-loss",
+    "category": "Ageing & brain",
+    "myth": "Ginkgo biloba supplements boost memory and prevent dementia.",
+    "rating": "false",
+    "fact": "Large studies in older adults found that ginkgo did not reduce the risk of dementia or slow memory decline. There is no conclusive evidence that ginkgo helps any health condition.",
+    "explanation": "Ginkgo can increase the risk of bleeding, especially with blood thinners, and may interact with other medicines. Other 'memory' supplements sold online are not checked like medicines, and many have no good evidence behind them. Staying active, treating high blood pressure and hearing loss, and not smoking are better-supported ways to protect brain health.",
+    "keywords": [
+      "ginkgo",
+      "ginkgo biloba",
+      "memory supplement",
+      "brain supplement",
+      "prevent dementia supplement",
+      "nootropics",
+      "memory pills"
+    ],
+    "sources": [
+      {
+        "label": "NCCIH — Ginkgo",
+        "url": "https://www.nccih.nih.gov/health/ginkgo"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "alzheimers-always-inherited",
+    "category": "Ageing & brain",
+    "myth": "If your parent had Alzheimer's, you're bound to get it too.",
+    "rating": "misleading",
+    "fact": "Having a close relative with Alzheimer's raises your risk somewhat, but most people with a family history do not develop it. Rare forms caused by single gene changes are strongly inherited, but these account for only a small share of cases and usually start before age 65.",
+    "explanation": "For the common late-onset form, genes such as APOE e4 raise risk but do not decide it, and age and lifestyle also matter. Managing blood pressure, staying active, not smoking and staying socially and mentally engaged can lower risk. People worried about a strong family history of early-onset dementia can ask about genetic counselling.",
+    "keywords": [
+      "alzheimers hereditary",
+      "dementia genetic",
+      "family history dementia",
+      "apoe4",
+      "inherit alzheimers",
+      "parent had dementia"
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus Genetics — Alzheimer disease",
+        "url": "https://medlineplus.gov/genetics/condition/alzheimers-disease/"
+      },
+      {
+        "label": "NHS — Alzheimer's disease",
+        "url": "https://www.nhs.uk/conditions/alzheimers-disease/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "nothing-lowers-dementia-risk",
+    "category": "Ageing & brain",
+    "myth": "There's nothing you can do to lower your risk of dementia.",
+    "rating": "false",
+    "fact": "Age and genes cannot be changed, but evidence suggests people can lower their risk of dementia through healthy behaviours and by managing conditions such as high blood pressure, diabetes and hearing loss.",
+    "explanation": "Things that help include being physically active, not smoking, drinking less alcohol, eating a healthy diet, keeping a healthy weight and staying socially active. These steps also protect against stroke and heart disease, which are linked to some types of dementia. They reduce risk rather than guarantee protection.",
+    "keywords": [
+      "prevent dementia",
+      "reduce dementia risk",
+      "dementia prevention",
+      "lower alzheimers risk",
+      "dementia lifestyle",
+      "dementia inevitable"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Dementia",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/dementia"
+      },
+      {
+        "label": "NHS — Can dementia be prevented?",
+        "url": "https://www.nhs.uk/conditions/dementia/about-dementia/prevention/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "alzheimers-and-dementia-same-thing",
+    "category": "Ageing & brain",
+    "myth": "Alzheimer's and dementia are the same thing.",
+    "rating": "misleading",
+    "fact": "Dementia is an umbrella term for a group of symptoms caused by different diseases that damage the brain. Alzheimer's disease is the most common cause of dementia, but there are others, such as vascular dementia, dementia with Lewy bodies and frontotemporal dementia.",
+    "explanation": "The type matters because symptoms, progress and treatment can differ. For example, some medicines help Alzheimer's symptoms but are not suitable for every type. Many people have more than one type at once (mixed dementia).",
+    "keywords": [
+      "alzheimers vs dementia",
+      "difference dementia alzheimers",
+      "types of dementia",
+      "vascular dementia",
+      "lewy body",
+      "frontotemporal dementia"
+    ],
+    "sources": [
+      {
+        "label": "NHS — What is dementia?",
+        "url": "https://www.nhs.uk/conditions/dementia/about-dementia/what-is-dementia/"
+      },
+      {
+        "label": "WHO — Dementia",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/dementia"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "dementia-only-affects-memory",
+    "category": "Ageing & brain",
+    "myth": "Dementia only affects memory.",
+    "rating": "false",
+    "fact": "Memory loss is a common symptom, but dementia can also affect thinking speed, language, understanding, judgement, mood, behaviour and the ability to carry out everyday tasks.",
+    "explanation": "In some types, such as frontotemporal dementia, changes in personality or behaviour may come before memory problems. Recognising these signs can lead to earlier diagnosis and support. Talk to a GP if you notice changes in yourself or someone close to you.",
+    "keywords": [
+      "dementia symptoms",
+      "dementia memory only",
+      "personality change dementia",
+      "early signs dementia",
+      "dementia behaviour",
+      "dementia language"
+    ],
+    "sources": [
+      {
+        "label": "NHS — What is dementia?",
+        "url": "https://www.nhs.uk/conditions/dementia/about-dementia/what-is-dementia/"
+      },
+      {
+        "label": "WHO — Dementia",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/dementia"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "alzheimers-can-be-cured-naturally",
+    "category": "Ageing & brain",
+    "myth": "Alzheimer's can be cured or reversed with coconut oil, special diets or supplements.",
+    "rating": "false",
+    "fact": "There is currently no cure for Alzheimer's disease, and no diet or supplement has been shown to reverse it. Medicines can help relieve some symptoms for a time, and newer treatments may slow progression in some people at an early stage.",
+    "explanation": "Claims about coconut oil and other 'cures' are based on personal stories rather than good-quality trials. A healthy diet is good for overall health but is not a treatment. Support for people with dementia and their carers can make a real difference to quality of life.",
+    "keywords": [
+      "cure alzheimers",
+      "coconut oil alzheimers",
+      "reverse dementia",
+      "alzheimers natural treatment",
+      "dementia supplements",
+      "alzheimers diet"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Alzheimer's disease",
+        "url": "https://www.nhs.uk/conditions/alzheimers-disease/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "falls-normal-part-of-ageing",
+    "category": "Ageing & brain",
+    "myth": "Falls are just a normal part of getting older and can't be prevented.",
+    "rating": "false",
+    "fact": "Falls are common in older age but many can be prevented. Strength and balance exercises, reviewing medicines, eyesight checks, safer homes and suitable footwear all reduce the risk.",
+    "explanation": "Falls are a leading cause of injury in older people, and fear of falling can lead to less activity, which weakens muscles further. A GP can arrange a falls risk assessment. If someone falls and may have hurt their head, neck, back or hip, or cannot get up, call an ambulance.",
+    "keywords": [
+      "falls elderly",
+      "preventing falls",
+      "falls older people",
+      "balance exercises",
+      "fall risk",
+      "fear of falling",
+      "falls prevention"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Falls",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/falls"
+      },
+      {
+        "label": "NHS — Falls",
+        "url": "https://www.nhs.uk/conditions/falls/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "incontinence-normal-in-old-age",
+    "category": "Ageing & brain",
+    "myth": "Bladder leaks are just part of getting old, and nothing can be done.",
+    "rating": "false",
+    "fact": "Urinary incontinence becomes more common with age but it is not an inevitable part of ageing, and it can often be treated or improved. Options include pelvic floor exercises, bladder training, lifestyle changes, medicines and surgery.",
+    "explanation": "Causes vary, from weak pelvic floor muscles to an overactive bladder, an enlarged prostate in men or side effects of medicines. Many people do not seek help because of embarrassment, but a GP or continence service can assess the cause. Cutting back on caffeine and alcohol and avoiding constipation can also help.",
+    "keywords": [
+      "incontinence elderly",
+      "bladder leaks",
+      "urinary incontinence",
+      "overactive bladder",
+      "leaking urine old age",
+      "bladder weakness"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Urinary incontinence",
+        "url": "https://www.nhs.uk/conditions/urinary-incontinence/"
+      },
+      {
+        "label": "MedlinePlus — Urge incontinence",
+        "url": "https://medlineplus.gov/ency/article/001270.htm"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "hearing-aids-make-hearing-worse",
+    "category": "Ageing & brain",
+    "myth": "Wearing hearing aids makes your hearing worse over time.",
+    "rating": "false",
+    "fact": "Properly fitted hearing aids do not damage hearing. They make sounds louder so the remaining sensory cells in the ear can pick them up, helping with conversations and everyday life.",
+    "explanation": "Some people feel their hearing is worse when they take aids out, because they have got used to hearing more clearly. Age-related hearing loss tends to progress slowly whether or not aids are used. Getting help early can also reduce isolation, and untreated hearing loss is linked with a higher risk of dementia.",
+    "keywords": [
+      "hearing aids",
+      "hearing aids worse",
+      "hearing aid damage",
+      "hearing loss older",
+      "deaf aid",
+      "age related hearing loss"
+    ],
+    "sources": [
+      {
+        "label": "NIDCD — Hearing aids",
+        "url": "https://www.nidcd.nih.gov/health/hearing-aids"
+      },
+      {
+        "label": "NHS — Hearing aids and implants",
+        "url": "https://www.nhs.uk/tests-and-treatments/hearing-aids-and-implants/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "only-old-people-have-strokes",
+    "category": "Ageing & brain",
+    "myth": "Only older people have strokes.",
+    "rating": "false",
+    "fact": "The risk of stroke rises with age, but strokes can happen at any age, including in young adults and, rarely, in children and babies.",
+    "explanation": "High blood pressure, smoking, diabetes, high cholesterol and atrial fibrillation are major risk factors at any age. Remember FAST: face drooping, arm weakness, speech problems, time to call an emergency number. Fast treatment can greatly improve recovery.",
+    "keywords": [
+      "stroke young people",
+      "stroke age",
+      "stroke in your 30s",
+      "young stroke",
+      "stroke risk",
+      "fast stroke signs"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Stroke",
+        "url": "https://www.nhs.uk/conditions/stroke/"
+      },
+      {
+        "label": "WHO — Stroke",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/stroke"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "parkinsons-is-just-a-tremor",
+    "category": "Ageing & brain",
+    "myth": "Parkinson's disease is just a shaking hand.",
+    "rating": "misleading",
+    "fact": "Tremor is one of the main symptoms, but not everyone with Parkinson's has it. The condition also causes slow movement and stiff muscles, and often other symptoms such as balance problems, loss of smell, sleep problems, depression, anxiety and memory problems.",
+    "explanation": "Some non-movement symptoms, such as loss of smell or acting out dreams in sleep, can appear years before diagnosis. There is no cure yet, but medicines, physiotherapy and other support help manage symptoms. See a GP if you are worried about possible signs.",
+    "keywords": [
+      "parkinsons",
+      "parkinson's disease",
+      "tremor",
+      "shaking hand",
+      "parkinsons symptoms",
+      "loss of smell parkinsons"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Parkinson's disease",
+        "url": "https://www.nhs.uk/conditions/parkinsons-disease/"
+      },
+      {
+        "label": "WHO — Parkinson disease",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/parkinson-disease"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "sudden-confusion-just-old-age",
+    "category": "Ageing & brain",
+    "myth": "Sudden confusion in an older person is just old age.",
+    "rating": "false",
+    "fact": "Confusion that comes on suddenly (delirium) is a medical problem, not normal ageing, and needs prompt medical help. It is often caused by an infection such as a urine or chest infection, dehydration, constipation, new medicines or other illnesses.",
+    "explanation": "Delirium usually develops over hours or days and may come and go, unlike dementia, which develops slowly. People with dementia can also get delirium on top of it. Treating the cause often leads to improvement, so tell a doctor about any sudden change in how someone is thinking or behaving.",
+    "keywords": [
+      "sudden confusion",
+      "delirium",
+      "elderly confused",
+      "uti confusion",
+      "confusion old age",
+      "acute confusion",
+      "grandparent confused"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Sudden confusion (delirium)",
+        "url": "https://www.nhs.uk/symptoms/confusion/"
+      },
+      {
+        "label": "MedlinePlus — Delirium",
+        "url": "https://medlineplus.gov/delirium.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "loneliness-affects-physical-health",
+    "category": "Ageing & brain",
+    "myth": "Loneliness and social isolation can harm your physical health, not just your mood.",
+    "rating": "true",
+    "fact": "The WHO describes social isolation and loneliness as serious risks to health. They are linked with a higher risk of stroke, heart disease, diabetes, cognitive decline, depression and early death.",
+    "explanation": "Older adults are at particular risk because of bereavement, retirement, health problems or hearing loss. Staying in touch with others, joining groups or volunteering can help. If you or someone you know is struggling with loneliness, a GP or local community services can suggest support.",
+    "keywords": [
+      "loneliness",
+      "social isolation",
+      "lonely elderly",
+      "loneliness health",
+      "isolation dementia",
+      "social connection"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Social isolation and loneliness",
+        "url": "https://www.who.int/teams/social-determinants-of-health/demographic-change-and-healthy-ageing/social-isolation-and-loneliness"
+      },
+      {
+        "label": "WHO — Social connection linked to improved health and reduced risk of early death (June 2025)",
+        "url": "https://www.who.int/news/item/30-06-2025-social-connection-linked-to-improved-heath-and-reduced-risk-of-early-death"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "too-old-to-benefit-from-quitting-smoking",
+    "category": "Ageing & brain",
+    "myth": "If you've smoked for decades, there's no point quitting in old age because the damage is done.",
+    "rating": "false",
+    "fact": "Stopping smoking brings health benefits at any age. Within weeks circulation and breathing improve, and over time the risks of heart attack, stroke, lung disease and several cancers fall compared with continuing to smoke.",
+    "explanation": "Older smokers who quit also tend to recover better from illness and surgery. Free stop-smoking support, nicotine replacement and other medicines greatly improve the chances of success. It is never too late to stop.",
+    "keywords": [
+      "quit smoking old age",
+      "too old to quit",
+      "stop smoking benefits",
+      "smoking elderly",
+      "quitting at 70",
+      "never too late quit"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Quit smoking",
+        "url": "https://www.nhs.uk/live-well/quit-smoking/"
+      },
+      {
+        "label": "WHO — Tobacco",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]

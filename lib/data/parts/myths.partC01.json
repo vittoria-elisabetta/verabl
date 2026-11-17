@@ -1,0 +1,736 @@
+[
+  {
+    "id": "polio-drops-cause-infertility",
+    "category": "Vaccines",
+    "myth": "Polio vaccine drops are a secret plan to make children infertile.",
+    "rating": "false",
+    "fact": "Polio vaccines protect children against polio, a virus that can cause permanent paralysis. They do not affect fertility, and billions of doses have been given worldwide with close safety monitoring.",
+    "explanation": "Rumours that polio drops cause sterility have led some communities to refuse vaccination, which has allowed polio to return and paralyse children. Polio has been eliminated from most of the world thanks to vaccination, and it remains only in a small number of places where vaccination coverage is low.",
+    "keywords": [
+      "polio drops",
+      "polio vaccine",
+      "oral polio vaccine",
+      "sterility",
+      "infertility",
+      "sterilise children",
+      "polio campaign",
+      "vaccine plot"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Poliomyelitis",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/poliomyelitis"
+      },
+      {
+        "label": "NHS — Polio",
+        "url": "https://www.nhs.uk/conditions/polio/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "tetanus-vaccine-sterilisation-rumour",
+    "category": "Vaccines",
+    "myth": "Tetanus vaccines given to women are secretly laced with a hormone to stop them having babies.",
+    "rating": "false",
+    "fact": "Tetanus vaccines protect women and their newborn babies from tetanus, a serious and often fatal infection. They do not stop women from becoming pregnant.",
+    "explanation": "Vaccinating women of childbearing age protects babies from neonatal tetanus, which can follow an unclean birth or cord care. Claims that vaccine batches contained a pregnancy hormone have circulated in several countries, but they were not supported by reliable testing. Neonatal tetanus has fallen sharply in places where women are vaccinated.",
+    "keywords": [
+      "tetanus vaccine",
+      "tetanus injection",
+      "tetanus toxoid",
+      "sterilisation",
+      "birth control in vaccine",
+      "hcg in vaccine",
+      "women vaccine infertility",
+      "neonatal tetanus"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Tetanus",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/tetanus"
+      },
+      {
+        "label": "WHO — Vaccines and immunization: vaccine safety",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-vaccine-safety"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "covid-vaccine-turbo-cancer",
+    "category": "Vaccines",
+    "myth": "COVID-19 vaccines cause \"turbo cancer\" or make cancers grow faster.",
+    "rating": "false",
+    "fact": "There is no evidence that COVID-19 vaccines cause cancer or make existing cancers grow or spread faster. Cancer organisations recommend COVID-19 vaccination for many people with cancer, who are at higher risk from the infection.",
+    "explanation": "\"Turbo cancer\" is not a medical term; it spread through social media posts and anecdotes. The mRNA in some COVID-19 vaccines does not enter the cell nucleus or alter DNA, and it is broken down quickly. Delays in screening and diagnosis during the pandemic may mean some cancers were found later, which is a different issue from vaccines.",
+    "keywords": [
+      "turbo cancer",
+      "covid vaccine cancer",
+      "vaccine causes cancer",
+      "mrna cancer",
+      "cancer after vaccine",
+      "aggressive cancer vaccine",
+      "covid jab cancer"
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus — COVID-19 vaccines",
+        "url": "https://medlineplus.gov/covid19vaccines.html"
+      },
+      {
+        "label": "WHO — Vaccines and immunization: vaccine safety",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-vaccine-safety"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "covid-vaccine-died-suddenly",
+    "category": "Vaccines",
+    "myth": "COVID-19 vaccines are making large numbers of healthy young people \"die suddenly\".",
+    "rating": "false",
+    "fact": "Safety monitoring of billions of COVID-19 vaccine doses has not shown that the vaccines cause large numbers of sudden deaths. Serious side effects are rare, and they are tracked by safety systems in many countries.",
+    "explanation": "Sudden deaths in young people have always happened, often from undiagnosed heart conditions, and viral social media videos rarely give the real cause. A rare side effect of mRNA vaccines is inflammation of the heart (myocarditis), mostly in young men, and most people recover. COVID-19 infection itself can also damage the heart.",
+    "keywords": [
+      "died suddenly",
+      "sudden death",
+      "covid vaccine deaths",
+      "young athletes collapse",
+      "vaccine killing people",
+      "excess deaths vaccine",
+      "sudden adult death"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Vaccines and immunization: vaccine safety",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-vaccine-safety"
+      },
+      {
+        "label": "MedlinePlus — COVID-19 vaccines",
+        "url": "https://medlineplus.gov/covid19vaccines.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "covid-vaccine-magnetic-graphene",
+    "category": "Vaccines",
+    "myth": "COVID-19 vaccines contain metal or graphene that makes your arm magnetic.",
+    "rating": "false",
+    "fact": "COVID-19 vaccines do not contain metals, magnets or graphene, and they cannot make your arm magnetic. Their ingredients are publicly listed.",
+    "explanation": "Videos of magnets or coins sticking to people's arms are explained by skin oils, sweat and the shape of the arm, and the same trick works on unvaccinated people. A vaccine dose is less than a millilitre, far too little to hold a magnet even if it contained metal.",
+    "keywords": [
+      "magnet",
+      "magnetic arm",
+      "graphene",
+      "graphene oxide",
+      "metal in vaccine",
+      "nanoparticles",
+      "magnet challenge",
+      "covid vaccine ingredients"
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus — COVID-19 vaccines",
+        "url": "https://medlineplus.gov/covid19vaccines.html"
+      },
+      {
+        "label": "NHS — COVID-19 vaccine",
+        "url": "https://www.nhs.uk/vaccinations/covid-19-vaccine/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "mrna-vaccine-rare-myocarditis",
+    "category": "Vaccines",
+    "myth": "mRNA COVID-19 vaccines can, rarely, cause inflammation of the heart.",
+    "rating": "true",
+    "fact": "Yes. Myocarditis and pericarditis are rare side effects of mRNA COVID-19 vaccines, seen mostly in young males, usually within days of a dose. Most cases are mild and people recover with treatment and rest.",
+    "explanation": "Health agencies identified this risk through safety monitoring and updated their advice, for example on which vaccines to offer to which age groups. COVID-19 infection can also cause heart inflammation. Seek medical help after vaccination if you have chest pain, shortness of breath or a fast, fluttering or pounding heartbeat.",
+    "keywords": [
+      "myocarditis",
+      "pericarditis",
+      "heart inflammation",
+      "mrna vaccine side effect",
+      "chest pain after vaccine",
+      "young men vaccine heart",
+      "covid vaccine heart"
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus — COVID-19 vaccines",
+        "url": "https://medlineplus.gov/covid19vaccines.html"
+      },
+      {
+        "label": "NHS — COVID-19 vaccine",
+        "url": "https://www.nhs.uk/vaccinations/covid-19-vaccine/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "flu-vaccine-pointless-still-get-flu",
+    "category": "Vaccines",
+    "myth": "The flu vaccine is pointless because people still get flu after having it.",
+    "rating": "misleading",
+    "fact": "The flu vaccine does not prevent every case of flu, and how well it works varies from year to year. It still lowers your chance of getting flu and of becoming seriously ill or going to hospital if you do catch it.",
+    "explanation": "Flu viruses change, so each year's vaccine is matched to the strains expected to circulate, and the match is sometimes imperfect. People also catch other viruses in winter and mistake them for flu. Vaccination is especially important for older people, pregnant women, young children and people with long-term conditions.",
+    "keywords": [
+      "flu vaccine doesnt work",
+      "flu jab useless",
+      "still got flu",
+      "flu shot effectiveness",
+      "pointless vaccine",
+      "flu vaccine failed",
+      "influenza vaccine"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Flu vaccine",
+        "url": "https://www.nhs.uk/vaccinations/flu-vaccine/"
+      },
+      {
+        "label": "WHO — Influenza (seasonal)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/influenza-(seasonal)"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "vaccines-contain-pork-gelatine",
+    "category": "Vaccines",
+    "myth": "All vaccines contain pork, so they are forbidden for Muslims and Jews.",
+    "rating": "misleading",
+    "fact": "Most vaccines contain no pork products. A few, such as the children's nasal flu spray and one brand of MMR vaccine, contain highly purified porcine gelatine as a stabiliser, and alternatives without gelatine are often available.",
+    "explanation": "If this matters to you, ask the nurse or doctor which brand is being used and whether a gelatine-free option exists, for example a flu injection instead of the nasal spray. Many religious scholars have said that vaccines are acceptable because they protect life. Missing vaccines leaves children open to serious diseases such as measles.",
+    "keywords": [
+      "pork in vaccines",
+      "porcine gelatine",
+      "gelatin",
+      "halal vaccine",
+      "haram vaccine",
+      "kosher vaccine",
+      "nasal flu spray pork",
+      "mmr gelatine"
+    ],
+    "sources": [
+      {
+        "label": "NHS — MMR (measles, mumps and rubella) vaccine",
+        "url": "https://www.nhs.uk/vaccinations/mmr-vaccine/"
+      },
+      {
+        "label": "NHS — Flu vaccine",
+        "url": "https://www.nhs.uk/vaccinations/flu-vaccine/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "adults-dont-need-vaccines",
+    "category": "Vaccines",
+    "myth": "Vaccines are only for children; adults don't need them.",
+    "rating": "false",
+    "fact": "Adults need some vaccines too. Depending on age, health and circumstances these can include flu, COVID-19, pneumococcal, shingles, RSV and tetanus-containing boosters, as well as travel vaccines.",
+    "explanation": "Protection from some childhood vaccines fades over time, and older adults face higher risks from infections such as flu, pneumonia and shingles. Pregnant women are offered vaccines that protect their babies. Your doctor or pharmacist can check which vaccines you are due.",
+    "keywords": [
+      "adult vaccines",
+      "grown ups vaccines",
+      "booster",
+      "vaccines only for kids",
+      "older adults vaccination",
+      "vaccines for over 65",
+      "catch-up vaccines"
+    ],
+    "sources": [
+      {
+        "label": "NHS — NHS vaccinations and when to have them",
+        "url": "https://www.nhs.uk/vaccinations/nhs-vaccinations-and-when-to-have-them/"
+      },
+      {
+        "label": "MedlinePlus — Vaccines",
+        "url": "https://medlineplus.gov/vaccines.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "shingles-vaccine-not-needed-after-chickenpox",
+    "category": "Vaccines",
+    "myth": "If you've already had chickenpox, you don't need the shingles vaccine.",
+    "rating": "false",
+    "fact": "Having had chickenpox is exactly what puts you at risk of shingles. The chickenpox virus stays in your body for life and can reactivate years later as shingles, which is why the shingles vaccine is offered to older adults.",
+    "explanation": "Shingles causes a painful rash, and some people go on to have nerve pain that lasts months or years. The risk and severity increase with age and with a weakened immune system. The vaccine lowers your chance of getting shingles and its long-lasting complications.",
+    "keywords": [
+      "shingles vaccine",
+      "had chickenpox",
+      "chickenpox immunity",
+      "shingles jab",
+      "herpes zoster",
+      "postherpetic neuralgia",
+      "shingrix"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Shingles vaccine",
+        "url": "https://www.nhs.uk/vaccinations/shingles-vaccine/"
+      },
+      {
+        "label": "NHS — Shingles",
+        "url": "https://www.nhs.uk/conditions/shingles/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "measles-outbreaks-caused-by-vaccinated",
+    "category": "Vaccines",
+    "myth": "Measles outbreaks are caused by vaccinated people spreading the virus.",
+    "rating": "false",
+    "fact": "Measles outbreaks happen when the virus reaches groups where too few people are vaccinated. The weakened virus in the MMR vaccine is not known to spread from a vaccinated person to others.",
+    "explanation": "Measles is one of the most contagious diseases known, so very high vaccination coverage is needed to stop it spreading. Most people who catch measles in outbreaks are unvaccinated. Two doses of MMR vaccine give strong, long-lasting protection.",
+    "keywords": [
+      "measles outbreak",
+      "vaccinated spread measles",
+      "mmr shedding",
+      "measles vaccine causes outbreak",
+      "unvaccinated",
+      "herd immunity",
+      "measles cases"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Measles",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/measles"
+      },
+      {
+        "label": "NHS — MMR (measles, mumps and rubella) vaccine",
+        "url": "https://www.nhs.uk/vaccinations/mmr-vaccine/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "homeopathic-vaccines-nosodes",
+    "category": "Vaccines",
+    "myth": "Homeopathic \"nosodes\" or homeopathic vaccines work just as well as real vaccines.",
+    "rating": "false",
+    "fact": "Homeopathic remedies, including so-called nosodes or homeopathic vaccines, have not been shown to protect against any infectious disease. They cannot replace real vaccines.",
+    "explanation": "Homeopathic products are usually diluted so much that no molecules of the original substance remain. Relying on them instead of vaccination leaves people unprotected against serious diseases such as measles, whooping cough and polio.",
+    "keywords": [
+      "homeopathic vaccine",
+      "nosodes",
+      "homeopathy instead of vaccines",
+      "natural vaccine",
+      "homeoprophylaxis",
+      "alternative to vaccination"
+    ],
+    "sources": [
+      {
+        "label": "NCCIH — Homeopathy",
+        "url": "https://www.nccih.nih.gov/health/homeopathy"
+      },
+      {
+        "label": "WHO — Vaccines and immunization: what is vaccination?",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "sanitation-not-vaccines-ended-diseases",
+    "category": "Vaccines",
+    "myth": "Diseases went away because of clean water and better food, not because of vaccines.",
+    "rating": "misleading",
+    "fact": "Clean water, sanitation and better nutrition did greatly reduce diseases such as cholera and typhoid. But diseases like measles, polio and diphtheria fell sharply only after vaccines were introduced, and they come back when vaccination rates drop.",
+    "explanation": "Measles spreads through the air, so clean water does not stop it. Countries with modern sanitation still see measles and whooping cough outbreaks when vaccine coverage falls. Vaccines and public health measures work together.",
+    "keywords": [
+      "sanitation",
+      "clean water",
+      "diseases declining before vaccines",
+      "hygiene not vaccines",
+      "nutrition",
+      "vaccines did nothing",
+      "disease decline"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Immunization coverage",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/immunization-coverage"
+      },
+      {
+        "label": "WHO — Measles",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/measles"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "rabies-14-stomach-injections",
+    "category": "Vaccines",
+    "myth": "Rabies treatment means 14 painful injections in the stomach.",
+    "rating": "false",
+    "fact": "Modern rabies treatment after a bite is a short course of vaccine doses given in the arm, sometimes with rabies immunoglobulin around the wound. The old painful injections into the stomach are no longer used.",
+    "explanation": "Fear of the old treatment can stop people seeking care after an animal bite or scratch. Once rabies symptoms appear it is almost always fatal, but prompt washing of the wound and vaccination after exposure is very effective at preventing it.",
+    "keywords": [
+      "rabies",
+      "rabies injections",
+      "14 injections",
+      "stomach injections",
+      "dog bite",
+      "rabies vaccine",
+      "post exposure",
+      "animal bite"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Rabies",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/rabies"
+      },
+      {
+        "label": "NHS — Rabies",
+        "url": "https://www.nhs.uk/conditions/rabies/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "hpv-vaccine-causes-infertility",
+    "category": "Vaccines",
+    "myth": "The HPV vaccine causes infertility or early menopause.",
+    "rating": "false",
+    "fact": "Large studies and years of safety monitoring have found no link between the HPV vaccine and infertility or early menopause.",
+    "explanation": "By preventing HPV infection, the vaccine actually protects fertility, because treating cervical cancer and pre-cancer can affect the ability to have children. Hundreds of millions of doses have been given worldwide. The most common side effects are a sore arm and headache.",
+    "keywords": [
+      "hpv vaccine infertility",
+      "gardasil infertility",
+      "hpv jab",
+      "early menopause",
+      "ovarian failure",
+      "cervical cancer vaccine side effects",
+      "hpv vaccine safety"
+    ],
+    "sources": [
+      {
+        "label": "NHS — HPV vaccine",
+        "url": "https://www.nhs.uk/vaccinations/hpv-vaccine/"
+      },
+      {
+        "label": "National Cancer Institute — HPV vaccines",
+        "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/infectious-agents/hpv-vaccine-fact-sheet"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "mrna-stays-in-body-forever",
+    "category": "Vaccines",
+    "myth": "The mRNA from COVID-19 vaccines stays in your body for years and keeps making spike protein forever.",
+    "rating": "false",
+    "fact": "The mRNA in these vaccines is fragile and is broken down by the body, typically within days to a few weeks. The spike protein it instructs cells to make is also short-lived and is cleared by the immune system.",
+    "explanation": "What lasts is the immune memory, not the mRNA itself. This is why booster doses are sometimes needed as protection fades over time. mRNA does not enter the cell nucleus, where DNA is kept.",
+    "keywords": [
+      "mrna stays in body",
+      "spike protein",
+      "spike protein forever",
+      "mrna lasts years",
+      "vaccine mrna",
+      "covid vaccine long term",
+      "spike protein detox"
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus — COVID-19 vaccines",
+        "url": "https://medlineplus.gov/covid19vaccines.html"
+      },
+      {
+        "label": "NHS — COVID-19 vaccine",
+        "url": "https://www.nhs.uk/vaccinations/covid-19-vaccine/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "polio-vaccine-can-cause-polio",
+    "category": "Vaccines",
+    "myth": "The polio vaccine gives children polio.",
+    "rating": "misleading",
+    "fact": "The injected polio vaccine cannot cause polio. The oral polio vaccine contains a weakened live virus that, very rarely, can cause paralysis or, in places with low vaccination, can change and spread as \"vaccine-derived\" polio.",
+    "explanation": "Wild polio paralyses far more children than the vaccine ever has, and outbreaks of vaccine-derived polio are stopped by vaccinating more children. Many countries use the injected vaccine, and newer oral vaccines are designed to be more stable.",
+    "keywords": [
+      "polio vaccine causes polio",
+      "vaccine-derived polio",
+      "oral polio vaccine",
+      "cvdpv",
+      "polio drops paralysis",
+      "injected polio vaccine",
+      "ipv"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Poliomyelitis",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/poliomyelitis"
+      },
+      {
+        "label": "NHS — Polio",
+        "url": "https://www.nhs.uk/conditions/polio/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "malaria-vaccines-exist",
+    "category": "Vaccines",
+    "myth": "There are now vaccines that help protect children from malaria.",
+    "rating": "true",
+    "fact": "Yes. The WHO recommends two malaria vaccines, RTS,S and R21, for children living in areas where malaria is common. They give partial protection and reduce illness and deaths from malaria.",
+    "explanation": "The vaccines are given as a series of doses in early childhood and work best alongside other measures such as insecticide-treated bed nets and prompt testing and treatment. Many African countries have added them to their routine childhood vaccination programmes.",
+    "keywords": [
+      "malaria vaccine",
+      "rts,s",
+      "r21",
+      "mosquirix",
+      "children malaria",
+      "malaria prevention",
+      "no vaccine for malaria"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Malaria",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/malaria"
+      },
+      {
+        "label": "WHO — Q&A on malaria vaccines",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/q-a-on-rts-s-malaria-vaccine"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "second-dengue-infection-milder",
+    "category": "Infections & colds",
+    "myth": "Once you've had dengue, a second infection will be milder.",
+    "rating": "false",
+    "fact": "A second dengue infection with a different type of the virus raises the risk of severe dengue. There are four types of dengue virus, and having one gives lasting protection only against that type.",
+    "explanation": "Severe dengue can cause bleeding, organ damage and dangerously low blood pressure. Anyone who has had dengue before should be especially careful to avoid mosquito bites and should seek care quickly for warning signs such as severe stomach pain, persistent vomiting, bleeding gums or extreme tiredness.",
+    "keywords": [
+      "dengue",
+      "second dengue",
+      "dengue again",
+      "dengue immunity",
+      "severe dengue",
+      "dengue fever",
+      "dengue reinfection"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Dengue and severe dengue",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue"
+      },
+      {
+        "label": "NHS — Dengue",
+        "url": "https://www.nhs.uk/conditions/dengue/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "papaya-leaf-cures-dengue",
+    "category": "Infections & colds",
+    "myth": "Papaya leaf juice cures dengue.",
+    "rating": "false",
+    "fact": "There is no cure or specific antiviral medicine for dengue. Treatment is rest, plenty of fluids, paracetamol for fever and pain, and close medical monitoring for warning signs.",
+    "explanation": "Papaya leaf extract has been tested in small studies to see whether it raises platelet counts, but it has not been shown to prevent severe dengue or replace medical care. Avoid ibuprofen and aspirin with dengue because they can increase the risk of bleeding. Relying on home remedies can delay treatment when warning signs appear.",
+    "keywords": [
+      "papaya leaf",
+      "papaya juice",
+      "dengue cure",
+      "platelets",
+      "platelet count",
+      "dengue home remedy",
+      "giloy dengue",
+      "dengue treatment"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Dengue and severe dengue",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue"
+      },
+      {
+        "label": "NHS — Dengue",
+        "url": "https://www.nhs.uk/conditions/dengue/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "chicken-soup-cures-colds",
+    "category": "Infections & colds",
+    "myth": "Chicken soup cures a cold.",
+    "rating": "misleading",
+    "fact": "Nothing cures the common cold; it usually gets better on its own within one to two weeks. Warm drinks and soup can be soothing and help you stay hydrated, which is helpful, but they do not kill the virus.",
+    "explanation": "Rest, fluids and simple painkillers such as paracetamol or ibuprofen can ease symptoms. See a doctor if symptoms last more than three weeks, get suddenly worse, or you have trouble breathing or chest pain.",
+    "keywords": [
+      "chicken soup",
+      "cold remedy",
+      "cure a cold",
+      "soup for flu",
+      "jewish penicillin",
+      "bone broth cold",
+      "common cold treatment"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Common cold",
+        "url": "https://www.nhs.uk/conditions/common-cold/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "onion-socks-vicks-feet",
+    "category": "Infections & colds",
+    "myth": "Putting onions in your socks or rubbing Vicks on your feet draws out a cold or stops a cough.",
+    "rating": "false",
+    "fact": "There is no evidence that onions in socks or vapour rub on the feet treat colds, flu or coughs. Viruses are not \"drawn out\" through the feet.",
+    "explanation": "Most colds and coughs clear up on their own. Rest, fluids, honey in warm water (not for babies under 1) and simple painkillers can help. Menthol vapour rubs should not be used on young children unless the label says they are suitable, and should never be put in or near the nose of a baby.",
+    "keywords": [
+      "onion in socks",
+      "onions feet",
+      "vicks on feet",
+      "vapour rub feet",
+      "draw out cold",
+      "cough remedy",
+      "home remedy cold",
+      "socks overnight"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Common cold",
+        "url": "https://www.nhs.uk/conditions/common-cold/"
+      },
+      {
+        "label": "NHS — Cough",
+        "url": "https://www.nhs.uk/symptoms/cough/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "hot-weather-kills-flu-covid",
+    "category": "Infections & colds",
+    "myth": "Hot, sunny weather kills the flu and COVID-19 viruses, so you can't catch them in summer or in hot countries.",
+    "rating": "false",
+    "fact": "You can catch flu and COVID-19 in any weather. Hot countries have outbreaks too, and in the tropics flu can circulate all year round.",
+    "explanation": "These viruses spread mainly from person to person through the air, so crowding and poor ventilation matter more than the temperature outside. Sitting in the sun or taking hot baths does not protect you from infection.",
+    "keywords": [
+      "hot weather",
+      "summer flu",
+      "sun kills virus",
+      "heat kills covid",
+      "hot countries covid",
+      "tropical climate",
+      "hot bath virus"
+    ],
+    "sources": [
+      {
+        "label": "WHO — COVID-19 mythbusters",
+        "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters"
+      },
+      {
+        "label": "WHO — Influenza (seasonal)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/influenza-(seasonal)"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "sore-throat-needs-antibiotics",
+    "category": "Infections & colds",
+    "myth": "A sore throat always needs antibiotics.",
+    "rating": "false",
+    "fact": "Most sore throats are caused by viruses and get better on their own within about a week. Antibiotics do not help viral infections and are only needed for some bacterial throat infections.",
+    "explanation": "Pain relief, warm or cold drinks and gargling with salty water (for adults) can ease symptoms. See a doctor urgently if you have difficulty swallowing or breathing, drooling, a muffled voice, or a very high temperature, or if the sore throat does not improve.",
+    "keywords": [
+      "sore throat",
+      "strep throat",
+      "antibiotics sore throat",
+      "tonsillitis",
+      "throat infection",
+      "pharyngitis",
+      "penicillin throat"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Sore throat",
+        "url": "https://www.nhs.uk/symptoms/sore-throat/"
+      },
+      {
+        "label": "MedlinePlus — Antibiotics",
+        "url": "https://medlineplus.gov/antibiotics.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "only-contagious-when-sick",
+    "category": "Infections & colds",
+    "myth": "You can only spread a cold or flu once you start feeling ill.",
+    "rating": "false",
+    "fact": "People can spread cold and flu viruses before they notice symptoms, as well as while they are ill. With flu, you are usually most infectious in the first few days of symptoms.",
+    "explanation": "This is one reason these viruses spread so easily. Washing hands, covering coughs and sneezes, and staying home when unwell help protect others, especially older people and those with long-term conditions.",
+    "keywords": [
+      "contagious before symptoms",
+      "how long contagious",
+      "infectious period",
+      "spread cold",
+      "flu contagious",
+      "presymptomatic",
+      "when am i contagious"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Common cold",
+        "url": "https://www.nhs.uk/conditions/common-cold/"
+      },
+      {
+        "label": "NHS — Flu",
+        "url": "https://www.nhs.uk/conditions/flu/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "toilet-seats-spread-stis",
+    "category": "Infections & colds",
+    "myth": "You can catch sexually transmitted infections from toilet seats.",
+    "rating": "false",
+    "fact": "Sexually transmitted infections such as chlamydia, gonorrhoea and HIV are spread through sexual contact, and some through blood or from mother to baby. They are not caught from toilet seats.",
+    "explanation": "The bacteria and viruses that cause STIs survive poorly outside the body. If you have symptoms such as unusual discharge, pain when peeing or sores, or you are worried after sex, get tested; many STIs have no symptoms and are easily treated.",
+    "keywords": [
+      "toilet seat",
+      "catch std from toilet",
+      "sti toilet",
+      "public toilets",
+      "chlamydia toilet",
+      "gonorrhoea toilet",
+      "how stis spread"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Chlamydia",
+        "url": "https://www.nhs.uk/conditions/chlamydia/"
+      },
+      {
+        "label": "NHS — Gonorrhoea",
+        "url": "https://www.nhs.uk/conditions/gonorrhoea/"
+      },
+      {
+        "label": "WHO — Sexually transmitted infections",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/sexually-transmitted-infections-(stis)"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]

@@ -1,0 +1,719 @@
+[
+  {
+    "id": "light-cigarettes-safer",
+    "category": "Cancer",
+    "myth": "\"Light\", \"mild\" or menthol cigarettes are safer than regular ones.",
+    "rating": "false",
+    "fact": "\"Light\" and \"mild\" cigarettes are not safer. Smokers tend to inhale more deeply, take more puffs or block the filter vents, so they take in similar amounts of harmful chemicals. Menthol cigarettes are not safer either.",
+    "explanation": "Many countries have banned the terms \"light\" and \"mild\" because they misled people. Stopping smoking completely is the best thing a smoker can do for their health, and support and stop-smoking medicines greatly increase the chance of success.",
+    "keywords": [
+      "light cigarettes",
+      "mild cigarettes",
+      "low tar",
+      "menthol cigarettes",
+      "safer cigarettes",
+      "filter cigarettes",
+      "slim cigarettes"
+    ],
+    "sources": [
+      {
+        "label": "National Cancer Institute — \"Light\" cigarettes and cancer risk",
+        "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/tobacco/light-cigarettes-fact-sheet"
+      },
+      {
+        "label": "WHO — Tobacco",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "vaping-as-harmful-as-smoking",
+    "category": "Cancer",
+    "myth": "Vaping is just as harmful as smoking cigarettes.",
+    "rating": "misleading",
+    "fact": "Vapes are not risk-free, and long-term effects are still being studied, but UK health services say vaping is much less harmful than smoking for adult smokers who switch completely. The WHO warns that e-cigarettes are harmful and should not be used by children or non-smokers.",
+    "explanation": "Cigarette smoke contains thousands of chemicals, many of which cause cancer and are produced by burning tobacco, which vapes do not do. Vaping still exposes users to nicotine, which is addictive, and other chemicals. Advice differs between countries, so check the guidance where you live.",
+    "keywords": [
+      "vaping",
+      "e-cigarettes",
+      "vape vs smoking",
+      "is vaping safe",
+      "vape cancer",
+      "switch to vaping",
+      "electronic cigarettes"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Using e-cigarettes to stop smoking",
+        "url": "https://www.nhs.uk/live-well/quit-smoking/using-e-cigarettes-to-stop-smoking/"
+      },
+      {
+        "label": "WHO — Tobacco: e-cigarettes (Q&A)",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/tobacco-e-cigarettes"
+      },
+      {
+        "label": "MedlinePlus — E-cigarettes",
+        "url": "https://medlineplus.gov/ecigarettes.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "betel-nut-gutka-harmless",
+    "category": "Cancer",
+    "myth": "Chewing betel nut, paan or gutka is a harmless habit.",
+    "rating": "false",
+    "fact": "Chewing areca (betel) nut, paan with tobacco, gutka and other smokeless tobacco products causes mouth cancer and other cancers. They also damage the gums and can cause a condition that stiffens the mouth (oral submucous fibrosis).",
+    "explanation": "Mouth cancer is common in parts of South and Southeast Asia where these products are widely used. Warning signs include mouth ulcers that do not heal within three weeks, red or white patches and lumps. Stopping chewing lowers the risk, and dentists can check for early changes.",
+    "keywords": [
+      "betel nut",
+      "paan",
+      "gutka",
+      "areca nut",
+      "supari",
+      "chewing tobacco",
+      "mouth cancer",
+      "khaini"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Mouth cancer",
+        "url": "https://www.nhs.uk/conditions/mouth-cancer/"
+      },
+      {
+        "label": "National Cancer Institute — Definition: betel quid",
+        "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/betel-quid"
+      },
+      {
+        "label": "MedlinePlus — Smokeless tobacco",
+        "url": "https://medlineplus.gov/smokelesstobacco.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "obesity-raises-cancer-risk",
+    "category": "Cancer",
+    "myth": "Being overweight increases your risk of some cancers.",
+    "rating": "true",
+    "fact": "Yes. Excess body fat is linked to a higher risk of at least 13 types of cancer, including bowel, breast (after menopause), womb, kidney, liver and oesophageal cancers.",
+    "explanation": "Body fat affects hormones such as oestrogen and insulin and causes long-term inflammation, which can encourage cancer growth. Not everyone with obesity gets cancer, but keeping to a healthy weight, being active and eating a healthy diet lower the risk.",
+    "keywords": [
+      "obesity cancer",
+      "overweight cancer risk",
+      "weight and cancer",
+      "body fat cancer",
+      "bmi cancer",
+      "cancer prevention weight"
+    ],
+    "sources": [
+      {
+        "label": "National Cancer Institute — Obesity and cancer",
+        "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/obesity/obesity-fact-sheet"
+      },
+      {
+        "label": "WHO — Obesity and overweight",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "screening-only-if-symptoms",
+    "category": "Cancer",
+    "myth": "You only need cancer screening if you have symptoms.",
+    "rating": "false",
+    "fact": "Screening is for people without symptoms. Its purpose is to find cancer early, or changes that could become cancer, before they cause problems, when treatment is more likely to work.",
+    "explanation": "If you do have symptoms, such as a lump, bleeding or a change in bowel habit, do not wait for a screening invitation; see a doctor. Screening programmes for bowel, breast and cervical cancer vary by country and age, so check what you are eligible for.",
+    "keywords": [
+      "cancer screening",
+      "no symptoms",
+      "bowel screening",
+      "cervical screening",
+      "smear test",
+      "screening test",
+      "early detection"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Bowel cancer screening",
+        "url": "https://www.nhs.uk/tests-and-treatments/bowel-cancer-screening/"
+      },
+      {
+        "label": "NHS — Cervical screening",
+        "url": "https://www.nhs.uk/tests-and-treatments/cervical-screening/"
+      },
+      {
+        "label": "National Cancer Institute — Cancer screening",
+        "url": "https://www.cancer.gov/about-cancer/screening"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "soursop-graviola-cures-cancer",
+    "category": "Cancer",
+    "myth": "Soursop (graviola) fruit or leaves cure cancer and work better than chemotherapy.",
+    "rating": "false",
+    "fact": "There is no evidence from studies in people that soursop, also called graviola, cures cancer. Lab studies on cells do not show that a plant works or is safe as a treatment.",
+    "explanation": "Soursop is popular in Latin America, the Caribbean and Africa, and the fruit is fine to eat as food. Some compounds in the plant may harm nerve cells when taken in large amounts over a long time. Products claiming to cure cancer are not proven treatments.",
+    "keywords": [
+      "soursop",
+      "graviola",
+      "guanabana",
+      "soursop leaves",
+      "cancer killing fruit",
+      "natural cancer cure",
+      "soursop tea"
+    ],
+    "sources": [
+      {
+        "label": "FDA — Products claiming to \"cure\" cancer are a cruel deception",
+        "url": "https://www.fda.gov/consumers/consumer-updates/products-claiming-cure-cancer-are-cruel-deception"
+      },
+      {
+        "label": "NCCIH — Cancer and complementary health approaches",
+        "url": "https://www.nccih.nih.gov/health/cancer-and-complementary-health-approaches-what-you-need-to-know"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "shark-cartilage-cures-cancer",
+    "category": "Cancer",
+    "myth": "Sharks don't get cancer, so shark cartilage pills can cure it.",
+    "rating": "false",
+    "fact": "Sharks do get cancer. Clinical trials of shark and cow cartilage products in people with cancer have not shown any benefit.",
+    "explanation": "The idea became popular in the 1990s and led to large numbers of sharks being killed for supplements. Supplements are not tested like medicines, and some may interfere with cancer treatment, so tell your cancer team about anything you take.",
+    "keywords": [
+      "shark cartilage",
+      "sharks dont get cancer",
+      "cartilage supplement",
+      "shark pills",
+      "bovine cartilage",
+      "natural cancer treatment"
+    ],
+    "sources": [
+      {
+        "label": "National Cancer Institute — Cartilage (bovine and shark) (PDQ)",
+        "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/cartilage-pdq"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "power-lines-cause-cancer",
+    "category": "Cancer",
+    "myth": "Living near power lines gives you cancer.",
+    "rating": "misleading",
+    "fact": "Most studies have not found that the electric and magnetic fields from power lines cause cancer. Some studies found a weak link with childhood leukaemia at the highest exposures, but it has not been shown that power lines are the cause.",
+    "explanation": "The fields from power lines and household wiring are low-energy and do not damage DNA in the way that X-rays or UV light can. Research continues, but the evidence is weak and inconsistent.",
+    "keywords": [
+      "power lines",
+      "pylons cancer",
+      "electricity pylon",
+      "electromagnetic fields",
+      "emf cancer",
+      "childhood leukaemia",
+      "high voltage lines"
+    ],
+    "sources": [
+      {
+        "label": "National Cancer Institute — Electromagnetic fields and cancer",
+        "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/electromagnetic-fields-fact-sheet"
+      },
+      {
+        "label": "WHO — Radiation: electromagnetic fields (Q&A)",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "abortion-causes-breast-cancer",
+    "category": "Cancer",
+    "myth": "Having an abortion increases your risk of breast cancer.",
+    "rating": "false",
+    "fact": "Large, well-designed studies have found that having an abortion or a miscarriage does not increase the risk of breast cancer.",
+    "explanation": "Some early studies suggested a link, but they relied on women remembering past abortions, which can be inaccurate. Factors that do affect breast cancer risk include age, family history, alcohol, weight and hormone use.",
+    "keywords": [
+      "abortion breast cancer",
+      "termination cancer",
+      "miscarriage breast cancer",
+      "pregnancy loss cancer",
+      "breast cancer risk"
+    ],
+    "sources": [
+      {
+        "label": "National Cancer Institute — Abortion, miscarriage, and breast cancer risk",
+        "url": "https://www.cancer.gov/types/breast/abortion-miscarriage-risk"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "high-dose-vitamin-c-cures-cancer",
+    "category": "Cancer",
+    "myth": "High-dose vitamin C drips cure cancer.",
+    "rating": "false",
+    "fact": "High-dose intravenous vitamin C has not been shown to cure cancer. It is being studied in clinical trials, mainly alongside standard treatment, but there is no proof that it shrinks tumours or helps people live longer.",
+    "explanation": "Very high doses can cause kidney problems in some people and are dangerous for people with a condition called G6PD deficiency. Vitamin C may also interact with some cancer treatments, so talk to your cancer team before having it.",
+    "keywords": [
+      "vitamin c drip",
+      "iv vitamin c",
+      "high dose vitamin c",
+      "vitamin c cancer",
+      "vitamin c infusion",
+      "linus pauling",
+      "ascorbate cancer"
+    ],
+    "sources": [
+      {
+        "label": "National Cancer Institute — High-dose vitamin C (PDQ)",
+        "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/vitamin-c-pdq"
+      },
+      {
+        "label": "NCCIH — Cancer and complementary health approaches",
+        "url": "https://www.nccih.nih.gov/health/cancer-and-complementary-health-approaches-what-you-need-to-know"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "soy-causes-breast-cancer",
+    "category": "Cancer",
+    "myth": "Eating soy foods like tofu raises your risk of breast cancer.",
+    "rating": "false",
+    "fact": "Eating soy foods as part of a normal diet does not raise breast cancer risk. Studies in women, including breast cancer survivors, have not found harm, and some suggest a possible lower risk.",
+    "explanation": "Soy contains plant compounds called isoflavones that are weakly similar to oestrogen, which led to concern. The effects of concentrated soy isoflavone supplements are less clear, so women with a history of breast cancer may want to discuss those with their doctor.",
+    "keywords": [
+      "soy breast cancer",
+      "tofu cancer",
+      "soya",
+      "phytoestrogens",
+      "isoflavones",
+      "soy milk cancer",
+      "soy estrogen"
+    ],
+    "sources": [
+      {
+        "label": "NCCIH — Soy",
+        "url": "https://www.nccih.nih.gov/health/soy"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "hepatitis-b-vaccine-prevents-liver-cancer",
+    "category": "Cancer",
+    "myth": "The hepatitis B vaccine helps prevent liver cancer.",
+    "rating": "true",
+    "fact": "Yes. Long-term hepatitis B infection is a major cause of liver cancer worldwide, and the hepatitis B vaccine prevents that infection. It is often described as one of the first vaccines that prevents a cancer.",
+    "explanation": "Babies infected at birth are the most likely to develop lifelong infection, which is why many countries give the first dose of hepatitis B vaccine soon after birth. People already living with hepatitis B can lower their liver cancer risk with treatment and regular monitoring.",
+    "keywords": [
+      "hepatitis b vaccine",
+      "liver cancer",
+      "hep b cancer",
+      "cancer vaccine",
+      "birth dose hepatitis",
+      "liver cancer prevention"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Hepatitis B",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-b"
+      },
+      {
+        "label": "National Cancer Institute — Infectious agents and cancer",
+        "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/infectious-agents"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "pink-sea-salt-healthier",
+    "category": "Heart & blood pressure",
+    "myth": "Pink Himalayan salt or sea salt is healthier than table salt and doesn't raise blood pressure.",
+    "rating": "false",
+    "fact": "Pink salt, rock salt and sea salt are mostly sodium chloride, just like table salt, and they affect blood pressure in the same way. The trace minerals they contain are present in amounts too small to matter for health.",
+    "explanation": "Most adults eat more salt than recommended, which raises blood pressure and the risk of heart disease and stroke. Cutting down on salt of any kind helps; using herbs, spices, lemon or vinegar for flavour can make this easier. Ordinary table salt is often iodised, which helps prevent iodine deficiency.",
+    "keywords": [
+      "pink salt",
+      "himalayan salt",
+      "sea salt",
+      "rock salt",
+      "kosher salt",
+      "healthy salt",
+      "salt blood pressure",
+      "sendha namak"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Sodium reduction",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/sodium-reduction"
+      },
+      {
+        "label": "NHS — Salt in your diet",
+        "url": "https://www.nhs.uk/live-well/eat-well/food-types/salt-in-your-diet/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "high-ldl-cholesterol-harmless",
+    "category": "Heart & blood pressure",
+    "myth": "High LDL (\"bad\") cholesterol is harmless, so there's no need to lower it.",
+    "rating": "false",
+    "fact": "High LDL cholesterol is one of the main causes of the fatty build-up in arteries that leads to heart attacks and strokes. Lowering it, through lifestyle changes and medicines such as statins when needed, reduces that risk.",
+    "explanation": "This claim circulates in some low-carb and carnivore diet communities. The evidence linking LDL to heart disease comes from genetic studies, long-term population studies and many large clinical trials. Your overall risk also depends on blood pressure, smoking, diabetes, age and family history.",
+    "keywords": [
+      "ldl",
+      "bad cholesterol",
+      "cholesterol harmless",
+      "cholesterol myth",
+      "lipid hypothesis",
+      "carnivore cholesterol",
+      "high cholesterol ok"
+    ],
+    "sources": [
+      {
+        "label": "NHS — High cholesterol",
+        "url": "https://www.nhs.uk/conditions/high-cholesterol/"
+      },
+      {
+        "label": "NHLBI — Blood cholesterol",
+        "url": "https://www.nhlbi.nih.gov/health/blood-cholesterol"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "thin-people-no-high-cholesterol",
+    "category": "Heart & blood pressure",
+    "myth": "Slim people don't need to worry about high cholesterol.",
+    "rating": "false",
+    "fact": "People of any weight can have high cholesterol. It can be caused by genes, diet, inactivity, smoking, alcohol and some medical conditions, not just by being overweight.",
+    "explanation": "An inherited condition called familial hypercholesterolaemia causes very high cholesterol from birth, even in slim and active people. High cholesterol usually has no symptoms, so a blood test is the only way to know your level.",
+    "keywords": [
+      "thin high cholesterol",
+      "slim cholesterol",
+      "skinny cholesterol",
+      "familial hypercholesterolaemia",
+      "cholesterol test",
+      "healthy weight cholesterol"
+    ],
+    "sources": [
+      {
+        "label": "NHS — High cholesterol",
+        "url": "https://www.nhs.uk/conditions/high-cholesterol/"
+      },
+      {
+        "label": "NHLBI — High blood cholesterol: causes and risk factors",
+        "url": "https://www.nhlbi.nih.gov/health/blood-cholesterol/causes"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "only-older-people-get-high-blood-pressure",
+    "category": "Heart & blood pressure",
+    "myth": "Only older people get high blood pressure.",
+    "rating": "false",
+    "fact": "High blood pressure becomes more common with age, but young adults and even children can have it. It often causes no symptoms at any age.",
+    "explanation": "Risk factors include being overweight, eating a lot of salt, drinking too much alcohol, not being active, a family history, and some kidney and hormone conditions. Adults should have their blood pressure checked regularly, for example every five years, and more often if it is borderline or high.",
+    "keywords": [
+      "young high blood pressure",
+      "hypertension young",
+      "blood pressure age",
+      "high bp in 20s",
+      "teen blood pressure",
+      "young adults hypertension"
+    ],
+    "sources": [
+      {
+        "label": "NHS — High blood pressure",
+        "url": "https://www.nhs.uk/conditions/high-blood-pressure/"
+      },
+      {
+        "label": "WHO — Hypertension",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/hypertension"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "heart-attack-same-as-cardiac-arrest",
+    "category": "Heart & blood pressure",
+    "myth": "A heart attack and a cardiac arrest are the same thing.",
+    "rating": "false",
+    "fact": "A heart attack happens when blood flow to part of the heart muscle is blocked; the person is usually awake and may have chest pain. A cardiac arrest is when the heart suddenly stops pumping effectively; the person collapses, is unresponsive and is not breathing normally.",
+    "explanation": "A heart attack can lead to a cardiac arrest. For a suspected heart attack, call an ambulance. For a cardiac arrest, call an ambulance, start CPR straight away and use a defibrillator (AED) if one is available.",
+    "keywords": [
+      "heart attack",
+      "cardiac arrest",
+      "difference heart attack cardiac arrest",
+      "sudden cardiac arrest",
+      "heart stopped",
+      "cpr",
+      "aed"
+    ],
+    "sources": [
+      {
+        "label": "NHLBI — Cardiac arrest",
+        "url": "https://www.nhlbi.nih.gov/health/cardiac-arrest"
+      },
+      {
+        "label": "NHS — Heart attack",
+        "url": "https://www.nhs.uk/conditions/heart-attack/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "no-exercise-after-heart-attack",
+    "category": "Heart & blood pressure",
+    "myth": "After a heart attack you should avoid exercise for the rest of your life.",
+    "rating": "false",
+    "fact": "Gradually returning to physical activity is an important part of recovering from a heart attack. Cardiac rehabilitation programmes offer supervised exercise, education and support, and they lower the risk of another heart attack.",
+    "explanation": "How quickly you can increase activity depends on your heart and should be guided by your care team. Most people can return to normal activities, including work and sex, over a period of weeks. Stop and seek help if you have chest pain, severe breathlessness or dizziness during activity.",
+    "keywords": [
+      "exercise after heart attack",
+      "cardiac rehab",
+      "cardiac rehabilitation",
+      "rest after heart attack",
+      "heart patient exercise",
+      "recovery heart attack"
+    ],
+    "sources": [
+      {
+        "label": "NHLBI — Heart attack: recovery",
+        "url": "https://www.nhlbi.nih.gov/health/heart-attack/recovery"
+      },
+      {
+        "label": "MedlinePlus — Cardiac rehabilitation",
+        "url": "https://medlineplus.gov/cardiacrehabilitation.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "water-before-bed-prevents-heart-attack",
+    "category": "Heart & blood pressure",
+    "myth": "Drinking a glass of water at bedtime prevents heart attacks and strokes.",
+    "rating": "false",
+    "fact": "There is no evidence that drinking water at particular times of day prevents heart attacks or strokes.",
+    "explanation": "This advice spreads widely in forwarded messages. Staying hydrated is sensible, but the proven ways to lower heart attack and stroke risk are not smoking, controlling blood pressure, cholesterol and diabetes, being active, eating a healthy diet and keeping a healthy weight.",
+    "keywords": [
+      "water before bed",
+      "water bedtime heart attack",
+      "drink water prevent stroke",
+      "water timing",
+      "whatsapp heart attack",
+      "glass of water at night"
+    ],
+    "sources": [
+      {
+        "label": "NHLBI — Heart attack",
+        "url": "https://www.nhlbi.nih.gov/health/heart-attack"
+      },
+      {
+        "label": "WHO — Cardiovascular diseases",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "garlic-lemon-ginger-mix-unclogs-arteries",
+    "category": "Heart & blood pressure",
+    "myth": "A home-made mix of garlic, lemon, ginger, apple cider vinegar and honey unclogs blocked arteries.",
+    "rating": "false",
+    "fact": "No food or drink mixture has been shown to clear blockages from arteries. Fatty plaques in artery walls build up over many years and are not dissolved by home remedies.",
+    "explanation": "This recipe is often shared as an alternative to heart surgery or angioplasty. A heart-healthy diet, not smoking, exercise and medicines such as statins can slow or stabilise plaque and lower the risk of heart attacks. Never stop prescribed heart medicines in favour of a home remedy.",
+    "keywords": [
+      "unclog arteries",
+      "blocked arteries home remedy",
+      "garlic lemon ginger",
+      "apple cider vinegar honey",
+      "avoid angioplasty",
+      "natural bypass",
+      "artery cleanse"
+    ],
+    "sources": [
+      {
+        "label": "NHLBI — Atherosclerosis",
+        "url": "https://www.nhlbi.nih.gov/health/atherosclerosis"
+      },
+      {
+        "label": "NHS — Coronary heart disease",
+        "url": "https://www.nhs.uk/conditions/coronary-heart-disease/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "chelation-clears-arteries",
+    "category": "Heart & blood pressure",
+    "myth": "Chelation therapy clears blocked arteries and replaces heart surgery.",
+    "rating": "false",
+    "fact": "Chelation therapy, which uses a chemical such as EDTA to bind metals in the blood, has not been shown to clear blocked arteries. It is approved for treating heavy-metal poisoning, not heart disease.",
+    "explanation": "A large US trial found at most a small and uncertain benefit in some people who had had a heart attack, and further research did not confirm chelation as a treatment. Chelation can cause serious side effects, including dangerously low calcium levels.",
+    "keywords": [
+      "chelation",
+      "edta",
+      "chelation therapy",
+      "clear arteries",
+      "alternative to bypass",
+      "heart disease alternative treatment"
+    ],
+    "sources": [
+      {
+        "label": "NCCIH — Chelation for coronary heart disease",
+        "url": "https://www.nccih.nih.gov/health/chelation-for-coronary-heart-disease-what-you-need-to-know"
+      },
+      {
+        "label": "NHLBI — Atherosclerosis",
+        "url": "https://www.nhlbi.nih.gov/health/atherosclerosis"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "saturated-fat-no-link-heart",
+    "category": "Heart & blood pressure",
+    "myth": "Saturated fat has nothing to do with heart disease, so butter, ghee and fatty meat are fine in any amount.",
+    "rating": "misleading",
+    "fact": "Eating a lot of saturated fat raises LDL cholesterol, which increases the risk of heart disease. Health bodies advise limiting saturated fat and replacing some of it with unsaturated fats from foods such as vegetable oils, nuts, seeds and oily fish.",
+    "explanation": "Some studies that looked only at cutting saturated fat found small effects, because what replaces it matters: swapping it for refined carbohydrates does little good. Butter and ghee can be part of a healthy diet in small amounts.",
+    "keywords": [
+      "saturated fat",
+      "butter",
+      "ghee",
+      "fatty meat",
+      "butter is back",
+      "animal fat heart",
+      "lard",
+      "saturated fat myth"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Fat: the facts",
+        "url": "https://www.nhs.uk/live-well/eat-well/food-types/different-fats-nutrition/"
+      },
+      {
+        "label": "WHO — Healthy diet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "heart-disease-genetic-nothing-to-do",
+    "category": "Heart & blood pressure",
+    "myth": "Heart disease runs in my family, so there's nothing I can do about it.",
+    "rating": "false",
+    "fact": "A family history raises your risk, but most heart disease is strongly influenced by things you can change, such as smoking, blood pressure, cholesterol, diabetes, weight and activity.",
+    "explanation": "If close relatives had heart disease at a young age, it is worth asking for a check of your blood pressure and cholesterol earlier. Treating risk factors and healthy habits can greatly lower risk even for people with a strong family history.",
+    "keywords": [
+      "family history heart disease",
+      "heart disease genetic",
+      "runs in family",
+      "inherited heart disease",
+      "genes heart attack",
+      "nothing i can do"
+    ],
+    "sources": [
+      {
+        "label": "NHLBI — Coronary heart disease: risk factors",
+        "url": "https://www.nhlbi.nih.gov/health/coronary-heart-disease/risk-factors"
+      },
+      {
+        "label": "WHO — Cardiovascular diseases",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "high-blood-pressure-normal-with-age",
+    "category": "Heart & blood pressure",
+    "myth": "High blood pressure is just a normal part of ageing and doesn't need treatment.",
+    "rating": "false",
+    "fact": "Blood pressure often rises with age, but high blood pressure is not harmless at any age. Treating it lowers the risk of stroke, heart attack, heart failure, kidney disease and dementia, including in older people.",
+    "explanation": "Treatment usually starts with lifestyle changes and may include medicines. Your doctor will set a target that suits your age and health. Untreated high blood pressure usually has no symptoms while it damages blood vessels.",
+    "keywords": [
+      "blood pressure ageing",
+      "old age blood pressure",
+      "normal for my age",
+      "elderly hypertension",
+      "treat high blood pressure",
+      "age related blood pressure"
+    ],
+    "sources": [
+      {
+        "label": "NHS — High blood pressure",
+        "url": "https://www.nhs.uk/conditions/high-blood-pressure/"
+      },
+      {
+        "label": "NHLBI — High blood pressure: treatment",
+        "url": "https://www.nhlbi.nih.gov/health/high-blood-pressure/treatment"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "blood-pressure-pills-damage-kidneys",
+    "category": "Heart & blood pressure",
+    "myth": "Blood pressure tablets ruin your kidneys, so it's better not to take them.",
+    "rating": "false",
+    "fact": "Uncontrolled high blood pressure is one of the leading causes of kidney damage. Treating it protects the kidneys, and some blood pressure medicines (ACE inhibitors and ARBs) are used specifically to slow kidney disease.",
+    "explanation": "Some of these medicines can change kidney blood test results, so your doctor may check your kidney function when you start them or change the dose. This is routine monitoring, not a sign that the pills are damaging your kidneys. Do not stop them without talking to your doctor.",
+    "keywords": [
+      "blood pressure tablets kidneys",
+      "bp medicine kidney damage",
+      "ramipril kidneys",
+      "ace inhibitor kidney",
+      "hypertension pills side effects",
+      "kidney failure tablets"
+    ],
+    "sources": [
+      {
+        "label": "NIDDK — High blood pressure and kidney disease",
+        "url": "https://www.niddk.nih.gov/health-information/kidney-disease/high-blood-pressure"
+      },
+      {
+        "label": "NHS — Ramipril",
+        "url": "https://www.nhs.uk/medicines/ramipril/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "cayenne-pepper-stops-heart-attack",
+    "category": "Heart & blood pressure",
+    "myth": "Drinking cayenne pepper in water can stop a heart attack.",
+    "rating": "false",
+    "fact": "Cayenne pepper cannot stop a heart attack. A heart attack is a medical emergency that needs urgent treatment to restore blood flow to the heart.",
+    "explanation": "If you think someone is having a heart attack, call emergency services immediately. While waiting, they should rest; emergency services may advise chewing an aspirin if they are not allergic. Every minute matters, so do not delay calling for help to try home remedies.",
+    "keywords": [
+      "cayenne pepper heart attack",
+      "chilli heart attack",
+      "stop heart attack home remedy",
+      "cayenne tincture",
+      "heart attack remedy",
+      "whatsapp heart attack cure"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Heart attack",
+        "url": "https://www.nhs.uk/conditions/heart-attack/"
+      },
+      {
+        "label": "MedlinePlus — Heart attack",
+        "url": "https://medlineplus.gov/heartattack.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]

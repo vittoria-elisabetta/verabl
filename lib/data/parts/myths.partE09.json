@@ -1,0 +1,56 @@
+[
+  {
+    "id": "no-aspirin-for-children",
+    "category": "Children's health",
+    "myth": "Children and teenagers under 16 shouldn't be given aspirin.",
+    "rating": "true",
+    "fact": "Aspirin should not be given to children under 16 unless a doctor prescribes it, because it is linked to Reye's syndrome, a rare but serious condition that can damage the liver and brain.",
+    "explanation": "For pain or fever in children, paracetamol or ibuprofen at the dose for the child's age are the usual choices. Check labels, as some cold remedies and gels contain aspirin-like ingredients (salicylates). Some children with specific conditions are prescribed aspirin by specialists, and that is different.",
+    "keywords": ["aspirin children", "aspirin under 16", "reye's syndrome", "child painkiller", "aspirin kids fever", "salicylate children"],
+    "sources": [
+      { "label": "NHS — Fever in children", "url": "https://www.nhs.uk/symptoms/fever-in-children/" },
+      { "label": "MedlinePlus — Teething", "url": "https://medlineplus.gov/ency/article/002045.htm" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "fever-in-baby-under-three-months-urgent",
+    "category": "Children's health",
+    "myth": "A baby under 3 months old with a temperature of 38°C or higher needs urgent medical advice.",
+    "rating": "true",
+    "fact": "Health services advise getting urgent medical help for a baby under 3 months with a temperature of 38°C (100.4°F) or higher, even if they otherwise seem well. Very young babies can become seriously ill quickly and may not show other signs.",
+    "explanation": "In older children, a fever on its own is usually a sign the body is fighting a common infection. Call an emergency number for any child who is floppy, hard to wake, has a rash that does not fade when pressed with a glass, or has difficulty breathing.",
+    "keywords": ["baby fever", "newborn temperature", "fever under 3 months", "38 degrees baby", "infant fever", "high temperature baby"],
+    "sources": [
+      { "label": "NHS — Fever in children", "url": "https://www.nhs.uk/symptoms/fever-in-children/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "pregnancy-makes-gums-bleed",
+    "category": "Teeth & mouth",
+    "myth": "Pregnancy can make your gums more likely to swell and bleed.",
+    "rating": "true",
+    "fact": "Hormonal changes in pregnancy can exaggerate the gums' response to plaque bacteria, making gingivitis (swollen, bleeding gums) more common. Tooth decay can also become more likely because of snacking or vomiting.",
+    "explanation": "Brushing twice a day with fluoride toothpaste, cleaning between teeth and keeping up dental check-ups help. After vomiting, rinse with water (or a little baking soda in water) rather than brushing straight away, to protect enamel from stomach acid. Dental treatment is safe during pregnancy.",
+    "keywords": ["pregnancy gingivitis", "bleeding gums pregnancy", "pregnancy gums", "swollen gums pregnant", "teeth pregnancy", "pregnancy tooth decay"],
+    "sources": [
+      { "label": "ADA — Pregnancy", "url": "https://www.ada.org/resources/ada-library/oral-health-topics/pregnancy" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "smoking-weakens-bones",
+    "category": "Bones & joints",
+    "myth": "Smoking makes your bones weaker.",
+    "rating": "true",
+    "fact": "Smoking is a recognised risk factor for osteoporosis and broken bones. It is linked with lower bone density and slower healing of fractures.",
+    "explanation": "Drinking too much alcohol, low activity levels and long-term steroid tablets are other changeable risk factors. Stopping smoking helps protect bones, as well as the heart and lungs, at any age.",
+    "keywords": ["smoking bones", "smoking osteoporosis", "smoking fractures", "cigarettes bone density", "bone health smoking", "brittle bones smoking"],
+    "sources": [
+      { "label": "NHS — Osteoporosis", "url": "https://www.nhs.uk/conditions/osteoporosis/" },
+      { "label": "NIAMS — Osteoporosis", "url": "https://www.niams.nih.gov/health-topics/osteoporosis" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]

@@ -1,0 +1,654 @@
+[
+  {
+    "id": "milk-thistle-protects-liver-from-alcohol",
+    "category": "Supplements",
+    "myth": "Taking milk thistle protects your liver, so you can drink more alcohol safely.",
+    "rating": "false",
+    "fact": "Studies have not shown clear benefits of milk thistle for alcohol-related liver disease or other liver conditions. It does not make heavy drinking safe.",
+    "explanation": "The only reliable way to protect the liver from alcohol is to drink less or stop. Liver damage often causes no symptoms until it is advanced. If you are worried about your drinking or your liver, talk to a doctor.",
+    "keywords": [
+      "milk thistle",
+      "silymarin",
+      "liver supplement",
+      "hangover liver",
+      "protect liver alcohol",
+      "liver detox",
+      "liver cleanse pills"
+    ],
+    "sources": [
+      {
+        "label": "NCCIH — Milk thistle",
+        "url": "https://www.nccih.nih.gov/health/milk-thistle"
+      },
+      {
+        "label": "NHS — The risks of drinking too much",
+        "url": "https://www.nhs.uk/live-well/alcohol-advice/the-risks-of-drinking-too-much/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "seed-oils-are-toxic",
+    "category": "Nutrition",
+    "myth": "Seed oils like sunflower, rapeseed (canola) and soybean oil are toxic and cause inflammation and heart disease.",
+    "rating": "false",
+    "fact": "Health bodies recommend vegetable oils such as rapeseed, sunflower, soybean and olive oil in place of saturated fats like butter and lard. Replacing saturated fat with these unsaturated oils is linked to lower LDL cholesterol and a lower risk of heart disease.",
+    "explanation": "Claims that seed oils are toxic often point to their omega-6 fats or to how they are processed, but studies in people have not shown that eating them in normal amounts causes inflammation or disease. Much of the concern really applies to fried and ultra-processed foods, which are best limited whatever oil they contain.",
+    "keywords": [
+      "seed oils",
+      "canola oil",
+      "rapeseed oil",
+      "sunflower oil",
+      "soybean oil",
+      "vegetable oil toxic",
+      "omega 6 inflammation",
+      "hateful eight oils"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Fat: the facts",
+        "url": "https://www.nhs.uk/live-well/eat-well/food-types/different-fats-nutrition/"
+      },
+      {
+        "label": "WHO — Healthy diet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
+      },
+      {
+        "label": "MedlinePlus — Dietary fats",
+        "url": "https://medlineplus.gov/dietaryfats.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "carnivore-diet-healthiest",
+    "category": "Nutrition",
+    "myth": "An all-meat carnivore diet is the healthiest way to eat.",
+    "rating": "false",
+    "fact": "There is no good evidence that an all-meat diet is healthy in the long term. Diets rich in vegetables, fruit, whole grains, pulses and nuts are consistently linked with lower risks of heart disease, type 2 diabetes and some cancers.",
+    "explanation": "A carnivore diet lacks fibre and many vitamins and plant compounds, and it is often high in saturated fat, which can raise LDL cholesterol. Eating a lot of red and processed meat is linked to a higher risk of bowel cancer. Short-term weight loss on any very restrictive diet does not prove it is healthy.",
+    "keywords": [
+      "carnivore diet",
+      "all meat diet",
+      "zero carb",
+      "meat only",
+      "animal based diet",
+      "lion diet",
+      "no vegetables diet"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Healthy diet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
+      },
+      {
+        "label": "NHS — Meat in your diet",
+        "url": "https://www.nhs.uk/live-well/eat-well/food-types/meat-nutrition/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "fruit-juice-as-healthy-as-fruit",
+    "category": "Nutrition",
+    "myth": "A glass of fruit juice is just as healthy as eating whole fruit.",
+    "rating": "misleading",
+    "fact": "Fruit juice contains some vitamins, but juicing removes most of the fibre and releases the sugars, which are easier to over-consume and can damage teeth. In the UK, juice and smoothies count as a maximum of one portion of your 5 A Day, limited to 150 ml a day.",
+    "explanation": "Whole fruit is more filling and its fibre benefits digestion and heart health. If you drink juice, keep it to a small glass with a meal. Water and milk are better everyday drinks.",
+    "keywords": [
+      "fruit juice",
+      "orange juice",
+      "juice healthy",
+      "smoothies",
+      "juice vs whole fruit",
+      "100 percent juice",
+      "juice sugar"
+    ],
+    "sources": [
+      {
+        "label": "NHS — 5 A Day: what counts?",
+        "url": "https://www.nhs.uk/live-well/eat-well/5-a-day/5-a-day-what-counts/"
+      },
+      {
+        "label": "NHS — Sugar: the facts",
+        "url": "https://www.nhs.uk/live-well/eat-well/food-types/how-does-sugar-in-our-diet-affect-our-health/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "vegetarians-cant-get-enough-protein",
+    "category": "Nutrition",
+    "myth": "Vegetarians and vegans can't get enough protein.",
+    "rating": "false",
+    "fact": "Well-planned vegetarian and vegan diets can provide all the protein people need. Good sources include beans, lentils, chickpeas, tofu, soya, nuts, seeds and whole grains, and for vegetarians also eggs and dairy.",
+    "explanation": "Eating a variety of plant proteins over the day provides all the essential amino acids, so careful \"combining\" at each meal is not necessary. People on vegan diets do need to pay attention to nutrients such as vitamin B12, iodine, iron, calcium and omega-3 fats.",
+    "keywords": [
+      "vegetarian protein",
+      "vegan protein",
+      "plant protein",
+      "incomplete protein",
+      "protein combining",
+      "enough protein",
+      "dal protein"
+    ],
+    "sources": [
+      {
+        "label": "NHS — The vegan diet",
+        "url": "https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/"
+      },
+      {
+        "label": "MedlinePlus — Vegetarian diet",
+        "url": "https://medlineplus.gov/vegetariandiet.html"
+      },
+      {
+        "label": "MedlinePlus — Dietary proteins",
+        "url": "https://medlineplus.gov/dietaryproteins.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "gmo-foods-unsafe",
+    "category": "Nutrition",
+    "myth": "Genetically modified (GMO) foods are unsafe to eat.",
+    "rating": "false",
+    "fact": "GM foods available on the international market have passed safety assessments and are not likely to present risks to human health, according to the WHO. No effects on human health have been shown from eating approved GM foods.",
+    "explanation": "Each GM food is assessed individually, so it is not accurate to say all GM foods are safe or unsafe as a group. Debates about GM crops often involve environmental, economic and labelling questions, which are separate from food safety.",
+    "keywords": [
+      "gmo",
+      "genetically modified",
+      "gm food",
+      "gmo safe",
+      "frankenfood",
+      "gmo cancer",
+      "bt corn"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Food, genetically modified (Q&A)",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/food-genetically-modified"
+      },
+      {
+        "label": "FDA — GMO crops, animal food, and beyond",
+        "url": "https://www.fda.gov/food/agricultural-biotechnology/gmo-crops-animal-food-and-beyond"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "raw-eggs-safe-and-better",
+    "category": "Nutrition",
+    "myth": "Raw eggs are safe and more nutritious than cooked ones.",
+    "rating": "false",
+    "fact": "Raw or undercooked eggs can carry Salmonella bacteria, which causes food poisoning. Cooking eggs until the white and yolk are firm kills the bacteria, and cooking also makes the protein in eggs easier to digest.",
+    "explanation": "The risk is greatest for babies, older people, pregnant women and people with weakened immune systems. Pasteurised eggs are safer for recipes that use raw egg. In some countries, eggs from vaccinated hens carry a lower risk, so check local advice.",
+    "keywords": [
+      "raw eggs",
+      "drinking raw eggs",
+      "salmonella eggs",
+      "runny eggs",
+      "raw egg protein",
+      "egg shake",
+      "undercooked eggs"
+    ],
+    "sources": [
+      {
+        "label": "FDA — What you need to know about egg safety",
+        "url": "https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety"
+      },
+      {
+        "label": "WHO — Food safety",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/food-safety"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "wash-raw-chicken-before-cooking",
+    "category": "Nutrition",
+    "myth": "You should wash raw chicken before cooking it to get rid of germs.",
+    "rating": "false",
+    "fact": "Washing raw chicken or other meat does not remove harmful bacteria, and splashing water can spread bacteria such as Campylobacter and Salmonella around the sink, worktops and nearby foods. Thorough cooking is what kills them.",
+    "explanation": "Cook chicken until it is steaming hot throughout with no pink meat and the juices run clear. Wash hands, chopping boards and utensils after handling raw meat, and keep raw meat away from ready-to-eat foods.",
+    "keywords": [
+      "wash chicken",
+      "rinse raw meat",
+      "washing poultry",
+      "clean chicken",
+      "campylobacter",
+      "raw chicken bacteria",
+      "wash meat before cooking"
+    ],
+    "sources": [
+      {
+        "label": "FDA — Safe food handling",
+        "url": "https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling"
+      },
+      {
+        "label": "MedlinePlus — Food safety",
+        "url": "https://medlineplus.gov/foodsafety.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "ultra-processed-food-linked-poor-health",
+    "category": "Nutrition",
+    "myth": "Eating a lot of ultra-processed food is linked to poorer health.",
+    "rating": "mostly-true",
+    "fact": "Studies have linked diets high in ultra-processed foods with higher risks of obesity, type 2 diabetes, heart disease and early death. Many of these foods are high in salt, sugar and saturated fat and low in fibre.",
+    "explanation": "Most of this evidence comes from observational studies, so it is still debated whether processing itself causes harm or the nutrients these foods contain. Not all processed foods are unhealthy: frozen vegetables, tinned beans and wholemeal bread can all be part of a healthy diet.",
+    "keywords": [
+      "ultra processed food",
+      "upf",
+      "processed food",
+      "junk food",
+      "ready meals",
+      "packaged food",
+      "additives"
+    ],
+    "sources": [
+      {
+        "label": "NHS — What are processed foods?",
+        "url": "https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/what-are-processed-foods/"
+      },
+      {
+        "label": "WHO — Healthy diet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "trans-fats-harm-heart",
+    "category": "Nutrition",
+    "myth": "Artificial trans fats are bad for your heart.",
+    "rating": "true",
+    "fact": "Yes. Industrially produced trans fats, made by partially hydrogenating vegetable oils, raise LDL cholesterol and lower HDL cholesterol, increasing the risk of heart disease and death. The WHO has called for them to be eliminated from the food supply.",
+    "explanation": "They have been used in some margarines, vanaspati and other hydrogenated cooking fats, fried foods, baked goods and snacks. Many countries now ban or limit them. Check labels for \"partially hydrogenated\" oils where they are still allowed.",
+    "keywords": [
+      "trans fat",
+      "trans fats",
+      "partially hydrogenated",
+      "vanaspati",
+      "dalda",
+      "hydrogenated oil",
+      "margarine trans fat"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Trans fat",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/trans-fat"
+      },
+      {
+        "label": "NHS — Fat: the facts",
+        "url": "https://www.nhs.uk/live-well/eat-well/food-types/different-fats-nutrition/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "fish-too-much-mercury-to-eat",
+    "category": "Nutrition",
+    "myth": "Fish contains too much mercury to be worth eating.",
+    "rating": "misleading",
+    "fact": "For most people the benefits of eating fish outweigh the risks. Health services recommend about two portions of fish a week, including one of oily fish, but advise limiting certain large predatory fish such as shark, swordfish and marlin, which contain more mercury.",
+    "explanation": "Pregnant women, women planning pregnancy and children have specific limits on some fish. Smaller fish such as sardines, salmon and mackerel are generally low in mercury and rich in omega-3 fats.",
+    "keywords": [
+      "mercury in fish",
+      "fish mercury",
+      "tuna mercury",
+      "swordfish",
+      "is fish safe",
+      "oily fish",
+      "shark meat"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Fish and shellfish",
+        "url": "https://www.nhs.uk/live-well/eat-well/food-types/fish-and-shellfish-nutrition/"
+      },
+      {
+        "label": "WHO — Mercury and health",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/mercury-and-health"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "whole-grains-healthier",
+    "category": "Nutrition",
+    "myth": "Wholegrain foods are healthier than refined white versions.",
+    "rating": "true",
+    "fact": "Yes. Wholegrain foods such as brown rice, wholemeal bread, oats and whole wheat contain more fibre, vitamins and minerals than refined grains. Diets rich in whole grains are linked to lower risks of heart disease, type 2 diabetes and bowel cancer.",
+    "explanation": "Fibre also helps digestion and keeps you feeling full. Swapping some refined starchy foods for wholegrain versions is an easy change; check labels, because \"multigrain\" or brown-coloured foods are not always wholegrain.",
+    "keywords": [
+      "whole grains",
+      "wholegrain",
+      "brown bread",
+      "brown rice",
+      "wholemeal",
+      "refined carbs",
+      "fibre",
+      "oats"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Starchy foods and carbohydrates",
+        "url": "https://www.nhs.uk/live-well/eat-well/food-types/starchy-foods-and-carbohydrates/"
+      },
+      {
+        "label": "WHO — Healthy diet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "nuts-unhealthy-because-fatty",
+    "category": "Nutrition",
+    "myth": "Nuts are unhealthy because they are high in fat.",
+    "rating": "false",
+    "fact": "Most of the fat in nuts is unsaturated, and nuts also provide protein, fibre, vitamins and minerals. Eating a small handful of unsalted nuts regularly is linked to better heart health.",
+    "explanation": "Nuts are high in calories, so portion size matters if you are watching your weight. Choose plain, unsalted nuts rather than salted, sugar-coated or chocolate-covered ones.",
+    "keywords": [
+      "nuts fattening",
+      "nuts unhealthy",
+      "almonds",
+      "walnuts",
+      "peanuts",
+      "healthy fats",
+      "handful of nuts"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Fat: the facts",
+        "url": "https://www.nhs.uk/live-well/eat-well/food-types/different-fats-nutrition/"
+      },
+      {
+        "label": "NHLBI — Heart-healthy living: choose heart-healthy foods",
+        "url": "https://www.nhlbi.nih.gov/health/heart-healthy-living/healthy-foods"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "potatoes-count-as-five-a-day",
+    "category": "Nutrition",
+    "myth": "Potatoes count towards your 5 A Day.",
+    "rating": "false",
+    "fact": "Potatoes, yams, cassava and plantain are starchy foods and do not count towards your 5 A Day of fruit and vegetables in UK guidance. Sweet potatoes, parsnips and swedes do count, because they are usually eaten in addition to the starchy part of a meal.",
+    "explanation": "Potatoes are still a useful food, especially with the skins on, which add fibre. Boiled, baked or mashed potatoes are healthier choices than chips or crisps.",
+    "keywords": [
+      "potatoes 5 a day",
+      "potato vegetable",
+      "five a day",
+      "starchy vegetables",
+      "chips count as vegetable",
+      "what counts as a vegetable",
+      "yams"
+    ],
+    "sources": [
+      {
+        "label": "NHS — 5 A Day: what counts?",
+        "url": "https://www.nhs.uk/live-well/eat-well/5-a-day/5-a-day-what-counts/"
+      },
+      {
+        "label": "NHS — Starchy foods and carbohydrates",
+        "url": "https://www.nhs.uk/live-well/eat-well/food-types/starchy-foods-and-carbohydrates/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "plant-milks-same-as-cows-milk",
+    "category": "Nutrition",
+    "myth": "Plant milks like oat, almond or rice milk are nutritionally the same as cow's milk.",
+    "rating": "misleading",
+    "fact": "Plant milks vary widely. Many are low in protein compared with cow's or soya milk, and unless they are fortified they may lack calcium, iodine and vitamin B12. Unsweetened, calcium-fortified versions are the best choice.",
+    "explanation": "Soya drinks are the closest to cow's milk in protein. Rice drinks are not recommended for children under 5 because of their arsenic content. Children under 2 should not have plant drinks as their main milk unless advised by a health professional.",
+    "keywords": [
+      "plant milk",
+      "oat milk",
+      "almond milk",
+      "rice milk",
+      "soya milk",
+      "dairy free milk",
+      "milk alternatives",
+      "fortified milk"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Milk and dairy products",
+        "url": "https://www.nhs.uk/live-well/eat-well/food-types/milk-and-dairy-nutrition/"
+      },
+      {
+        "label": "NHS — The vegan diet",
+        "url": "https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "water-fluoridation-poisons-iq",
+    "category": "Nutrition",
+    "myth": "Fluoride added to tap water is a poison that lowers children's IQ.",
+    "rating": "misleading",
+    "fact": "At the levels used in community water fluoridation, fluoride helps prevent tooth decay and has not been shown to lower IQ. Some studies have linked higher fluoride levels, above about 1.5 mg per litre, with lower IQ in children, but these levels are higher than those used for fluoridation.",
+    "explanation": "Fluoride occurs naturally in water, and in some regions natural levels are high enough to cause dental and skeletal fluorosis, which is a real problem. Research into lower levels continues, and countries make different decisions about fluoridating water.",
+    "keywords": [
+      "fluoride water",
+      "water fluoridation",
+      "fluoride iq",
+      "fluoride poison",
+      "fluoride neurotoxin",
+      "tap water fluoride",
+      "remove fluoride"
+    ],
+    "sources": [
+      {
+        "label": "NIDCR — Fluoride",
+        "url": "https://www.nidcr.nih.gov/health-info/fluoride"
+      },
+      {
+        "label": "NIDCR — The story of fluoridation",
+        "url": "https://www.nidcr.nih.gov/health-info/fluoride/the-story-of-fluoridation"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "chickenpox-always-harmless",
+    "category": "Infections & colds",
+    "myth": "Chickenpox is always a harmless childhood illness.",
+    "rating": "false",
+    "fact": "Chickenpox is usually mild in children, but it can cause serious complications such as skin infections, pneumonia and brain inflammation. It is more likely to be severe in babies, adults, pregnant women and people with weakened immune systems.",
+    "explanation": "Seek medical advice if a child with chickenpox has skin that becomes hot, painful and red around the spots, has difficulty breathing, or seems very unwell. Do not give ibuprofen to someone with chickenpox unless a doctor advises it, as it may increase the risk of serious skin infections. A chickenpox vaccine is available and is part of routine childhood schedules in many countries.",
+    "keywords": [
+      "chickenpox",
+      "chicken pox",
+      "varicella",
+      "chickenpox harmless",
+      "chickenpox complications",
+      "chickenpox vaccine",
+      "chickenpox adults"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Chickenpox",
+        "url": "https://www.nhs.uk/conditions/chickenpox/"
+      },
+      {
+        "label": "NHS — Chickenpox vaccine",
+        "url": "https://www.nhs.uk/vaccinations/chickenpox-vaccine/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "catch-shingles-from-someone",
+    "category": "Infections & colds",
+    "myth": "You can catch shingles from someone who has it.",
+    "rating": "false",
+    "fact": "You cannot catch shingles from another person. However, someone who has never had chickenpox or the chickenpox vaccine can catch chickenpox from the fluid in shingles blisters.",
+    "explanation": "Shingles happens when the chickenpox virus that has stayed dormant in your body since a past infection becomes active again. People with shingles should avoid pregnant women who have not had chickenpox, newborn babies and people with weakened immune systems until the blisters have crusted over.",
+    "keywords": [
+      "shingles contagious",
+      "catch shingles",
+      "is shingles infectious",
+      "shingles spread",
+      "shingles chickenpox",
+      "herpes zoster contagious"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Shingles",
+        "url": "https://www.nhs.uk/conditions/shingles/"
+      },
+      {
+        "label": "MedlinePlus — Shingles",
+        "url": "https://medlineplus.gov/shingles.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "sepsis-only-happens-in-hospital",
+    "category": "Infections & colds",
+    "myth": "Sepsis only happens to people in hospital.",
+    "rating": "false",
+    "fact": "Anyone can get sepsis, and it often starts outside hospital from common infections such as pneumonia, urinary tract infections, infected wounds or cellulitis. Babies, older people and people with weakened immune systems or long-term conditions are at higher risk.",
+    "explanation": "Sepsis is a life-threatening reaction to an infection and needs urgent treatment. Warning signs include confusion or slurred speech, blue, pale or blotchy skin, difficulty breathing, and a rash that does not fade when pressed. Call emergency services if you notice these signs.",
+    "keywords": [
+      "sepsis",
+      "blood poisoning",
+      "septicaemia",
+      "sepsis symptoms",
+      "infection spreading",
+      "sepsis at home",
+      "septic shock"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Sepsis",
+        "url": "https://www.nhs.uk/conditions/sepsis/"
+      },
+      {
+        "label": "WHO — Sepsis",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/sepsis"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "cervical-cancer-only-promiscuous-women",
+    "category": "Cancer",
+    "myth": "Only women who sleep around get cervical cancer.",
+    "rating": "false",
+    "fact": "Almost all cervical cancers are caused by HPV, a very common infection that almost all sexually active people catch at some point, usually without symptoms. Someone can be infected by their only partner.",
+    "explanation": "Most HPV infections clear on their own, but some persist and can lead to cervical cancer years later. The HPV vaccine and regular cervical screening prevent most cervical cancers. Stigma about this cancer can stop women from going for screening.",
+    "keywords": [
+      "cervical cancer",
+      "promiscuous",
+      "many partners",
+      "hpv infection",
+      "cervical cancer cause",
+      "sexually active",
+      "shame cervical cancer"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Cervical cancer",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/cervical-cancer"
+      },
+      {
+        "label": "NHS — Cervical screening",
+        "url": "https://www.nhs.uk/tests-and-treatments/cervical-screening/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "breastfed-babies-dont-need-vaccines",
+    "category": "Vaccines",
+    "myth": "Breastfed babies don't need vaccines because breast milk protects them.",
+    "rating": "false",
+    "fact": "Breast milk gives babies some protection against infections, but it does not protect them from serious diseases such as measles, whooping cough, polio or meningitis. Breastfed babies need the same vaccines as other babies.",
+    "explanation": "Antibodies passed on in breast milk and during pregnancy are short-lived and do not cover all infections. Breastfeeding and vaccination work well together. Vaccines given during pregnancy, such as the whooping cough vaccine, help protect babies in their first weeks of life.",
+    "keywords": [
+      "breastfeeding vaccines",
+      "breast milk immunity",
+      "breastfed baby vaccines",
+      "skip baby vaccines",
+      "natural protection baby",
+      "breast milk antibodies"
+    ],
+    "sources": [
+      {
+        "label": "NHS — NHS vaccinations and when to have them",
+        "url": "https://www.nhs.uk/vaccinations/nhs-vaccinations-and-when-to-have-them/"
+      },
+      {
+        "label": "WHO — Vaccines and immunization: what is vaccination?",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "one-high-blood-pressure-reading",
+    "category": "Heart & blood pressure",
+    "myth": "One high blood pressure reading means you have high blood pressure for life.",
+    "rating": "false",
+    "fact": "A single high reading is not enough to diagnose high blood pressure. Blood pressure changes during the day and can rise with stress, activity, caffeine or being at the doctor's surgery, so the diagnosis is confirmed with repeated readings, often using home or 24-hour monitoring.",
+    "explanation": "Equally, one normal reading does not rule it out. If you are told your blood pressure is high, follow up with repeat checks. Home monitors can help; sit quietly for a few minutes before measuring and use a correctly sized cuff.",
+    "keywords": [
+      "one reading",
+      "blood pressure reading",
+      "white coat hypertension",
+      "home blood pressure",
+      "ambulatory monitoring",
+      "high reading once",
+      "bp check"
+    ],
+    "sources": [
+      {
+        "label": "NHS — High blood pressure",
+        "url": "https://www.nhs.uk/conditions/high-blood-pressure/"
+      },
+      {
+        "label": "NHLBI — High blood pressure",
+        "url": "https://www.nhlbi.nih.gov/health/high-blood-pressure"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "coq10-for-everyone-on-statins",
+    "category": "Supplements",
+    "myth": "Everyone on statins should take CoQ10 to stop muscle pain.",
+    "rating": "false",
+    "fact": "The overall evidence does not show that coenzyme Q10 supplements reduce muscle pain caused by statins.",
+    "explanation": "Most people who take statins do not get muscle side effects. If you do have muscle pain, talk to your doctor, who may check for other causes, change the dose or try a different statin. Do not stop a statin without advice, as it protects against heart attacks and strokes.",
+    "keywords": [
+      "coq10",
+      "coenzyme q10",
+      "ubiquinol",
+      "statin muscle pain",
+      "statin side effects",
+      "statin supplement"
+    ],
+    "sources": [
+      {
+        "label": "NCCIH — Coenzyme Q10",
+        "url": "https://www.nccih.nih.gov/health/coenzyme-q10"
+      },
+      {
+        "label": "NHS — Statins",
+        "url": "https://www.nhs.uk/medicines/statins/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]

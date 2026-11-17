@@ -1,0 +1,218 @@
+[
+  {
+    "id": "hpv-causes-cancer-in-men",
+    "category": "Men's health",
+    "myth": "HPV can cause cancers in men too, not just cervical cancer in women.",
+    "rating": "true",
+    "fact": "High-risk types of HPV can cause cancers of the penis, anus and some cancers of the head and neck (such as the throat), as well as cervical, vulval and vaginal cancers. HPV also causes genital warts in all genders.",
+    "explanation": "HPV is very common and usually clears on its own without causing problems. Because it affects everyone, many countries now offer the HPV vaccine to boys as well as girls. There is no routine HPV screening test for men, so vaccination is the main protection.",
+    "keywords": ["hpv men", "hpv boys", "hpv vaccine boys", "throat cancer hpv", "penile cancer", "anal cancer", "hpv only women"],
+    "sources": [
+      { "label": "NHS — Human papillomavirus (HPV)", "url": "https://www.nhs.uk/conditions/human-papilloma-virus-hpv/" },
+      { "label": "National Cancer Institute — HPV and cancer", "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/infectious-agents/hpv-and-cancer" },
+      { "label": "NHS — HPV vaccine", "url": "https://www.nhs.uk/vaccinations/hpv-vaccine/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "enlarged-prostate-turns-into-cancer",
+    "category": "Men's health",
+    "myth": "An enlarged prostate is an early stage of prostate cancer.",
+    "rating": "false",
+    "fact": "An enlarged prostate (benign prostatic enlargement) is not cancer and does not turn into cancer. It is very common in men over 50 and can cause symptoms such as a weak flow, needing to pee often and getting up at night.",
+    "explanation": "Because prostate cancer can cause similar urinary symptoms, it is important to get them checked by a GP rather than assume the cause. Enlarged prostate symptoms can often be helped with lifestyle changes, medicines or, sometimes, surgery.",
+    "keywords": ["enlarged prostate", "bph", "benign prostatic hyperplasia", "prostate cancer", "weak stream", "peeing at night", "prostate problems"],
+    "sources": [
+      { "label": "NHS — Enlarged prostate", "url": "https://www.nhs.uk/conditions/enlarged-prostate/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "psa-test-reliable-for-prostate-cancer",
+    "category": "Men's health",
+    "myth": "The PSA blood test reliably tells you whether you have prostate cancer.",
+    "rating": "misleading",
+    "fact": "A raised PSA level can be a sign of prostate cancer, but it can also be caused by an enlarged prostate, infection or recent exercise or ejaculation. Some men with prostate cancer have a normal PSA level.",
+    "explanation": "The PSA test can lead to finding slow-growing cancers that would never have caused harm, and to treatments with side effects such as incontinence and erection problems. That is why many countries do not offer routine PSA screening, but men can usually ask for the test after discussing the pros and cons with a doctor.",
+    "keywords": ["psa test", "prostate blood test", "psa level", "prostate screening", "raised psa", "prostate cancer test"],
+    "sources": [
+      { "label": "NHS — PSA test", "url": "https://www.nhs.uk/tests-and-treatments/psa-test/" },
+      { "label": "National Cancer Institute — PSA test fact sheet", "url": "https://www.cancer.gov/types/prostate/psa-fact-sheet" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "viagra-gives-automatic-erection",
+    "category": "Men's health",
+    "myth": "Viagra gives you an erection automatically, even if you're not aroused.",
+    "rating": "false",
+    "fact": "Sildenafil (Viagra) and similar medicines increase blood flow to the penis, but they only work when a man is sexually aroused. They do not cause an erection on their own and do not increase sex drive.",
+    "explanation": "These medicines are not suitable for everyone, particularly people taking nitrate medicines for angina or with some heart conditions. Erection problems can be a sign of other health conditions, so it is worth speaking to a GP or pharmacist.",
+    "keywords": ["viagra", "sildenafil", "viagra how it works", "erection pill", "viagra arousal", "cialis", "ed pills"],
+    "sources": [
+      { "label": "NHS — Sildenafil (Viagra)", "url": "https://www.nhs.uk/medicines/sildenafil-viagra/" },
+      { "label": "MedlinePlus — Erectile dysfunction", "url": "https://medlineplus.gov/erectiledysfunction.html" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "herbal-sex-enhancers-safe",
+    "category": "Men's health",
+    "myth": "Herbal 'natural Viagra' supplements are a safe alternative to prescription erection pills.",
+    "rating": "false",
+    "fact": "Regulators such as the US FDA regularly find sexual enhancement supplements that contain hidden prescription drugs, such as sildenafil or tadalafil, sometimes in unknown or high doses. These hidden ingredients can interact dangerously with other medicines.",
+    "explanation": "Products sold online or in shops as 'herbal' or 'all natural' are not checked like medicines. Hidden sildenafil can cause a dangerous drop in blood pressure in people taking nitrates for heart conditions. A GP or pharmacist can advise on licensed treatments.",
+    "keywords": ["natural viagra", "herbal viagra", "sex enhancement pills", "male enhancement supplement", "horny goat weed", "hidden ingredients", "erection supplement"],
+    "sources": [
+      { "label": "FDA — Sexual enhancement and energy product notifications", "url": "https://www.fda.gov/drugs/medication-health-fraud-notifications/sexual-enhancement-and-energy-product-notifications" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "circumcised-men-cannot-get-hiv",
+    "category": "Men's health",
+    "myth": "Circumcised men can't get HIV or other sexually transmitted infections.",
+    "rating": "false",
+    "fact": "Medical male circumcision lowers a man's risk of getting HIV through vaginal sex by about 60%, but it does not give full protection. Circumcised men can still get and pass on HIV and other STIs.",
+    "explanation": "The WHO recommends voluntary medical male circumcision as one part of HIV prevention in some countries with high HIV rates, alongside condoms, testing and other measures. It does not protect partners directly, and it has not been shown to protect against HIV during anal sex.",
+    "keywords": ["circumcision hiv", "circumcised std", "circumcision sti", "vmmc", "circumcision protection", "hiv prevention men"],
+    "sources": [
+      { "label": "WHO — Voluntary medical male circumcision", "url": "https://www.who.int/teams/global-hiv-hepatitis-and-stis-programmes/hiv/prevention/voluntary-medical-male-circumcision" },
+      { "label": "WHO — HIV and AIDS", "url": "https://www.who.int/news-room/fact-sheets/detail/hiv-aids" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "men-cannot-get-thrush",
+    "category": "Men's health",
+    "myth": "Only women get thrush; men can't get it.",
+    "rating": "false",
+    "fact": "Men can get thrush, a yeast infection that can affect the head of the penis and foreskin, causing redness, irritation, itching or a discharge. It is treated with antifungal creams or tablets.",
+    "explanation": "Thrush is more likely in men with diabetes, a weakened immune system or after antibiotics. It is not classed as a sexually transmitted infection. If it keeps coming back, see a GP, as it can sometimes be a sign of undiagnosed diabetes.",
+    "keywords": ["thrush men", "male thrush", "yeast infection men", "balanitis", "itchy penis", "candida men"],
+    "sources": [
+      { "label": "NHS — Thrush in men and women", "url": "https://www.nhs.uk/conditions/thrush-in-men-and-women/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "one-testicle-lower-is-a-problem",
+    "category": "Men's health",
+    "myth": "If one testicle hangs lower or is bigger than the other, something is wrong.",
+    "rating": "false",
+    "fact": "It is normal for one testicle to hang lower or be slightly larger than the other. What matters is a change from what is normal for you, such as a new lump, swelling, hardness or a heavy feeling.",
+    "explanation": "Getting to know how your testicles normally look and feel makes it easier to notice changes. Most lumps are not cancer, but any new lump or swelling should be checked by a GP. Sudden, severe pain needs urgent medical help.",
+    "keywords": ["one testicle lower", "uneven testicles", "testicle bigger", "testicle hangs lower", "check testicles", "testicular self exam"],
+    "sources": [
+      { "label": "MedlinePlus — Testicular self-exam", "url": "https://medlineplus.gov/ency/article/003909.htm" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "steroids-reduce-male-fertility",
+    "category": "Men's health",
+    "myth": "Taking testosterone or anabolic steroids can reduce a man's fertility.",
+    "rating": "true",
+    "fact": "Testosterone and anabolic steroids taken from outside the body signal the testicles to stop making sperm and their own testosterone. This can cause a low sperm count, infertility and shrunken testicles.",
+    "explanation": "Many people assume more testosterone means more fertility, but the opposite is true. Sperm production often recovers after stopping, but this can take months and is not guaranteed. Anyone using steroids or prescribed testosterone who wants children should discuss it with a doctor.",
+    "keywords": ["steroids fertility", "testosterone infertility", "trt sperm count", "anabolic steroids", "shrunken testicles", "gym steroids", "low sperm count"],
+    "sources": [
+      { "label": "NHS — Anabolic steroid misuse", "url": "https://www.nhs.uk/conditions/anabolic-steroid-misuse/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "smoking-causes-erection-problems",
+    "category": "Men's health",
+    "myth": "Smoking can cause erection problems.",
+    "rating": "true",
+    "fact": "Smoking damages blood vessels and reduces blood flow, including to the penis, and is a recognised risk factor for erectile dysfunction. Stopping smoking is one of the lifestyle changes health services recommend to help.",
+    "explanation": "Erection problems can be an early sign of damage to blood vessels that also affects the heart. Other changes that can help include losing weight, being active and drinking less alcohol. Free support to stop smoking is available in many countries.",
+    "keywords": ["smoking erectile dysfunction", "smoking impotence", "cigarettes erection", "ed smoking", "quit smoking sex", "vaping erection"],
+    "sources": [
+      { "label": "NHS — Erectile dysfunction (impotence)", "url": "https://www.nhs.uk/conditions/erection-problems-erectile-dysfunction/" },
+      { "label": "MedlinePlus — Erectile dysfunction", "url": "https://medlineplus.gov/erectiledysfunction.html" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "low-testosterone-main-cause-of-ed",
+    "category": "Men's health",
+    "myth": "Erection problems are mainly caused by low testosterone.",
+    "rating": "misleading",
+    "fact": "Hormone problems are one possible cause, but erectile dysfunction is more often linked to conditions affecting blood flow, such as high blood pressure, high cholesterol and diabetes, or to stress, anxiety, alcohol and some medicines.",
+    "explanation": "Taking testosterone will not fix erection problems that have other causes and has its own risks. Occasional problems are common and usually caused by tiredness, stress or alcohol. If it happens often, a GP can look for the cause and discuss treatments.",
+    "keywords": ["low testosterone erection", "low t", "erectile dysfunction cause", "impotence cause", "testosterone ed", "can't get erection"],
+    "sources": [
+      { "label": "NHS — Erectile dysfunction (impotence)", "url": "https://www.nhs.uk/conditions/erection-problems-erectile-dysfunction/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "sudden-testicle-pain-will-pass",
+    "category": "Men's health",
+    "myth": "Sudden pain in a testicle will usually go away on its own, so there's no rush to see anyone.",
+    "rating": "false",
+    "fact": "Sudden, severe testicle pain can be caused by testicular torsion, where the testicle twists and its blood supply is cut off. This is an emergency: it needs treatment within hours to save the testicle.",
+    "explanation": "Torsion is most common in teenagers and young men but can happen at any age, and it may come with nausea, vomiting or tummy pain. Go to an emergency department straight away for sudden severe pain. Milder or gradual pain can have other causes, such as infection, and should still be checked.",
+    "keywords": ["testicle pain", "testicular torsion", "twisted testicle", "sore balls", "sudden testicle pain", "groin pain"],
+    "sources": [
+      { "label": "NHS — Testicle pain", "url": "https://www.nhs.uk/symptoms/testicle-pain/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "men-dont-get-postnatal-depression",
+    "category": "Men's health",
+    "myth": "Only mothers can get depression after a baby is born; fathers can't.",
+    "rating": "false",
+    "fact": "Fathers and partners can also develop depression after having a baby. Changes in sleep, relationships, money and responsibilities, and a partner's own mental health, can all play a part.",
+    "explanation": "Men may be less likely to talk about how they feel or to recognise symptoms such as low mood, irritability, withdrawing or drinking more. Depression after a baby is treatable. Speaking to a GP or a health visitor is a good first step.",
+    "keywords": ["postnatal depression men", "paternal depression", "new dad depression", "father depression", "postpartum depression dads", "partners depression"],
+    "sources": [
+      { "label": "NHS — Postnatal depression", "url": "https://www.nhs.uk/mental-health/conditions/postnatal-depression/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "prostate-cancer-always-slow-no-treatment",
+    "category": "Men's health",
+    "myth": "Prostate cancer always grows so slowly that it never needs treating.",
+    "rating": "misleading",
+    "fact": "Many prostate cancers grow very slowly and may never cause harm, and these can often be safely monitored instead of treated straight away. But some prostate cancers are aggressive and spread, and these need treatment.",
+    "explanation": "Doctors use tests such as PSA levels, MRI scans and biopsies to judge how likely a cancer is to grow. Monitoring (active surveillance) includes regular check-ups, with treatment offered if the cancer changes. Prostate cancer can often be cured when found early.",
+    "keywords": ["prostate cancer slow", "active surveillance", "watchful waiting", "prostate cancer treatment", "aggressive prostate cancer", "die with not of"],
+    "sources": [
+      { "label": "National Cancer Institute — Prostate cancer", "url": "https://www.cancer.gov/types/prostate" },
+      { "label": "NHS — Prostate cancer", "url": "https://www.nhs.uk/conditions/prostate-cancer/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "testicular-cancer-usually-fatal",
+    "category": "Men's health",
+    "myth": "Testicular cancer is usually fatal.",
+    "rating": "false",
+    "fact": "Testicular cancer is one of the most treatable cancers, and most men are cured, even when it has spread. Treatment often involves removing the affected testicle, sometimes followed by chemotherapy or radiotherapy.",
+    "explanation": "Fear can make men delay seeing a doctor about a lump, but early treatment is simpler. Losing one testicle does not usually affect sex life or the ability to have children. Men can be offered sperm banking before treatment if needed.",
+    "keywords": ["testicular cancer survival", "testicular cancer fatal", "testicle cancer cure", "lump in testicle", "testicular cancer treatment", "ball cancer"],
+    "sources": [
+      { "label": "National Cancer Institute — Testicular cancer", "url": "https://www.cancer.gov/types/testicular" },
+      { "label": "NHS — Testicular cancer", "url": "https://www.nhs.uk/conditions/testicular-cancer/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "man-boobs-always-just-fat",
+    "category": "Men's health",
+    "myth": "Breast swelling in men ('man boobs') is always just fat that dieting will fix.",
+    "rating": "misleading",
+    "fact": "Being overweight is one cause, but enlarged breast tissue in men (gynaecomastia) can also be caused by hormone changes in puberty or older age, certain medicines, conditions such as kidney or liver disease or an overactive thyroid, and drug use including anabolic steroids.",
+    "explanation": "Gynaecomastia is often harmless and may settle on its own, especially in teenage boys. See a GP if it is painful, getting bigger, affects only one side or there is a lump, nipple discharge or skin change, as men can rarely get breast cancer.",
+    "keywords": ["man boobs", "gynaecomastia", "gynecomastia", "moobs", "male breast swelling", "chest fat men", "steroids breasts"],
+    "sources": [
+      { "label": "NHS — Gynaecomastia", "url": "https://www.nhs.uk/conditions/gynaecomastia/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]

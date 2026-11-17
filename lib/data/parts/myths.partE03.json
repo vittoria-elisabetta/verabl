@@ -1,0 +1,343 @@
+[
+  {
+    "id": "vaginal-steaming-cleanses-womb",
+    "category": "Women's health",
+    "myth": "Vaginal steaming (yoni steaming) cleanses the womb and balances hormones.",
+    "rating": "false",
+    "fact": "There is no evidence that steaming the vagina with herbs cleanses the womb, balances hormones or improves fertility. The vagina keeps itself clean with natural discharge, and steam can burn delicate skin.",
+    "explanation": "Steam cannot reach the womb through the cervix, and hormones are not affected by heat applied to the vulva. Like douching, steaming may also upset the natural balance of bacteria and lead to infections. If you are worried about discharge, smell, periods or fertility, a GP or sexual health clinic can help.",
+    "keywords": ["vaginal steaming", "yoni steaming", "v-steam", "womb cleanse", "herbal steam", "yoni detox", "vaginal detox", "balance hormones"],
+    "sources": [
+      { "label": "NHS — Vaginal discharge", "url": "https://www.nhs.uk/symptoms/vaginal-discharge/" },
+      { "label": "ACOG — Vulvovaginal health", "url": "https://www.acog.org/womens-health/faqs/vulvovaginal-health" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "seed-cycling-balances-hormones",
+    "category": "Women's health",
+    "myth": "Seed cycling, eating flax and pumpkin seeds then sesame and sunflower seeds at different times of the month, balances your hormones.",
+    "rating": "false",
+    "fact": "There are no good-quality studies showing that seed cycling balances hormones, regulates periods or eases PMS or menopause symptoms. Seeds are a healthy food, but they do not change hormone levels in the way claimed.",
+    "explanation": "Hormone levels across the cycle are controlled by the brain and ovaries, not by which seeds you eat on which days. Irregular, very heavy or painful periods, or severe PMS, can have treatable causes, so it is worth seeing a GP rather than relying on diet trends.",
+    "keywords": ["seed cycling", "flax seeds hormones", "pumpkin seeds period", "balance hormones naturally", "hormone balance diet", "pms diet", "sesame sunflower seeds"],
+    "sources": [
+      { "label": "NHS — Premenstrual syndrome (PMS)", "url": "https://www.nhs.uk/conditions/pre-menstrual-syndrome/" },
+      { "label": "ACOG — Premenstrual syndrome (PMS)", "url": "https://www.acog.org/womens-health/faqs/premenstrual-syndrome" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "cranberry-juice-cures-uti",
+    "category": "Women's health",
+    "myth": "Drinking cranberry juice cures a urine infection.",
+    "rating": "misleading",
+    "fact": "There is no evidence that cranberry products ease symptoms or treat a urinary tract infection once it has started. Some evidence suggests that taking cranberry products regularly may help prevent repeat infections in some people.",
+    "explanation": "Mild bladder infections sometimes clear on their own, but many need antibiotics, especially if symptoms are severe, you are pregnant or you have a fever or back pain, which can mean a kidney infection. Cranberry juice can be high in sugar. Speak to a pharmacist or GP about symptoms, and check with a doctor before using cranberry if you take warfarin.",
+    "keywords": ["cranberry juice", "cranberry uti", "urine infection", "uti", "cystitis", "bladder infection", "cranberry tablets"],
+    "sources": [
+      { "label": "NHS — Urinary tract infections (UTIs)", "url": "https://www.nhs.uk/conditions/urinary-tract-infections-utis/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "vaginal-discharge-means-infection",
+    "category": "Women's health",
+    "myth": "Any vaginal discharge means you have an infection.",
+    "rating": "false",
+    "fact": "Vaginal discharge is normal and helps keep the vagina clean and healthy. The amount and texture change during the menstrual cycle, in pregnancy and with hormonal contraception.",
+    "explanation": "Discharge may be a sign of infection if it changes colour, smell or consistency, or comes with itching, soreness or pain. Thrush, bacterial vaginosis and some sexually transmitted infections can all change discharge and are treatable. Washing inside the vagina or using scented products can make problems more likely.",
+    "keywords": ["vaginal discharge", "normal discharge", "white discharge", "discharge infection", "smelly discharge", "discharge colour", "is discharge normal"],
+    "sources": [
+      { "label": "NHS — Vaginal discharge", "url": "https://www.nhs.uk/symptoms/vaginal-discharge/" },
+      { "label": "MedlinePlus — Vaginitis", "url": "https://medlineplus.gov/vaginitis.html" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "thrush-is-an-sti",
+    "category": "Women's health",
+    "myth": "Vaginal thrush is a sexually transmitted infection caused by being unclean.",
+    "rating": "false",
+    "fact": "Thrush is a common yeast infection and is not classed as a sexually transmitted infection. It is caused by an overgrowth of yeast that normally lives on the body and is not caused by poor hygiene.",
+    "explanation": "It is more likely after antibiotics, in pregnancy, with poorly controlled diabetes, or when the skin is irritated. Over-washing and perfumed products can make it worse. Antifungal treatments are available from pharmacies; see a GP if it is your first time, if it keeps coming back or if treatment does not work.",
+    "keywords": ["thrush", "yeast infection", "candida", "thrush sti", "thrush hygiene", "vaginal itching", "thrush cause"],
+    "sources": [
+      { "label": "NHS — Thrush in men and women", "url": "https://www.nhs.uk/conditions/thrush-in-men-and-women/" },
+      { "label": "MedlinePlus — Vaginitis", "url": "https://medlineplus.gov/vaginitis.html" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "breast-lump-always-cancer",
+    "category": "Women's health",
+    "myth": "If you find a lump in your breast, it's almost certainly cancer.",
+    "rating": "false",
+    "fact": "Most breast lumps are not cancer. Common causes include cysts, fibroadenomas and normal hormonal changes, but every new lump should be checked by a doctor.",
+    "explanation": "Breasts often feel lumpier before a period. See a GP about any new lump, or about changes such as skin dimpling, a change in nipple shape, discharge or a rash on the nipple. Getting checked quickly gives peace of mind or, if it is cancer, the best chance of successful treatment.",
+    "keywords": ["breast lump", "lump in breast", "breast cyst", "fibroadenoma", "is it cancer", "breast changes", "check breasts"],
+    "sources": [
+      { "label": "NHS — Breast lump", "url": "https://www.nhs.uk/symptoms/breast-lump/" },
+      { "label": "WHO — Breast cancer", "url": "https://www.who.int/news-room/fact-sheets/detail/breast-cancer" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "mammograms-cause-or-spread-cancer",
+    "category": "Women's health",
+    "myth": "Mammograms cause breast cancer or make it spread because of the radiation and squeezing.",
+    "rating": "false",
+    "fact": "Mammograms use a very low dose of radiation, and for women of screening age the benefit of finding cancer early is considered to outweigh this small risk. Compressing the breast during a mammogram does not cause cancer to spread.",
+    "explanation": "Screening does have downsides that are worth knowing: it can miss some cancers and can find cancers that would never have caused harm, leading to treatment that was not needed. Screening programmes explain these trade-offs so you can choose. Report any breast changes to a GP even if you had a normal mammogram recently.",
+    "keywords": ["mammogram", "mammogram radiation", "mammogram cause cancer", "breast screening", "squeezing spread cancer", "mammography safe"],
+    "sources": [
+      { "label": "National Cancer Institute — Mammograms", "url": "https://www.cancer.gov/types/breast/screening/mammograms" },
+      { "label": "NHS — Breast screening (mammogram)", "url": "https://www.nhs.uk/tests-and-treatments/breast-screening-mammogram/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "smear-test-checks-all-cancers",
+    "category": "Women's health",
+    "myth": "A smear test checks for ovarian cancer, womb cancer and STIs.",
+    "rating": "false",
+    "fact": "Cervical screening (a smear test) checks for high-risk HPV and for changes in the cells of the cervix that could turn into cervical cancer. It does not test for ovarian or womb cancer or for sexually transmitted infections.",
+    "explanation": "This means a normal smear result does not rule out other conditions. Symptoms such as persistent bloating, bleeding after the menopause, bleeding between periods or after sex should be checked by a GP even if your screening is up to date. STI testing is available separately from sexual health services.",
+    "keywords": ["smear test", "pap smear", "cervical screening", "ovarian cancer test", "womb cancer", "sti test", "pap test"],
+    "sources": [
+      { "label": "NHS — Cervical screening", "url": "https://www.nhs.uk/tests-and-treatments/cervical-screening/" },
+      { "label": "NHS — Ovarian cancer", "url": "https://www.nhs.uk/conditions/ovarian-cancer/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "coil-causes-infertility",
+    "category": "Women's health",
+    "myth": "The coil (IUD) causes infertility and is only for women who've already had children.",
+    "rating": "false",
+    "fact": "Fertility returns to normal soon after an IUD or IUS is removed. Coils can be used by people of any age, including those who have never been pregnant.",
+    "explanation": "Older coil designs from decades ago gave the method a bad reputation, but modern devices are safe and among the most effective forms of contraception. There is a small risk of infection in the first few weeks after fitting, which is why STI checks may be offered. A coil does not protect against sexually transmitted infections.",
+    "keywords": ["iud", "coil", "copper coil", "hormonal coil", "mirena", "iud infertility", "coil never had children", "ius"],
+    "sources": [
+      { "label": "NHS — IUD (coil)", "url": "https://www.nhs.uk/contraception/methods-of-contraception/iud-coil/" },
+      { "label": "ACOG — Long-acting reversible contraception: IUD and implant", "url": "https://www.acog.org/womens-health/faqs/long-acting-reversible-contraception-iud-and-implant" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "pill-makes-you-gain-weight",
+    "category": "Women's health",
+    "myth": "The contraceptive pill makes you put on weight.",
+    "rating": "false",
+    "fact": "Studies have not found that the combined pill causes significant weight gain. Some people notice temporary changes such as bloating or fluid retention when they start it.",
+    "explanation": "Weight often changes over time for other reasons, which can be put down to the pill. The contraceptive injection is different: it is linked to weight gain in some users. If a side effect bothers you, there are many other methods and pill types to try, so talk to a GP, nurse or pharmacist.",
+    "keywords": ["pill weight gain", "contraceptive pill weight", "birth control weight", "combined pill side effects", "pill bloating", "gain weight pill"],
+    "sources": [
+      { "label": "NHS — Combined pill", "url": "https://www.nhs.uk/contraception/methods-of-contraception/combined-pill/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "need-break-from-pill",
+    "category": "Women's health",
+    "myth": "You need to take a break from the pill every few years to let your body recover.",
+    "rating": "false",
+    "fact": "There is no health benefit to taking a break from the contraceptive pill. If it suits you and there are no medical reasons to stop, you can keep taking it, with regular check-ups, and stopping risks an unplanned pregnancy.",
+    "explanation": "Health professionals review blood pressure, weight and other risk factors over time, and may suggest switching methods as you get older or if your health changes. Fertility returns quickly after stopping, so a break is not needed to 'reset' the body.",
+    "keywords": ["break from pill", "pill break", "stop pill every few years", "rest from contraception", "long term pill", "pill for years"],
+    "sources": [
+      { "label": "NHS — Combined pill", "url": "https://www.nhs.uk/contraception/methods-of-contraception/combined-pill/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "skipping-pill-bleed-harmful",
+    "category": "Women's health",
+    "myth": "Skipping the monthly bleed by taking the pill back to back is dangerous because the blood builds up inside.",
+    "rating": "false",
+    "fact": "The bleed during the pill-free week is a withdrawal bleed caused by stopping hormones, not a true period, and it is not needed for health. Taking some combined pills back to back or with fewer breaks is safe, and health services describe it as an option.",
+    "explanation": "On the pill the womb lining stays thin, so blood does not build up. Some people get spotting when they skip breaks, which usually settles. Ask a GP, nurse or pharmacist which pill types and schedules are suitable for you.",
+    "keywords": ["skip period pill", "back to back pill", "pill free week", "withdrawal bleed", "skip bleed", "tricycling", "blood builds up"],
+    "sources": [
+      { "label": "NHS — Combined pill", "url": "https://www.nhs.uk/contraception/methods-of-contraception/combined-pill/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "contraceptive-injection-permanent-infertility",
+    "category": "Women's health",
+    "myth": "The contraceptive injection makes you permanently infertile.",
+    "rating": "misleading",
+    "fact": "The contraceptive injection does not cause permanent infertility. However, it can take up to a year after the last injection for fertility to return, which is longer than with most other methods.",
+    "explanation": "That delay is worth knowing if you are planning a pregnancy in the near future. Some people also have irregular bleeding or gain weight on the injection. Long-term use can slightly reduce bone density, which usually recovers after stopping.",
+    "keywords": ["contraceptive injection", "depo provera", "depo shot", "injection infertility", "fertility after injection", "sayana press"],
+    "sources": [
+      { "label": "NHS — Contraceptive injection", "url": "https://www.nhs.uk/contraception/methods-of-contraception/contraceptive-injection/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "pregnancy-cures-endometriosis",
+    "category": "Women's health",
+    "myth": "Getting pregnant cures endometriosis.",
+    "rating": "false",
+    "fact": "There is no cure for endometriosis, and pregnancy does not cure it. Symptoms sometimes ease during pregnancy, but they often return afterwards.",
+    "explanation": "Being told to 'just have a baby' is unhelpful advice and not a treatment. Pain relief, hormonal treatments and surgery can help manage symptoms. Endometriosis can make it harder to get pregnant, so people trying to conceive may be referred for fertility advice.",
+    "keywords": ["endometriosis", "pregnancy cure endometriosis", "endo", "just have a baby", "endometriosis treatment", "pelvic pain"],
+    "sources": [
+      { "label": "NHS — Endometriosis", "url": "https://www.nhs.uk/conditions/endometriosis/" },
+      { "label": "WHO — Endometriosis", "url": "https://www.who.int/news-room/fact-sheets/detail/endometriosis" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "hysterectomy-always-causes-menopause",
+    "category": "Women's health",
+    "myth": "Having a hysterectomy always puts you straight into menopause.",
+    "rating": "misleading",
+    "fact": "A hysterectomy removes the womb, so periods stop, but menopause happens immediately only if the ovaries are also removed. If the ovaries are kept, they usually carry on producing hormones.",
+    "explanation": "Some people whose ovaries are kept may reach menopause a few years earlier than they otherwise would. If both ovaries are removed before natural menopause, menopause symptoms start straight away and HRT is often recommended. Ask your surgeon exactly what will be removed and why.",
+    "keywords": ["hysterectomy", "hysterectomy menopause", "ovaries removed", "surgical menopause", "womb removal", "after hysterectomy"],
+    "sources": [
+      { "label": "NHS — Hysterectomy", "url": "https://www.nhs.uk/tests-and-treatments/hysterectomy/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "leaking-after-childbirth-normal",
+    "category": "Women's health",
+    "myth": "Leaking urine when you cough or jump after having children is just something women have to live with.",
+    "rating": "false",
+    "fact": "Bladder leaks are common after childbirth but they are not something you have to accept. Pelvic floor muscle training is an effective first treatment, and further help, including physiotherapy and surgery, is available.",
+    "explanation": "Doing pelvic floor exercises regularly, ideally from pregnancy onwards, can prevent and improve leaks. Staying a healthy weight and avoiding constipation also help. Many people put off asking for help out of embarrassment, but GPs and continence services see this often.",
+    "keywords": ["leaking urine", "stress incontinence", "bladder leaks", "pelvic floor", "after childbirth", "wee when sneeze", "kegels"],
+    "sources": [
+      { "label": "NHS — Urinary incontinence", "url": "https://www.nhs.uk/conditions/urinary-incontinence/" },
+      { "label": "ACOG — Urinary incontinence", "url": "https://www.acog.org/womens-health/faqs/urinary-incontinence" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "bioidentical-hormones-safer-than-hrt",
+    "category": "Women's health",
+    "myth": "Compounded 'bioidentical' hormones are a natural, safer alternative to regular HRT.",
+    "rating": "misleading",
+    "fact": "Custom-mixed (compounded) 'bioidentical' hormones are not regulated in the same way as licensed HRT, so their safety, strength and purity are not checked. Licensed 'body-identical' HRT, such as oestradiol and micronised progesterone, is available on prescription and has been studied.",
+    "explanation": "The word 'bioidentical' is often used in marketing to suggest a product is safer, but there is no good evidence that compounded products are safer or more effective. Saliva tests sometimes used to tailor them are not reliable. A GP or menopause specialist can discuss licensed options.",
+    "keywords": ["bioidentical hormones", "compounded hormones", "natural hrt", "body identical hrt", "bhrt", "menopause hormones", "bioidentical"],
+    "sources": [
+      { "label": "NHS — Hormone replacement therapy (HRT)", "url": "https://www.nhs.uk/medicines/hormone-replacement-therapy-hrt/" },
+      { "label": "ACOG — Hormone therapy for menopause", "url": "https://www.acog.org/womens-health/faqs/hormone-therapy-for-menopause" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "hrt-must-stop-after-five-years",
+    "category": "Women's health",
+    "myth": "You must stop HRT after five years.",
+    "rating": "false",
+    "fact": "There is no fixed limit on how long you can take HRT. Health services advise reviewing the treatment with a doctor, usually once a year, to weigh up benefits and risks for you.",
+    "explanation": "Some people take HRT for a few years and others for longer, depending on their symptoms, age and health. People who go through an early menopause are usually advised to take HRT until at least the average age of menopause, around 51. Stopping can be done gradually or all at once, and symptoms may return.",
+    "keywords": ["hrt five years", "how long hrt", "stop hrt", "hrt limit", "long term hrt", "menopause treatment"],
+    "sources": [
+      { "label": "NHS — When to take HRT", "url": "https://www.nhs.uk/medicines/hormone-replacement-therapy-hrt/when-to-take-hormone-replacement-therapy-hrt/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "pms-all-in-your-head",
+    "category": "Women's health",
+    "myth": "PMS is all in women's heads.",
+    "rating": "false",
+    "fact": "Premenstrual syndrome (PMS) is a recognised condition linked to hormone changes during the menstrual cycle. Symptoms such as mood swings, bloating, breast tenderness and tiredness are real and vary from person to person.",
+    "explanation": "A severe form, premenstrual dysphoric disorder (PMDD), can seriously affect mental health. Lifestyle changes, some contraceptive pills and certain antidepressants can help. Keeping a symptom diary for a few months can help a GP make a diagnosis.",
+    "keywords": ["pms", "premenstrual syndrome", "pmdd", "pms not real", "period mood swings", "hormonal", "time of the month"],
+    "sources": [
+      { "label": "NHS — Premenstrual syndrome (PMS)", "url": "https://www.nhs.uk/conditions/pre-menstrual-syndrome/" },
+      { "label": "ACOG — Premenstrual syndrome (PMS)", "url": "https://www.acog.org/womens-health/faqs/premenstrual-syndrome" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "fibroids-are-cancer",
+    "category": "Women's health",
+    "myth": "Fibroids are a type of cancer.",
+    "rating": "false",
+    "fact": "Fibroids are non-cancerous growths in or around the womb. They are very common, and many people with fibroids have no symptoms at all.",
+    "explanation": "When they do cause symptoms, these can include heavy or painful periods, tummy pain or needing to pee often. Treatment depends on symptoms and may include medicines or surgery; fibroids that cause no problems often need no treatment. They tend to shrink after the menopause.",
+    "keywords": ["fibroids", "uterine fibroids", "fibroids cancer", "womb growths", "myoma", "heavy periods fibroids"],
+    "sources": [
+      { "label": "NHS — Fibroids", "url": "https://www.nhs.uk/conditions/fibroids/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "pcos-means-ovarian-cysts",
+    "category": "Women's health",
+    "myth": "Polycystic ovary syndrome means you have cysts growing on your ovaries.",
+    "rating": "misleading",
+    "fact": "Despite the old name, PCOS is a hormonal condition, and the 'cysts' seen on scans are small fluid-filled follicles, not true cysts. Some people with the condition do not have these follicles at all. The NHS now calls it polyendocrine metabolic ovarian syndrome (PMOS).",
+    "explanation": "It is diagnosed from a combination of irregular periods, signs of raised androgen hormones such as extra hair growth or acne, and sometimes the ovary appearance on a scan. It is also linked with insulin resistance and a higher risk of type 2 diabetes. There is no cure, but treatments and lifestyle changes help manage symptoms.",
+    "keywords": ["pcos", "polycystic ovaries", "ovarian cysts", "pmos", "polycystic ovary syndrome", "cysts on ovaries"],
+    "sources": [
+      { "label": "WHO — Polycystic ovary syndrome", "url": "https://www.who.int/news-room/fact-sheets/detail/polycystic-ovary-syndrome" },
+      { "label": "NHS — Polyendocrine metabolic ovarian syndrome (PMOS)", "url": "https://www.nhs.uk/conditions/polyendocrine-metabolic-ovarian-syndrome-pmos/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "fgm-health-benefits",
+    "category": "Women's health",
+    "myth": "Female genital cutting (FGM) is cleaner and has health benefits.",
+    "rating": "false",
+    "fact": "FGM has no health benefits. It can cause severe pain, bleeding, infections, problems passing urine, pain during sex, complications in childbirth and lasting psychological harm.",
+    "explanation": "The WHO considers FGM a violation of the rights of girls and women, and it is illegal in many countries. It is sometimes justified by beliefs about hygiene, religion or marriage, but no religious text requires it. Specialist health services can support people who have had FGM, including with pregnancy and birth.",
+    "keywords": ["fgm", "female genital mutilation", "female circumcision", "cutting", "khatna", "fgm hygiene", "fgm benefits"],
+    "sources": [
+      { "label": "WHO — Female genital mutilation", "url": "https://www.who.int/news-room/fact-sheets/detail/female-genital-mutilation" },
+      { "label": "NHS — Female genital mutilation (FGM)", "url": "https://www.nhs.uk/conditions/female-genital-mutilation-fgm/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "morning-after-pill-causes-abortion",
+    "category": "Women's health",
+    "myth": "The morning-after pill is the same as an abortion pill.",
+    "rating": "false",
+    "fact": "Emergency contraceptive pills work mainly by delaying or preventing ovulation. They do not end an existing pregnancy and will not harm a pregnancy that has already started.",
+    "explanation": "Abortion pills are different medicines used for a different purpose. Emergency contraception is safe for almost everyone and is available from pharmacies, sexual health clinics and GPs in many countries. The copper IUD is the most effective emergency option.",
+    "keywords": ["morning after pill", "emergency contraception", "plan b", "abortion pill", "levonelle", "ellaone", "morning after pill abortion"],
+    "sources": [
+      { "label": "WHO — Emergency contraception", "url": "https://www.who.int/news-room/fact-sheets/detail/emergency-contraception" },
+      { "label": "NHS — Emergency contraception", "url": "https://www.nhs.uk/contraception/emergency-contraception/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "morning-after-pill-only-next-morning",
+    "category": "Women's health",
+    "myth": "The morning-after pill only works if you take it the next morning.",
+    "rating": "false",
+    "fact": "Emergency contraceptive pills can be taken up to 3 days (levonorgestrel) or 5 days (ulipristal acetate) after unprotected sex, and they work best the sooner they are taken. A copper IUD can be fitted up to 5 days after sex and is the most effective option.",
+    "explanation": "The name is misleading and can stop people seeking help after the first day. Vomiting within a few hours of taking the pill can mean it has not been absorbed, so ask a pharmacist for advice. Emergency contraception does not protect against sexually transmitted infections.",
+    "keywords": ["morning after pill time limit", "emergency contraception 72 hours", "5 days", "ellaone", "levonelle", "plan b how long", "too late morning after pill"],
+    "sources": [
+      { "label": "NHS — Emergency contraception", "url": "https://www.nhs.uk/contraception/emergency-contraception/" },
+      { "label": "ACOG — Emergency contraception", "url": "https://www.acog.org/womens-health/faqs/emergency-contraception" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "breastfeeding-lowers-breast-cancer-risk",
+    "category": "Women's health",
+    "myth": "Breastfeeding lowers a mother's risk of breast cancer.",
+    "rating": "true",
+    "fact": "Breastfeeding is linked to a lower risk of breast cancer for the mother, and the protective effect is greater the longer a person breastfeeds in total. It is also linked to a lower risk of ovarian cancer.",
+    "explanation": "This is one of several health benefits of breastfeeding for both mother and baby. It does not mean that people who could not or chose not to breastfeed will get breast cancer; many factors affect risk. Any amount of breastfeeding has benefits, and support is available if it is difficult.",
+    "keywords": ["breastfeeding breast cancer", "breastfeeding benefits mother", "lower cancer risk", "breastfeeding ovarian cancer", "breastfeeding protection"],
+    "sources": [
+      { "label": "NHS — Benefits of breastfeeding", "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding/benefits/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]

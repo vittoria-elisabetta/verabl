@@ -1,0 +1,244 @@
+[
+  {
+    "id": "mouth-taping-improves-sleep",
+    "category": "Sleep",
+    "myth": "Taping your mouth shut at night improves your sleep and stops snoring.",
+    "rating": "false",
+    "fact": "There is little good evidence that mouth taping improves sleep or treats snoring. It can cause skin irritation, discomfort and disturbed sleep, and it is not safe for people with untreated sleep apnoea, a blocked nose or difficulty breathing through the nose.",
+    "explanation": "Mouth taping became popular on social media, with claims that it improves sleep quality and even jawlines. Loud snoring with pauses in breathing, gasping or choking at night, or feeling very sleepy during the day can be signs of obstructive sleep apnoea. That needs proper assessment, and taping the mouth could hide the problem or make breathing harder.",
+    "keywords": ["mouth taping", "tape mouth", "mouth tape sleep", "nose breathing", "stop snoring", "sleep tape", "taping lips"],
+    "sources": [
+      { "label": "Sleep Foundation — Mouth taping for sleep", "url": "https://www.sleepfoundation.org/snoring/mouth-taping-for-sleep" },
+      { "label": "NHS — Sleep apnoea", "url": "https://www.nhs.uk/conditions/sleep-apnoea/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "magnesium-cures-insomnia",
+    "category": "Sleep",
+    "myth": "Magnesium supplements or a 'sleepy girl mocktail' will cure your insomnia.",
+    "rating": "misleading",
+    "fact": "Research suggests magnesium may help sleep in some people, particularly those with low magnesium levels, but the evidence is limited and it is not a proven treatment for insomnia. Drinks combining magnesium powder with tart cherry juice have not been properly studied.",
+    "explanation": "A calming bedtime drink can be part of a relaxing routine, and most people get enough magnesium from foods like nuts, leafy greens and whole grains. Magnesium supplements can cause diarrhoea and may not be suitable for people with kidney disease. Long-term insomnia is best treated with cognitive behavioural therapy for insomnia (CBT-I).",
+    "keywords": ["magnesium sleep", "sleepy girl mocktail", "magnesium glycinate", "tart cherry juice", "insomnia supplement", "natural sleep aid", "magnesium insomnia"],
+    "sources": [
+      { "label": "Sleep Foundation — Magnesium and sleep", "url": "https://www.sleepfoundation.org/magnesium" },
+      { "label": "NHS — Insomnia", "url": "https://www.nhs.uk/conditions/insomnia/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "everyone-needs-exactly-eight-hours",
+    "category": "Sleep",
+    "myth": "Everyone needs exactly eight hours of sleep a night.",
+    "rating": "misleading",
+    "fact": "Most adults need around 7 to 9 hours of sleep a night, but individual needs vary. Children and teenagers need more.",
+    "explanation": "Eight hours is a reasonable average, not a strict rule. A good sign you're getting enough is that you wake feeling refreshed and don't feel sleepy during the day. Regularly getting less than 7 hours is linked to health problems, so it's worth protecting your sleep time.",
+    "keywords": ["8 hours sleep", "eight hours", "how much sleep", "hours of sleep needed", "sleep needs", "7 hours sleep", "enough sleep"],
+    "sources": [
+      { "label": "NHLBI — How much sleep is enough?", "url": "https://www.nhlbi.nih.gov/health/sleep/how-much-sleep" },
+      { "label": "Sleep Foundation — How much sleep do you need?", "url": "https://www.sleepfoundation.org/how-sleep-works/how-much-sleep-do-we-really-need" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "sleep-apnoea-only-overweight-men",
+    "category": "Sleep",
+    "myth": "Only overweight, older men get sleep apnoea.",
+    "rating": "false",
+    "fact": "Obstructive sleep apnoea is more common in men, older people and people who are overweight, but it can affect anyone, including women, slim people and children. In women it may be missed because symptoms can be less typical, such as tiredness, headaches or insomnia.",
+    "explanation": "Signs include loud snoring, pauses in breathing or gasping during sleep noticed by a partner, waking often, and feeling very sleepy during the day. Untreated sleep apnoea raises the risk of high blood pressure, heart problems and accidents. It is diagnosed with a sleep study and is often treated with a CPAP machine.",
+    "keywords": ["sleep apnoea", "sleep apnea", "osa", "stop breathing in sleep", "sleep apnoea women", "cpap", "gasping at night"],
+    "sources": [
+      { "label": "NHS — Sleep apnoea", "url": "https://www.nhs.uk/conditions/sleep-apnoea/" },
+      { "label": "NHLBI — Sleep apnea", "url": "https://www.nhlbi.nih.gov/health/sleep-apnea" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "sleeping-pills-best-for-insomnia",
+    "category": "Sleep",
+    "myth": "Sleeping pills are the best long-term fix for insomnia.",
+    "rating": "false",
+    "fact": "Sleeping pills are now rarely prescribed for insomnia and, when used, are usually given only for a few days or weeks. They can have serious side effects and people can become dependent on them. Cognitive behavioural therapy for insomnia (CBT-I) is the recommended first treatment.",
+    "explanation": "CBT-I helps change the thoughts and habits that keep you awake and its benefits tend to last. Regular sleep and wake times, a wind-down routine, and limiting caffeine and alcohol also help. A GP can look for causes such as anxiety, pain, medicines or sleep apnoea.",
+    "keywords": ["sleeping pills", "sleeping tablets", "insomnia treatment", "zopiclone", "cbt-i", "cbt for insomnia", "cant sleep", "chronic insomnia"],
+    "sources": [
+      { "label": "NHS — Insomnia", "url": "https://www.nhs.uk/conditions/insomnia/" },
+      { "label": "Sleep Foundation — Cognitive behavioral therapy for insomnia (CBT-I)", "url": "https://www.sleepfoundation.org/insomnia/treatment/cognitive-behavioral-therapy-insomnia" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "sleep-paralysis-caused-by-spirits",
+    "category": "Sleep",
+    "myth": "Sleep paralysis is caused by a ghost, demon or evil spirit sitting on your chest.",
+    "rating": "false",
+    "fact": "Sleep paralysis happens when you briefly wake up while your body is still in the relaxed state of dreaming sleep, so you cannot move or speak. It can be very frightening, with a feeling of a presence or pressure on the chest, but it is harmless and passes within minutes.",
+    "explanation": "Many cultures have stories for this experience, such as the 'old hag', a jinn or other night spirits. It is more likely with lack of sleep, irregular sleep patterns such as shift work, stress, and some sleep disorders like narcolepsy. Improving sleep habits can make episodes less frequent; see a GP if they happen often or worry you.",
+    "keywords": ["sleep paralysis", "demon sleep", "old hag", "ghost on chest", "can't move waking up", "jinn sleep", "pressure on chest sleep", "sleep paralysis demon"],
+    "sources": [
+      { "label": "NHS — Sleep paralysis", "url": "https://www.nhs.uk/conditions/sleep-paralysis/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "evening-exercise-ruins-sleep",
+    "category": "Sleep",
+    "myth": "Exercising in the evening will ruin your sleep.",
+    "rating": "misleading",
+    "fact": "Regular exercise generally improves sleep quality, and evening exercise is fine for most people. Very vigorous workouts close to bedtime may make it harder for some people to fall asleep.",
+    "explanation": "If you find late workouts keep you awake, try finishing intense exercise an hour or more before bed or switching to gentler activity in the evening. Getting active at whatever time you can manage is better than not exercising.",
+    "keywords": ["exercise before bed", "evening workout", "gym at night", "exercise and sleep", "workout insomnia", "late exercise"],
+    "sources": [
+      { "label": "Sleep Foundation — Best time of day to exercise for sleep", "url": "https://www.sleepfoundation.org/physical-activity/best-time-of-day-to-exercise-for-sleep" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "afternoon-coffee-does-not-affect-sleep",
+    "category": "Sleep",
+    "myth": "Coffee in the afternoon doesn't affect my sleep, as long as I can still fall asleep.",
+    "rating": "false",
+    "fact": "Caffeine stays in the body for hours, and having it in the afternoon or evening can reduce total sleep time and deep sleep even in people who fall asleep easily. Sleep experts generally advise avoiding caffeine for several hours before bed.",
+    "explanation": "Caffeine is found in coffee, tea, cola, energy drinks and chocolate, and people vary in how sensitive they are. If you're tired during the day despite seemingly sleeping fine, cutting back on afternoon caffeine is a simple experiment.",
+    "keywords": ["caffeine sleep", "coffee afternoon", "coffee before bed", "caffeine insomnia", "energy drinks sleep", "tea sleep", "caffeine half life"],
+    "sources": [
+      { "label": "Sleep Foundation — Caffeine and sleep", "url": "https://www.sleepfoundation.org/nutrition/caffeine-and-sleep" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "valerian-chamomile-cure-insomnia",
+    "category": "Sleep",
+    "myth": "Valerian or chamomile tea is a proven cure for insomnia.",
+    "rating": "misleading",
+    "fact": "Studies of valerian and chamomile for sleep have had mixed or inconclusive results, and neither is a proven treatment for insomnia. They are generally considered low-risk for short-term use, though they can cause side effects or interact with some medicines.",
+    "explanation": "A warm, caffeine-free drink can be a pleasant part of a bedtime routine. Chamomile may cause reactions in people allergic to plants such as ragweed or daisies. Insomnia lasting months is better treated with CBT for insomnia, so talk to a GP if poor sleep is affecting your life.",
+    "keywords": ["valerian", "chamomile tea", "herbal sleep", "natural sleep remedy", "herbal tea insomnia", "sleep herbs", "valerian root"],
+    "sources": [
+      { "label": "NCCIH — Valerian", "url": "https://www.nccih.nih.gov/health/valerian" },
+      { "label": "NCCIH — Chamomile", "url": "https://www.nccih.nih.gov/health/chamomile" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "dark-cool-quiet-bedroom-helps-sleep",
+    "category": "Sleep",
+    "myth": "A dark, quiet and cool bedroom helps you sleep better.",
+    "rating": "true",
+    "fact": "A bedroom that is dark, quiet and comfortably cool is recommended as part of good sleep habits. The body's temperature naturally drops as you fall asleep, and light and noise can disturb sleep.",
+    "explanation": "Blackout curtains, an eye mask, earplugs and keeping the room on the cool side can help. Other helpful habits include going to bed and waking at regular times and keeping the bedroom for sleep rather than work or screens.",
+    "keywords": ["bedroom temperature", "dark room sleep", "sleep environment", "cool bedroom", "blackout curtains", "best temperature sleep", "sleep hygiene"],
+    "sources": [
+      { "label": "NHS Every Mind Matters — Sleep", "url": "https://www.nhs.uk/every-mind-matters/mental-health-issues/sleep/" },
+      { "label": "Sleep Foundation — Best temperature for sleep", "url": "https://www.sleepfoundation.org/bedroom-environment/best-temperature-for-sleep" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "night-owls-just-undisciplined",
+    "category": "Sleep",
+    "myth": "Night owls are just undisciplined; anyone can become a morning person if they try.",
+    "rating": "misleading",
+    "fact": "People have different natural sleep-timing preferences, called chronotypes, which are partly genetic and change with age. Habits can shift sleep timing somewhat, but not everyone can comfortably become an early riser.",
+    "explanation": "Getting bright light in the morning, dimming lights in the evening and keeping a consistent schedule, even at weekends, can help move your body clock earlier. Being a night owl is not a character flaw, though it can be harder in a world built around early starts.",
+    "keywords": ["night owl", "morning person", "chronotype", "early bird", "body clock", "circadian rhythm", "late sleeper"],
+    "sources": [
+      { "label": "Sleep Foundation — Chronotypes", "url": "https://www.sleepfoundation.org/how-sleep-works/chronotypes" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "narcolepsy-is-laziness",
+    "category": "Sleep",
+    "myth": "People with narcolepsy are just lazy or don't sleep enough at night.",
+    "rating": "false",
+    "fact": "Narcolepsy is a rare long-term brain condition that causes sleepiness people cannot control, sudden sleep attacks and, in many cases, sudden muscle weakness triggered by emotions such as laughter (cataplexy). It is not caused by laziness or poor sleep habits.",
+    "explanation": "Other symptoms can include sleep paralysis, vivid dreams and waking often at night. Symptoms usually start in children and young adults and can take years to diagnose. There is no cure, but medicines and planned naps can help people manage it.",
+    "keywords": ["narcolepsy", "falling asleep suddenly", "cataplexy", "excessive sleepiness", "sleep attacks", "always sleepy", "daytime sleepiness"],
+    "sources": [
+      { "label": "NHS — Narcolepsy", "url": "https://www.nhs.uk/conditions/narcolepsy/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "sleep-trackers-measure-sleep-accurately",
+    "category": "Sleep",
+    "myth": "My smartwatch or sleep app tells me exactly how much deep and REM sleep I get.",
+    "rating": "misleading",
+    "fact": "Consumer sleep trackers can give a useful rough picture of sleep timing and patterns, but they are not perfectly accurate, especially at telling sleep stages apart. A formal sleep study is needed to measure sleep stages reliably.",
+    "explanation": "Some people become anxious about their sleep scores, which can itself make sleep worse. Use trackers to spot trends, but pay more attention to how you feel during the day. If you're concerned about your sleep, talk to a doctor.",
+    "keywords": ["sleep tracker", "smartwatch sleep", "sleep score", "deep sleep tracker", "oura ring", "fitbit sleep", "rem sleep app", "sleep app accurate"],
+    "sources": [
+      { "label": "Sleep Foundation — Sleep trackers: are they accurate?", "url": "https://www.sleepfoundation.org/best-sleep-trackers" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "polyphasic-sleep-more-productive",
+    "category": "Sleep",
+    "myth": "You can get by on a few 20-minute naps a day instead of a full night's sleep (polyphasic sleep).",
+    "rating": "false",
+    "fact": "There is no good scientific evidence that polyphasic sleep schedules, such as the 'Uberman' pattern of short naps around the clock, are better than normal sleep. Schedules that cut total sleep this much lead to sleep deprivation.",
+    "explanation": "Feeling more productive on such schedules may simply reflect having more waking hours, not better performance. Sleep deprivation affects concentration, mood, reaction times and long-term health. Short naps can be helpful alongside, not instead of, enough night-time sleep.",
+    "keywords": ["polyphasic sleep", "uberman", "nap schedule", "20 minute naps", "sleep hacking", "everyman sleep", "less sleep productivity"],
+    "sources": [
+      { "label": "Sleep Foundation — Polyphasic sleep", "url": "https://www.sleepfoundation.org/how-sleep-works/polyphasic-sleep" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "drowsy-driving-like-drunk-driving",
+    "category": "Sleep",
+    "myth": "Driving when you're very tired can be as dangerous as driving drunk.",
+    "rating": "true",
+    "fact": "Research shows that after about 18 to 24 hours without sleep, reaction times and alertness are impaired to a similar degree as having a blood alcohol level around or above many legal driving limits. Drowsy drivers can also have 'microsleeps' without realising.",
+    "explanation": "Opening a window, turning up the music or drinking coffee are not reliable fixes. If you feel sleepy while driving, stop somewhere safe and rest. Shift workers and people with untreated sleep apnoea are at higher risk.",
+    "keywords": ["drowsy driving", "tired driving", "falling asleep at wheel", "sleepy driver", "microsleep", "driving tired drunk", "fatigue driving"],
+    "sources": [
+      { "label": "Sleep Foundation — Drowsy driving vs. drunk driving", "url": "https://www.sleepfoundation.org/drowsy-driving/drowsy-driving-vs-drunk-driving" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "antihistamine-sleep-aids-fine-every-night",
+    "category": "Sleep",
+    "myth": "Over-the-counter sleep aids like Nytol or ZzzQuil are fine to take every night.",
+    "rating": "misleading",
+    "fact": "Many over-the-counter sleep aids contain sedating antihistamines such as diphenhydramine. They may help occasionally, but their benefit is uncertain, they can leave you groggy the next day, and they are meant for short-term use only.",
+    "explanation": "Side effects can include dry mouth, constipation and confusion, and older adults are at higher risk of falls and memory problems. These products can also interact with other medicines and alcohol. If you need help sleeping for more than a couple of weeks, talk to a GP or pharmacist about the cause.",
+    "keywords": ["nytol", "zzzquil", "sleep aid", "diphenhydramine", "antihistamine sleep", "over the counter sleeping pills", "sominex", "night nurse"],
+    "sources": [
+      { "label": "Sleep Foundation — Over-the-counter sleep aids", "url": "https://www.sleepfoundation.org/sleep-aids/over-the-counter-sleep-aids" },
+      { "label": "NHS — Insomnia", "url": "https://www.nhs.uk/conditions/insomnia/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "restless-legs-all-in-head",
+    "category": "Sleep",
+    "myth": "Restless legs are just nerves or fidgeting and nothing medical.",
+    "rating": "false",
+    "fact": "Restless legs syndrome is a recognised condition that causes an overwhelming urge to move the legs, usually with unpleasant sensations, often worse in the evening and at night. It is thought to be linked to iron levels and the brain chemical dopamine.",
+    "explanation": "It often runs in families and can be linked to pregnancy, iron deficiency anaemia and kidney disease. Regular exercise, good sleep habits and cutting down on caffeine, alcohol and smoking can help. See a GP if it disrupts your sleep, as blood tests and treatment may help.",
+    "keywords": ["restless legs", "rls", "restless leg syndrome", "legs twitching night", "urge to move legs", "willis ekbom", "creepy crawly legs"],
+    "sources": [
+      { "label": "NHS — Restless legs syndrome", "url": "https://www.nhs.uk/conditions/restless-legs-syndrome/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "wake-child-during-night-terror",
+    "category": "Sleep",
+    "myth": "You should wake a child who is having a night terror.",
+    "rating": "false",
+    "fact": "During a night terror, health services advise staying calm and waiting for it to pass, and not trying to wake the person. They may not recognise you and can become more upset; only intervene to stop them hurting themselves.",
+    "explanation": "Night terrors are most common in children aged 3 to 8 and are usually outgrown. Children rarely remember them. If they happen at the same time every night, gently waking the child about 15 minutes beforehand for a couple of weeks can sometimes break the pattern.",
+    "keywords": ["night terrors", "sleep terrors", "child screaming at night", "wake child nightmare", "night terror toddler", "pavor nocturnus"],
+    "sources": [
+      { "label": "NHS — Night terrors and nightmares", "url": "https://www.nhs.uk/conditions/night-terrors/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]

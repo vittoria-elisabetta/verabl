@@ -1,0 +1,287 @@
+[
+  {
+    "id": "sunscreen-causes-vitamin-d-deficiency",
+    "category": "Skin & hair",
+    "myth": "Wearing sunscreen will make you vitamin D deficient.",
+    "rating": "misleading",
+    "fact": "In real-world use, people rarely apply enough sunscreen to block all the sunlight that makes vitamin D, and studies have not shown that normal sunscreen use causes deficiency. In the UK, most people can make enough vitamin D from short periods of sun from about April to September.",
+    "explanation": "You don't need to burn, or skip sunscreen, to make vitamin D. In autumn and winter, when sunlight is too weak in many countries, health services advise considering a vitamin D supplement, and some groups are advised to take one all year. Skipping sun protection raises the risk of skin damage and skin cancer.",
+    "keywords": ["sunscreen vitamin d", "vitamin d deficiency", "sunscreen blocks vitamin d", "sun without sunscreen", "vitamin d sunlight", "skip sunscreen"],
+    "sources": [
+      { "label": "NHS — Vitamin D", "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/" },
+      { "label": "NHS — Sunscreen and sun safety", "url": "https://www.nhs.uk/live-well/seasonal-health/sunscreen-and-sun-safety/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "spf-100-twice-as-protective",
+    "category": "Skin & hair",
+    "myth": "SPF 100 protects you twice as well as SPF 50, so you can stay out twice as long.",
+    "rating": "misleading",
+    "fact": "SPF does not rise in a straight line. SPF 30 filters out about 97% of the sun's UVB rays and higher numbers block only slightly more; no sunscreen blocks 100%.",
+    "explanation": "How well sunscreen protects depends more on applying enough, covering all exposed skin and reapplying, than on a very high number. Dermatologists recommend a broad-spectrum sunscreen of SPF 30 or higher, along with shade, clothing and hats. A high SPF is not a reason to stay out in the sun longer.",
+    "keywords": ["spf 100", "spf 50", "spf 30", "higher spf", "spf meaning", "best spf", "sun protection factor"],
+    "sources": [
+      { "label": "American Academy of Dermatology — Understand sunscreen labels", "url": "https://www.aad.org/public/everyday-care/sun-protection/shade-clothing-sunscreen/understand-sunscreen-labels" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "one-sunscreen-application-lasts-all-day",
+    "category": "Skin & hair",
+    "myth": "One application of sunscreen in the morning protects you all day.",
+    "rating": "false",
+    "fact": "Sunscreen wears off. Health services recommend reapplying it at least every 2 hours, and straight after swimming, towel drying or sweating, even if it is labelled water-resistant or 'once a day'.",
+    "explanation": "Most people also apply too little sunscreen, which lowers its protection. Use it generously, and combine it with shade, especially around midday, and protective clothing and sunglasses.",
+    "keywords": ["reapply sunscreen", "how often sunscreen", "once a day sunscreen", "sunscreen all day", "sunscreen wears off", "water resistant sunscreen"],
+    "sources": [
+      { "label": "NHS — Sunscreen and sun safety", "url": "https://www.nhs.uk/live-well/seasonal-health/sunscreen-and-sun-safety/" },
+      { "label": "American Academy of Dermatology — How to apply sunscreen", "url": "https://www.aad.org/public/everyday-care/sun-protection/shade-clothing-sunscreen/how-to-apply-sunscreen" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "natural-oils-work-as-sunscreen",
+    "category": "Skin & hair",
+    "myth": "Coconut oil, raspberry seed oil or other natural oils work as a natural sunscreen.",
+    "rating": "false",
+    "fact": "Plant oils offer little or no reliable protection against UV rays. Sunscreens are tested and labelled with an SPF and broad-spectrum protection, and homemade or 'natural' alternatives have not been shown to protect the skin.",
+    "explanation": "Recipes for DIY sunscreen spread widely online, but people using them can get badly sunburnt. If you have concerns about particular sunscreen ingredients, mineral sunscreens based on zinc oxide or titanium dioxide are an alternative. Shade and clothing also give good protection.",
+    "keywords": ["natural sunscreen", "coconut oil sunscreen", "diy sunscreen", "raspberry seed oil", "homemade sunscreen", "oil spf", "carrot seed oil"],
+    "sources": [
+      { "label": "US FDA — Sunscreen: how to help protect your skin from the sun", "url": "https://www.fda.gov/drugs/understanding-over-counter-medicines/sunscreen-how-help-protect-your-skin-sun" },
+      { "label": "American Academy of Dermatology — Understand sunscreen labels", "url": "https://www.aad.org/public/everyday-care/sun-protection/shade-clothing-sunscreen/understand-sunscreen-labels" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "fake-tan-protects-from-sun",
+    "category": "Skin & hair",
+    "myth": "Fake tan or bronzer protects your skin from the sun.",
+    "rating": "false",
+    "fact": "Self-tanning products colour the outer layer of the skin but do not protect it from UV rays unless they also contain sunscreen. In the US, tanning products without sunscreen must carry a warning saying so.",
+    "explanation": "Fake tan is a much safer way to look tanned than sunbathing or sunbeds, but you still need sunscreen, shade and clothing. Tanning pills and injections sold online are not approved and can be harmful.",
+    "keywords": ["fake tan", "self tanner", "bronzer sun protection", "spray tan sunburn", "tan protects", "tanning lotion"],
+    "sources": [
+      { "label": "US FDA — Cosmetic tanning products", "url": "https://www.fda.gov/cosmetics/cosmetic-products/cosmetic-tanning-products" },
+      { "label": "NHS — Sunscreen and sun safety", "url": "https://www.nhs.uk/live-well/seasonal-health/sunscreen-and-sun-safety/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "beef-tallow-best-skincare",
+    "category": "Skin & hair",
+    "myth": "Beef tallow is the best natural moisturiser and clears up acne and eczema.",
+    "rating": "misleading",
+    "fact": "There is little scientific research on beef tallow for skin. It is a heavy fat that can help seal in moisture on dry skin, like other ointments, but there is no evidence that it treats acne or eczema, and it may clog pores in people prone to spots.",
+    "explanation": "For dry skin, dermatologists recommend fragrance-free creams or ointments, such as petroleum jelly, applied to damp skin. Homemade animal-fat products are not standardised and can go rancid or become contaminated. Persistent eczema or acne usually responds better to proven treatments, which a pharmacist or GP can advise on.",
+    "keywords": ["beef tallow", "tallow skincare", "tallow balm", "tallow moisturiser", "animal fat skin", "tallow acne", "tallow eczema"],
+    "sources": [
+      { "label": "American Academy of Dermatology — Tips to relieve dry skin", "url": "https://www.aad.org/public/everyday-care/skin-care-basics/dry/dermatologists-tips-relieve-dry-skin" },
+      { "label": "American Academy of Dermatology — What causes acne", "url": "https://www.aad.org/public/diseases/acne/causes/acne-causes" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "toothpaste-dries-out-spots",
+    "category": "Skin & hair",
+    "myth": "Dabbing toothpaste on a spot overnight dries it out.",
+    "rating": "false",
+    "fact": "Toothpaste is not designed for skin, and ingredients in it can irritate the skin and make redness worse. Proven spot treatments, such as products containing benzoyl peroxide or salicylic acid, are available from pharmacies.",
+    "explanation": "Dermatologists advise using gentle skin care, not scrubbing, and not picking or squeezing spots, which can lead to scarring and dark marks. Acne treatments usually take several weeks to work. Severe or scarring acne should be seen by a GP.",
+    "keywords": ["toothpaste on spots", "toothpaste pimple", "toothpaste acne", "spot remedy", "dry out pimple", "home remedy acne"],
+    "sources": [
+      { "label": "American Academy of Dermatology — Tips for managing acne", "url": "https://www.aad.org/public/diseases/acne/skin-care/tips" },
+      { "label": "NHS — Acne", "url": "https://www.nhs.uk/conditions/acne/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "acne-only-affects-teenagers",
+    "category": "Skin & hair",
+    "myth": "Only teenagers get acne.",
+    "rating": "false",
+    "fact": "Acne is most common in teenagers, but many adults, especially women, have acne in their 20s, 30s, 40s and beyond. Hormonal changes, such as around periods, pregnancy and menopause, can play a part.",
+    "explanation": "Adult acne can be treated, though some treatments are not suitable in pregnancy. Some medicines and skin or hair products can also trigger spots. See a GP if over-the-counter treatments have not helped after a couple of months, or if acne is affecting your confidence.",
+    "keywords": ["adult acne", "acne in 30s", "acne adults", "hormonal acne", "acne only teens", "acne women", "late acne"],
+    "sources": [
+      { "label": "American Academy of Dermatology — Adult acne", "url": "https://www.aad.org/public/diseases/acne/really-acne/adult-acne" },
+      { "label": "NHS — Acne", "url": "https://www.nhs.uk/conditions/acne/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "dandruff-means-dirty-or-dry-scalp",
+    "category": "Skin & hair",
+    "myth": "Dandruff means you have a dirty or dry scalp.",
+    "rating": "false",
+    "fact": "Dandruff is not caused by poor hygiene, though it can be more noticeable if hair isn't washed regularly. It is often linked to a type of yeast that naturally lives on the scalp, and it is harmless and not catching.",
+    "explanation": "Anti-dandruff shampoos containing ingredients such as zinc pyrithione, salicylic acid, selenium sulphide or ketoconazole usually help. Rubbing oil into the scalp for 'dryness' does not usually fix dandruff. See a GP if the scalp is very itchy, red or swollen, or if there are flaky patches elsewhere on the body.",
+    "keywords": ["dandruff", "flaky scalp", "dry scalp", "dandruff cause", "dandruff dirty hair", "itchy scalp", "anti dandruff shampoo"],
+    "sources": [
+      { "label": "NHS — Dandruff", "url": "https://www.nhs.uk/conditions/dandruff/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "warts-from-touching-frogs",
+    "category": "Skin & hair",
+    "myth": "You get warts from touching frogs or toads.",
+    "rating": "false",
+    "fact": "Warts and verrucas are caused by a virus (human papillomavirus, HPV) that spreads between people through close skin contact or contaminated surfaces, such as swimming pool floors. Frogs and toads do not spread warts.",
+    "explanation": "The bumpy skin of toads probably gave rise to the myth. Most warts are harmless and go away on their own, though it can take months or years. Covering them and not sharing towels can help stop them spreading; pharmacists can advise on treatments.",
+    "keywords": ["warts", "frogs warts", "toads warts", "verruca", "how do you get warts", "wart virus", "wart cause"],
+    "sources": [
+      { "label": "NHS — Warts and verrucas", "url": "https://www.nhs.uk/conditions/warts-and-verrucas/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "fish-and-milk-cause-white-patches",
+    "category": "Skin & hair",
+    "myth": "Eating fish and milk together causes white patches on the skin (vitiligo).",
+    "rating": "false",
+    "fact": "Vitiligo happens when the skin loses pigment cells, most often because the immune system attacks them. It is not caused by food combinations such as fish with milk or yoghurt.",
+    "explanation": "This belief is widespread in South Asia and the Middle East and can lead to unnecessary food restrictions and blame. Vitiligo tends to run in families and is linked to some other autoimmune conditions. Treatments may help restore colour in some people, and sun protection for the pale patches is important.",
+    "keywords": ["fish and milk", "fish milk vitiligo", "white patches skin", "vitiligo cause", "leucoderma", "fish with curd", "safed daag"],
+    "sources": [
+      { "label": "NHS — Vitiligo", "url": "https://www.nhs.uk/conditions/vitiligo/" },
+      { "label": "American Academy of Dermatology — Vitiligo: causes", "url": "https://www.aad.org/public/diseases/a-z/vitiligo-causes" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "vitiligo-is-contagious",
+    "category": "Skin & hair",
+    "myth": "Vitiligo is contagious, so you should avoid touching someone who has it.",
+    "rating": "false",
+    "fact": "Vitiligo cannot be caught from another person. It is a long-term condition in which pale patches develop because the skin lacks the pigment melanin.",
+    "explanation": "People with vitiligo often face stigma, which can affect their mental health more than the condition itself. It does not cause physical harm, though the pale patches burn easily in the sun. Support groups and talking therapies can help people who feel distressed by how their skin looks.",
+    "keywords": ["vitiligo contagious", "vitiligo catching", "white patches contagious", "vitiligo", "pigment loss", "skin patches spread"],
+    "sources": [
+      { "label": "NHS — Vitiligo", "url": "https://www.nhs.uk/conditions/vitiligo/" },
+      { "label": "American Academy of Dermatology — Vitiligo: causes", "url": "https://www.aad.org/public/diseases/a-z/vitiligo-causes" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "rosacea-caused-by-drinking",
+    "category": "Skin & hair",
+    "myth": "A red face from rosacea means the person drinks too much alcohol.",
+    "rating": "false",
+    "fact": "The cause of rosacea is not known, and many people with it drink little or no alcohol. Alcohol is one of several things that can trigger flare-ups, along with spicy food, hot drinks, sunlight, temperature changes, exercise and stress.",
+    "explanation": "This assumption can be hurtful. Rosacea is a common long-term skin condition that causes flushing, redness and sometimes spots, mainly on the face. Avoiding personal triggers, sun protection and prescription treatments can help, so it's worth seeing a GP.",
+    "keywords": ["rosacea", "red face", "rosacea alcohol", "drinker's nose", "flushing", "red cheeks", "rhinophyma"],
+    "sources": [
+      { "label": "NHS — Rosacea", "url": "https://www.nhs.uk/conditions/rosacea/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "check-changing-moles",
+    "category": "Skin & hair",
+    "myth": "A mole that changes in size, shape or colour should be checked by a doctor.",
+    "rating": "true",
+    "fact": "A new mole, or a mole that changes in size, shape or colour, bleeds, itches or becomes crusty, can be a sign of melanoma skin cancer and should be checked by a GP. Most changes turn out not to be cancer, but melanoma is much more treatable when found early.",
+    "explanation": "Melanoma can appear anywhere on the body, including areas that don't get much sun, such as the soles of the feet and under the nails. Checking your skin regularly and taking photos can help you notice changes. Avoiding sunburn and sunbeds lowers your risk.",
+    "keywords": ["changing mole", "mole check", "melanoma signs", "new mole", "mole changed colour", "itchy mole", "skin cancer mole"],
+    "sources": [
+      { "label": "NHS — Melanoma skin cancer", "url": "https://www.nhs.uk/conditions/melanoma-skin-cancer/" },
+      { "label": "NHS — Moles", "url": "https://www.nhs.uk/conditions/moles/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "eczema-caused-by-food-cut-out-foods",
+    "category": "Skin & hair",
+    "myth": "Eczema is caused by food, so cutting out foods like dairy or wheat will cure it.",
+    "rating": "misleading",
+    "fact": "Atopic eczema is a long-term skin condition that often runs in families alongside asthma and hay fever. Certain foods can make it worse in some people, especially some babies with food allergies, but food is not the main cause for most people.",
+    "explanation": "Cutting out food groups without medical advice can lead to poor nutrition, particularly in children. The mainstay of treatment is using emollients regularly, avoiding irritants such as soap, and using prescribed treatments like steroid creams during flare-ups. If you suspect a food trigger, talk to a GP before changing your diet.",
+    "keywords": ["eczema diet", "eczema food", "dairy eczema", "cut out dairy", "eczema cure", "baby eczema food", "eczema allergy"],
+    "sources": [
+      { "label": "NHS — Atopic eczema", "url": "https://www.nhs.uk/conditions/atopic-eczema/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "steroid-creams-always-dangerous",
+    "category": "Skin & hair",
+    "myth": "Steroid creams for eczema are dangerous and will thin your skin, so you should avoid them.",
+    "rating": "misleading",
+    "fact": "Topical steroids are an effective treatment for eczema flare-ups. Used as directed, in a thin layer, for the recommended time and strength, they are safe for most people; skin thinning is mainly a risk with strong steroids used for long periods or on delicate areas such as the face without advice.",
+    "explanation": "Fear of steroids can lead people to under-treat eczema, leaving skin inflamed, itchy and at risk of infection. Your doctor or pharmacist can explain how much to use, often measured in 'fingertip units', and for how long. If you're worried about side effects, ask rather than stopping suddenly.",
+    "keywords": ["steroid cream", "topical steroids", "hydrocortisone cream", "steroid cream thin skin", "eczema steroids", "topical steroid withdrawal", "steroid phobia"],
+    "sources": [
+      { "label": "NHS — Hydrocortisone for skin", "url": "https://www.nhs.uk/medicines/hydrocortisone-for-skin/" },
+      { "label": "NHS — Atopic eczema", "url": "https://www.nhs.uk/conditions/atopic-eczema/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "cellulite-is-toxins-or-fat",
+    "category": "Skin & hair",
+    "myth": "Cellulite is caused by toxins and only happens if you're overweight.",
+    "rating": "false",
+    "fact": "Cellulite is very common, especially in women, and is related to how fat and connective tissue are arranged under the skin, as well as genes, hormones, age and skin thickness. Lean people can have it too, and it is not caused by toxins.",
+    "explanation": "Cellulite is harmless. Creams, detox products and 'anti-cellulite' massages have little lasting effect. Exercise and weight changes can alter its appearance somewhat, but having cellulite is normal.",
+    "keywords": ["cellulite", "orange peel skin", "cellulite toxins", "cellulite cause", "get rid of cellulite", "cellulite thin people", "dimpled skin"],
+    "sources": [
+      { "label": "Cleveland Clinic — Cellulite", "url": "https://my.clevelandclinic.org/health/diseases/17694-cellulite" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "stress-can-cause-hair-loss",
+    "category": "Skin & hair",
+    "myth": "Stress can make your hair fall out.",
+    "rating": "mostly-true",
+    "fact": "A stressful event, illness, surgery, childbirth or major weight loss can trigger temporary hair shedding, often a few months later. The hair usually grows back once the trigger has passed.",
+    "explanation": "Hair loss has many other causes, including pattern baldness (which tends to run in families and is permanent), iron deficiency, thyroid problems and some medicines. See a GP if you're worried, if hair is falling out in patches, or if it comes with other symptoms.",
+    "keywords": ["stress hair loss", "hair falling out", "hair shedding", "telogen effluvium", "hair loss after illness", "postpartum hair loss", "thinning hair"],
+    "sources": [
+      { "label": "NHS — Hair loss", "url": "https://www.nhs.uk/symptoms/hair-loss/" },
+      { "label": "American Academy of Dermatology — Hair loss: who gets and causes", "url": "https://www.aad.org/public/diseases/hair-loss/causes/18-causes" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "hypoallergenic-products-cannot-cause-reactions",
+    "category": "Skin & hair",
+    "myth": "Products labelled 'hypoallergenic' can't cause skin reactions.",
+    "rating": "false",
+    "fact": "There is no official standard for the term 'hypoallergenic' on cosmetics; in the US, the FDA says it means whatever a company wants it to mean. Products labelled this way can still cause allergic or irritant reactions.",
+    "explanation": "People with sensitive skin or known allergies should check the full ingredients list rather than relying on marketing terms like 'hypoallergenic', 'natural' or 'dermatologist tested'. Patch-testing a small area first can help. A dermatologist can arrange patch tests to identify specific allergies.",
+    "keywords": ["hypoallergenic", "sensitive skin products", "hypoallergenic makeup", "dermatologist tested", "skin reaction cosmetics", "allergy skincare"],
+    "sources": [
+      { "label": "US FDA — \"Hypoallergenic\" cosmetics", "url": "https://www.fda.gov/cosmetics/cosmetics-labeling-claims/hypoallergenic-cosmetics" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "scabies-means-poor-hygiene",
+    "category": "Skin & hair",
+    "myth": "Only dirty people get scabies.",
+    "rating": "false",
+    "fact": "Scabies is an itchy rash caused by tiny mites that spread through close skin-to-skin contact, and anyone can get it, regardless of how clean they are. Washing does not prevent or cure it.",
+    "explanation": "Scabies often spreads within households, care homes and between sexual partners. It is treated with creams or lotions from a pharmacy, and everyone in the household should be treated at the same time, even without symptoms. Washing bedding and clothes on a hot wash helps prevent reinfection.",
+    "keywords": ["scabies", "scabies dirty", "itchy rash mites", "scabies hygiene", "scabies spread", "itching at night", "permethrin"],
+    "sources": [
+      { "label": "NHS — Scabies", "url": "https://www.nhs.uk/conditions/scabies/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "cold-sores-only-contagious-with-blisters",
+    "category": "Skin & hair",
+    "myth": "You can only pass on a cold sore when there's a blister you can see.",
+    "rating": "misleading",
+    "fact": "Cold sores are caused by the herpes simplex virus and are most contagious when blisters are present, but they can spread from the first tingling until they have completely healed. The virus can occasionally be passed on even without visible sores.",
+    "explanation": "Avoid kissing, sharing cups or lip products, and oral sex while you have a cold sore, and don't kiss babies, who can become seriously ill. Antiviral creams from a pharmacy work best if used as soon as the tingling starts.",
+    "keywords": ["cold sore", "cold sores contagious", "herpes lip", "kissing cold sore", "fever blister", "hsv-1", "cold sore spread"],
+    "sources": [
+      { "label": "NHS — Cold sores", "url": "https://www.nhs.uk/conditions/cold-sores/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]

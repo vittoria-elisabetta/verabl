@@ -143,34 +143,6 @@
     "lastReviewed": "Reviewed November 2026"
   },
   {
-    "id": "more-sweat-more-fat-burned",
-    "category": "Exercise & fitness",
-    "myth": "The more you sweat, the more fat you burn.",
-    "rating": "false",
-    "fact": "Sweating is how the body cools down; it is not a measure of fat burned. Weight lost through sweat is water that returns when you drink.",
-    "explanation": "How much you sweat depends on temperature, humidity, fitness and genetics. Sweat suits or exercising in heat to lose weight can cause dehydration and heat illness.",
-    "keywords": [
-      "sweat",
-      "sweating",
-      "burn fat",
-      "sauna suit",
-      "water weight",
-      "calories",
-      "hot yoga"
-    ],
-    "sources": [
-      {
-        "label": "Harvard Health Publishing",
-        "url": "https://www.health.harvard.edu/"
-      },
-      {
-        "label": "Mayo Clinic",
-        "url": "https://www.mayoclinic.org/"
-      }
-    ],
-    "lastReviewed": "Reviewed November 2026"
-  },
-  {
     "id": "wait-after-eating-to-swim",
     "category": "Exercise & fitness",
     "myth": "You must wait 30 minutes after eating before swimming or you'll drown from cramps.",

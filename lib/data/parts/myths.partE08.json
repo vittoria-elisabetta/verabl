@@ -1,0 +1,232 @@
+[
+  {
+    "id": "osteoporosis-you-would-feel-it",
+    "category": "Bones & joints",
+    "myth": "You'd know if you had osteoporosis because your bones would hurt.",
+    "rating": "false",
+    "fact": "Osteoporosis usually causes no symptoms until a bone breaks, often after a minor fall or bump. Many people only find out they have it after a fracture.",
+    "explanation": "Common fracture sites are the wrist, hip and spine; spinal fractures can cause back pain, loss of height or a stooped posture. If you have risk factors, such as early menopause, long-term steroid tablets, a previous low-impact fracture or a family history of hip fracture, ask a GP whether a bone density scan is needed.",
+    "keywords": ["osteoporosis symptoms", "silent disease", "brittle bones", "bone density scan", "dexa scan", "osteoporosis pain", "weak bones"],
+    "sources": [
+      { "label": "NHS — Osteoporosis", "url": "https://www.nhs.uk/conditions/osteoporosis/" },
+      { "label": "NIAMS — Osteoporosis", "url": "https://www.niams.nih.gov/health-topics/osteoporosis" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "glucosamine-rebuilds-cartilage",
+    "category": "Bones & joints",
+    "myth": "Glucosamine and chondroitin supplements rebuild worn cartilage and cure arthritis.",
+    "rating": "false",
+    "fact": "There is no good evidence that glucosamine or chondroitin rebuild cartilage or cure osteoarthritis. Large studies have found little or no benefit for joint pain compared with a placebo for most people.",
+    "explanation": "These supplements are generally considered low risk, although glucosamine may interact with the blood thinner warfarin. Exercise, weight management and pain relief have stronger evidence for easing osteoarthritis. Talk to a GP or pharmacist before spending money on supplements.",
+    "keywords": ["glucosamine", "chondroitin", "joint supplements", "rebuild cartilage", "arthritis supplements", "knee supplements", "joint pain pills"],
+    "sources": [
+      { "label": "NCCIH — Glucosamine and chondroitin for osteoarthritis", "url": "https://www.nccih.nih.gov/health/glucosamine-and-chondroitin-for-osteoarthritis-what-you-need-to-know" },
+      { "label": "NCCIH — Osteoarthritis: in depth", "url": "https://www.nccih.nih.gov/health/osteoarthritis-in-depth" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "magnetic-copper-bracelets-ease-arthritis",
+    "category": "Bones & joints",
+    "myth": "Magnetic or copper bracelets ease arthritis pain.",
+    "rating": "false",
+    "fact": "Research has not found conclusive evidence that static magnets, including magnetic bracelets, relieve pain. Copper bracelets have not been shown to work better than placebo bracelets in studies.",
+    "explanation": "Arthritis pain naturally goes up and down, so improvement after buying a bracelet can feel convincing. Magnets can interfere with pacemakers and some other medical devices. Exercise, weight loss if needed, and pain relief advised by a doctor or pharmacist have better evidence.",
+    "keywords": ["copper bracelet", "magnetic bracelet", "magnets arthritis", "magnet therapy", "arthritis jewellery", "joint pain bracelet"],
+    "sources": [
+      { "label": "NCCIH — Magnets for pain: what you need to know", "url": "https://www.nccih.nih.gov/health/magnets-for-pain-what-you-need-to-know" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "rheumatoid-arthritis-is-wear-and-tear",
+    "category": "Bones & joints",
+    "myth": "Rheumatoid arthritis is just wear and tear of the joints.",
+    "rating": "false",
+    "fact": "Rheumatoid arthritis is an autoimmune disease: the immune system attacks the lining of the joints, making them swollen, stiff and painful. It is different from osteoarthritis and can affect people of any adult age, as well as other organs.",
+    "explanation": "Early treatment with disease-modifying medicines can slow the disease and reduce the risk of joint damage, so it is important to see a GP about joint swelling, stiffness that is worse in the morning, or pain in the small joints of the hands and feet. Smoking raises the risk.",
+    "keywords": ["rheumatoid arthritis", "ra", "autoimmune arthritis", "wear and tear", "swollen joints", "morning stiffness", "arthritis types"],
+    "sources": [
+      { "label": "NHS — Rheumatoid arthritis", "url": "https://www.nhs.uk/conditions/rheumatoid-arthritis/" },
+      { "label": "NIAMS — Rheumatoid arthritis", "url": "https://www.niams.nih.gov/health-topics/rheumatoid-arthritis" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "scoliosis-from-posture-or-backpacks",
+    "category": "Bones & joints",
+    "myth": "Scoliosis is caused by bad posture or carrying a heavy school bag.",
+    "rating": "false",
+    "fact": "In around 8 in 10 cases the cause of scoliosis is unknown, and this common type is not thought to be linked to posture, exercise, diet or carrying bags. Genes may play a role, as it sometimes runs in families.",
+    "explanation": "Heavy bags can cause back aches, but they do not cause a curved spine. Signs of scoliosis include uneven shoulders or hips or a visibly curved back, and it often appears during growth spurts. Most people with scoliosis live normal lives; some need a brace or, rarely, surgery.",
+    "keywords": ["scoliosis", "curved spine", "scoliosis cause", "bad posture", "heavy school bag", "backpack spine", "slouching"],
+    "sources": [
+      { "label": "NHS — Scoliosis", "url": "https://www.nhs.uk/conditions/scoliosis/" },
+      { "label": "NIAMS — Scoliosis", "url": "https://www.niams.nih.gov/health-topics/scoliosis" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "growing-pains-caused-by-growing",
+    "category": "Bones & joints",
+    "myth": "Growing pains are caused by bones growing too fast.",
+    "rating": "false",
+    "fact": "Growing pains are common aching pains in children's legs, usually in the evening or at night, but they are not caused by growing. Their cause is not known, and they are not a sign of anything serious.",
+    "explanation": "They are more common in active children and in children with very flexible joints. Gentle massage, a warm bath or children's painkillers can help. See a GP if pain is in one leg only, there is swelling, redness, limping or a fever, or the pain continues during the day.",
+    "keywords": ["growing pains", "leg pain children", "child leg ache night", "bones growing pain", "kids leg pain", "growth spurt pain"],
+    "sources": [
+      { "label": "NHS — Growing pains", "url": "https://www.nhs.uk/conditions/growing-pains/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "fibromyalgia-not-real",
+    "category": "Bones & joints",
+    "myth": "Fibromyalgia isn't a real condition; it's all in people's heads.",
+    "rating": "false",
+    "fact": "Fibromyalgia is a recognised long-term condition that causes widespread pain, increased sensitivity to pain, tiredness, sleep problems and difficulty concentrating. It is thought to involve changes in how the nervous system processes pain.",
+    "explanation": "There is no single test for it, which has led to doubt, but it is diagnosed from symptoms and by ruling out other conditions. There is no cure, but exercise, talking therapies, some medicines and good sleep habits can help manage symptoms.",
+    "keywords": ["fibromyalgia", "fibro", "fibromyalgia real", "widespread pain", "chronic pain", "all in your head"],
+    "sources": [
+      { "label": "NHS — Fibromyalgia", "url": "https://www.nhs.uk/conditions/fibromyalgia/" },
+      { "label": "NIAMS — Fibromyalgia", "url": "https://www.niams.nih.gov/health-topics/fibromyalgia" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "osteoporosis-cannot-be-treated",
+    "category": "Bones & joints",
+    "myth": "Once you have osteoporosis, nothing can be done about it.",
+    "rating": "false",
+    "fact": "Osteoporosis can be treated. Medicines can strengthen bones and lower the risk of fractures, and exercise, enough calcium and vitamin D, and steps to prevent falls also help.",
+    "explanation": "Treatment depends on your fracture risk, age and other health conditions. Stopping smoking and drinking less alcohol help protect bones. A GP can explain the options and whether a bone density scan is needed.",
+    "keywords": ["osteoporosis treatment", "osteoporosis cure", "bone loss treatment", "bisphosphonates", "strengthen bones", "fragile bones"],
+    "sources": [
+      { "label": "NHS — Osteoporosis", "url": "https://www.nhs.uk/conditions/osteoporosis/" },
+      { "label": "NIAMS — Osteoporosis", "url": "https://www.niams.nih.gov/health-topics/osteoporosis" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "adult-bones-stop-changing",
+    "category": "Bones & joints",
+    "myth": "Once you're an adult your bones are fixed, so nothing you do changes them.",
+    "rating": "false",
+    "fact": "Bone is living tissue that is constantly being broken down and rebuilt throughout life. Most people build their maximum bone mass by early adulthood, and after that bone is slowly lost with age, faster after the menopause.",
+    "explanation": "Physical activity, especially weight-bearing and muscle-strengthening exercise, a diet with enough calcium and vitamin D, not smoking and limiting alcohol help keep bones strong at any age. Building strong bones in childhood and young adulthood lowers the risk of osteoporosis later.",
+    "keywords": ["bone health adults", "peak bone mass", "bones fixed", "bone density age", "strengthen bones adult", "bone loss age"],
+    "sources": [
+      { "label": "NIAMS — Bone health and osteoporosis", "url": "https://www.niams.nih.gov/health-topics/bone-health-and-osteoporosis" },
+      { "label": "NIAMS — Osteoporosis", "url": "https://www.niams.nih.gov/health-topics/osteoporosis" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "sciatica-needs-surgery",
+    "category": "Bones & joints",
+    "myth": "Sciatica usually needs surgery to fix.",
+    "rating": "false",
+    "fact": "Sciatica usually gets better on its own within a few weeks to a few months. Staying as active as possible, gentle exercises and pain relief are the usual first steps; surgery is only needed for a small number of people.",
+    "explanation": "Physiotherapy can help if pain lasts. Get urgent help if you have numbness around the bottom or genitals, new problems controlling your bladder or bowels, or weakness in both legs, as these can be signs of a rare but serious condition called cauda equina syndrome.",
+    "keywords": ["sciatica", "sciatica surgery", "trapped nerve leg", "leg pain back", "sciatic nerve", "sciatica treatment"],
+    "sources": [
+      { "label": "NHS — Sciatica", "url": "https://www.nhs.uk/conditions/sciatica/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "slipped-disc-slips-out",
+    "category": "Bones & joints",
+    "myth": "A slipped disc means a disc has slipped out of place and must be pushed back in.",
+    "rating": "misleading",
+    "fact": "A 'slipped' disc does not actually slip. The soft cushion of tissue between the bones of the spine bulges outwards, and it is painful if it presses on a nerve. It cannot be manipulated back into place.",
+    "explanation": "Most slipped discs get better on their own within weeks to months. Keeping active, gentle exercise and pain relief help; physiotherapy may be offered, and surgery is only needed for a few people. Seek urgent help for numbness around the bottom or genitals or loss of bladder or bowel control.",
+    "keywords": ["slipped disc", "herniated disc", "prolapsed disc", "disc bulge", "put disc back", "back pain disc"],
+    "sources": [
+      { "label": "NHS — Slipped disc", "url": "https://www.nhs.uk/conditions/slipped-disc/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "double-jointed-extra-joints",
+    "category": "Bones & joints",
+    "myth": "Double-jointed people have extra joints.",
+    "rating": "false",
+    "fact": "Nobody has double joints. People described as double-jointed have joint hypermobility, meaning their joints move further than usual, often because of looser connective tissue.",
+    "explanation": "Hypermobility is common in children and often becomes less marked with age. For many it causes no problems, but some people have pain, frequent sprains or dislocations, and may be diagnosed with joint hypermobility syndrome. Exercises to strengthen muscles around the joints can help.",
+    "keywords": ["double jointed", "hypermobility", "flexible joints", "joint hypermobility syndrome", "bendy joints", "extra joints"],
+    "sources": [
+      { "label": "NHS — Joint hypermobility syndrome", "url": "https://www.nhs.uk/conditions/joint-hypermobility-syndrome/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "weight-loss-helps-knee-arthritis",
+    "category": "Bones & joints",
+    "myth": "Losing weight can ease knee and hip arthritis.",
+    "rating": "true",
+    "fact": "Being overweight puts extra strain on weight-bearing joints such as the knees and hips. Losing weight if you are overweight is one of the recommended ways to ease osteoarthritis symptoms, alongside regular exercise.",
+    "explanation": "Even a modest weight loss can reduce pain and improve how well the joints work for many people. Exercise strengthens the muscles that support the joints. A GP or physiotherapist can help plan activity that suits your joints.",
+    "keywords": ["weight loss arthritis", "knee arthritis weight", "osteoarthritis weight", "hip arthritis", "lose weight knee pain", "joint strain"],
+    "sources": [
+      { "label": "NHS — Osteoarthritis", "url": "https://www.nhs.uk/conditions/osteoarthritis/" },
+      { "label": "WHO — Osteoarthritis", "url": "https://www.who.int/news-room/fact-sheets/detail/osteoarthritis" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "tennis-elbow-only-tennis-players",
+    "category": "Bones & joints",
+    "myth": "Only tennis players get tennis elbow.",
+    "rating": "false",
+    "fact": "Tennis elbow is caused by overusing the muscles and tendons of the forearm, and most people who get it do not play tennis. Repetitive activities such as painting, using tools, typing or lifting can cause it.",
+    "explanation": "It causes pain around the outside of the elbow and usually gets better with rest from the activity that caused it, although it can sometimes last more than a year. Painkillers, physiotherapy and changing how you do tasks can help.",
+    "keywords": ["tennis elbow", "elbow pain", "lateral epicondylitis", "forearm pain", "repetitive strain", "elbow tendon"],
+    "sources": [
+      { "label": "NHS — Tennis elbow", "url": "https://www.nhs.uk/conditions/tennis-elbow/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "carpal-tunnel-only-from-typing",
+    "category": "Bones & joints",
+    "myth": "Carpal tunnel syndrome is caused by typing on a computer.",
+    "rating": "misleading",
+    "fact": "Carpal tunnel syndrome is pressure on a nerve in the wrist. Repetitive hand and wrist movements may contribute, but it is also linked with pregnancy, family history, wrist injuries and conditions such as diabetes and rheumatoid arthritis, and often has no single clear cause.",
+    "explanation": "It causes tingling, numbness and pain in the hand and fingers, often at night. Wearing a wrist splint at night and resting the hand can help, and it sometimes improves on its own, particularly after pregnancy. See a GP if symptoms persist or your hand feels weak.",
+    "keywords": ["carpal tunnel", "carpal tunnel typing", "numb fingers", "wrist pain", "tingling hand", "computer wrist"],
+    "sources": [
+      { "label": "NHS — Carpal tunnel syndrome", "url": "https://www.nhs.uk/conditions/carpal-tunnel-syndrome/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "bunions-only-from-high-heels",
+    "category": "Bones & joints",
+    "myth": "Bunions are only caused by wearing high heels or tight shoes.",
+    "rating": "misleading",
+    "fact": "Tight or narrow shoes can make bunions worse and more painful, but bunions often run in families and can also be linked to foot shape and conditions such as arthritis. Men and people who never wear heels can get them too.",
+    "explanation": "Wide, comfortable shoes, bunion pads and painkillers can ease symptoms. Surgery is the only way to remove a bunion and is considered if pain is severe. See a GP or podiatrist if a bunion is painful or affecting your walking.",
+    "keywords": ["bunions", "bunion cause", "high heels bunions", "hallux valgus", "big toe lump", "tight shoes"],
+    "sources": [
+      { "label": "NHS — Bunions", "url": "https://www.nhs.uk/conditions/bunions/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "nothing-helps-osteoarthritis",
+    "category": "Bones & joints",
+    "myth": "Nothing can be done for osteoarthritis, so you just have to live with the pain.",
+    "rating": "false",
+    "fact": "Although osteoarthritis cannot be cured, its symptoms can often be eased. Regular exercise, losing weight if needed, suitable footwear, pain relief, physiotherapy and, for severe cases, joint replacement surgery can all help.",
+    "explanation": "Staying active is one of the most effective treatments, even though it may feel counterintuitive when joints hurt. Many people find their symptoms vary and do not always get worse. A GP can help put together a plan and refer to physiotherapy if needed.",
+    "keywords": ["osteoarthritis treatment", "arthritis pain relief", "arthritis no cure", "living with arthritis", "joint replacement", "knee pain treatment"],
+    "sources": [
+      { "label": "NHS — Osteoarthritis", "url": "https://www.nhs.uk/conditions/osteoarthritis/" },
+      { "label": "WHO — Osteoarthritis", "url": "https://www.who.int/news-room/fact-sheets/detail/osteoarthritis" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]

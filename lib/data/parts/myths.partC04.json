@@ -1,0 +1,723 @@
+[
+  {
+    "id": "air-pollution-harms-heart",
+    "category": "Heart & blood pressure",
+    "myth": "Air pollution increases the risk of heart attacks and strokes.",
+    "rating": "true",
+    "fact": "Yes. Long-term and short-term exposure to air pollution, especially fine particles, increases the risk of heart disease, stroke and other illnesses, as well as lung disease.",
+    "explanation": "Fine particles can reach the bloodstream and cause inflammation and damage to blood vessels. People with existing heart or lung disease are most at risk. On high-pollution days, reducing time spent exercising near busy roads may help, and cleaner household fuels reduce indoor pollution.",
+    "keywords": [
+      "air pollution heart",
+      "pollution stroke",
+      "fine particles",
+      "pm2.5",
+      "smog heart attack",
+      "traffic pollution",
+      "indoor air pollution"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Ambient (outdoor) air pollution and health",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health"
+      },
+      {
+        "label": "MedlinePlus — Air pollution",
+        "url": "https://medlineplus.gov/airpollution.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "irregular-heartbeat-never-serious",
+    "category": "Heart & blood pressure",
+    "myth": "An irregular or fluttering heartbeat is never anything serious.",
+    "rating": "false",
+    "fact": "Many palpitations are harmless, but an irregular heartbeat can be a sign of atrial fibrillation, which greatly increases the risk of stroke and can be treated.",
+    "explanation": "Get your heartbeat checked if it often feels irregular, fast or fluttery. Get urgent help if palpitations come with chest pain, breathlessness, fainting or dizziness. Atrial fibrillation is often treated with medicines to control the heart rate and blood thinners to prevent stroke.",
+    "keywords": [
+      "irregular heartbeat",
+      "palpitations",
+      "fluttering heart",
+      "atrial fibrillation",
+      "afib",
+      "heart skipping beats",
+      "racing heart"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Atrial fibrillation",
+        "url": "https://www.nhs.uk/conditions/atrial-fibrillation/"
+      },
+      {
+        "label": "NHS — Heart palpitations",
+        "url": "https://www.nhs.uk/symptoms/heart-palpitations/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "heart-failure-means-heart-stopped",
+    "category": "Heart & blood pressure",
+    "myth": "Heart failure means your heart has stopped working and nothing can be done.",
+    "rating": "false",
+    "fact": "Heart failure means the heart is not pumping blood around the body as well as it should. It does not mean the heart has stopped, and treatment can relieve symptoms and help many people live for years.",
+    "explanation": "Common symptoms are breathlessness, tiredness and swollen ankles. Treatments include medicines, devices, lifestyle changes and sometimes surgery. Tell your doctor promptly about rapid weight gain or worsening breathlessness, as these can signal fluid build-up.",
+    "keywords": [
+      "heart failure",
+      "heart stopped working",
+      "weak heart",
+      "congestive heart failure",
+      "heart failure life expectancy",
+      "swollen ankles breathless"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Heart failure",
+        "url": "https://www.nhs.uk/conditions/heart-failure/"
+      },
+      {
+        "label": "NHLBI — Heart failure",
+        "url": "https://www.nhlbi.nih.gov/health/heart-failure"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "only-salty-tasting-food-has-salt",
+    "category": "Heart & blood pressure",
+    "myth": "If I don't add salt to my food, I'm not eating much salt.",
+    "rating": "false",
+    "fact": "Most of the salt people eat is already in foods when they buy them, such as bread, cheese, processed meats, sauces, stock cubes, pickles and ready meals, and in restaurant and takeaway food.",
+    "explanation": "Many foods that do not taste very salty, including breakfast cereals and bread, contribute a lot of salt. Checking food labels for salt or sodium and cooking more meals from scratch help keep salt intake down. The WHO advises adults to eat less than 5 g of salt a day.",
+    "keywords": [
+      "hidden salt",
+      "salt in bread",
+      "dont add salt",
+      "processed food salt",
+      "sodium labels",
+      "salt intake",
+      "how much salt"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Sodium reduction",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/sodium-reduction"
+      },
+      {
+        "label": "NHS — Salt in your diet",
+        "url": "https://www.nhs.uk/live-well/eat-well/food-types/salt-in-your-diet/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "diabetes-cured-in-30-days-detox",
+    "category": "Diabetes",
+    "myth": "A special detox or 30-day programme can cure type 2 diabetes for good.",
+    "rating": "false",
+    "fact": "There is no detox, juice, tea or short programme that permanently cures type 2 diabetes. Some people can bring blood sugar back to a normal range through significant weight loss, which is called remission, but it needs to be maintained and checked.",
+    "explanation": "Programmes promising a cure often sell supplements or expensive plans and may encourage people to stop their medicines, which can be dangerous. If you want to try for remission, do it with your doctor or diabetes team so your medicines can be adjusted safely.",
+    "keywords": [
+      "reverse diabetes",
+      "cure diabetes 30 days",
+      "diabetes detox",
+      "diabetes cure programme",
+      "diabetes free",
+      "permanent cure diabetes",
+      "diabetes reversal"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Type 2 diabetes",
+        "url": "https://www.nhs.uk/conditions/type-2-diabetes/"
+      },
+      {
+        "label": "NIDDK — Type 2 diabetes",
+        "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/type-2-diabetes"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "insulin-plant-jamun-replace-medicine",
+    "category": "Diabetes",
+    "myth": "Insulin plant leaves, jamun seed powder or neem can replace diabetes medicine.",
+    "rating": "false",
+    "fact": "Herbal remedies such as the \"insulin plant\" (Costus), jamun seeds or neem have not been shown to control diabetes reliably or safely enough to replace prescribed medicines.",
+    "explanation": "Some plants may have small effects on blood sugar in early studies, but products vary in strength and purity, and combining them with diabetes medicines can cause low blood sugar. Tell your doctor or pharmacist about any herbal products you take, and keep checking your blood sugar as advised.",
+    "keywords": [
+      "insulin plant",
+      "costus",
+      "jamun",
+      "jamun seeds",
+      "neem diabetes",
+      "herbal diabetes cure",
+      "ayurvedic diabetes",
+      "stop diabetes tablets"
+    ],
+    "sources": [
+      {
+        "label": "NCCIH — Diabetes and dietary supplements",
+        "url": "https://www.nccih.nih.gov/health/diabetes-and-dietary-supplements-what-you-need-to-know"
+      },
+      {
+        "label": "NHS — Type 2 diabetes: treatment",
+        "url": "https://www.nhs.uk/conditions/type-2-diabetes/treatment/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "diabetes-means-amputation-and-blindness",
+    "category": "Diabetes",
+    "myth": "If you have diabetes, you will definitely go blind or lose your feet.",
+    "rating": "false",
+    "fact": "Diabetes raises the risk of problems with the eyes, feet, kidneys and nerves, but these complications are not inevitable. Keeping blood sugar, blood pressure and cholesterol in target ranges greatly lowers the risk.",
+    "explanation": "Regular eye screening, foot checks and kidney tests can find problems early, when treatment works best. Not smoking and staying active also help. Many people live with diabetes for decades without serious complications.",
+    "keywords": [
+      "diabetes blindness",
+      "diabetes amputation",
+      "diabetes complications",
+      "diabetic foot",
+      "diabetic eye",
+      "lose my feet",
+      "diabetes inevitable"
+    ],
+    "sources": [
+      {
+        "label": "NIDDK — Preventing diabetes problems",
+        "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems"
+      },
+      {
+        "label": "NHS — Type 2 diabetes: complications",
+        "url": "https://www.nhs.uk/conditions/type-2-diabetes/complications/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "gestational-diabetes-no-lasting-risk",
+    "category": "Diabetes",
+    "myth": "Gestational diabetes goes away after the birth, so there's nothing more to worry about.",
+    "rating": "false",
+    "fact": "Gestational diabetes usually goes away after the baby is born, but it greatly increases the mother's chance of developing type 2 diabetes later in life. It may also raise the child's risk of obesity and type 2 diabetes later.",
+    "explanation": "Women who had gestational diabetes are advised to have a blood sugar test after the birth and then regular checks, often every year. Keeping a healthy weight, eating well and being active lower the risk of type 2 diabetes.",
+    "keywords": [
+      "gestational diabetes",
+      "diabetes in pregnancy",
+      "after birth diabetes",
+      "pregnancy diabetes later",
+      "type 2 after pregnancy",
+      "gdm"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Gestational diabetes",
+        "url": "https://www.nhs.uk/conditions/gestational-diabetes/"
+      },
+      {
+        "label": "NIDDK — Gestational diabetes",
+        "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/gestational"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "can-feel-your-blood-sugar",
+    "category": "Diabetes",
+    "myth": "You can tell what your blood sugar is just by how you feel.",
+    "rating": "false",
+    "fact": "Feelings are not a reliable guide to blood sugar. High blood sugar often causes no symptoms at all, and symptoms of low blood sugar can be missed, especially at night or in people who have had diabetes for many years.",
+    "explanation": "Blood sugar meters, continuous glucose monitors and HbA1c blood tests give accurate information. Your diabetes team can tell you how often to check and what your targets should be.",
+    "keywords": [
+      "feel blood sugar",
+      "know my sugar level",
+      "blood sugar symptoms",
+      "check blood sugar",
+      "glucose meter",
+      "cgm",
+      "hypo unawareness"
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus — Blood glucose",
+        "url": "https://medlineplus.gov/bloodglucose.html"
+      },
+      {
+        "label": "NIDDK — Managing diabetes",
+        "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/managing-diabetes"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "jaggery-honey-safe-for-diabetes",
+    "category": "Diabetes",
+    "myth": "Jaggery, honey or dates are safe sweeteners for people with diabetes because they're natural.",
+    "rating": "false",
+    "fact": "Jaggery, honey, dates and syrups are sugars and raise blood sugar much like white sugar. Being natural does not make them safe in larger amounts for people with diabetes.",
+    "explanation": "People with diabetes can still enjoy small amounts of sweet foods as part of a balanced diet, ideally with a meal. Counting all sugars, not only white sugar, helps keep blood sugar on target. A dietitian can help plan meals that include favourite foods.",
+    "keywords": [
+      "jaggery diabetes",
+      "gur",
+      "honey diabetes",
+      "dates diabetes",
+      "natural sugar diabetes",
+      "coconut sugar diabetes",
+      "diabetic sweetener"
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus — Diabetic diet",
+        "url": "https://medlineplus.gov/diabeticdiet.html"
+      },
+      {
+        "label": "NHS — Sugar: the facts",
+        "url": "https://www.nhs.uk/live-well/eat-well/food-types/how-does-sugar-in-our-diet-affect-our-health/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "no-family-history-no-diabetes",
+    "category": "Diabetes",
+    "myth": "Nobody in my family has diabetes, so I can't get it.",
+    "rating": "false",
+    "fact": "Family history raises the risk of type 2 diabetes, but many people develop it without any affected relatives. Other risk factors include being overweight, physical inactivity, age, ethnicity and a history of gestational diabetes.",
+    "explanation": "People of South Asian, Black African, African Caribbean and some other backgrounds have a higher risk and may develop type 2 diabetes at a younger age and a lower weight. Type 2 diabetes often has no symptoms at first, so a blood test is the only way to be sure.",
+    "keywords": [
+      "family history diabetes",
+      "diabetes genetic",
+      "no diabetes in family",
+      "diabetes risk",
+      "south asian diabetes",
+      "inherited diabetes"
+    ],
+    "sources": [
+      {
+        "label": "NIDDK — Risk factors for type 2 diabetes",
+        "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/risk-factors-type-2-diabetes"
+      },
+      {
+        "label": "NHS — Type 2 diabetes",
+        "url": "https://www.nhs.uk/conditions/type-2-diabetes/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "type-2-diabetes-only-adults",
+    "category": "Diabetes",
+    "myth": "Type 2 diabetes only affects adults.",
+    "rating": "false",
+    "fact": "Type 2 diabetes is increasingly diagnosed in children and teenagers, mostly linked to obesity, family history and physical inactivity.",
+    "explanation": "In young people type 2 diabetes can progress faster than in adults, so early diagnosis and support matter. Healthy eating and regular activity for the whole family lower the risk. Signs include thirst, passing a lot of urine and tiredness, but many children have no symptoms.",
+    "keywords": [
+      "children type 2 diabetes",
+      "kids diabetes",
+      "teenagers diabetes",
+      "youth onset diabetes",
+      "adult onset diabetes",
+      "child diabetes"
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus — Diabetes in children and teens",
+        "url": "https://medlineplus.gov/diabetesinchildrenandteens.html"
+      },
+      {
+        "label": "NIDDK — Type 2 diabetes",
+        "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/type-2-diabetes"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "people-with-diabetes-shouldnt-exercise",
+    "category": "Diabetes",
+    "myth": "People with diabetes shouldn't exercise or play sports.",
+    "rating": "false",
+    "fact": "Regular physical activity helps people with diabetes control blood sugar, lower blood pressure and cholesterol, and improve heart health. People with diabetes compete at every level of sport.",
+    "explanation": "People who use insulin or some tablets may need to check blood sugar before and after exercise and carry a quick sugar source in case of a low. Those with eye, foot or heart complications should ask their care team which activities suit them.",
+    "keywords": [
+      "diabetes exercise",
+      "diabetic sport",
+      "exercise blood sugar",
+      "diabetes workout",
+      "insulin exercise",
+      "diabetes gym",
+      "walking diabetes"
+    ],
+    "sources": [
+      {
+        "label": "NIDDK — Healthy living with diabetes",
+        "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/healthy-living-with-diabetes"
+      },
+      {
+        "label": "NHS — Type 2 diabetes",
+        "url": "https://www.nhs.uk/conditions/type-2-diabetes/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "metformin-damages-kidneys",
+    "category": "Diabetes",
+    "myth": "Metformin damages your kidneys.",
+    "rating": "false",
+    "fact": "Metformin does not damage the kidneys. Because it is cleared by the kidneys, doctors check kidney function and may lower the dose or stop it if the kidneys are not working well.",
+    "explanation": "High blood sugar from untreated or poorly controlled diabetes is a major cause of kidney damage, so stopping metformin out of fear can do more harm. Common side effects are stomach upset and diarrhoea, which often settle or improve with slow-release tablets.",
+    "keywords": [
+      "metformin kidneys",
+      "metformin side effects",
+      "diabetes tablets kidney damage",
+      "glucophage",
+      "metformin safe",
+      "kidney failure metformin"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Metformin",
+        "url": "https://www.nhs.uk/medicines/metformin/"
+      },
+      {
+        "label": "MedlinePlus — Metformin",
+        "url": "https://medlineplus.gov/druginfo/meds/a696005.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "eating-rice-causes-diabetes",
+    "category": "Diabetes",
+    "myth": "Eating rice gives you diabetes.",
+    "rating": "misleading",
+    "fact": "No single food causes diabetes. Eating large amounts of white rice and other refined starches has been linked with a higher risk of type 2 diabetes, especially alongside inactivity and weight gain, but rice can be part of a healthy diet.",
+    "explanation": "Choosing brown or wholegrain rice more often, watching portion sizes and filling half the plate with vegetables can help. The overall pattern of diet, body weight and physical activity matters more than any one food.",
+    "keywords": [
+      "rice diabetes",
+      "white rice",
+      "rice causes diabetes",
+      "rice and sugar",
+      "carbs diabetes",
+      "chawal diabetes",
+      "brown rice"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Type 2 diabetes",
+        "url": "https://www.nhs.uk/conditions/type-2-diabetes/"
+      },
+      {
+        "label": "NHS — Starchy foods and carbohydrates",
+        "url": "https://www.nhs.uk/live-well/eat-well/food-types/starchy-foods-and-carbohydrates/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "ketosis-same-as-ketoacidosis",
+    "category": "Diabetes",
+    "myth": "The ketosis from a keto diet is the same as dangerous diabetic ketoacidosis.",
+    "rating": "false",
+    "fact": "Nutritional ketosis on a very low-carbohydrate diet produces low levels of ketones and is different from diabetic ketoacidosis (DKA). DKA is a medical emergency in which a severe lack of insulin causes very high ketones, high blood sugar and the blood becoming acidic.",
+    "explanation": "DKA mainly affects people with type 1 diabetes, but it can occur in type 2, sometimes with normal blood sugar in people taking SGLT2 inhibitor medicines. People with diabetes should talk to their team before starting a keto diet. Symptoms of DKA include vomiting, stomach pain, fast breathing and confusion.",
+    "keywords": [
+      "ketosis",
+      "ketoacidosis",
+      "dka",
+      "keto diet diabetes",
+      "ketones",
+      "keto dangerous",
+      "diabetic ketoacidosis"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Diabetic ketoacidosis",
+        "url": "https://www.nhs.uk/conditions/diabetic-ketoacidosis/"
+      },
+      {
+        "label": "MedlinePlus — Diabetic ketoacidosis",
+        "url": "https://medlineplus.gov/ency/article/000320.htm"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "diabetes-raises-heart-disease-risk",
+    "category": "Diabetes",
+    "myth": "Diabetes greatly increases the risk of heart attacks and strokes.",
+    "rating": "true",
+    "fact": "Yes. Over time, high blood sugar damages blood vessels and the nerves that control the heart, and people with diabetes are more likely to develop heart disease and stroke, often at a younger age.",
+    "explanation": "Heart disease is a leading cause of death in people with diabetes. Controlling blood sugar, blood pressure and cholesterol, not smoking and staying active lower this risk, and some diabetes medicines also protect the heart.",
+    "keywords": [
+      "diabetes heart disease",
+      "diabetes stroke",
+      "diabetes heart attack",
+      "cardiovascular diabetes",
+      "blood vessels diabetes"
+    ],
+    "sources": [
+      {
+        "label": "NIDDK — Diabetes, heart disease, and stroke",
+        "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/heart-disease-stroke"
+      },
+      {
+        "label": "WHO — Diabetes",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "only-insulin-users-get-hypos",
+    "category": "Diabetes",
+    "myth": "Only people who inject insulin can get dangerously low blood sugar.",
+    "rating": "false",
+    "fact": "Some diabetes tablets, especially sulfonylureas such as gliclazide and glimepiride, can also cause low blood sugar (hypoglycaemia). Skipping meals, alcohol and extra exercise make it more likely.",
+    "explanation": "Symptoms include sweating, shaking, hunger, a fast heartbeat and confusion. Treat a hypo with a fast-acting sugar such as juice or glucose tablets, then recheck. Ask your doctor or pharmacist whether your medicines can cause hypos.",
+    "keywords": [
+      "hypoglycaemia",
+      "hypo",
+      "low blood sugar",
+      "sulfonylurea",
+      "gliclazide",
+      "diabetes tablets low sugar",
+      "shaky sweaty"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Low blood sugar (hypoglycaemia)",
+        "url": "https://www.nhs.uk/conditions/low-blood-sugar-hypoglycaemia/"
+      },
+      {
+        "label": "NIDDK — Low blood glucose (hypoglycemia)",
+        "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "insulin-is-addictive",
+    "category": "Diabetes",
+    "myth": "Once you start insulin, you become addicted to it.",
+    "rating": "false",
+    "fact": "Insulin is not addictive. It is a hormone the body needs; people with type 1 diabetes cannot make it, and many people with type 2 diabetes make too little as the condition progresses.",
+    "explanation": "Needing insulin is a sign of how diabetes changes over time, not a personal failure or an addiction. Some people with type 2 diabetes use insulin for a while and later reduce or stop it under medical guidance, for example after weight loss.",
+    "keywords": [
+      "insulin addictive",
+      "addicted to insulin",
+      "insulin dependence",
+      "start insulin",
+      "fear of insulin",
+      "insulin injections",
+      "insulin forever"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Insulin",
+        "url": "https://www.nhs.uk/medicines/insulin/"
+      },
+      {
+        "label": "NIDDK — Insulin, medicines, and other diabetes treatments",
+        "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/insulin-medicines-treatments"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "ants-urine-test-diabetes",
+    "category": "Diabetes",
+    "myth": "You can check for diabetes by seeing if ants are attracted to your urine.",
+    "rating": "false",
+    "fact": "Diabetes is diagnosed with blood tests, such as fasting blood glucose or HbA1c, not by looking at urine or ants. Sugar only spills into the urine once blood sugar is already very high.",
+    "explanation": "Ants may be drawn to many things, and the absence of ants does not rule out diabetes. Because type 2 diabetes often causes no symptoms early on, people at higher risk should ask for a blood test.",
+    "keywords": [
+      "ants urine",
+      "sweet urine",
+      "urine test diabetes",
+      "how to check diabetes at home",
+      "ants pee",
+      "sugar in urine",
+      "diagnose diabetes"
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus — A1C",
+        "url": "https://medlineplus.gov/a1c.html"
+      },
+      {
+        "label": "NHS — Type 2 diabetes",
+        "url": "https://www.nhs.uk/conditions/type-2-diabetes/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "children-outgrow-type-1-diabetes",
+    "category": "Diabetes",
+    "myth": "Children grow out of type 1 diabetes.",
+    "rating": "false",
+    "fact": "Type 1 diabetes is lifelong. The immune system destroys the cells that make insulin, and they do not grow back, so insulin is always needed.",
+    "explanation": "Soon after diagnosis some children need less insulin for a while, called the \"honeymoon phase\", which can make it seem the diabetes is going away, but it returns. Research into new treatments continues. Stopping insulin causes diabetic ketoacidosis, which can be fatal.",
+    "keywords": [
+      "outgrow type 1",
+      "type 1 diabetes children",
+      "honeymoon phase",
+      "juvenile diabetes",
+      "type 1 go away",
+      "stop insulin child"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Type 1 diabetes",
+        "url": "https://www.nhs.uk/conditions/type-1-diabetes/"
+      },
+      {
+        "label": "NIDDK — Type 1 diabetes",
+        "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/type-1-diabetes"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "type-2-always-has-symptoms",
+    "category": "Diabetes",
+    "myth": "You'd definitely know if you had type 2 diabetes, because you'd feel ill.",
+    "rating": "false",
+    "fact": "Many people with type 2 diabetes have no symptoms for years, or have mild ones such as tiredness that they do not link to diabetes. It is often found through a routine blood test.",
+    "explanation": "Symptoms, when they appear, include thirst, passing urine often, blurred vision, slow-healing cuts and frequent infections. High blood sugar can damage the body even without symptoms, so people at higher risk should ask about testing.",
+    "keywords": [
+      "diabetes symptoms",
+      "silent diabetes",
+      "undiagnosed diabetes",
+      "no symptoms diabetes",
+      "feel fine diabetes",
+      "diabetes test"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Type 2 diabetes",
+        "url": "https://www.nhs.uk/conditions/type-2-diabetes/"
+      },
+      {
+        "label": "NIDDK — Symptoms and causes of diabetes",
+        "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/symptoms-causes"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "diabetes-daily-foot-checks",
+    "category": "Diabetes",
+    "myth": "People with diabetes should check their feet every day.",
+    "rating": "true",
+    "fact": "Yes. Diabetes can reduce feeling in the feet and slow healing, so small cuts, blisters or sores may go unnoticed and turn into serious infections or ulcers. Checking your feet daily helps catch problems early.",
+    "explanation": "Look for cuts, redness, swelling, blisters and changes in colour or temperature, and use a mirror or ask someone to help if needed. Wear well-fitting shoes, avoid walking barefoot and have your feet checked at diabetes reviews. See a health professional quickly about any wound that is not healing.",
+    "keywords": [
+      "diabetic foot",
+      "foot check",
+      "diabetes feet",
+      "foot ulcer",
+      "numb feet",
+      "neuropathy",
+      "barefoot diabetes"
+    ],
+    "sources": [
+      {
+        "label": "NIDDK — Diabetes and foot problems",
+        "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/foot-problems"
+      },
+      {
+        "label": "MedlinePlus — Diabetic foot",
+        "url": "https://medlineplus.gov/diabeticfoot.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "buy-ozempic-online-without-prescription",
+    "category": "Medicines & antibiotics",
+    "myth": "It's safe to buy Ozempic or other weight-loss injections online or at a salon without a prescription.",
+    "rating": "false",
+    "fact": "Semaglutide (Ozempic, Wegovy) and similar medicines should only be used with a prescription and medical supervision. Products sold without a prescription online, on social media or in beauty salons may be fake, contaminated or the wrong dose.",
+    "explanation": "Regulators have warned about counterfeit and unapproved versions that caused hospitalisations. Even genuine medicines can cause side effects such as severe stomach problems, pancreatitis and gallbladder problems, and they are not suitable for everyone. A doctor can check whether treatment is right for you.",
+    "keywords": [
+      "ozempic online",
+      "wegovy without prescription",
+      "semaglutide",
+      "fake ozempic",
+      "weight loss jab",
+      "mounjaro online",
+      "glp-1",
+      "skinny jab"
+    ],
+    "sources": [
+      {
+        "label": "FDA — Concerns with unapproved GLP-1 drugs used for weight loss",
+        "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss"
+      },
+      {
+        "label": "NHS — Semaglutide",
+        "url": "https://www.nhs.uk/medicines/semaglutide/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "injections-stronger-than-tablets",
+    "category": "Medicines & antibiotics",
+    "myth": "Injections always work better and faster than tablets.",
+    "rating": "misleading",
+    "fact": "For many illnesses, tablets work just as well as injections. Injections are used when a medicine cannot be taken by mouth, needs to act very quickly, or is not absorbed from the gut.",
+    "explanation": "In some places people ask for injections because they seem stronger, but unnecessary injections carry risks, including infections, abscesses and, if needles are reused, the spread of HIV and hepatitis. Ask your health worker whether a tablet would do the same job.",
+    "keywords": [
+      "injection vs tablet",
+      "injection stronger",
+      "sui",
+      "drip better",
+      "shot works faster",
+      "unnecessary injections",
+      "injection doctor"
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus — Medicines",
+        "url": "https://medlineplus.gov/medicines.html"
+      },
+      {
+        "label": "WHO — Hepatitis B",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-b"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "otc-painkillers-completely-safe",
+    "category": "Medicines & antibiotics",
+    "myth": "Painkillers you can buy without a prescription are completely safe in any situation.",
+    "rating": "false",
+    "fact": "Over-the-counter painkillers are safe for most people when used as directed, but they can cause harm. Ibuprofen and aspirin can cause stomach bleeding and kidney problems and affect blood pressure, and too much paracetamol can cause serious liver damage.",
+    "explanation": "Check the label for the maximum dose, avoid taking two products with the same ingredient (many cold remedies contain paracetamol) and ask a pharmacist if you have stomach, kidney, liver or heart problems, are pregnant, or take other medicines.",
+    "keywords": [
+      "over the counter painkillers",
+      "ibuprofen safe",
+      "otc medicine safe",
+      "painkillers side effects",
+      "nsaids",
+      "aspirin stomach bleeding",
+      "pharmacy painkillers"
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus — Pain relievers",
+        "url": "https://medlineplus.gov/painrelievers.html"
+      },
+      {
+        "label": "NHS — Ibuprofen for adults",
+        "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]

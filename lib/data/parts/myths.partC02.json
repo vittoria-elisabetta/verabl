@@ -1,0 +1,716 @@
+[
+  {
+    "id": "drinking-bleach-kills-viruses",
+    "category": "Infections & colds",
+    "myth": "Drinking diluted bleach or disinfectant can kill viruses inside your body.",
+    "rating": "false",
+    "fact": "Drinking or injecting bleach or disinfectant does not treat any infection and can cause serious poisoning, damage to the mouth, throat and stomach, and death.",
+    "explanation": "Disinfectants are meant for cleaning surfaces only. If someone swallows bleach or a cleaning product, contact a poison centre or emergency services straight away and do not try to make them vomit.",
+    "keywords": [
+      "drink bleach",
+      "bleach cure",
+      "disinfectant inside body",
+      "chlorine drink",
+      "kill virus bleach",
+      "inject disinfectant",
+      "cleaning product poisoning"
+    ],
+    "sources": [
+      {
+        "label": "WHO — COVID-19 mythbusters",
+        "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters"
+      },
+      {
+        "label": "MedlinePlus — Chlorine poisoning",
+        "url": "https://medlineplus.gov/ency/article/002772.htm"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "malaria-from-mangoes-or-rain",
+    "category": "Infections & colds",
+    "myth": "You get malaria from eating mangoes or getting wet in the rain.",
+    "rating": "false",
+    "fact": "Malaria is caused by a parasite that is spread by the bite of infected mosquitoes. Food and rain do not cause it.",
+    "explanation": "Malaria often rises in the rainy season because standing water lets mosquitoes breed, which may explain the link people notice. Sleeping under insecticide-treated nets, preventing bites and getting tested quickly for fever are what protect you. Malaria can become severe within a day, especially in young children.",
+    "keywords": [
+      "malaria mango",
+      "malaria rain",
+      "cause of malaria",
+      "how do you get malaria",
+      "mosquito",
+      "malaria season",
+      "fever after rain"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Malaria",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/malaria"
+      },
+      {
+        "label": "NHS — Malaria",
+        "url": "https://www.nhs.uk/conditions/malaria/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "herbal-tea-cures-malaria",
+    "category": "Infections & colds",
+    "myth": "Herbal teas such as neem or artemisia leaves can cure or prevent malaria.",
+    "rating": "false",
+    "fact": "Malaria should be treated with proven antimalarial medicines, such as artemisinin-based combination therapies, after a test confirms it. Herbal teas have not been shown to reliably cure or prevent malaria.",
+    "explanation": "Although artemisinin comes from the Artemisia annua plant, the amount in a home-made tea is unreliable and too low to clear the infection, which risks severe malaria and may encourage drug resistance. Malaria can kill quickly, so anyone with fever in or after visiting a malaria area should be tested promptly.",
+    "keywords": [
+      "neem malaria",
+      "artemisia tea",
+      "herbal malaria cure",
+      "malaria tea",
+      "bitter leaf malaria",
+      "malaria home remedy",
+      "artemisinin",
+      "natural malaria treatment"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Malaria",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/malaria"
+      },
+      {
+        "label": "NHS — Malaria",
+        "url": "https://www.nhs.uk/conditions/malaria/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "tb-hereditary-and-incurable",
+    "category": "Infections & colds",
+    "myth": "Tuberculosis is inherited and cannot be cured.",
+    "rating": "false",
+    "fact": "Tuberculosis (TB) is caused by bacteria that spread through the air when someone with active lung TB coughs. It is not inherited, and it can be cured with a full course of antibiotics, usually taken for at least six months.",
+    "explanation": "TB can seem to run in families because people living together can pass it to each other. Stopping treatment early can leave TB uncured and lead to drug-resistant TB. TB is not a curse or a sign of shame; free testing and treatment are available in many countries.",
+    "keywords": [
+      "tuberculosis",
+      "tb hereditary",
+      "tb curse",
+      "tb incurable",
+      "tb cure",
+      "tb runs in family",
+      "chronic cough tb",
+      "tb treatment"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Tuberculosis",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis"
+      },
+      {
+        "label": "NHS — Tuberculosis (TB)",
+        "url": "https://www.nhs.uk/conditions/tuberculosis-tb/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "hepatitis-b-from-sharing-food",
+    "category": "Infections & colds",
+    "myth": "You can catch hepatitis B by sharing food, cups or plates.",
+    "rating": "false",
+    "fact": "Hepatitis B spreads through blood and other body fluids, for example from mother to baby at birth, through sex, or by sharing needles, razors or toothbrushes. It is not spread by sharing food, water, cutlery, hugging or kissing on the cheek.",
+    "explanation": "Hepatitis A and E are the types that can spread through contaminated food and water, which may cause confusion. A safe and effective vaccine protects against hepatitis B, and people living with it do not need to be excluded from family meals.",
+    "keywords": [
+      "hepatitis b",
+      "hep b food",
+      "sharing plates",
+      "hepatitis spread",
+      "liver infection",
+      "jaundice spread",
+      "hepatitis cups"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Hepatitis B",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-b"
+      },
+      {
+        "label": "NHS — Hepatitis B",
+        "url": "https://www.nhs.uk/conditions/hepatitis-b/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "hiv-from-mosquitoes-or-cups",
+    "category": "Infections & colds",
+    "myth": "You can catch HIV from mosquito bites, sharing cups or hugging.",
+    "rating": "false",
+    "fact": "HIV is not spread by mosquitoes, kissing, hugging, shaking hands or sharing cups, food, toilets or towels. It spreads through certain body fluids, mainly during sex without a condom, by sharing needles, or from mother to baby.",
+    "explanation": "Fear of casual contact adds to the stigma faced by people living with HIV. Condoms, PrEP medicine, testing and treatment all prevent the spread of HIV.",
+    "keywords": [
+      "hiv mosquito",
+      "hiv cups",
+      "hiv kissing",
+      "catch hiv",
+      "aids spread",
+      "hiv hugging",
+      "how hiv spreads"
+    ],
+    "sources": [
+      {
+        "label": "WHO — HIV and AIDS",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/hiv-aids"
+      },
+      {
+        "label": "NHS — HIV and AIDS",
+        "url": "https://www.nhs.uk/conditions/hiv-and-aids/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "hiv-undetectable-untransmittable",
+    "category": "Infections & colds",
+    "myth": "People with HIV who take treatment and have an undetectable viral load cannot pass HIV on through sex.",
+    "rating": "true",
+    "fact": "Yes. People living with HIV who take antiretroviral treatment and keep an undetectable viral load do not transmit HIV to their sexual partners. This is often called \"undetectable = untransmittable\" (U=U).",
+    "explanation": "Treatment needs to be taken every day as prescribed, with regular blood tests to check the virus stays undetectable. With effective treatment, people with HIV can expect a near-normal life expectancy. Condoms still protect against other sexually transmitted infections.",
+    "keywords": [
+      "u=u",
+      "undetectable",
+      "untransmittable",
+      "hiv viral load",
+      "hiv treatment",
+      "art",
+      "hiv partner",
+      "cannot pass on hiv"
+    ],
+    "sources": [
+      {
+        "label": "WHO — HIV and AIDS",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/hiv-aids"
+      },
+      {
+        "label": "NHS — HIV and AIDS",
+        "url": "https://www.nhs.uk/conditions/hiv-and-aids/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "hiv-cured-by-herbs",
+    "category": "Infections & colds",
+    "myth": "HIV can be cured with herbal remedies or special diets.",
+    "rating": "false",
+    "fact": "There is no cure for HIV. Antiretroviral medicines keep the virus under control, protect the immune system and prevent HIV being passed on, but they must be taken for life.",
+    "explanation": "People who stop their medicines in favour of herbal \"cures\" risk becoming very ill with AIDS-related infections. Some herbal products can also interact with HIV medicines and make them less effective. Talk to your HIV clinic before taking any supplement.",
+    "keywords": [
+      "hiv cure",
+      "herbal hiv cure",
+      "aids cure",
+      "natural hiv treatment",
+      "stop arvs",
+      "hiv diet cure",
+      "traditional healer hiv"
+    ],
+    "sources": [
+      {
+        "label": "WHO — HIV and AIDS",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/hiv-aids"
+      },
+      {
+        "label": "MedlinePlus — HIV medicines",
+        "url": "https://medlineplus.gov/hivmedicines.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "lyme-always-bullseye-rash",
+    "category": "Infections & colds",
+    "myth": "If you have Lyme disease you'll always get a bullseye rash.",
+    "rating": "false",
+    "fact": "Not everyone with Lyme disease gets a rash, and when there is one it does not always look like a bullseye. Some people first notice flu-like symptoms such as fever, tiredness and aching joints.",
+    "explanation": "Lyme disease is spread by infected ticks. If you develop a spreading rash or flu-like illness in the weeks after a tick bite or time in grassy or wooded areas, tell a doctor, because early antibiotic treatment works well.",
+    "keywords": [
+      "lyme disease",
+      "bullseye rash",
+      "tick bite",
+      "erythema migrans",
+      "lyme symptoms",
+      "no rash lyme",
+      "tick fever"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Lyme disease",
+        "url": "https://www.nhs.uk/conditions/lyme-disease/"
+      },
+      {
+        "label": "MedlinePlus — Lyme disease",
+        "url": "https://medlineplus.gov/lymedisease.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "long-covid-not-real",
+    "category": "Infections & colds",
+    "myth": "Long COVID isn't real; it's just anxiety or people being lazy.",
+    "rating": "false",
+    "fact": "Long COVID (post COVID-19 condition) is recognised by the WHO and health services. It describes symptoms such as fatigue, breathlessness and problems with memory and concentration that last for months after infection and cannot be explained by another cause.",
+    "explanation": "It can affect people who had a mild infection. Symptoms can come and go and may affect the ability to work or study. Support services and rehabilitation can help, and many people improve over time.",
+    "keywords": [
+      "long covid",
+      "post covid",
+      "post covid-19 condition",
+      "brain fog",
+      "fatigue after covid",
+      "long covid fake",
+      "long haulers"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Post COVID-19 condition (long COVID)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/post-covid-19-condition-(long-covid)"
+      },
+      {
+        "label": "NHS — Long COVID",
+        "url": "https://www.nhs.uk/conditions/long-covid/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "masks-cause-oxygen-deprivation",
+    "category": "Infections & colds",
+    "myth": "Wearing a face mask lowers your oxygen levels and poisons you with carbon dioxide.",
+    "rating": "false",
+    "fact": "Properly worn face masks do not cause oxygen shortage or carbon dioxide poisoning in healthy people. Oxygen and carbon dioxide molecules pass easily through mask material.",
+    "explanation": "Health workers wear masks for long shifts without harm. Masks can feel uncomfortable, and people with severe breathing problems or young children may not be advised to wear them. Change a mask if it becomes damp or dirty.",
+    "keywords": [
+      "mask oxygen",
+      "mask carbon dioxide",
+      "co2 poisoning",
+      "hypoxia mask",
+      "face mask harmful",
+      "masks low oxygen",
+      "mask breathing"
+    ],
+    "sources": [
+      {
+        "label": "WHO — COVID-19: masks (Q&A)",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/coronavirus-disease-covid-19-masks"
+      },
+      {
+        "label": "WHO — COVID-19 mythbusters",
+        "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "bananas-curd-cause-colds",
+    "category": "Infections & colds",
+    "myth": "Eating bananas, curd or other \"cold\" foods gives you a cold.",
+    "rating": "false",
+    "fact": "Colds are caused by viruses that spread from person to person. Bananas, yoghurt, curd and other foods do not cause colds.",
+    "explanation": "The idea of \"cold\" and \"hot\" foods comes from traditional systems of medicine in many cultures, but foods cannot give you a viral infection. Bananas and curd are nutritious and can be eaten when you have a cold. Handwashing and avoiding close contact with sick people are what reduce the spread of colds.",
+    "keywords": [
+      "banana cold",
+      "curd cold",
+      "yoghurt cough",
+      "cold foods",
+      "cooling foods",
+      "cough from banana",
+      "dahi cold",
+      "food causes cold"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Common cold",
+        "url": "https://www.nhs.uk/conditions/common-cold/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "mpox-only-affects-gay-men",
+    "category": "Infections & colds",
+    "myth": "Mpox only affects gay men.",
+    "rating": "false",
+    "fact": "Anyone can catch mpox through close contact with an infected person, including skin-to-skin and sexual contact, contact with contaminated items, or from infected animals. It affects people of any sex or sexuality.",
+    "explanation": "During the 2022 global outbreak most cases were in men who have sex with men, but outbreaks in parts of Africa have affected children and whole households. Vaccines are available for people at higher risk. Stigma can stop people from getting tested and treated.",
+    "keywords": [
+      "mpox",
+      "monkeypox",
+      "gay disease",
+      "mpox who gets it",
+      "mpox spread",
+      "mpox vaccine",
+      "mpox rash"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Mpox",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/mpox"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "diarrhoea-always-needs-antibiotics",
+    "category": "Infections & colds",
+    "myth": "Every bout of diarrhoea needs antibiotics to stop it.",
+    "rating": "false",
+    "fact": "Most diarrhoea is caused by viruses or clears up on its own, and antibiotics do not help. The most important treatment is replacing lost fluids, ideally with oral rehydration solution (ORS); for children, zinc tablets are also recommended in many countries.",
+    "explanation": "Antibiotics are only needed for certain bacterial infections, such as cholera or severe bloody diarrhoea, and using them unnecessarily causes side effects and resistance. Get medical help quickly for signs of dehydration, blood in the stool, high fever, or diarrhoea in a young baby.",
+    "keywords": [
+      "diarrhoea antibiotics",
+      "diarrhea",
+      "loose motions",
+      "ors",
+      "oral rehydration",
+      "stomach bug",
+      "metronidazole diarrhoea",
+      "zinc diarrhoea"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Diarrhoeal disease",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease"
+      },
+      {
+        "label": "MedlinePlus — Antibiotics",
+        "url": "https://medlineplus.gov/antibiotics.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "baking-soda-cures-cancer-fungus",
+    "category": "Cancer",
+    "myth": "Cancer is really a fungus, and baking soda (bicarbonate) can cure it.",
+    "rating": "false",
+    "fact": "Cancer is not a fungus; it is a disease in which the body's own cells grow out of control because of changes in their genes. Baking soda does not cure cancer.",
+    "explanation": "Injecting or swallowing large amounts of bicarbonate can dangerously upset the body's chemistry and has caused deaths. People who promote this idea have no evidence from clinical studies. Delaying proven treatment can allow a curable cancer to spread.",
+    "keywords": [
+      "baking soda cancer",
+      "bicarbonate cancer",
+      "cancer is a fungus",
+      "sodium bicarbonate",
+      "simoncini",
+      "fungus cancer",
+      "candida cancer"
+    ],
+    "sources": [
+      {
+        "label": "National Cancer Institute — What is cancer?",
+        "url": "https://www.cancer.gov/about-cancer/understanding/what-is-cancer"
+      },
+      {
+        "label": "National Cancer Institute — Complementary and alternative medicine",
+        "url": "https://www.cancer.gov/about-cancer/treatment/cam"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "animal-dewormer-cures-cancer",
+    "category": "Cancer",
+    "myth": "Animal dewormers like fenbendazole or ivermectin cure cancer.",
+    "rating": "false",
+    "fact": "Fenbendazole and ivermectin have not been shown in clinical trials to cure cancer in people. Results from cells in a lab dish or from personal stories are not evidence that a drug works or is safe in patients.",
+    "explanation": "Taking livestock products or high doses of antiparasitic drugs can cause side effects, including liver damage, and they may interact with cancer treatment. Some drugs are being studied in research, but anyone considering them should talk to their cancer team rather than stopping proven treatment.",
+    "keywords": [
+      "fenbendazole",
+      "ivermectin cancer",
+      "dog dewormer",
+      "joe tippens",
+      "mebendazole cancer",
+      "dewormer cancer cure",
+      "panacur"
+    ],
+    "sources": [
+      {
+        "label": "National Cancer Institute — Complementary and alternative medicine",
+        "url": "https://www.cancer.gov/about-cancer/treatment/cam"
+      },
+      {
+        "label": "FDA — Products claiming to \"cure\" cancer are a cruel deception",
+        "url": "https://www.fda.gov/consumers/consumer-updates/products-claiming-cure-cancer-are-cruel-deception"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "cancer-cure-hidden-by-pharma",
+    "category": "Cancer",
+    "myth": "There is a cure for cancer, but drug companies and governments are hiding it.",
+    "rating": "false",
+    "fact": "Cancer is not one disease but hundreds, with different causes and treatments, so a single cure is unlikely. Many cancers can already be cured, especially when found early, and researchers around the world share their results publicly.",
+    "explanation": "A company or country that found a cure would gain enormous profit and prestige, and doctors and scientists also get cancer and lose loved ones to it. Treatments such as surgery, radiotherapy, chemotherapy, immunotherapy and targeted drugs have greatly improved survival for many cancers.",
+    "keywords": [
+      "cancer cure hidden",
+      "big pharma cancer",
+      "suppressed cure",
+      "cancer conspiracy",
+      "cure for cancer exists",
+      "cancer industry",
+      "secret cure"
+    ],
+    "sources": [
+      {
+        "label": "National Cancer Institute — What is cancer?",
+        "url": "https://www.cancer.gov/about-cancer/understanding/what-is-cancer"
+      },
+      {
+        "label": "National Cancer Institute — Common cancer myths and misconceptions",
+        "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "hair-dye-causes-cancer",
+    "category": "Cancer",
+    "myth": "Dyeing your hair gives you cancer.",
+    "rating": "misleading",
+    "fact": "Studies of personal hair dye use have not shown a clear link with cancer. Some studies have found small possible increases in certain cancers, but the results are inconsistent.",
+    "explanation": "Some chemicals in hair dyes made before the 1980s were found to cause cancer in animals, and manufacturers changed their formulas. Hairdressers who work with dyes every day may have a slightly higher risk of some cancers. Following the product instructions and wearing gloves reduces exposure.",
+    "keywords": [
+      "hair dye cancer",
+      "hair colour",
+      "hair color cancer",
+      "bladder cancer hair dye",
+      "hairdressers cancer",
+      "dark hair dye",
+      "permanent dye"
+    ],
+    "sources": [
+      {
+        "label": "National Cancer Institute — Hair dyes and cancer risk",
+        "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/substances/hair-dyes-fact-sheet"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "aspartame-causes-cancer",
+    "category": "Cancer",
+    "myth": "Aspartame and diet drinks give you cancer.",
+    "rating": "misleading",
+    "fact": "In 2023 a WHO cancer agency classed aspartame as \"possibly carcinogenic\", based on limited evidence. At the same time, a WHO and FAO expert committee kept the acceptable daily intake unchanged, meaning normal consumption is considered safe.",
+    "explanation": "The acceptable daily intake is 40 mg per kg of body weight a day, which for most adults is far more than they would get from a few cans of diet drink. \"Possibly carcinogenic\" reflects uncertainty in the evidence, not proof that aspartame causes cancer. Research is continuing.",
+    "keywords": [
+      "aspartame",
+      "diet coke cancer",
+      "artificial sweetener cancer",
+      "sweeteners cancer",
+      "diet soda",
+      "sugar free drinks cancer",
+      "possibly carcinogenic"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Aspartame hazard and risk assessment results released",
+        "url": "https://www.who.int/news/item/14-07-2023-aspartame-hazard-and-risk-assessment-results-released"
+      },
+      {
+        "label": "National Cancer Institute — Artificial sweeteners and cancer",
+        "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/artificial-sweeteners-fact-sheet"
+      },
+      {
+        "label": "FDA — Aspartame and other sweeteners in food",
+        "url": "https://www.fda.gov/food/food-additives-petitions/aspartame-and-other-sweeteners-food"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "burnt-toast-causes-cancer",
+    "category": "Cancer",
+    "myth": "Eating burnt toast or crispy chips will give you cancer.",
+    "rating": "misleading",
+    "fact": "Browning starchy foods at high temperatures forms acrylamide, which causes cancer in animals at high doses. Studies in people have not found a consistent link between acrylamide in food and cancer.",
+    "explanation": "Because the evidence in animals exists, experts suggest aiming for a golden colour rather than dark brown or burnt when toasting, frying or roasting starchy foods. Not smoking, limiting alcohol and keeping a healthy weight have far larger effects on cancer risk.",
+    "keywords": [
+      "burnt toast",
+      "acrylamide",
+      "crispy chips cancer",
+      "burnt food cancer",
+      "roast potatoes cancer",
+      "fried food cancer",
+      "golden not brown"
+    ],
+    "sources": [
+      {
+        "label": "National Cancer Institute — Acrylamide and cancer risk",
+        "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/acrylamide-fact-sheet"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "painless-lump-not-cancer",
+    "category": "Cancer",
+    "myth": "A lump that doesn't hurt can't be cancer.",
+    "rating": "false",
+    "fact": "Many cancerous lumps are painless, especially early on. Any new lump or swelling that does not go away should be checked by a doctor, whether or not it hurts.",
+    "explanation": "Most lumps turn out not to be cancer, but getting them checked is the only way to know. Cancers found early are usually easier to treat. Other signs worth checking include unexplained weight loss, unusual bleeding and changes to moles.",
+    "keywords": [
+      "painless lump",
+      "lump doesnt hurt",
+      "breast lump",
+      "lump in neck",
+      "testicle lump",
+      "is my lump cancer",
+      "swelling"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Cancer",
+        "url": "https://www.nhs.uk/conditions/cancer/"
+      },
+      {
+        "label": "National Cancer Institute — Symptoms of cancer",
+        "url": "https://www.cancer.gov/about-cancer/diagnosis-staging/symptoms"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "cancer-is-contagious",
+    "category": "Cancer",
+    "myth": "You can catch cancer from someone who has it.",
+    "rating": "false",
+    "fact": "Cancer cannot be passed from person to person like a cold or flu. You can safely hug, kiss and care for someone with cancer.",
+    "explanation": "Some viruses and bacteria that can be passed on, such as HPV, hepatitis B and C and H. pylori, raise the risk of certain cancers, but it is the infection that spreads, not the cancer. Vaccines against HPV and hepatitis B lower these risks.",
+    "keywords": [
+      "cancer contagious",
+      "catch cancer",
+      "cancer spread between people",
+      "is cancer infectious",
+      "caring for cancer patient",
+      "cancer touch"
+    ],
+    "sources": [
+      {
+        "label": "National Cancer Institute — Common cancer myths and misconceptions",
+        "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths"
+      },
+      {
+        "label": "National Cancer Institute — Infectious agents and cancer",
+        "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/infectious-agents"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "positive-thinking-cures-cancer",
+    "category": "Cancer",
+    "myth": "If you stay positive enough, you can beat cancer.",
+    "rating": "false",
+    "fact": "There is no good evidence that a positive attitude cures cancer or improves survival. Emotional support can improve quality of life, but outcomes depend on the cancer and its treatment.",
+    "explanation": "This belief can make people with cancer feel they are to blame if their illness gets worse, or that they are not allowed to feel sad or frightened. It is normal to have a mix of feelings, and counselling and support groups can help.",
+    "keywords": [
+      "positive attitude cancer",
+      "positive thinking",
+      "mind over cancer",
+      "fighting spirit",
+      "stay positive cancer",
+      "cancer attitude"
+    ],
+    "sources": [
+      {
+        "label": "National Cancer Institute — Common cancer myths and misconceptions",
+        "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths"
+      },
+      {
+        "label": "National Cancer Institute — Psychological stress and cancer",
+        "url": "https://www.cancer.gov/about-cancer/coping/feelings/stress-fact-sheet"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "stress-causes-cancer",
+    "category": "Cancer",
+    "myth": "Stress causes cancer.",
+    "rating": "misleading",
+    "fact": "Research has not shown that psychological stress directly causes cancer. Stress can lead to habits that do raise cancer risk, such as smoking, drinking more alcohol and overeating.",
+    "explanation": "Some studies suggest stress might affect how some cancers progress, but the evidence is not clear. Managing stress is good for overall wellbeing, and people who develop cancer should not blame themselves for having been stressed.",
+    "keywords": [
+      "stress cancer",
+      "stress causes cancer",
+      "worry cancer",
+      "trauma cancer",
+      "anxiety cancer",
+      "emotional cause of cancer"
+    ],
+    "sources": [
+      {
+        "label": "National Cancer Institute — Psychological stress and cancer",
+        "url": "https://www.cancer.gov/about-cancer/coping/feelings/stress-fact-sheet"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "chemo-kills-more-than-cancer",
+    "category": "Cancer",
+    "myth": "Chemotherapy kills more people than it saves; it's just poison.",
+    "rating": "false",
+    "fact": "Chemotherapy cures some cancers, such as many testicular cancers, lymphomas and childhood leukaemias, and helps many other people live longer or reduces the chance of cancer returning after surgery.",
+    "explanation": "Chemotherapy can cause serious side effects, and whether it is worthwhile depends on the type and stage of cancer, so it is important to discuss the benefits and risks with your cancer team. Treatments to prevent sickness and other side effects have improved a lot.",
+    "keywords": [
+      "chemo poison",
+      "chemotherapy kills",
+      "chemo useless",
+      "refuse chemotherapy",
+      "chemo side effects",
+      "chemo works",
+      "is chemo worth it"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Chemotherapy",
+        "url": "https://www.nhs.uk/tests-and-treatments/chemotherapy/"
+      },
+      {
+        "label": "National Cancer Institute — Chemotherapy to treat cancer",
+        "url": "https://www.cancer.gov/about-cancer/treatment/types/chemotherapy"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "gerson-juice-therapy-cures-cancer",
+    "category": "Cancer",
+    "myth": "Juicing and coffee enemas (the Gerson therapy) cure cancer.",
+    "rating": "false",
+    "fact": "No reliable studies show that the Gerson therapy, juice diets or coffee enemas cure cancer. Coffee enemas can cause serious infections, dehydration and salt imbalances.",
+    "explanation": "Eating plenty of vegetables and fruit is good for health, but no diet has been shown to cure cancer. People with cancer often need extra protein and energy, and very restrictive diets can cause weight loss and weakness. A dietitian can advise on eating well during treatment.",
+    "keywords": [
+      "gerson therapy",
+      "coffee enema",
+      "juice cure cancer",
+      "juicing cancer",
+      "raw food cancer",
+      "diet cures cancer",
+      "cancer diet"
+    ],
+    "sources": [
+      {
+        "label": "National Cancer Institute — Gerson therapy (PDQ)",
+        "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/gerson-pdq"
+      },
+      {
+        "label": "NCCIH — Cancer and complementary health approaches",
+        "url": "https://www.nccih.nih.gov/health/cancer-and-complementary-health-approaches-what-you-need-to-know"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]
