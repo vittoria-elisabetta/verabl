@@ -4524,10 +4524,6 @@
   "selfCareMaxDays": 21,
   "sources": [
    {
-    "label": "American Academy of Ophthalmology – Eyelid twitching",
-    "url": "https://www.aao.org/eye-health/diseases/what-is-eyelid-twitching"
-   },
-   {
     "label": "NHS – Eyelid problems",
     "url": "https://www.nhs.uk/symptoms/eyelid-problems/"
    }

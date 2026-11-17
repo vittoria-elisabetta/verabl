@@ -1,0 +1,313 @@
+[
+  {
+    "id": "ice-on-burns",
+    "category": "First aid",
+    "myth": "Putting ice on a burn is the best way to cool it down.",
+    "rating": "false",
+    "fact": "Ice, iced water and very cold packs can damage the skin further. Burns should be cooled with cool or lukewarm running water for 20 minutes as soon as possible.",
+    "explanation": "After cooling, keep the person warm so they don't get too cold, remove jewellery or clothing near the burn unless it is stuck, and cover the burn loosely with cling film or a clean plastic bag. Large, deep or facial burns, chemical or electrical burns, and burns in babies and young children need medical help.",
+    "keywords": ["ice on burn", "burn first aid", "ice pack burn", "cold water burn", "iced water burn", "how to treat a burn", "frozen peas burn"],
+    "sources": [
+      { "label": "NHS — Burns and scalds", "url": "https://www.nhs.uk/conditions/burns-and-scalds/" },
+      { "label": "American Red Cross — Burns", "url": "https://www.redcross.org/take-a-class/resources/learn-first-aid/burns" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "pop-burn-blisters",
+    "category": "First aid",
+    "myth": "You should pop the blisters from a burn so it heals faster.",
+    "rating": "false",
+    "fact": "Burn blisters should be left alone. The blister protects the damaged skin underneath, and bursting it increases the risk of infection.",
+    "explanation": "Keep the area clean and covered with a non-stick dressing. If a blister bursts on its own, gently clean it and cover it. Signs of infection, such as increasing pain, redness, swelling, pus or a high temperature, need medical attention.",
+    "keywords": ["burn blister", "pop blister", "burst blister", "blister from burn", "burn healing", "scald blister"],
+    "sources": [
+      { "label": "NHS — Burns and scalds", "url": "https://www.nhs.uk/conditions/burns-and-scalds/" },
+      { "label": "American Academy of Dermatology — How to treat a first-degree, minor burn", "url": "https://www.aad.org/public/everyday-care/injured-skin/burns/treat-minor-burns" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "choking-give-water-or-finger-sweep",
+    "category": "First aid",
+    "myth": "If someone is choking, give them water or reach into their mouth to pull the object out.",
+    "rating": "false",
+    "fact": "If someone can cough, encourage them to keep coughing. If they cannot cough, speak or breathe, give up to 5 sharp back blows between the shoulder blades and then up to 5 abdominal thrusts (chest thrusts for babies), and call emergency services if the blockage does not clear.",
+    "explanation": "Drinking water can make choking worse, and blind finger sweeps can push the object further down. Only remove an object if you can clearly see it and easily reach it. Anyone who has had abdominal thrusts should be checked by a doctor afterwards. A first aid course is the best way to learn these skills.",
+    "keywords": ["choking", "choking first aid", "back blows", "heimlich", "abdominal thrusts", "water for choking", "finger sweep", "something stuck in throat"],
+    "sources": [
+      { "label": "American Red Cross — Adult & child choking", "url": "https://www.redcross.org/take-a-class/resources/learn-first-aid/adult-child-choking" },
+      { "label": "NHS — How to stop a child from choking", "url": "https://www.nhs.uk/baby/first-aid-and-safety/first-aid/how-to-stop-a-child-from-choking/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "chew-aspirin-during-heart-attack",
+    "category": "First aid",
+    "myth": "Chewing an aspirin while waiting for help during a suspected heart attack can help.",
+    "rating": "mostly-true",
+    "fact": "Health services advise calling emergency services first, then, if the person is not allergic to aspirin and has not been told not to take it, having them slowly chew an adult aspirin tablet. Aspirin helps thin the blood and can improve blood flow to the heart.",
+    "explanation": "Aspirin is not a replacement for emergency care, and calling for an ambulance comes first. The person should sit and rest while waiting. Emergency call handlers can advise whether aspirin is suitable, for example for people with bleeding problems or already on blood thinners.",
+    "keywords": ["aspirin heart attack", "chew aspirin", "heart attack first aid", "chest pain aspirin", "300mg aspirin", "what to do heart attack"],
+    "sources": [
+      { "label": "NHS — Heart attack", "url": "https://www.nhs.uk/conditions/heart-attack/" },
+      { "label": "American Red Cross — Heart attack", "url": "https://www.redcross.org/take-a-class/resources/learn-first-aid/heart-attack" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "stroke-symptoms-gone-no-help-needed",
+    "category": "First aid",
+    "myth": "If stroke-like symptoms go away after a few minutes, there's no need to get help.",
+    "rating": "false",
+    "fact": "Symptoms of a stroke that pass quickly may be a transient ischaemic attack (TIA, or 'mini-stroke'). A TIA is a warning sign that a full stroke may follow, so emergency help should still be called, even if the symptoms have gone.",
+    "explanation": "Use FAST to spot a stroke: Face drooping, Arm weakness, Speech problems, Time to call emergency services. Prompt assessment and treatment after a TIA greatly lowers the risk of a stroke.",
+    "keywords": ["mini stroke", "tia", "transient ischaemic attack", "stroke symptoms went away", "fast test", "stroke warning", "face drooping"],
+    "sources": [
+      { "label": "NHS — Transient ischaemic attack (TIA)", "url": "https://www.nhs.uk/conditions/transient-ischaemic-attack-tia/" },
+      { "label": "NHS — Stroke symptoms", "url": "https://www.nhs.uk/conditions/stroke/symptoms/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "prick-fingers-to-treat-stroke",
+    "category": "First aid",
+    "myth": "Pricking a stroke victim's fingertips or earlobes with a needle to let out blood can save them.",
+    "rating": "false",
+    "fact": "There is no evidence that bloodletting from the fingers or ears helps someone having a stroke. The only effective first aid is to call emergency services immediately so the person can get hospital treatment quickly.",
+    "explanation": "This advice has circulated for years in chain messages. Strokes caused by a clot can sometimes be treated with clot-busting medicines or a procedure to remove the clot, but only within hours, so every minute matters. Don't give the person anything to eat or drink while waiting for help.",
+    "keywords": ["prick fingers stroke", "needle stroke", "bloodletting stroke", "stroke first aid", "earlobe stroke", "whatsapp stroke", "stroke home remedy"],
+    "sources": [
+      { "label": "NHS — Stroke symptoms", "url": "https://www.nhs.uk/conditions/stroke/symptoms/" },
+      { "label": "American Red Cross — Stroke", "url": "https://www.redcross.org/take-a-class/resources/learn-first-aid/stroke" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "raw-steak-on-black-eye",
+    "category": "First aid",
+    "myth": "Put a raw steak on a black eye.",
+    "rating": "false",
+    "fact": "A black eye is best treated with a cold compress, such as an ice pack or a bag of frozen peas wrapped in a towel, held gently on the area for a few minutes at a time. Raw meat is not recommended, as it can carry bacteria that may cause infection.",
+    "explanation": "The cold reduces swelling, and any cold object would do the same job as the steak once did. Get urgent help if there are vision changes, blood in the eye, severe pain, or a head injury with vomiting or drowsiness.",
+    "keywords": ["black eye", "raw steak", "steak on eye", "bruised eye", "shiner", "swollen eye", "black eye treatment"],
+    "sources": [
+      { "label": "NHS — Black eye", "url": "https://www.nhs.uk/conditions/black-eye/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "burn-or-smother-ticks",
+    "category": "First aid",
+    "myth": "The best way to remove a tick is to burn it with a match or smother it with Vaseline or nail polish.",
+    "rating": "false",
+    "fact": "Ticks should be removed as soon as possible with fine-tipped tweezers or a tick-removal tool, grasping the tick close to the skin and pulling upwards slowly and steadily. Afterwards, clean the bite and wash your hands.",
+    "explanation": "Burning or smothering a tick takes time and may cause it to release more fluid into the bite, which could raise the risk of infections such as Lyme disease. Watch the area for a spreading circular red rash or flu-like symptoms over the following weeks and see a doctor if they appear.",
+    "keywords": ["tick removal", "remove tick", "burn tick", "vaseline tick", "tick bite", "lyme disease", "nail polish tick"],
+    "sources": [
+      { "label": "NHS — Lyme disease", "url": "https://www.nhs.uk/conditions/lyme-disease/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "alcohol-warms-up-cold-person",
+    "category": "First aid",
+    "myth": "A shot of brandy or whisky will warm up someone who is very cold.",
+    "rating": "false",
+    "fact": "Alcohol makes you feel warmer by widening blood vessels near the skin, but this actually increases heat loss from the body. Someone who may have hypothermia should not be given alcohol.",
+    "explanation": "Move the person somewhere warm, remove wet clothing, wrap them in blankets and give warm, non-alcoholic drinks and sugary food if they are fully alert. Don't rub their arms and legs or put them in a hot bath. Hypothermia is a medical emergency, so call for help.",
+    "keywords": ["hypothermia", "brandy cold", "alcohol warm up", "whisky cold", "very cold person", "warming up", "st bernard brandy"],
+    "sources": [
+      { "label": "NHS — Hypothermia", "url": "https://www.nhs.uk/conditions/hypothermia/" },
+      { "label": "American Red Cross — Hypothermia", "url": "https://www.redcross.org/take-a-class/resources/learn-first-aid/hypothermia" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "rub-frostbite-with-snow",
+    "category": "First aid",
+    "myth": "Rub frostbitten fingers or toes with snow to warm them up.",
+    "rating": "false",
+    "fact": "Rubbing frostbitten skin, with snow or anything else, can cause more damage. Frostbitten areas should be warmed gently, for example in warm (not hot) water, and only when there is no risk of them refreezing.",
+    "explanation": "Don't use direct heat such as a fire or heater, as numb skin burns easily. Frostbite needs medical assessment, and the person may also have hypothermia. Remove wet clothing and keep them warm while getting help.",
+    "keywords": ["frostbite", "rub with snow", "frozen fingers", "frostnip", "warm frostbite", "cold injury"],
+    "sources": [
+      { "label": "NHS — Frostbite", "url": "https://www.nhs.uk/conditions/frostbite/" },
+      { "label": "American Red Cross — Frostbite", "url": "https://www.redcross.org/take-a-class/resources/learn-first-aid/frostbite" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "heat-on-fresh-sprain",
+    "category": "First aid",
+    "myth": "Put a hot water bottle or heat pad on a fresh sprain to help it heal.",
+    "rating": "false",
+    "fact": "For the first few days after a sprain or strain, health services advise rest, ice (wrapped in a towel), compression and raising the injured area. Heat, along with alcohol, running and massage, should be avoided early on because it can increase swelling.",
+    "explanation": "After the first few days, gentle movement helps recovery. See a doctor if you can't put weight on the injury, if it looks deformed, or if the pain and swelling do not start to improve.",
+    "keywords": ["sprain", "sprained ankle", "heat or ice", "rice", "strain", "twisted ankle", "hot water bottle sprain"],
+    "sources": [
+      { "label": "NHS — Sprains and strains", "url": "https://www.nhs.uk/conditions/sprains-and-strains/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "wounds-heal-better-in-air",
+    "category": "First aid",
+    "myth": "Cuts and grazes heal best if you leave them uncovered to dry out and scab.",
+    "rating": "misleading",
+    "fact": "Dermatologists advise keeping a clean wound moist, for example with petroleum jelly, and covered with a dressing. Moist wounds tend to heal well and may scar less than wounds left to dry out and form thick scabs.",
+    "explanation": "First, stop any bleeding with pressure and rinse the wound with clean water. Change the dressing regularly. Seek help for deep or gaping cuts, wounds that won't stop bleeding, bites, or signs of infection such as spreading redness, swelling, pus or fever.",
+    "keywords": ["let wound breathe", "air dry wound", "scab", "cut healing", "graze", "cover a cut", "wound care", "plaster"],
+    "sources": [
+      { "label": "American Academy of Dermatology — Proper wound care", "url": "https://www.aad.org/public/everyday-care/injured-skin/burns/wound-care-minimize-scars" },
+      { "label": "NHS — Cuts and grazes", "url": "https://www.nhs.uk/conditions/cuts-and-grazes/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "only-trained-people-use-defibrillator",
+    "category": "First aid",
+    "myth": "Only trained medical staff should use a defibrillator, because you could shock someone who doesn't need it.",
+    "rating": "false",
+    "fact": "Public-access defibrillators (AEDs) are designed for anyone to use. They give spoken instructions and analyse the heart rhythm, delivering a shock only if it is needed.",
+    "explanation": "If someone collapses and is not breathing normally, call emergency services, start CPR and ask someone to fetch the nearest AED. Using an AED quickly, alongside CPR, greatly improves the chance of survival from cardiac arrest.",
+    "keywords": ["defibrillator", "aed", "use defibrillator", "cardiac arrest", "shock heart", "public defibrillator", "untrained aed"],
+    "sources": [
+      { "label": "American Red Cross — Using an AED", "url": "https://www.redcross.org/take-a-class/aed/using-an-aed" },
+      { "label": "American Red Cross — CPR steps", "url": "https://www.redcross.org/take-a-class/cpr/performing-cpr/cpr-steps" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "give-insulin-to-collapsed-diabetic",
+    "category": "First aid",
+    "myth": "If someone with diabetes suddenly becomes shaky, confused or collapses, you should give them insulin.",
+    "rating": "false",
+    "fact": "Sudden shakiness, sweating and confusion in someone with diabetes are often signs of low blood sugar (a 'hypo'), which insulin would make worse. If they are awake and able to swallow, give a sugary drink, sweets or glucose tablets.",
+    "explanation": "If the person is unconscious, do not give them anything by mouth; put them in the recovery position and call emergency services. Some people carry a glucagon kit that trained family members can use. After a hypo, they should eat a longer-acting carbohydrate snack once they feel better.",
+    "keywords": ["diabetic hypo", "low blood sugar", "hypoglycaemia", "hypoglycemia", "give insulin", "diabetic collapse", "diabetic emergency", "sugar for diabetic"],
+    "sources": [
+      { "label": "NHS — Low blood sugar (hypoglycaemia)", "url": "https://www.nhs.uk/conditions/low-blood-sugar-hypoglycaemia/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "stopped-sweating-in-heat-means-cooling",
+    "category": "First aid",
+    "myth": "If someone who is overheating stops sweating, it means they are cooling down.",
+    "rating": "false",
+    "fact": "Not sweating even though someone feels too hot can be a sign of heatstroke, a medical emergency. Other signs include confusion, a fast heartbeat, fast breathing, a seizure or loss of consciousness.",
+    "explanation": "Call emergency services, move the person somewhere cool, and cool them with water, wet cloths and fanning while waiting. If they are alert and can swallow, give them water to sip. Heat exhaustion can turn into heatstroke if the person is not cooled down quickly.",
+    "keywords": ["heatstroke", "heat stroke", "stopped sweating", "heat exhaustion", "overheating", "not sweating hot", "hot weather collapse"],
+    "sources": [
+      { "label": "NHS — Heat exhaustion and heatstroke", "url": "https://www.nhs.uk/conditions/heat-exhaustion-heatstroke/" },
+      { "label": "American Red Cross — Heat stroke", "url": "https://www.redcross.org/take-a-class/resources/learn-first-aid/heat-stroke" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "coffee-cold-shower-sobers-you-up",
+    "category": "First aid",
+    "myth": "Black coffee or a cold shower will sober up someone who has drunk too much.",
+    "rating": "false",
+    "fact": "Only time lets the body clear alcohol. Coffee and cold showers do not lower blood alcohol, and a cold shower can make the person dangerously cold.",
+    "explanation": "Someone very drunk should not be left to 'sleep it off' alone, because alcohol levels can keep rising and they could choke on vomit. Keep them sitting up or on their side in the recovery position and stay with them. Call emergency services if they are confused, can't be woken, have slow or irregular breathing, are having a seizure or are very pale or cold.",
+    "keywords": ["sober up", "black coffee", "cold shower drunk", "alcohol poisoning", "sleep it off", "too drunk", "how to sober up"],
+    "sources": [
+      { "label": "NHS — Alcohol poisoning", "url": "https://www.nhs.uk/conditions/alcohol-poisoning/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "hold-down-person-during-seizure",
+    "category": "First aid",
+    "myth": "You should hold someone down during a seizure to stop them hurting themselves.",
+    "rating": "false",
+    "fact": "Do not restrain someone having a seizure. Instead, move dangerous objects away, cushion their head, loosen anything tight around the neck, time the seizure, and once it stops place them on their side.",
+    "explanation": "Holding someone down can cause injuries to them or to you, and it will not stop the seizure. Call emergency services if the seizure lasts more than 5 minutes, if one seizure follows another, if the person is injured, or if it is their first seizure.",
+    "keywords": ["seizure first aid", "hold down seizure", "restrain fit", "epilepsy", "fit", "convulsion", "what to do seizure"],
+    "sources": [
+      { "label": "American Red Cross — Seizures", "url": "https://www.redcross.org/take-a-class/resources/learn-first-aid/seizures" },
+      { "label": "NHS — Epilepsy", "url": "https://www.nhs.uk/conditions/epilepsy/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "recovery-position-protects-airway",
+    "category": "First aid",
+    "myth": "Putting an unconscious person who is breathing on their side (the recovery position) helps keep their airway clear.",
+    "rating": "true",
+    "fact": "Placing an unresponsive person who is breathing normally on their side helps keep the airway open and lets vomit or fluid drain out of the mouth rather than being breathed in.",
+    "explanation": "Call emergency services and keep checking their breathing. If they stop breathing normally, roll them onto their back and start CPR. If you suspect a spinal injury, try to keep the head and neck in line when moving them.",
+    "keywords": ["recovery position", "unconscious breathing", "put on side", "airway", "fainted person", "unresponsive", "first aid position"],
+    "sources": [
+      { "label": "American Red Cross — Unresponsive and breathing person", "url": "https://www.redcross.org/take-a-class/resources/learn-first-aid/unresponsive-and-breathing-person" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "only-rusty-nails-cause-tetanus",
+    "category": "First aid",
+    "myth": "You can only get tetanus from a rusty nail.",
+    "rating": "false",
+    "fact": "Tetanus is caused by bacteria that live in soil and manure, not by rust. They can get into any wound, including cuts, puncture wounds, burns and animal bites, especially if the wound is dirty.",
+    "explanation": "Rusty nails got the reputation because they are often dirty and cause deep puncture wounds. The tetanus vaccine is the best protection. If you have a dirty or deep wound and are not sure you're fully vaccinated, get medical advice promptly.",
+    "keywords": ["tetanus", "rusty nail", "lockjaw", "tetanus shot", "puncture wound", "dirty wound", "tetanus jab"],
+    "sources": [
+      { "label": "NHS — Tetanus", "url": "https://www.nhs.uk/conditions/tetanus/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "coffee-powder-on-cuts",
+    "category": "First aid",
+    "myth": "Putting coffee powder, turmeric or ash on a cut stops the bleeding and prevents infection.",
+    "rating": "false",
+    "fact": "The recommended way to stop bleeding is to press firmly on the wound with a clean cloth or dressing and, if possible, raise it. Powders and household substances are not sterile and can make infection more likely and wound cleaning harder.",
+    "explanation": "Once bleeding stops, rinse the cut under clean running water and cover it with a plaster or dressing. Seek medical help if bleeding is heavy or won't stop, the cut is deep or gaping, or there is something stuck in it.",
+    "keywords": ["coffee on cut", "turmeric on wound", "stop bleeding", "home remedy cut", "ash on wound", "powder on wound", "cut first aid"],
+    "sources": [
+      { "label": "NHS — Cuts and grazes", "url": "https://www.nhs.uk/conditions/cuts-and-grazes/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "no-knockout-no-concussion",
+    "category": "First aid",
+    "myth": "If you didn't get knocked out, you can't have concussion.",
+    "rating": "false",
+    "fact": "Most concussions happen without any loss of consciousness. Symptoms can include headache, dizziness, feeling sick, confusion, memory problems and feeling dazed, and they may appear hours after the injury.",
+    "explanation": "Anyone with a suspected concussion should stop sport or activity and not return the same day. Go to A&E or call emergency services for warning signs such as repeated vomiting, a worsening headache, drowsiness, seizures, weakness or clear fluid from the nose or ears.",
+    "keywords": ["concussion", "knocked out", "head injury", "didn't pass out", "concussion symptoms", "bang on head", "sports head injury"],
+    "sources": [
+      { "label": "NHS — Head injury and concussion", "url": "https://www.nhs.uk/conditions/head-injury-and-concussion/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "small-animal-bite-no-doctor",
+    "category": "First aid",
+    "myth": "A small dog or cat bite doesn't need medical attention if it isn't bleeding much.",
+    "rating": "false",
+    "fact": "Animal and human bites that break the skin can easily become infected, even when the wound looks small. Health services advise cleaning the bite straight away and getting medical advice, as antibiotics or a tetanus jab may be needed.",
+    "explanation": "Cat bites are especially likely to become infected because their teeth make deep, narrow punctures. Bites from animals abroad may carry a risk of rabies and need urgent advice. Watch for signs of infection such as redness, swelling, warmth, pus or fever.",
+    "keywords": ["dog bite", "cat bite", "animal bite", "bite infection", "rabies", "bite first aid", "human bite"],
+    "sources": [
+      { "label": "NHS — Animal and human bites", "url": "https://www.nhs.uk/conditions/animal-and-human-bites/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "milk-neutralises-swallowed-poison",
+    "category": "First aid",
+    "myth": "If someone swallows something poisonous, give them milk to neutralise it.",
+    "rating": "false",
+    "fact": "Milk does not neutralise poisons. Unless a medical professional advises otherwise, don't give the person anything to eat or drink; instead, get medical help straight away and take the packaging or substance with you.",
+    "explanation": "Call emergency services if the person is unconscious, having trouble breathing or having a seizure. For other cases, contact a medical helpline or poison centre. Don't try to make them vomit.",
+    "keywords": ["poisoning", "milk poison", "swallowed poison", "swallowed bleach", "neutralise poison", "child swallowed chemical", "poison first aid"],
+    "sources": [
+      { "label": "NHS — Poisoning", "url": "https://www.nhs.uk/conditions/poisoning/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]

@@ -1,0 +1,397 @@
+[
+  {
+    "id": "heartburn-means-hairy-baby",
+    "category": "Pregnancy & fertility",
+    "myth": "Bad heartburn in pregnancy means your baby will be born with lots of hair.",
+    "rating": "false",
+    "fact": "Heartburn in pregnancy is very common and is caused by pregnancy hormones relaxing the valve at the top of the stomach and by the growing baby pressing on the stomach. It is not a reliable way to predict how much hair a baby will have.",
+    "explanation": "Plenty of people with severe heartburn have babies with little hair, and the reverse. Heartburn usually eases after birth. Eating smaller meals, avoiding eating late at night and asking a midwife or pharmacist about pregnancy-safe remedies can help.",
+    "keywords": ["heartburn", "hairy baby", "baby hair", "indigestion pregnancy", "acid reflux pregnancy", "heartburn means hair", "old wives tale"],
+    "sources": [
+      { "label": "NHS — Indigestion and heartburn in pregnancy", "url": "https://www.nhs.uk/pregnancy/common-symptoms/indigestion-and-heartburn/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "ring-pendulum-predicts-baby-sex",
+    "category": "Pregnancy & fertility",
+    "myth": "Dangling a ring or needle on a thread over the bump or wrist shows whether you're having a boy or a girl.",
+    "rating": "false",
+    "fact": "The way a ring or needle swings cannot detect a baby's sex. The baby's sex is set by chromosomes at conception and can only be found reliably by an ultrasound scan later in pregnancy or by medical genetic tests.",
+    "explanation": "The ring test gets the answer right about half the time, which is what you would expect from guessing. Small, unconscious movements of the hand decide which way it swings. In many places the 20-week scan can show the baby's sex if you want to know, although some hospitals do not tell parents.",
+    "keywords": ["ring test", "pendulum test", "needle and thread", "boy or girl", "baby gender", "predict sex", "gender prediction", "wedding ring bump"],
+    "sources": [
+      { "label": "NHS — 20-week screening scan", "url": "https://www.nhs.uk/pregnancy/your-pregnancy-care/20-week-scan/" },
+      { "label": "NHS — Ultrasound scans in pregnancy", "url": "https://www.nhs.uk/pregnancy/your-pregnancy-care/ultrasound-scans/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "chinese-calendar-predicts-baby-sex",
+    "category": "Pregnancy & fertility",
+    "myth": "The Chinese gender calendar can predict or help you choose your baby's sex.",
+    "rating": "false",
+    "fact": "There is no evidence that a chart based on the mother's age and the month of conception can predict or influence a baby's sex. Whether a baby is a boy or a girl depends on whether the sperm that fertilises the egg carries an X or a Y chromosome.",
+    "explanation": "Because there are only two likely outcomes, the calendar will be 'right' about half the time, which makes it feel accurate. Studies that checked such charts against real births found they did no better than chance. A scan in mid-pregnancy is the usual way to find out.",
+    "keywords": ["chinese gender calendar", "chinese calendar", "gender chart", "choose baby sex", "boy or girl", "baby gender prediction", "conception chart"],
+    "sources": [
+      { "label": "NHS — 20-week screening scan", "url": "https://www.nhs.uk/pregnancy/your-pregnancy-care/20-week-scan/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "cravings-predict-baby-sex",
+    "category": "Pregnancy & fertility",
+    "myth": "Craving sweet foods means you're having a girl, and craving salty or sour foods means a boy.",
+    "rating": "false",
+    "fact": "Food cravings are common in pregnancy but they do not tell you the baby's sex. The sex of the baby is fixed by chromosomes at conception.",
+    "explanation": "Why cravings happen is not fully understood; hormones, changes in taste and smell, and habit may all play a part. Cravings are harmless as long as your overall diet stays balanced. Tell your midwife if you crave non-food items such as soil or ice, as this can sometimes be linked to low iron.",
+    "keywords": ["cravings", "sweet cravings girl", "salty cravings boy", "pregnancy cravings", "boy or girl", "baby gender", "sour cravings"],
+    "sources": [
+      { "label": "NHS — Have a healthy diet in pregnancy", "url": "https://www.nhs.uk/pregnancy/keeping-well/have-a-healthy-diet/" },
+      { "label": "NHS — 20-week screening scan", "url": "https://www.nhs.uk/pregnancy/your-pregnancy-care/20-week-scan/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "fetal-heart-rate-predicts-sex",
+    "category": "Pregnancy & fertility",
+    "myth": "A baby's heart rate above 140 beats a minute means it's a girl.",
+    "rating": "false",
+    "fact": "Studies comparing heart rates of boys and girls in the womb have found no meaningful difference. A baby's heart rate changes with the stage of pregnancy and with the baby's activity, not with its sex.",
+    "explanation": "A normal fetal heart rate is roughly 110 to 160 beats a minute and is faster in early pregnancy. Midwives listen to the heartbeat to check the baby's wellbeing, not to guess the sex. An ultrasound scan is the usual way to see the baby's sex.",
+    "keywords": ["fetal heart rate", "baby heartbeat", "heart rate gender", "140 bpm", "boy or girl", "heartbeat predicts sex", "baby gender"],
+    "sources": [
+      { "label": "NHS — Ultrasound scans in pregnancy", "url": "https://www.nhs.uk/pregnancy/your-pregnancy-care/ultrasound-scans/" },
+      { "label": "NHS — 20-week screening scan", "url": "https://www.nhs.uk/pregnancy/your-pregnancy-care/20-week-scan/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "bad-morning-sickness-means-girl",
+    "category": "Pregnancy & fertility",
+    "myth": "If your morning sickness is really bad, you must be having a girl.",
+    "rating": "misleading",
+    "fact": "Some studies have found that very severe sickness in pregnancy (hyperemesis gravidarum) is slightly more common when the baby is a girl, but the difference is small. Many people with severe sickness have boys, so it cannot be used to predict the baby's sex.",
+    "explanation": "Pregnancy sickness is linked to pregnancy hormones and is also more common in twin pregnancies and in people who had it before. What matters more than the sex is getting help: if you cannot keep food or fluids down, see a GP or midwife, as severe vomiting can be treated.",
+    "keywords": ["morning sickness girl", "severe morning sickness", "hyperemesis", "hyperemesis gravidarum", "sick in pregnancy", "boy or girl", "baby gender"],
+    "sources": [
+      { "label": "NHS — Vomiting and morning sickness", "url": "https://www.nhs.uk/pregnancy/common-symptoms/vomiting-and-morning-sickness/" },
+      { "label": "NHS — Severe vomiting in pregnancy", "url": "https://www.nhs.uk/pregnancy/complications/severe-vomiting/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "go-to-sleep-on-side-late-pregnancy",
+    "category": "Pregnancy & fertility",
+    "myth": "In the last three months of pregnancy, going to sleep on your side is safer for the baby than going to sleep on your back.",
+    "rating": "true",
+    "fact": "Research has found that going to sleep on your back after 28 weeks of pregnancy is linked with a higher risk of stillbirth. Health services advise settling down to sleep on your side, either left or right, from 28 weeks, for daytime naps as well as at night.",
+    "explanation": "Lying on your back late in pregnancy can press on major blood vessels and may reduce blood flow to the baby. If you wake up on your back, there is no need to worry; just turn onto your side. Pillows behind your back can help you stay on your side.",
+    "keywords": ["sleep on side", "sleeping position pregnancy", "sleep on back pregnancy", "stillbirth", "third trimester sleep", "left side sleeping", "28 weeks"],
+    "sources": [
+      { "label": "NHS — Stillbirth", "url": "https://www.nhs.uk/conditions/stillbirth/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "babies-move-less-late-pregnancy",
+    "category": "Pregnancy & fertility",
+    "myth": "It's normal for babies to move less towards the end of pregnancy because they run out of room.",
+    "rating": "false",
+    "fact": "Babies should keep moving right up to and during labour. The type of movement may change as the baby grows, but a reduction or change in your baby's usual pattern of movements can be a sign the baby is unwell.",
+    "explanation": "If you think your baby is moving less, or the pattern has changed, contact your midwife or maternity unit straight away, day or night, rather than waiting until the next day. Do not use home heartbeat monitors to reassure yourself. Most people who get checked are told all is well, but some babies need extra care.",
+    "keywords": ["reduced fetal movements", "baby moving less", "baby kicks", "less movement", "run out of room", "baby movements", "kick counts", "third trimester"],
+    "sources": [
+      { "label": "NHS — Your baby's movements", "url": "https://www.nhs.uk/pregnancy/keeping-well/your-babys-movements/" },
+      { "label": "NHS — Stillbirth", "url": "https://www.nhs.uk/conditions/stillbirth/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "get-rid-of-cat-when-pregnant",
+    "category": "Pregnancy & fertility",
+    "myth": "You have to get rid of your cat when you're pregnant.",
+    "rating": "misleading",
+    "fact": "Cat faeces can carry toxoplasmosis, an infection that can harm an unborn baby, but you do not need to give up your pet. Avoid emptying litter trays if possible (or wear gloves and wash your hands well), and wear gloves when gardening.",
+    "explanation": "Toxoplasmosis is also caught from eating raw or undercooked meat and unwashed fruit and vegetables, so food hygiene matters just as much. Most people who have had cats for a long time may already have been exposed. If you are worried you may have been infected, speak to a midwife or GP.",
+    "keywords": ["cat pregnancy", "cat litter", "toxoplasmosis", "pets pregnancy", "litter tray", "get rid of cat", "cat poo"],
+    "sources": [
+      { "label": "NHS — Toxoplasmosis", "url": "https://www.nhs.uk/conditions/toxoplasmosis/" },
+      { "label": "NHS — Foods to avoid in pregnancy", "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "flying-unsafe-in-pregnancy",
+    "category": "Pregnancy & fertility",
+    "myth": "Flying is dangerous for your unborn baby.",
+    "rating": "false",
+    "fact": "For most people with a straightforward pregnancy, flying is not harmful to the baby. Airlines may have rules about travelling late in pregnancy, often from around 37 weeks (earlier for twins), and may ask for a letter from your midwife or doctor after about 28 weeks.",
+    "explanation": "Long flights raise the risk of blood clots (DVT), so drink water, move around and consider compression stockings. Check your travel insurance covers pregnancy and that you can get care at your destination. If you have complications, ask your midwife or doctor before booking.",
+    "keywords": ["flying pregnant", "plane pregnancy", "air travel pregnancy", "fly while pregnant", "airport scanner", "travel pregnancy", "dvt pregnancy"],
+    "sources": [
+      { "label": "NHS — Travelling in pregnancy", "url": "https://www.nhs.uk/pregnancy/keeping-well/travelling/" },
+      { "label": "ACOG — Travel during pregnancy", "url": "https://www.acog.org/womens-health/faqs/travel-during-pregnancy" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "no-fish-in-pregnancy",
+    "category": "Pregnancy & fertility",
+    "myth": "You should stop eating fish when you're pregnant because of mercury.",
+    "rating": "false",
+    "fact": "Fish is a good source of protein and nutrients that help the baby develop, and eating fish in pregnancy is recommended. Only certain fish are limited: avoid shark, swordfish and marlin, and limit oily fish and tuna to the amounts your health service advises.",
+    "explanation": "The concern about mercury applies to large predatory fish, not to fish in general. UK advice, for example, is up to two portions of oily fish a week and to avoid raw shellfish. Cooked fish such as salmon, cod and sardines are good choices.",
+    "keywords": ["fish pregnancy", "mercury", "tuna pregnancy", "oily fish", "salmon pregnancy", "seafood pregnancy", "shark swordfish"],
+    "sources": [
+      { "label": "NHS — Foods to avoid in pregnancy", "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/" },
+      { "label": "NHS — Have a healthy diet in pregnancy", "url": "https://www.nhs.uk/pregnancy/keeping-well/have-a-healthy-diet/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "no-peanuts-in-pregnancy",
+    "category": "Pregnancy & fertility",
+    "myth": "Eating peanuts while pregnant will give your baby a nut allergy.",
+    "rating": "false",
+    "fact": "There is no clear evidence that eating peanuts in pregnancy causes peanut allergy in the baby. You can eat peanuts and foods containing them as part of a healthy diet, unless you are allergic to them yourself or a health professional advises otherwise.",
+    "explanation": "Advice to avoid peanuts in pregnancy was withdrawn once studies did not support it. Separately, research shows that introducing peanut foods to babies early, in a safe form, can lower the chance of peanut allergy. Whole nuts should never be given to young children because of choking.",
+    "keywords": ["peanuts pregnancy", "nuts pregnancy", "nut allergy", "peanut allergy baby", "peanut butter pregnant", "allergy in pregnancy"],
+    "sources": [
+      { "label": "NHS — Foods to avoid in pregnancy", "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "no-cheese-in-pregnancy",
+    "category": "Pregnancy & fertility",
+    "myth": "You can't eat any cheese when you're pregnant.",
+    "rating": "false",
+    "fact": "Most cheese is safe in pregnancy, including all hard cheeses such as cheddar and pasteurised soft cheeses such as cottage cheese and mozzarella. The ones to avoid uncooked are mould-ripened soft cheeses (like brie and camembert), soft blue cheeses and unpasteurised soft cheeses, because they can carry listeria.",
+    "explanation": "Listeria infection is rare but can cause miscarriage or serious illness in a newborn. Cooking kills listeria, so dishes with these cheeses cooked until steaming hot are fine. Cheese is a useful source of calcium and protein in pregnancy.",
+    "keywords": ["cheese pregnancy", "brie pregnancy", "soft cheese", "blue cheese", "listeria", "feta pregnancy", "unpasteurised cheese"],
+    "sources": [
+      { "label": "NHS — Foods to avoid in pregnancy", "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "pineapple-curry-start-labour",
+    "category": "Pregnancy & fertility",
+    "myth": "Eating pineapple or a hot curry will bring on labour.",
+    "rating": "false",
+    "fact": "There is no good evidence that pineapple, spicy food or other home remedies start labour. When labour needs to be started for medical reasons, it is done in hospital with methods such as a membrane sweep, medicines or breaking the waters.",
+    "explanation": "Most babies arrive within two weeks either side of the due date, so whatever someone tried last often gets the credit. Spicy food can cause heartburn or an upset stomach, and some remedies such as castor oil can cause diarrhoea and dehydration. If you are overdue, your midwife will talk to you about your options.",
+    "keywords": ["pineapple labour", "curry labour", "induce labour naturally", "bring on labour", "spicy food labour", "castor oil", "overdue"],
+    "sources": [
+      { "label": "NHS — Inducing labour", "url": "https://www.nhs.uk/pregnancy/labour-and-birth/inducing-labour/" },
+      { "label": "ACOG — When pregnancy goes past your due date", "url": "https://www.acog.org/womens-health/faqs/when-pregnancy-goes-past-your-due-date" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "vaccines-unsafe-in-pregnancy",
+    "category": "Pregnancy & fertility",
+    "myth": "Pregnant women should avoid all vaccines because they could harm the baby.",
+    "rating": "false",
+    "fact": "Some vaccines are specifically recommended in pregnancy, including whooping cough (pertussis), flu and, in many countries, RSV and COVID-19 vaccines. They protect the mother and pass antibodies to the baby, protecting it in the first weeks of life before it can be vaccinated.",
+    "explanation": "These vaccines have been given to very large numbers of pregnant people and are closely monitored for safety. Live vaccines, such as MMR, are usually avoided in pregnancy as a precaution, which is why it helps to check your vaccinations before trying to conceive. Your midwife or GP can tell you which vaccines are due and when.",
+    "keywords": ["vaccines in pregnancy", "whooping cough vaccine", "flu jab pregnant", "rsv vaccine pregnancy", "pertussis", "vaccinated while pregnant", "pregnancy jabs"],
+    "sources": [
+      { "label": "NHS — Vaccinations in pregnancy", "url": "https://www.nhs.uk/pregnancy/keeping-well/vaccinations/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "once-caesarean-always-caesarean",
+    "category": "Pregnancy & fertility",
+    "myth": "Once you've had a caesarean, all your future babies have to be born by caesarean.",
+    "rating": "false",
+    "fact": "Many people who have had a caesarean can safely have a vaginal birth next time, known as VBAC (vaginal birth after caesarean). Most of those who plan a VBAC give birth vaginally.",
+    "explanation": "Whether VBAC is a good option depends on the reason for the previous caesarean, the type of cut in the womb, how many caesareans you have had and your current pregnancy. There is a small risk of the scar opening during labour, so labour is monitored in hospital. Your midwife or obstetrician can help you weigh up the choices.",
+    "keywords": ["vbac", "vaginal birth after caesarean", "c-section", "caesarean", "cesarean", "repeat caesarean", "natural birth after c-section"],
+    "sources": [
+      { "label": "ACOG — Vaginal birth after cesarean delivery", "url": "https://www.acog.org/womens-health/faqs/vaginal-birth-after-cesarean-delivery" },
+      { "label": "NHS — Caesarean section", "url": "https://www.nhs.uk/tests-and-treatments/caesarean-section/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "epidural-causes-back-pain",
+    "category": "Pregnancy & fertility",
+    "myth": "Having an epidural in labour gives you long-term back pain.",
+    "rating": "false",
+    "fact": "Studies have not found that epidurals cause long-term back pain. Back pain is common after pregnancy whether or not a person had an epidural, because of the strain pregnancy puts on the back.",
+    "explanation": "The injection site may feel tender for a few days. Epidurals do have possible side effects, such as low blood pressure, itching or, rarely, a severe headache, which the team will explain. Pain relief in labour is a personal choice, and it helps to discuss options with your midwife in advance.",
+    "keywords": ["epidural", "epidural back pain", "labour pain relief", "back pain after birth", "spinal block", "epidural side effects"],
+    "sources": [
+      { "label": "NHS — Epidural", "url": "https://www.nhs.uk/tests-and-treatments/epidural/" },
+      { "label": "NHS — Pain relief in labour", "url": "https://www.nhs.uk/pregnancy/labour-and-birth/pain-relief-in-labour/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "miscarriage-is-rare",
+    "category": "Pregnancy & fertility",
+    "myth": "Miscarriage is rare and usually happens because the mother did something wrong.",
+    "rating": "false",
+    "fact": "Miscarriage is common: about 1 in 8 known pregnancies ends in miscarriage, and many more happen before a person knows they are pregnant. Most early miscarriages are caused by chromosome problems in the baby and are not caused by anything the mother did.",
+    "explanation": "Normal activities such as work, exercise, sex or a fall or shock are not usually the cause. Having one miscarriage does not mean you will not have a successful pregnancy next time. If you have had three or more in a row, doctors may offer tests to look for a cause.",
+    "keywords": ["miscarriage", "pregnancy loss", "how common is miscarriage", "miscarriage cause", "my fault", "early pregnancy loss", "1 in 8"],
+    "sources": [
+      { "label": "NHS — Miscarriage", "url": "https://www.nhs.uk/conditions/miscarriage/" },
+      { "label": "ACOG — Early pregnancy loss", "url": "https://www.acog.org/womens-health/faqs/early-pregnancy-loss" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "ectopic-pregnancy-can-be-moved",
+    "category": "Pregnancy & fertility",
+    "myth": "An ectopic pregnancy can be moved into the womb so it can continue.",
+    "rating": "false",
+    "fact": "There is no medical procedure that can move an ectopic pregnancy into the womb. An ectopic pregnancy, usually in a fallopian tube, cannot survive, and it can cause life-threatening bleeding if left to grow, so it needs treatment.",
+    "explanation": "Treatment may be careful monitoring, medicine (methotrexate) or keyhole surgery, depending on the situation. Symptoms can include one-sided tummy pain, vaginal bleeding and shoulder-tip pain; sudden severe pain or collapse is an emergency. Many people go on to have healthy pregnancies afterwards.",
+    "keywords": ["ectopic pregnancy", "move ectopic", "reimplant", "tubal pregnancy", "fallopian tube pregnancy", "save ectopic pregnancy", "methotrexate"],
+    "sources": [
+      { "label": "NHS — Ectopic pregnancy", "url": "https://www.nhs.uk/conditions/ectopic-pregnancy/" },
+      { "label": "ACOG — Ectopic pregnancy", "url": "https://www.acog.org/womens-health/faqs/ectopic-pregnancy" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "negative-test-means-not-pregnant",
+    "category": "Pregnancy & fertility",
+    "myth": "If a home pregnancy test is negative, you're definitely not pregnant.",
+    "rating": "misleading",
+    "fact": "Home pregnancy tests are accurate when used correctly, but a negative result can be wrong if you test too early, before there is enough pregnancy hormone (hCG) in your urine. Most tests work from the first day of a missed period.",
+    "explanation": "If you test early and get a negative result but still think you may be pregnant, test again a few days later, ideally with your first urine of the morning. Check the instructions, as tests vary in sensitivity. See a GP if you keep getting negative results but your period has not come.",
+    "keywords": ["pregnancy test", "negative pregnancy test", "false negative", "home pregnancy test", "test too early", "missed period", "hcg"],
+    "sources": [
+      { "label": "NHS — Doing a pregnancy test", "url": "https://www.nhs.uk/pregnancy/trying-for-a-baby/doing-a-pregnancy-test/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "paracetamol-pregnancy-causes-autism",
+    "category": "Pregnancy & fertility",
+    "myth": "Taking paracetamol (Tylenol, acetaminophen) during pregnancy causes autism.",
+    "rating": "false",
+    "fact": "Research has not shown that paracetamol in pregnancy causes autism. The WHO has said there is no conclusive evidence of a link and that no consistent association has been established, and paracetamol remains the usual first-choice painkiller in pregnancy.",
+    "explanation": "Some studies have reported associations, but these can be explained by other factors, such as the illness the medicine was taken for; large studies comparing siblings did not find a link. As with any medicine in pregnancy, use the lowest effective dose for the shortest time. High fever in pregnancy carries its own risks, so do not avoid treatment out of fear; ask a midwife, pharmacist or doctor.",
+    "keywords": ["paracetamol pregnancy", "tylenol autism", "acetaminophen autism", "painkillers pregnancy", "autism cause", "tylenol pregnancy", "fever in pregnancy"],
+    "sources": [
+      { "label": "WHO — Statement on autism-related issues (September 2025)", "url": "https://www.who.int/news/item/24-09-2025-who-statement-on-autism-related-issues" },
+      { "label": "NHS — Paracetamol for adults", "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "pregnancy-ultrasound-harms-baby",
+    "category": "Pregnancy & fertility",
+    "myth": "Ultrasound scans in pregnancy can harm the baby.",
+    "rating": "false",
+    "fact": "Ultrasound uses sound waves, not radiation, and there are no known risks to the baby or mother from routine pregnancy scans. They are used to check the baby's development and to look for some health conditions.",
+    "explanation": "Health services recommend scans done for medical reasons by trained staff. Some professional bodies discourage 'keepsake' scans that are long or repeated without a medical purpose, as a precaution. Ask your midwife if you have questions about what a scan can show.",
+    "keywords": ["ultrasound safe", "scan harm baby", "pregnancy scan", "ultrasound radiation", "dating scan", "anomaly scan", "sonogram"],
+    "sources": [
+      { "label": "NHS — Ultrasound scans in pregnancy", "url": "https://www.nhs.uk/pregnancy/your-pregnancy-care/ultrasound-scans/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "cutting-down-smoking-pregnancy-enough",
+    "category": "Pregnancy & fertility",
+    "myth": "Cutting down to a few cigarettes a day in pregnancy is as good as quitting, and a smaller baby means an easier birth.",
+    "rating": "false",
+    "fact": "Any smoking in pregnancy harms the baby: it raises the risk of miscarriage, premature birth, stillbirth, low birth weight and sudden infant death. Stopping completely, at any stage of pregnancy, is the best thing you can do for your baby.",
+    "explanation": "Babies who are small because of smoking are not easier to deliver; they are more likely to be unwell. Free stop-smoking support is available through maternity services, and nicotine replacement products are much safer than smoking. Second-hand smoke also affects the baby, so support for partners to quit helps too.",
+    "keywords": ["smoking pregnancy", "cut down smoking", "few cigarettes pregnant", "smaller baby easier birth", "quit smoking pregnant", "low birth weight", "vaping pregnancy"],
+    "sources": [
+      { "label": "NHS — Stop smoking in pregnancy", "url": "https://www.nhs.uk/pregnancy/keeping-well/stop-smoking/" },
+      { "label": "NHS — Stillbirth", "url": "https://www.nhs.uk/conditions/stillbirth/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "just-relax-and-you-will-conceive",
+    "category": "Pregnancy & fertility",
+    "myth": "If you just relax and stop trying so hard, you'll get pregnant.",
+    "rating": "misleading",
+    "fact": "Stress can affect sex drive and how often couples have sex, but infertility usually has medical causes, such as problems with ovulation, sperm or the fallopian tubes. Relaxing alone will not fix these.",
+    "explanation": "Most couples conceive within a year of regular unprotected sex. See a GP if you have not conceived after a year of trying, or sooner if you are 36 or over or know of a possible fertility problem. Being told to 'just relax' can feel dismissive; looking after your wellbeing is worthwhile, but it should not delay getting checked.",
+    "keywords": ["just relax", "stress infertility", "stop trying", "trying to conceive", "can't get pregnant", "fertility stress", "ttc"],
+    "sources": [
+      { "label": "NHS — Infertility", "url": "https://www.nhs.uk/conditions/infertility/" },
+      { "label": "WHO — Infertility", "url": "https://www.who.int/news-room/fact-sheets/detail/infertility" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "legs-up-after-sex-helps-conception",
+    "category": "Pregnancy & fertility",
+    "myth": "Lying with your legs up in the air after sex helps you get pregnant.",
+    "rating": "false",
+    "fact": "There is no good evidence that lying with your legs raised, or any particular sex position, makes pregnancy more likely. Sperm reach the cervix within minutes of ejaculation, whatever position you are in.",
+    "explanation": "What makes the biggest difference is having regular sex, every two to three days, throughout the cycle. Some semen leaking out afterwards is normal and does not reduce your chances. If you enjoy lying down for a while, it does no harm.",
+    "keywords": ["legs up after sex", "best position to conceive", "sex position pregnancy", "trying to conceive", "get pregnant faster", "semen leaking"],
+    "sources": [
+      { "label": "NHS — Trying to get pregnant", "url": "https://www.nhs.uk/pregnancy/trying-for-a-baby/trying-to-get-pregnant/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "only-sex-on-ovulation-day",
+    "category": "Pregnancy & fertility",
+    "myth": "To get pregnant you only need to have sex on the day you ovulate, and ovulation always happens on day 14.",
+    "rating": "false",
+    "fact": "The fertile window covers several days before ovulation as well as the day itself, because sperm can survive for up to about 5 days. Ovulation does not always happen on day 14; it varies between people and from cycle to cycle.",
+    "explanation": "Trying to time sex to one exact day can add stress and miss the best days. Health services suggest having sex every two to three days throughout the cycle. Ovulation kits and apps can help some people, but they are not essential.",
+    "keywords": ["ovulation day", "day 14", "fertile window", "when to have sex", "timing sex", "ovulation calculator", "trying to conceive"],
+    "sources": [
+      { "label": "NHS — Trying to get pregnant", "url": "https://www.nhs.uk/pregnancy/trying-for-a-baby/trying-to-get-pregnant/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "peeing-washing-after-sex-prevents-pregnancy",
+    "category": "Pregnancy & fertility",
+    "myth": "Peeing, washing or douching straight after sex stops you getting pregnant.",
+    "rating": "false",
+    "fact": "None of these prevent pregnancy. Sperm can reach the cervix within minutes, urine comes out of a different opening (the urethra), and douching does not remove sperm that have already entered the womb.",
+    "explanation": "If you have had sex without contraception, or contraception failed, emergency contraception can prevent pregnancy if used soon enough. The copper IUD is the most effective option and works up to 5 days after sex. Peeing after sex may help reduce urine infections, but it is not contraception.",
+    "keywords": ["pee after sex", "washing after sex", "douching after sex", "prevent pregnancy", "contraception myth", "urinate after sex", "jumping after sex"],
+    "sources": [
+      { "label": "NHS — Emergency contraception", "url": "https://www.nhs.uk/contraception/emergency-contraception/" },
+      { "label": "WHO — Family planning/contraception methods", "url": "https://www.who.int/news-room/fact-sheets/detail/family-planning-contraception" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "beer-boosts-breast-milk",
+    "category": "Pregnancy & fertility",
+    "myth": "Drinking beer or stout helps you make more breast milk.",
+    "rating": "false",
+    "fact": "Alcohol does not increase milk supply. It passes into breast milk and can reduce the amount of milk the baby gets and affect the baby's feeding and sleep.",
+    "explanation": "This is an old tradition in several countries, but the evidence points the other way. Milk supply is mainly driven by how often and how well the baby feeds. An occasional drink is unlikely to harm a breastfed baby, but avoid feeding for 2 to 3 hours after a drink, and never share a bed or sofa with your baby after drinking.",
+    "keywords": ["beer breast milk", "guinness breastfeeding", "stout milk supply", "alcohol breastfeeding", "increase milk supply", "breastfeeding drink"],
+    "sources": [
+      { "label": "NHS — Breastfeeding and drinking alcohol", "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-and-lifestyle/alcohol/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "small-breasts-cannot-breastfeed",
+    "category": "Pregnancy & fertility",
+    "myth": "Women with small breasts can't make enough milk to breastfeed.",
+    "rating": "false",
+    "fact": "Breast size mostly reflects the amount of fatty tissue, not the milk-producing tissue, so it does not determine how much milk you can make. Milk supply depends mainly on how often and how effectively the baby feeds.",
+    "explanation": "Feeding responsively, with a good latch, tells the body to make more milk. A small number of people do have medical reasons for low supply, so if your baby is not gaining weight or has few wet nappies, ask a midwife, health visitor or breastfeeding specialist for help.",
+    "keywords": ["small breasts", "breast size breastfeeding", "not enough milk", "milk supply", "low milk supply", "can't breastfeed"],
+    "sources": [
+      { "label": "NHS — Breastfeeding: the first few days", "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding/the-first-few-days/" },
+      { "label": "NHS — Breastfeeding problems", "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-problems/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]

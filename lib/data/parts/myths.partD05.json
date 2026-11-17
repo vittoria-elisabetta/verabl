@@ -1,0 +1,344 @@
+[
+  {
+    "id": "relate-to-adhd-videos-means-adhd",
+    "category": "Mental health",
+    "myth": "If you relate to ADHD videos on TikTok, you probably have ADHD.",
+    "rating": "misleading",
+    "fact": "Many ADHD traits, such as getting distracted, losing things or procrastinating, are common in everyone from time to time. ADHD is diagnosed when these difficulties are persistent, started in childhood and cause real problems across different parts of life, which needs a proper assessment.",
+    "explanation": "Social media has helped many people recognise ADHD and seek help, which can be valuable. But short videos often describe general human experiences, and symptoms like poor concentration can also come from anxiety, depression, poor sleep, thyroid problems or stress. If these difficulties are affecting your life, talking to a GP about an assessment is a better next step than self-diagnosing.",
+    "keywords": ["adhd tiktok", "self diagnose adhd", "do i have adhd", "adhd test online", "adhd symptoms", "relatable adhd", "adult adhd signs", "adhd social media"],
+    "sources": [
+      { "label": "NIMH — Attention-deficit/hyperactivity disorder (ADHD)", "url": "https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd" },
+      { "label": "NHS — ADHD in adults", "url": "https://www.nhs.uk/conditions/adhd-adults/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "adults-cannot-have-adhd",
+    "category": "Mental health",
+    "myth": "ADHD only affects children; adults grow out of it.",
+    "rating": "false",
+    "fact": "ADHD often continues into adulthood, although hyperactivity may become less obvious and show more as restlessness, disorganisation or difficulty focusing. Many adults are diagnosed for the first time later in life.",
+    "explanation": "Adults with ADHD may struggle with time management, work, relationships or impulsive decisions, and may have spent years being called lazy or careless. Treatment, which can include medicine, talking therapy and practical strategies, can help at any age.",
+    "keywords": ["adult adhd", "adhd adults", "grow out of adhd", "adhd only children", "late diagnosis adhd", "adhd in women", "adhd later in life"],
+    "sources": [
+      { "label": "NHS — ADHD in adults", "url": "https://www.nhs.uk/conditions/adhd-adults/" },
+      { "label": "NIMH — Attention-deficit/hyperactivity disorder (ADHD)", "url": "https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "adhd-medicine-makes-children-addicts",
+    "category": "Mental health",
+    "myth": "Giving children ADHD medicine turns them into drug addicts later in life.",
+    "rating": "false",
+    "fact": "When ADHD stimulant medicines are prescribed and monitored by doctors, research has not shown that they make children more likely to misuse drugs later. Untreated ADHD itself is linked to a higher risk of substance problems.",
+    "explanation": "ADHD medicines can have side effects, such as reduced appetite and sleep problems, so they are reviewed regularly. They are one part of treatment, alongside support at home and school. Families with concerns should discuss them with the prescribing doctor rather than stopping medicine suddenly.",
+    "keywords": ["adhd medication", "ritalin", "methylphenidate", "adhd medicine addiction", "stimulants children", "adhd drugs", "adderall kids"],
+    "sources": [
+      { "label": "NIMH — Attention-deficit/hyperactivity disorder (ADHD)", "url": "https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd" },
+      { "label": "NHS — ADHD in children and young people", "url": "https://www.nhs.uk/conditions/adhd-children-teenagers/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "everyone-is-a-little-autistic",
+    "category": "Mental health",
+    "myth": "Everyone is a little bit autistic.",
+    "rating": "misleading",
+    "fact": "Many people share some traits seen in autism, such as liking routine or finding loud places tiring. Autism is diagnosed when differences in social communication and repetitive behaviours or sensory sensitivities are present from early childhood and have a significant effect on daily life.",
+    "explanation": "The phrase is often meant kindly, but it can downplay the real challenges autistic people face. Autism is a lifelong difference in how people experience the world, not a scale everyone sits on. Anyone who thinks they may be autistic can ask a GP about an assessment.",
+    "keywords": ["everyone is autistic", "a little autistic", "autism spectrum", "autistic traits", "on the spectrum", "self diagnose autism", "am i autistic"],
+    "sources": [
+      { "label": "NHS — What is autism?", "url": "https://www.nhs.uk/conditions/autism/what-is-autism/" },
+      { "label": "NIMH — Autism spectrum disorder", "url": "https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "autism-caused-by-parenting",
+    "category": "Mental health",
+    "myth": "Autism is caused by cold or bad parenting.",
+    "rating": "false",
+    "fact": "Autism is not caused by parenting. Research shows that it is strongly influenced by genes and early brain development before birth.",
+    "explanation": "The idea of 'refrigerator mothers' from the mid-20th century was disproved long ago, but it caused lasting harm and guilt. Autism is also not caused by vaccines, diet or screen time. Understanding and support help autistic children and adults thrive.",
+    "keywords": ["autism cause", "refrigerator mother", "bad parenting autism", "what causes autism", "autism parents fault", "autism screens"],
+    "sources": [
+      { "label": "NHS — What is autism?", "url": "https://www.nhs.uk/conditions/autism/what-is-autism/" },
+      { "label": "NIMH — Autism spectrum disorder", "url": "https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "girls-cannot-be-autistic",
+    "category": "Mental health",
+    "myth": "Autism only affects boys, so girls and women can't be autistic.",
+    "rating": "false",
+    "fact": "Autism affects people of all genders. It is diagnosed more often in boys, but girls and women are more likely to be missed or diagnosed later, partly because they may hide or 'mask' their differences.",
+    "explanation": "Autistic women and girls may be first diagnosed with anxiety, depression or eating disorders. Recognising autism can help people understand themselves and get the right support. Health services describe signs in adults, and a GP can refer for assessment.",
+    "keywords": ["autism girls", "autism women", "female autism", "masking", "autistic girls", "late autism diagnosis", "autism in females"],
+    "sources": [
+      { "label": "NHS — Signs of autism in adults", "url": "https://www.nhs.uk/conditions/autism/signs-in-adults/" },
+      { "label": "NIMH — Autism spectrum disorder", "url": "https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "depression-just-chemical-imbalance",
+    "category": "Mental health",
+    "myth": "Depression is simply caused by a chemical imbalance, like low serotonin.",
+    "rating": "misleading",
+    "fact": "Depression does not have one single cause. It is thought to result from a combination of genetic, biological, psychological and life factors, such as stressful events, loneliness, illness and substance use.",
+    "explanation": "The 'low serotonin' explanation is an oversimplification that research has not confirmed. This does not mean antidepressants don't help: they are an effective treatment for many people, even though the way they work is more complex than once thought. Talking therapies, social support and physical activity also play important roles.",
+    "keywords": ["chemical imbalance", "serotonin depression", "low serotonin", "depression cause", "brain chemistry", "what causes depression", "serotonin myth"],
+    "sources": [
+      { "label": "NHS — Depression in adults: causes", "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/causes/" },
+      { "label": "NIMH — Depression", "url": "https://www.nimh.nih.gov/health/topics/depression" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "antidepressants-work-in-days",
+    "category": "Mental health",
+    "myth": "If an antidepressant hasn't helped after a few days, it isn't working.",
+    "rating": "false",
+    "fact": "Antidepressants usually take 1 to 2 weeks to start having an effect, and it can take 4 to 6 weeks to feel the full benefit. Some side effects may appear before the benefits do.",
+    "explanation": "It's important not to stop early without talking to your doctor. If a medicine still isn't helping after several weeks, or side effects are hard to manage, the dose or medicine can be changed. If you feel worse or have thoughts of harming yourself, contact a doctor or emergency services straight away.",
+    "keywords": ["antidepressants how long", "antidepressant not working", "ssri weeks", "sertraline how long", "fluoxetine", "antidepressants take time", "citalopram"],
+    "sources": [
+      { "label": "NHS — Antidepressants", "url": "https://www.nhs.uk/medicines/antidepressants/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "stop-antidepressants-when-better",
+    "category": "Mental health",
+    "myth": "You can stop taking antidepressants suddenly as soon as you feel better.",
+    "rating": "false",
+    "fact": "Stopping antidepressants suddenly can cause withdrawal (discontinuation) symptoms such as dizziness, anxiety, irritability and flu-like feelings, and raises the chance of depression returning. Doctors usually advise continuing for at least several months after feeling better and then reducing the dose gradually.",
+    "explanation": "Withdrawal symptoms are not the same as addiction, but they can be unpleasant and sometimes long-lasting. Planning when and how to stop with your doctor makes it safer. If symptoms return or you feel unwell while reducing, tell your doctor.",
+    "keywords": ["stop antidepressants", "coming off antidepressants", "antidepressant withdrawal", "discontinuation symptoms", "taper", "brain zaps", "quit ssri"],
+    "sources": [
+      { "label": "NHS — Antidepressants", "url": "https://www.nhs.uk/medicines/antidepressants/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "panic-attack-can-kill-you",
+    "category": "Mental health",
+    "myth": "You can die from a panic attack.",
+    "rating": "false",
+    "fact": "Panic attacks can feel terrifying, with a racing heart, chest tightness, breathlessness and a feeling of doom, but they are not dangerous in themselves and pass, usually within 5 to 20 minutes.",
+    "explanation": "Because symptoms can resemble a heart attack, anyone with chest pain they have not had checked before, or who is unsure, should get urgent medical help. Repeated panic attacks are treatable with talking therapies such as cognitive behavioural therapy and sometimes medicine.",
+    "keywords": ["panic attack", "die from panic attack", "panic attack heart attack", "panic disorder", "anxiety attack", "racing heart anxiety", "panic attack dangerous"],
+    "sources": [
+      { "label": "NHS — Panic disorder", "url": "https://www.nhs.uk/mental-health/conditions/panic-disorder/" },
+      { "label": "NIMH — Anxiety disorders", "url": "https://www.nimh.nih.gov/health/topics/anxiety-disorders" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "schizophrenia-split-personality",
+    "category": "Mental health",
+    "myth": "Schizophrenia means having a split or multiple personality.",
+    "rating": "false",
+    "fact": "Schizophrenia is a serious mental illness that can cause psychosis, such as hearing voices or holding false beliefs, along with reduced motivation and difficulties with thinking. It does not involve multiple personalities, which is a different and rare condition.",
+    "explanation": "The confusion comes from the name, which roughly means 'split mind'. With treatment, including medicine, talking therapy and social support, many people with schizophrenia manage their symptoms and lead fulfilling lives. Early help gives the best outcome.",
+    "keywords": ["schizophrenia", "split personality", "multiple personality", "schizophrenic", "dissociative identity", "psychosis", "hearing voices schizophrenia"],
+    "sources": [
+      { "label": "NHS — Schizophrenia", "url": "https://www.nhs.uk/mental-health/conditions/schizophrenia/overview/" },
+      { "label": "NIMH — Schizophrenia", "url": "https://www.nimh.nih.gov/health/topics/schizophrenia" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "self-harm-attention-seeking",
+    "category": "Mental health",
+    "myth": "People who self-harm are just seeking attention.",
+    "rating": "false",
+    "fact": "Self-harm is usually a way of coping with overwhelming emotions, distress or trauma, and many people who self-harm hide it. It is a sign that someone needs support, not something to dismiss.",
+    "explanation": "Responding calmly and without judgement makes it easier for someone to open up. If you are self-harming, or worried about someone who is, please talk to a GP, a trusted person or a mental health helpline. If someone is seriously injured or at immediate risk, call emergency services.",
+    "keywords": ["self harm", "self-harm", "cutting", "attention seeking", "self injury", "why people self harm", "hurting yourself"],
+    "sources": [
+      { "label": "NHS — Self-harm", "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/self-harm/" },
+      { "label": "NIMH — Suicide prevention", "url": "https://www.nimh.nih.gov/health/topics/suicide-prevention" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "eating-disorder-must-look-thin",
+    "category": "Mental health",
+    "myth": "You can tell someone has an eating disorder because they look very thin.",
+    "rating": "false",
+    "fact": "Most people with eating disorders are not underweight. Conditions such as bulimia, binge eating disorder and other eating disorders often occur at an average or higher weight, and people with anorexia may hide weight loss.",
+    "explanation": "Eating disorders are serious mental illnesses that can affect anyone, and they are best treated early. Signs can include strict dieting, secretive eating, making yourself sick, using laxatives, or excessive exercise. If you are worried about yourself or someone else, please talk to a GP or an eating disorder support service.",
+    "keywords": ["eating disorder signs", "anorexia", "bulimia", "binge eating", "eating disorder weight", "eating disorder look thin", "atypical anorexia"],
+    "sources": [
+      { "label": "NHS — Eating disorders", "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/eating-disorders/overview/" },
+      { "label": "NIMH — Eating disorders", "url": "https://www.nimh.nih.gov/health/topics/eating-disorders" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "eating-disorders-are-a-choice",
+    "category": "Mental health",
+    "myth": "Eating disorders are a lifestyle choice or about vanity.",
+    "rating": "false",
+    "fact": "Eating disorders are serious mental illnesses with biological, psychological and social causes. They are not a choice and have one of the highest risks of serious complications of any mental illness.",
+    "explanation": "People cannot simply decide to 'just eat normally', and blame can make it harder to ask for help. Recovery is possible with specialist treatment, which usually includes talking therapy and support from family and friends. If you are struggling, please reach out to a GP or an eating disorder helpline.",
+    "keywords": ["eating disorder choice", "anorexia vanity", "eating disorders serious", "just eat", "eating disorder causes", "bulimia choice"],
+    "sources": [
+      { "label": "NIMH — Eating disorders", "url": "https://www.nimh.nih.gov/health/topics/eating-disorders" },
+      { "label": "NHS — Eating disorders", "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/eating-disorders/overview/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "st-johns-wort-safe-natural-antidepressant",
+    "category": "Mental health",
+    "myth": "St John's wort is a safe, natural antidepressant you can take with anything.",
+    "rating": "misleading",
+    "fact": "Some studies suggest St John's wort may help mild to moderate depression, but it interacts with many medicines, including the contraceptive pill, blood thinners, some heart and HIV medicines and other antidepressants, and can make them less effective or cause harmful effects.",
+    "explanation": "Products also vary in strength. Taking it with prescribed antidepressants can cause a dangerous reaction called serotonin syndrome. Talk to a doctor or pharmacist before trying it, and see a GP if low mood lasts more than a couple of weeks.",
+    "keywords": ["st johns wort", "st john's wort", "natural antidepressant", "herbal depression", "hypericum", "herbal remedy depression"],
+    "sources": [
+      { "label": "NCCIH — St. John's wort", "url": "https://www.nccih.nih.gov/health/st-johns-wort" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "postnatal-depression-just-baby-blues",
+    "category": "Mental health",
+    "myth": "Postnatal depression is just the 'baby blues' and goes away on its own.",
+    "rating": "false",
+    "fact": "The baby blues, with tearfulness and low mood, are common in the first two weeks after birth and usually pass. Postnatal depression lasts longer, can start any time in the first year, and is a real illness that usually needs support and treatment.",
+    "explanation": "Signs include persistent sadness, loss of interest, difficulty bonding with the baby, and frightening thoughts. Partners can be affected too. Having postnatal depression does not mean someone is a bad parent. Speak to a midwife, health visitor or GP; if anyone has thoughts of harming themselves or the baby, get urgent help.",
+    "keywords": ["postnatal depression", "postpartum depression", "baby blues", "pnd", "depression after birth", "new mum depression", "perinatal depression"],
+    "sources": [
+      { "label": "NHS — Postnatal depression", "url": "https://www.nhs.uk/mental-health/conditions/postnatal-depression/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "grief-five-stages-in-order",
+    "category": "Mental health",
+    "myth": "Grief always follows five stages in a fixed order.",
+    "rating": "misleading",
+    "fact": "People grieve in many different ways. Feelings such as shock, anger, sadness, guilt and acceptance can come and go, in any order, and there is no right or wrong way or timeline.",
+    "explanation": "The 'five stages' idea can make people worry they are grieving wrongly. Grief often eases over time, but if it feels overwhelming, stops you functioning for a long time, or you have thoughts of harming yourself, speak to a GP or bereavement service.",
+    "keywords": ["stages of grief", "five stages of grief", "grief", "bereavement", "grieving", "kubler ross", "how long grief lasts"],
+    "sources": [
+      { "label": "NHS — Grief after bereavement or loss", "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "ect-is-barbaric",
+    "category": "Mental health",
+    "myth": "Electroconvulsive therapy (ECT) is a barbaric treatment that fries your brain.",
+    "rating": "misleading",
+    "fact": "Modern ECT is given under general anaesthetic with a muscle relaxant and is used mainly for severe depression and some other serious conditions when other treatments have not worked or rapid help is needed. It is one of the most effective treatments for severe depression.",
+    "explanation": "Its image comes partly from older practices and films. ECT does have side effects, most notably short-term confusion and memory problems, and some people report longer-lasting memory gaps, so its risks and benefits need careful discussion. It is only given with consent, except in specific legal circumstances.",
+    "keywords": ["ect", "electroconvulsive therapy", "electric shock therapy", "shock treatment", "ect brain damage", "ect depression"],
+    "sources": [
+      { "label": "NIMH — Brain stimulation therapies", "url": "https://www.nimh.nih.gov/health/topics/brain-stimulation-therapies/brain-stimulation-therapies" },
+      { "label": "Cleveland Clinic — Electroconvulsive therapy (ECT)", "url": "https://my.clevelandclinic.org/health/treatments/9302-ect-electroconvulsive-therapy" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "talking-therapies-work",
+    "category": "Mental health",
+    "myth": "Talking therapies such as CBT can be an effective treatment for depression and anxiety.",
+    "rating": "true",
+    "fact": "Talking therapies, including cognitive behavioural therapy (CBT), are recommended treatments for common mental health problems such as depression and anxiety disorders. For mild to moderate depression they are often offered before, or alongside, medicine.",
+    "explanation": "Therapy is not 'just chatting': it is a structured treatment that teaches practical ways to manage thoughts, feelings and behaviours. In some areas, such as England, you can refer yourself to NHS talking therapy services without seeing a GP first.",
+    "keywords": ["cbt", "talking therapy", "cognitive behavioural therapy", "counselling", "therapy works", "psychotherapy", "therapy for anxiety"],
+    "sources": [
+      { "label": "NHS — Talking therapies", "url": "https://www.nhs.uk/tests-and-treatments/talking-therapies/" },
+      { "label": "NIMH — Depression", "url": "https://www.nimh.nih.gov/health/topics/depression" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "hearing-voices-always-schizophrenia",
+    "category": "Mental health",
+    "myth": "If someone hears voices, it always means they have schizophrenia.",
+    "rating": "false",
+    "fact": "Hearing voices can be part of psychosis in several conditions, including bipolar disorder, severe depression and drug use, as well as schizophrenia. It can also happen with very little sleep, high fever, grief or brain conditions, and some people hear voices without being unwell.",
+    "explanation": "Hearing voices that are distressing, or that tell you to do things, should be checked with a GP or mental health service, especially when it is new. Early support for psychosis leads to better outcomes.",
+    "keywords": ["hearing voices", "auditory hallucinations", "psychosis", "voices in head", "schizophrenia", "hallucinations"],
+    "sources": [
+      { "label": "NHS — Psychosis", "url": "https://www.nhs.uk/mental-health/conditions/psychosis/overview/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "alcohol-helps-anxiety",
+    "category": "Mental health",
+    "myth": "A drink or two is a good way to calm anxiety.",
+    "rating": "misleading",
+    "fact": "Alcohol may ease anxious feelings briefly, but as it wears off it can worsen anxiety and low mood and disrupt sleep. Relying on alcohol to cope can lead to a cycle where anxiety and drinking feed each other.",
+    "explanation": "Health services suggest cutting down on alcohol as part of managing anxiety. Other approaches, such as exercise, breathing techniques, talking therapies and in some cases medicine, help in the longer term. If you find you need a drink to get through the day, talk to a GP.",
+    "keywords": ["alcohol anxiety", "drink to relax", "hangxiety", "self medicating", "alcohol calm nerves", "drinking anxiety", "wine relax"],
+    "sources": [
+      { "label": "NHS — Generalised anxiety disorder in adults", "url": "https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder-gad/" },
+      { "label": "NHS Every Mind Matters — Anxiety", "url": "https://www.nhs.uk/every-mind-matters/mental-health-issues/anxiety/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "cannabis-harmless-for-mental-health",
+    "category": "Mental health",
+    "myth": "Cannabis is natural, so it's harmless for your mental health.",
+    "rating": "false",
+    "fact": "Regular cannabis use, especially of strong (high-THC) types and starting in the teenage years, is linked to a higher risk of psychosis and schizophrenia. It can also worsen anxiety and lead to dependence in some people.",
+    "explanation": "Being 'natural' does not make something safe. Not everyone who uses cannabis develops problems, but the risks are higher for people with a family history of psychosis. If you're worried about your cannabis use or have unusual experiences such as paranoia, talk to a GP.",
+    "keywords": ["cannabis", "weed", "marijuana", "cannabis psychosis", "skunk", "thc mental health", "cannabis safe", "weed anxiety"],
+    "sources": [
+      { "label": "NHS — Psychosis", "url": "https://www.nhs.uk/mental-health/conditions/psychosis/overview/" },
+      { "label": "NIMH — Schizophrenia", "url": "https://www.nimh.nih.gov/health/topics/schizophrenia" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "ptsd-starts-straight-after-trauma",
+    "category": "Mental health",
+    "myth": "If you don't develop PTSD straight after a traumatic event, you won't get it.",
+    "rating": "false",
+    "fact": "Post-traumatic stress disorder can start soon after a traumatic event, but symptoms can also appear weeks, months or even years later.",
+    "explanation": "Symptoms include flashbacks, nightmares, avoiding reminders, feeling on edge and difficulty sleeping. Many people have distress after trauma that eases over a few weeks; if it doesn't, effective treatments such as trauma-focused therapy are available. Talk to a GP if symptoms are affecting your life.",
+    "keywords": ["ptsd", "delayed ptsd", "post traumatic stress", "trauma symptoms", "flashbacks", "ptsd later", "complex ptsd"],
+    "sources": [
+      { "label": "NHS — Post-traumatic stress disorder (PTSD)", "url": "https://www.nhs.uk/mental-health/conditions/ptsd-post-traumatic-stress-disorder/" },
+      { "label": "NIMH — Post-traumatic stress disorder", "url": "https://www.nimh.nih.gov/health/topics/post-traumatic-stress-disorder-ptsd" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "slow-breathing-eases-anxiety",
+    "category": "Mental health",
+    "myth": "Slow breathing exercises can help calm feelings of stress and anxiety.",
+    "rating": "mostly-true",
+    "fact": "Health services recommend simple breathing exercises, such as breathing in slowly through the nose and out through the mouth, as a way to ease stress, anxiety and panic in the moment.",
+    "explanation": "Breathing techniques are a helpful tool, but they are not a cure for an anxiety disorder. If anxiety is frequent or affects daily life, talking therapies and other treatments can help, and a GP is a good first step.",
+    "keywords": ["breathing exercises", "breathing for anxiety", "calm down breathing", "box breathing", "deep breathing stress", "panic breathing"],
+    "sources": [
+      { "label": "NHS — Breathing exercises for stress", "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "suicide-happens-without-warning",
+    "category": "Mental health",
+    "myth": "Suicide happens without any warning, so there's nothing anyone can do.",
+    "rating": "false",
+    "fact": "Many people who die by suicide show warning signs beforehand, such as talking about wanting to die or being a burden, withdrawing from others, giving away possessions, or sudden changes in mood or behaviour. Suicide is often preventable, and reaching out can make a difference.",
+    "explanation": "Not every warning sign is obvious, and people who lose someone to suicide are not to blame. If you are worried about someone, ask them directly and listen without judgement. If you are having thoughts of suicide yourself, please contact a crisis line, a GP or emergency services; you do not have to cope alone.",
+    "keywords": ["suicide warning signs", "suicide prevention", "suicidal", "signs of suicide", "can suicide be prevented", "worried about someone", "crisis help"],
+    "sources": [
+      { "label": "NIMH — Suicide prevention", "url": "https://www.nimh.nih.gov/health/topics/suicide-prevention" }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]

@@ -7,7 +7,7 @@ import { readFileSync, writeFileSync } from 'node:fs'
 const files = process.argv.slice(2).length
   ? process.argv.slice(2)
   : ['lib/data/symptoms.json', 'lib/data/myths.json', 'lib/data/conditions.json']
-const CONCURRENCY = 8
+const CONCURRENCY = 3 // low, so publishers (www.nhs.uk) do not rate-limit the check
 const TIMEOUT_MS = 20000
 const UA = 'VerablLinkChecker/1.0 (+https://github.com)' // honest client name; sites that block bots show up as 'blocked'
 

@@ -65,6 +65,34 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "fetal-heart-rate-predicts-sex",
+  "category": "Pregnancy & fertility",
+  "myth": "A baby's heart rate above 140 beats a minute means it's a girl.",
+  "rating": "false",
+  "fact": "Studies comparing heart rates of boys and girls in the womb have found no meaningful difference. A baby's heart rate changes with the stage of pregnancy and with the baby's activity, not with its sex.",
+  "explanation": "A normal fetal heart rate is roughly 110 to 160 beats a minute and is faster in early pregnancy. Midwives listen to the heartbeat to check the baby's wellbeing, not to guess the sex. An ultrasound scan is the usual way to see the baby's sex.",
+  "keywords": [
+   "fetal heart rate",
+   "baby heartbeat",
+   "heart rate gender",
+   "140 bpm",
+   "boy or girl",
+   "heartbeat predicts sex",
+   "baby gender"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Ultrasound scans in pregnancy",
+    "url": "https://www.nhs.uk/pregnancy/your-pregnancy-care/ultrasound-scans/"
+   },
+   {
+    "label": "NHS — 20-week screening scan",
+    "url": "https://www.nhs.uk/pregnancy/your-pregnancy-care/20-week-scan/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "cancer-is-a-death-sentence",
   "category": "Cancer",
   "myth": "A cancer diagnosis is a death sentence.",
@@ -88,6 +116,29 @@
    {
     "label": "National Cancer Institute — Common cancer myths and misconceptions",
     "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "child-ear-infection-needs-antibiotics",
+  "category": "Children's health",
+  "myth": "A child with an ear infection always needs antibiotics.",
+  "rating": "false",
+  "fact": "Most ear infections get better on their own within about 3 days, and antibiotics are often not needed. Many are caused by viruses, which antibiotics do not treat.",
+  "explanation": "Pain relief such as children's paracetamol or ibuprofen helps while the infection clears. Doctors may prescribe antibiotics if symptoms last longer, the child is very young or unwell, or there is fluid coming from the ear. Seek advice if symptoms do not improve after 3 days or the child seems very unwell.",
+  "keywords": [
+   "ear infection",
+   "earache child",
+   "otitis media",
+   "ear infection antibiotics",
+   "child ear pain",
+   "ear infection baby"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Ear infections",
+    "url": "https://www.nhs.uk/conditions/ear-infections/"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -141,6 +192,58 @@
    {
     "label": "NHS — Insomnia",
     "url": "https://www.nhs.uk/conditions/insomnia/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "alcohol-helps-anxiety",
+  "category": "Mental health",
+  "myth": "A drink or two is a good way to calm anxiety.",
+  "rating": "misleading",
+  "fact": "Alcohol may ease anxious feelings briefly, but as it wears off it can worsen anxiety and low mood and disrupt sleep. Relying on alcohol to cope can lead to a cycle where anxiety and drinking feed each other.",
+  "explanation": "Health services suggest cutting down on alcohol as part of managing anxiety. Other approaches, such as exercise, breathing techniques, talking therapies and in some cases medicine, help in the longer term. If you find you need a drink to get through the day, talk to a GP.",
+  "keywords": [
+   "alcohol anxiety",
+   "drink to relax",
+   "hangxiety",
+   "self medicating",
+   "alcohol calm nerves",
+   "drinking anxiety",
+   "wine relax"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Generalised anxiety disorder in adults",
+    "url": "https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder-gad/"
+   },
+   {
+    "label": "NHS Every Mind Matters — Anxiety",
+    "url": "https://www.nhs.uk/every-mind-matters/mental-health-issues/anxiety/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "febrile-seizures-cause-brain-damage",
+  "category": "Children's health",
+  "myth": "A fever fit (febrile seizure) causes brain damage or means the child has epilepsy.",
+  "rating": "false",
+  "fact": "Febrile seizures are frightening to watch but are usually harmless. They do not cause brain damage, and most children who have them do not go on to develop epilepsy.",
+  "explanation": "They are fairly common in children aged about 6 months to 5 years and are triggered by a rising temperature. During a seizure, place the child on their side on a soft surface and do not put anything in their mouth. Call an ambulance for a first seizure, one lasting more than 5 minutes, or if the child has trouble breathing or does not recover.",
+  "keywords": [
+   "febrile seizure",
+   "fever fit",
+   "febrile convulsion",
+   "brain damage",
+   "epilepsy",
+   "child seizure fever",
+   "fit with temperature"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Febrile seizures",
+    "url": "https://www.nhs.uk/conditions/febrile-seizures/"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -231,6 +334,35 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "igg-food-intolerance-tests",
+  "category": "Allergies & asthma",
+  "myth": "A home IgG blood test can tell you which foods you're intolerant to.",
+  "rating": "false",
+  "fact": "IgG antibodies to foods are a normal response to eating them and do not show intolerance or allergy. There is no reliable test for most food intolerances; the usual approach is to keep a food and symptom diary and try cutting out a suspected food under guidance.",
+  "explanation": "These tests often list many everyday foods, leading people to cut out large parts of their diet unnecessarily, which can cause nutritional problems, especially in children. Food allergies are diagnosed differently, with skin-prick or specific IgE blood tests interpreted by a doctor. Coeliac disease also has its own specific tests.",
+  "keywords": [
+   "food intolerance test",
+   "igg test",
+   "intolerance test",
+   "home allergy test",
+   "food sensitivity test",
+   "york test",
+   "blood test intolerance",
+   "food sensitivity"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Food intolerance",
+    "url": "https://www.nhs.uk/conditions/food-intolerance/"
+   },
+   {
+    "label": "NHS — Food allergy",
+    "url": "https://www.nhs.uk/conditions/food-allergy/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "juice-cleanse-kickstarts-weight-loss",
   "category": "Weight",
   "myth": "A juice cleanse is a healthy way to detox and kick-start weight loss.",
@@ -309,6 +441,58 @@
    {
     "label": "MedlinePlus — Cushing's syndrome",
     "url": "https://medlineplus.gov/cushingsyndrome.html"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "alcohol-warms-up-cold-person",
+  "category": "First aid",
+  "myth": "A shot of brandy or whisky will warm up someone who is very cold.",
+  "rating": "false",
+  "fact": "Alcohol makes you feel warmer by widening blood vessels near the skin, but this actually increases heat loss from the body. Someone who may have hypothermia should not be given alcohol.",
+  "explanation": "Move the person somewhere warm, remove wet clothing, wrap them in blankets and give warm, non-alcoholic drinks and sugary food if they are fully alert. Don't rub their arms and legs or put them in a hot bath. Hypothermia is a medical emergency, so call for help.",
+  "keywords": [
+   "hypothermia",
+   "brandy cold",
+   "alcohol warm up",
+   "whisky cold",
+   "very cold person",
+   "warming up",
+   "st bernard brandy"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Hypothermia",
+    "url": "https://www.nhs.uk/conditions/hypothermia/"
+   },
+   {
+    "label": "American Red Cross — Hypothermia",
+    "url": "https://www.redcross.org/take-a-class/resources/learn-first-aid/hypothermia"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "small-animal-bite-no-doctor",
+  "category": "First aid",
+  "myth": "A small dog or cat bite doesn't need medical attention if it isn't bleeding much.",
+  "rating": "false",
+  "fact": "Animal and human bites that break the skin can easily become infected, even when the wound looks small. Health services advise cleaning the bite straight away and getting medical advice, as antibiotics or a tetanus jab may be needed.",
+  "explanation": "Cat bites are especially likely to become infected because their teeth make deep, narrow punctures. Bites from animals abroad may carry a risk of rabies and need urgent advice. Watch for signs of infection such as redness, swelling, warmth, pus or fever.",
+  "keywords": [
+   "dog bite",
+   "cat bite",
+   "animal bite",
+   "bite infection",
+   "rabies",
+   "bite first aid",
+   "human bite"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Animal and human bites",
+    "url": "https://www.nhs.uk/conditions/animal-and-human-bites/"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -456,6 +640,34 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "adults-cannot-have-adhd",
+  "category": "Mental health",
+  "myth": "ADHD only affects children; adults grow out of it.",
+  "rating": "false",
+  "fact": "ADHD often continues into adulthood, although hyperactivity may become less obvious and show more as restlessness, disorganisation or difficulty focusing. Many adults are diagnosed for the first time later in life.",
+  "explanation": "Adults with ADHD may struggle with time management, work, relationships or impulsive decisions, and may have spent years being called lazy or careless. Treatment, which can include medicine, talking therapy and practical strategies, can help at any age.",
+  "keywords": [
+   "adult adhd",
+   "adhd adults",
+   "grow out of adhd",
+   "adhd only children",
+   "late diagnosis adhd",
+   "adhd in women",
+   "adhd later in life"
+  ],
+  "sources": [
+   {
+    "label": "NHS — ADHD in adults",
+    "url": "https://www.nhs.uk/conditions/adhd-adults/"
+   },
+   {
+    "label": "NIMH — Attention-deficit/hyperactivity disorder (ADHD)",
+    "url": "https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "keep-awake-after-head-injury",
   "category": "First aid",
   "myth": "After a head injury, you must keep the person awake all night.",
@@ -534,6 +746,30 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "allergy-immunotherapy-can-help",
+  "category": "Allergies & asthma",
+  "myth": "Allergy immunotherapy (desensitisation) can reduce allergies in the long term.",
+  "rating": "true",
+  "fact": "For some allergies, such as severe hay fever, insect venom allergy and some others, immunotherapy can lessen the body's reaction over time. It involves gradually giving small, increasing amounts of the allergen as injections or tablets under the tongue.",
+  "explanation": "Treatment usually lasts several years and is given or started under specialist supervision because it can cause reactions. It is generally offered when other treatments have not worked well enough. It is not a quick cure, and not every allergy can be treated this way.",
+  "keywords": [
+   "immunotherapy",
+   "desensitisation",
+   "allergy shots",
+   "allergy injections",
+   "cure hay fever",
+   "sublingual tablets",
+   "allergy treatment"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Allergies",
+    "url": "https://www.nhs.uk/conditions/allergies/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "aluminium-causes-alzheimers",
   "category": "Ageing & brain",
   "myth": "Aluminium pans and cans cause Alzheimer's disease.",
@@ -558,6 +794,35 @@
    {
     "label": "National Institute on Aging — Health information",
     "url": "https://www.nia.nih.gov/health"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "amber-teething-necklace",
+  "category": "Children's health",
+  "myth": "Amber teething necklaces ease teething pain by releasing a natural painkiller.",
+  "rating": "false",
+  "fact": "There is no reliable evidence that amber necklaces or bracelets relieve teething pain. Regulators such as the US FDA warn against teething jewellery because babies can choke on the beads or be strangled by the cord.",
+  "explanation": "The claim is that skin warmth releases succinic acid from the amber, but this has not been shown to happen in a way that affects pain. Safer ways to soothe teething include a clean, chilled (not frozen) teething ring, rubbing the gums with a clean finger and, if needed, an age-appropriate dose of infant paracetamol or ibuprofen.",
+  "keywords": [
+   "amber necklace",
+   "amber teething necklace",
+   "teething jewellery",
+   "teething bracelet",
+   "baltic amber",
+   "succinic acid",
+   "teething pain",
+   "teething beads"
+  ],
+  "sources": [
+   {
+    "label": "FDA — Safely soothing teething pain in infants and children",
+    "url": "https://www.fda.gov/consumers/consumer-updates/safely-soothing-teething-pain-infants-and-children"
+   },
+   {
+    "label": "NHS — Tips for helping your teething baby",
+    "url": "https://www.nhs.uk/baby/babys-development/teething/tips-for-helping-your-teething-baby/"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -615,6 +880,34 @@
    {
     "label": "MedlinePlus — Allergy",
     "url": "https://medlineplus.gov/allergy.html"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "ectopic-pregnancy-can-be-moved",
+  "category": "Pregnancy & fertility",
+  "myth": "An ectopic pregnancy can be moved into the womb so it can continue.",
+  "rating": "false",
+  "fact": "There is no medical procedure that can move an ectopic pregnancy into the womb. An ectopic pregnancy, usually in a fallopian tube, cannot survive, and it can cause life-threatening bleeding if left to grow, so it needs treatment.",
+  "explanation": "Treatment may be careful monitoring, medicine (methotrexate) or keyhole surgery, depending on the situation. Symptoms can include one-sided tummy pain, vaginal bleeding and shoulder-tip pain; sudden severe pain or collapse is an emergency. Many people go on to have healthy pregnancies afterwards.",
+  "keywords": [
+   "ectopic pregnancy",
+   "move ectopic",
+   "reimplant",
+   "tubal pregnancy",
+   "fallopian tube pregnancy",
+   "save ectopic pregnancy",
+   "methotrexate"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Ectopic pregnancy",
+    "url": "https://www.nhs.uk/conditions/ectopic-pregnancy/"
+   },
+   {
+    "label": "ACOG — Ectopic pregnancy",
+    "url": "https://www.acog.org/womens-health/faqs/ectopic-pregnancy"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -956,6 +1249,145 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "asthma-cannot-kill",
+  "category": "Allergies & asthma",
+  "myth": "Asthma is a minor condition and nobody dies from it.",
+  "rating": "false",
+  "fact": "Asthma can usually be well controlled, but severe asthma attacks can be life-threatening. People still die from asthma each year, and many of these deaths are thought to be preventable with good routine care.",
+  "explanation": "Taking preventer medicine as prescribed, checking inhaler technique, having a written asthma action plan and attending asthma reviews all lower the risk. Needing a reliever inhaler more often, or waking at night with symptoms, are signs asthma is not well controlled.",
+  "keywords": [
+   "asthma deaths",
+   "can asthma kill",
+   "asthma dangerous",
+   "asthma minor",
+   "asthma serious",
+   "die from asthma",
+   "asthma attack fatal"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Asthma",
+    "url": "https://www.nhs.uk/conditions/asthma/"
+   },
+   {
+    "label": "NHLBI — Asthma",
+    "url": "https://www.nhlbi.nih.gov/health/asthma"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "asthma-is-psychological",
+  "category": "Allergies & asthma",
+  "myth": "Asthma is all in the mind and caused by nerves.",
+  "rating": "false",
+  "fact": "Asthma is a long-term condition of the airways, which become inflamed and narrow in response to triggers. It is a physical illness that needs proper treatment, usually with inhalers.",
+  "explanation": "Strong emotions and stress can trigger asthma symptoms in some people, which may be where the idea came from, but they are not the underlying cause. Common triggers include colds, pollen, dust mites, smoke, cold air and exercise. Treating asthma as 'just nerves' can lead to dangerous delays in getting help.",
+  "keywords": [
+   "asthma psychological",
+   "asthma in your head",
+   "asthma nerves",
+   "asthma anxiety",
+   "asthma not real",
+   "asthma causes",
+   "asthma stress"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Asthma",
+    "url": "https://www.nhs.uk/conditions/asthma/"
+   },
+   {
+    "label": "NHLBI — Asthma",
+    "url": "https://www.nhlbi.nih.gov/health/asthma"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "autism-caused-by-parenting",
+  "category": "Mental health",
+  "myth": "Autism is caused by cold or bad parenting.",
+  "rating": "false",
+  "fact": "Autism is not caused by parenting. Research shows that it is strongly influenced by genes and early brain development before birth.",
+  "explanation": "The idea of 'refrigerator mothers' from the mid-20th century was disproved long ago, but it caused lasting harm and guilt. Autism is also not caused by vaccines, diet or screen time. Understanding and support help autistic children and adults thrive.",
+  "keywords": [
+   "autism cause",
+   "refrigerator mother",
+   "bad parenting autism",
+   "what causes autism",
+   "autism parents fault",
+   "autism screens"
+  ],
+  "sources": [
+   {
+    "label": "NHS — What is autism?",
+    "url": "https://www.nhs.uk/conditions/autism/what-is-autism/"
+   },
+   {
+    "label": "NIMH — Autism spectrum disorder",
+    "url": "https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "girls-cannot-be-autistic",
+  "category": "Mental health",
+  "myth": "Autism only affects boys, so girls and women can't be autistic.",
+  "rating": "false",
+  "fact": "Autism affects people of all genders. It is diagnosed more often in boys, but girls and women are more likely to be missed or diagnosed later, partly because they may hide or 'mask' their differences.",
+  "explanation": "Autistic women and girls may be first diagnosed with anxiety, depression or eating disorders. Recognising autism can help people understand themselves and get the right support. Health services describe signs in adults, and a GP can refer for assessment.",
+  "keywords": [
+   "autism girls",
+   "autism women",
+   "female autism",
+   "masking",
+   "autistic girls",
+   "late autism diagnosis",
+   "autism in females"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Signs of autism in adults",
+    "url": "https://www.nhs.uk/conditions/autism/signs-in-adults/"
+   },
+   {
+    "label": "NIMH — Autism spectrum disorder",
+    "url": "https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "solids-from-three-months",
+  "category": "Children's health",
+  "myth": "Babies need solid food from about 3 or 4 months because milk is no longer enough.",
+  "rating": "false",
+  "fact": "The WHO and NHS recommend starting solid foods at around 6 months. Until then, breast milk or infant formula provides all the nutrition a baby needs.",
+  "explanation": "By about 6 months most babies can sit up, hold their head steady and swallow food rather than pushing it out. Waking more at night or chewing fists are often taken as signs of hunger but are normal at this age. If you are thinking of starting earlier, for example for a premature baby, ask a health visitor or doctor.",
+  "keywords": [
+   "weaning",
+   "starting solids",
+   "4 months solids",
+   "3 months food",
+   "baby food",
+   "complementary feeding",
+   "baby led weaning"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Your baby's first solid foods",
+    "url": "https://www.nhs.uk/baby/weaning-and-feeding/babys-first-solid-foods/"
+   },
+   {
+    "label": "WHO — Infant and young child feeding",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "babies-sleep-on-tummy",
   "category": "Children's health",
   "myth": "Babies should sleep on their tummy so they don't choke if they are sick.",
@@ -980,6 +1412,34 @@
    {
     "label": "HealthyChildren.org (American Academy of Pediatrics)",
     "url": "https://www.healthychildren.org/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "young-babies-need-water-in-heat",
+  "category": "Children's health",
+  "myth": "Babies under 6 months need extra water when the weather is hot.",
+  "rating": "misleading",
+  "fact": "Fully breastfed babies do not need any water until they start solid foods, even in hot weather; they may just want to feed more often. Formula-fed babies may be offered a little cooled boiled water in hot weather, as advised by health services.",
+  "explanation": "Giving young babies a lot of water can fill them up so they take less milk, and in rare cases can upset the balance of salts in the blood. Signs a baby may be dehydrated include fewer wet nappies, a dry mouth and a sunken soft spot; seek advice if you notice these.",
+  "keywords": [
+   "water for babies",
+   "baby water hot weather",
+   "newborn water",
+   "dehydration baby",
+   "breastfed baby water",
+   "formula baby water",
+   "heatwave baby"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Drinks and cups for babies and young children",
+    "url": "https://www.nhs.uk/baby/weaning-and-feeding/drinks-and-cups-for-babies-and-young-children/"
+   },
+   {
+    "label": "WHO — Infant and young child feeding",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -1033,6 +1493,30 @@
    {
     "label": "HealthyChildren.org (American Academy of Pediatrics)",
     "url": "https://www.healthychildren.org/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "heartburn-means-hairy-baby",
+  "category": "Pregnancy & fertility",
+  "myth": "Bad heartburn in pregnancy means your baby will be born with lots of hair.",
+  "rating": "false",
+  "fact": "Heartburn in pregnancy is very common and is caused by pregnancy hormones relaxing the valve at the top of the stomach and by the growing baby pressing on the stomach. It is not a reliable way to predict how much hair a baby will have.",
+  "explanation": "Plenty of people with severe heartburn have babies with little hair, and the reverse. Heartburn usually eases after birth. Eating smaller meals, avoiding eating late at night and asking a midwife or pharmacist about pregnancy-safe remedies can help.",
+  "keywords": [
+   "heartburn",
+   "hairy baby",
+   "baby hair",
+   "indigestion pregnancy",
+   "acid reflux pregnancy",
+   "heartburn means hair",
+   "old wives tale"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Indigestion and heartburn in pregnancy",
+    "url": "https://www.nhs.uk/pregnancy/common-symptoms/indigestion-and-heartburn/"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -1236,6 +1720,30 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "coffee-cold-shower-sobers-you-up",
+  "category": "First aid",
+  "myth": "Black coffee or a cold shower will sober up someone who has drunk too much.",
+  "rating": "false",
+  "fact": "Only time lets the body clear alcohol. Coffee and cold showers do not lower blood alcohol, and a cold shower can make the person dangerously cold.",
+  "explanation": "Someone very drunk should not be left to 'sleep it off' alone, because alcohol levels can keep rising and they could choke on vomit. Keep them sitting up or on their side in the recovery position and stay with them. Call emergency services if they are confused, can't be woken, have slow or irregular breathing, are having a seizure or are very pale or cold.",
+  "keywords": [
+   "sober up",
+   "black coffee",
+   "cold shower drunk",
+   "alcohol poisoning",
+   "sleep it off",
+   "too drunk",
+   "how to sober up"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Alcohol poisoning",
+    "url": "https://www.nhs.uk/conditions/alcohol-poisoning/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "blood-in-poo-just-piles",
   "category": "Digestion",
   "myth": "Blood in your poo is just piles, so there's no need to see a doctor.",
@@ -1380,6 +1888,54 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "paper-bag-for-asthma-attack",
+  "category": "Allergies & asthma",
+  "myth": "Breathing into a paper bag helps someone having an asthma attack.",
+  "rating": "false",
+  "fact": "An asthma attack needs the person's reliever inhaler, usually blue, not a paper bag. Health services advise sitting up straight, staying calm and taking one puff of the reliever every 30 to 60 seconds, up to 10 puffs, and calling emergency services if they are not improving or get worse.",
+  "explanation": "Breathing into a bag can reduce the oxygen someone gets, which is dangerous when their airways are already narrowed. If symptoms improve, the person should still get an urgent appointment with a doctor or nurse the same day. If no inhaler is available or the person is very breathless, call for help immediately.",
+  "keywords": [
+   "paper bag",
+   "asthma attack",
+   "asthma first aid",
+   "breathing into bag",
+   "can't breathe asthma",
+   "inhaler puffs",
+   "asthma emergency"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Asthma",
+    "url": "https://www.nhs.uk/conditions/asthma/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "shaking-baby-to-stop-crying-harmless",
+  "category": "Children's health",
+  "myth": "Briefly shaking a baby to stop them crying doesn't do any harm.",
+  "rating": "false",
+  "fact": "Shaking a baby, even for a few seconds, can cause bleeding and swelling in the brain, blindness, lasting disability or death. Babies' heads are heavy and their neck muscles weak, so the brain moves back and forth inside the skull.",
+  "explanation": "This is different from normal play: gentle bouncing or swinging does not cause these injuries. Constant crying can be overwhelming for any parent. If you feel frustrated, put the baby safely on their back in the cot, leave the room for a few minutes to calm down and ask someone for help.",
+  "keywords": [
+   "shaken baby",
+   "shaking baby",
+   "baby crying",
+   "abusive head trauma",
+   "frustrated parent",
+   "crying baby",
+   "shaken baby syndrome"
+  ],
+  "sources": [
+   {
+    "label": "MedlinePlus — Shaken baby syndrome",
+    "url": "https://medlineplus.gov/ency/article/007578.htm"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "brown-sugar-honey-healthier-than-sugar",
   "category": "Nutrition",
   "myth": "Brown sugar, honey and coconut sugar are much healthier than white sugar.",
@@ -1489,6 +2045,35 @@
    {
     "label": "WHO — Obesity and overweight",
     "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "cannabis-harmless-for-mental-health",
+  "category": "Mental health",
+  "myth": "Cannabis is natural, so it's harmless for your mental health.",
+  "rating": "false",
+  "fact": "Regular cannabis use, especially of strong (high-THC) types and starting in the teenage years, is linked to a higher risk of psychosis and schizophrenia. It can also worsen anxiety and lead to dependence in some people.",
+  "explanation": "Being 'natural' does not make something safe. Not everyone who uses cannabis develops problems, but the risks are higher for people with a family history of psychosis. If you're worried about your cannabis use or have unusual experiences such as paranoia, talk to a GP.",
+  "keywords": [
+   "cannabis",
+   "weed",
+   "marijuana",
+   "cannabis psychosis",
+   "skunk",
+   "thc mental health",
+   "cannabis safe",
+   "weed anxiety"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Psychosis",
+    "url": "https://www.nhs.uk/mental-health/conditions/psychosis/overview/"
+   },
+   {
+    "label": "NIMH — Schizophrenia",
+    "url": "https://www.nimh.nih.gov/health/topics/schizophrenia"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -1610,6 +2195,33 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "chew-aspirin-during-heart-attack",
+  "category": "First aid",
+  "myth": "Chewing an aspirin while waiting for help during a suspected heart attack can help.",
+  "rating": "mostly-true",
+  "fact": "Health services advise calling emergency services first, then, if the person is not allergic to aspirin and has not been told not to take it, having them slowly chew an adult aspirin tablet. Aspirin helps thin the blood and can improve blood flow to the heart.",
+  "explanation": "Aspirin is not a replacement for emergency care, and calling for an ambulance comes first. The person should sit and rest while waiting. Emergency call handlers can advise whether aspirin is suitable, for example for people with bleeding problems or already on blood thinners.",
+  "keywords": [
+   "aspirin heart attack",
+   "chew aspirin",
+   "heart attack first aid",
+   "chest pain aspirin",
+   "300mg aspirin",
+   "what to do heart attack"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Heart attack",
+    "url": "https://www.nhs.uk/conditions/heart-attack/"
+   },
+   {
+    "label": "American Red Cross — Heart attack",
+    "url": "https://www.redcross.org/take-a-class/resources/learn-first-aid/heart-attack"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "children-outgrow-asthma",
   "category": "Allergies & asthma",
   "myth": "Children always grow out of asthma.",
@@ -1632,6 +2244,29 @@
    {
     "label": "WHO — Asthma",
     "url": "https://www.who.int/news-room/fact-sheets/detail/asthma"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "children-outgrow-all-food-allergies",
+  "category": "Allergies & asthma",
+  "myth": "Children always grow out of their food allergies.",
+  "rating": "false",
+  "fact": "Many children outgrow allergies to milk and eggs, but allergies to peanuts and tree nuts are more likely to last into adulthood. Whether an allergy has gone should be checked with an allergy specialist, not by testing at home.",
+  "explanation": "A specialist may use tests and, when safe, a supervised food challenge to see whether a child can now eat a food. Trying the food at home without advice can be dangerous for some allergies.",
+  "keywords": [
+   "outgrow food allergy",
+   "children allergies",
+   "peanut allergy kids",
+   "milk allergy baby",
+   "egg allergy outgrow",
+   "grow out of allergy"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Food allergy",
+    "url": "https://www.nhs.uk/conditions/food-allergy/"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -1666,6 +2301,58 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "worms-from-eating-sweets",
+  "category": "Children's health",
+  "myth": "Children get worms from eating too many sweets or sugar.",
+  "rating": "false",
+  "fact": "Sugar does not cause worms. Threadworms (pinworms), the most common worms in children in many countries, are caught by swallowing tiny eggs picked up on fingers, food or surfaces.",
+  "explanation": "The eggs are laid around the bottom at night, causing itching, and can be passed on when children scratch and then touch their mouths or other things. Treatment is a medicine from the pharmacy for the whole household, plus hand washing, short nails and washing bedding. Other kinds of worm infection are spread through contaminated soil, food or water, not sugar.",
+  "keywords": [
+   "worms",
+   "threadworms",
+   "pinworms",
+   "sweets cause worms",
+   "sugar worms",
+   "itchy bottom child",
+   "worm infection"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Threadworms",
+    "url": "https://www.nhs.uk/conditions/threadworms/"
+   },
+   {
+    "label": "MedlinePlus — Pinworms",
+    "url": "https://medlineplus.gov/pinworms.html"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "bedwetting-is-laziness",
+  "category": "Children's health",
+  "myth": "Children who wet the bed are being lazy or doing it on purpose.",
+  "rating": "false",
+  "fact": "Bedwetting is common in children and is not their fault. It usually happens because the body makes a lot of urine at night, the bladder is small or overactive, or the child does not wake when the bladder is full, and it often runs in families.",
+  "explanation": "Punishing or shaming a child does not help and can make things worse. Most children grow out of it, but help is available, including bedwetting alarms and medicines. See a GP if a child over 5 is wetting the bed often, or if bedwetting starts again after being dry for months.",
+  "keywords": [
+   "bedwetting",
+   "wetting the bed",
+   "nocturnal enuresis",
+   "lazy child",
+   "bedwetting alarm",
+   "night wetting",
+   "child wets bed"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Bedwetting in children",
+    "url": "https://www.nhs.uk/conditions/bedwetting/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "children-outgrow-lazy-eye",
   "category": "Eyes & vision",
   "myth": "Children will grow out of a lazy eye or squint on their own.",
@@ -1689,6 +2376,30 @@
    {
     "label": "American Academy of Ophthalmology — Eye health",
     "url": "https://www.aao.org/eye-health"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "flat-feet-children-special-shoes",
+  "category": "Children's health",
+  "myth": "Children with flat feet need special shoes or insoles to build their arches.",
+  "rating": "false",
+  "fact": "Flat feet are normal in babies and young children, and arches usually develop gradually through childhood. Special shoes or insoles are not needed if the child has no pain or problems walking.",
+  "explanation": "Some people keep flat feet as adults without any trouble. See a GP if your child has foot pain, stiff feet, walks unusually, or if only one foot is flat. Well-fitting ordinary shoes and plenty of active play are what children's feet need.",
+  "keywords": [
+   "flat feet",
+   "fallen arches",
+   "child flat feet",
+   "insoles children",
+   "orthopaedic shoes",
+   "arch support",
+   "kids feet"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Flat feet",
+    "url": "https://www.nhs.uk/conditions/flat-feet/"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -1906,6 +2617,31 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "cot-bumpers-keep-baby-safe",
+  "category": "Children's health",
+  "myth": "Cot bumpers, pillows and soft toys make a baby's cot safer and cosier.",
+  "rating": "false",
+  "fact": "Safe sleep advice is to keep the cot clear: a firm, flat mattress with no bumpers, pillows, duvets or soft toys. Soft items raise the risk of suffocation and sudden infant death syndrome (SIDS).",
+  "explanation": "Babies can get their faces pressed against soft padding or become trapped. Place your baby on their back with their feet at the foot of the cot, and use a baby sleeping bag or firmly tucked-in blankets no higher than the shoulders. Babies do not need a pillow until well after their first birthday.",
+  "keywords": [
+   "cot bumpers",
+   "crib bumpers",
+   "pillow in cot",
+   "soft toys cot",
+   "safe sleep",
+   "sids",
+   "cot death",
+   "baby duvet"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Sudden infant death syndrome (SIDS)",
+    "url": "https://www.nhs.uk/baby/caring-for-a-newborn/sudden-infant-death-syndrome-sids/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "cough-medicine-safe-toddlers",
   "category": "Children's health",
   "myth": "Cough and cold medicines are safe and helpful for toddlers.",
@@ -1954,6 +2690,30 @@
    {
     "label": "NHS — COVID-19 vaccine",
     "url": "https://www.nhs.uk/vaccinations/covid-19-vaccine/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "cows-milk-main-drink-before-one",
+  "category": "Children's health",
+  "myth": "Cow's milk can replace breast milk or formula as a baby's main drink before their first birthday.",
+  "rating": "false",
+  "fact": "Cow's milk should not be given as a main drink until a baby is 12 months old, because it does not contain enough iron and other nutrients for babies. Small amounts can be used in cooking or with food from around 6 months.",
+  "explanation": "Before 12 months, breast milk or first infant formula should be the main drink. After 12 months, whole (full-fat) cow's milk can be given as a drink. Other plant 'milks' are not suitable replacements for babies, and rice drinks should not be given to young children.",
+  "keywords": [
+   "cows milk baby",
+   "cow's milk before 1",
+   "whole milk baby",
+   "when to give milk",
+   "milk instead of formula",
+   "baby drinks",
+   "toddler milk"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Drinks and cups for babies and young children",
+    "url": "https://www.nhs.uk/baby/weaning-and-feeding/drinks-and-cups-for-babies-and-young-children/"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -2010,6 +2770,34 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "cravings-predict-baby-sex",
+  "category": "Pregnancy & fertility",
+  "myth": "Craving sweet foods means you're having a girl, and craving salty or sour foods means a boy.",
+  "rating": "false",
+  "fact": "Food cravings are common in pregnancy but they do not tell you the baby's sex. The sex of the baby is fixed by chromosomes at conception.",
+  "explanation": "Why cravings happen is not fully understood; hormones, changes in taste and smell, and habit may all play a part. Cravings are harmless as long as your overall diet stays balanced. Tell your midwife if you crave non-food items such as soil or ice, as this can sometimes be linked to low iron.",
+  "keywords": [
+   "cravings",
+   "sweet cravings girl",
+   "salty cravings boy",
+   "pregnancy cravings",
+   "boy or girl",
+   "baby gender",
+   "sour cravings"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Have a healthy diet in pregnancy",
+    "url": "https://www.nhs.uk/pregnancy/keeping-well/have-a-healthy-diet/"
+   },
+   {
+    "label": "NHS — 20-week screening scan",
+    "url": "https://www.nhs.uk/pregnancy/your-pregnancy-care/20-week-scan/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "suck-out-snake-venom",
   "category": "First aid",
   "myth": "Cut and suck out the venom after a snake bite, or use a tourniquet.",
@@ -2038,6 +2826,63 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "wounds-heal-better-in-air",
+  "category": "First aid",
+  "myth": "Cuts and grazes heal best if you leave them uncovered to dry out and scab.",
+  "rating": "misleading",
+  "fact": "Dermatologists advise keeping a clean wound moist, for example with petroleum jelly, and covered with a dressing. Moist wounds tend to heal well and may scar less than wounds left to dry out and form thick scabs.",
+  "explanation": "First, stop any bleeding with pressure and rinse the wound with clean water. Change the dressing regularly. Seek help for deep or gaping cuts, wounds that won't stop bleeding, bites, or signs of infection such as spreading redness, swelling, pus or fever.",
+  "keywords": [
+   "let wound breathe",
+   "air dry wound",
+   "scab",
+   "cut healing",
+   "graze",
+   "cover a cut",
+   "wound care",
+   "plaster"
+  ],
+  "sources": [
+   {
+    "label": "American Academy of Dermatology — Proper wound care",
+    "url": "https://www.aad.org/public/everyday-care/injured-skin/burns/wound-care-minimize-scars"
+   },
+   {
+    "label": "NHS — Cuts and grazes",
+    "url": "https://www.nhs.uk/conditions/cuts-and-grazes/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "cutting-down-smoking-pregnancy-enough",
+  "category": "Pregnancy & fertility",
+  "myth": "Cutting down to a few cigarettes a day in pregnancy is as good as quitting, and a smaller baby means an easier birth.",
+  "rating": "false",
+  "fact": "Any smoking in pregnancy harms the baby: it raises the risk of miscarriage, premature birth, stillbirth, low birth weight and sudden infant death. Stopping completely, at any stage of pregnancy, is the best thing you can do for your baby.",
+  "explanation": "Babies who are small because of smoking are not easier to deliver; they are more likely to be unwell. Free stop-smoking support is available through maternity services, and nicotine replacement products are much safer than smoking. Second-hand smoke also affects the baby, so support for partners to quit helps too.",
+  "keywords": [
+   "smoking pregnancy",
+   "cut down smoking",
+   "few cigarettes pregnant",
+   "smaller baby easier birth",
+   "quit smoking pregnant",
+   "low birth weight",
+   "vaping pregnancy"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Stop smoking in pregnancy",
+    "url": "https://www.nhs.uk/pregnancy/keeping-well/stop-smoking/"
+   },
+   {
+    "label": "NHS — Stillbirth",
+    "url": "https://www.nhs.uk/conditions/stillbirth/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "trimming-makes-hair-grow-faster",
   "category": "Skin & hair",
   "myth": "Cutting your hair often makes it grow faster.",
@@ -2061,6 +2906,35 @@
    {
     "label": "MedlinePlus — Hair loss",
     "url": "https://medlineplus.gov/hairloss.html"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "ring-pendulum-predicts-baby-sex",
+  "category": "Pregnancy & fertility",
+  "myth": "Dangling a ring or needle on a thread over the bump or wrist shows whether you're having a boy or a girl.",
+  "rating": "false",
+  "fact": "The way a ring or needle swings cannot detect a baby's sex. The baby's sex is set by chromosomes at conception and can only be found reliably by an ultrasound scan later in pregnancy or by medical genetic tests.",
+  "explanation": "The ring test gets the answer right about half the time, which is what you would expect from guessing. Small, unconscious movements of the hand decide which way it swings. In many places the 20-week scan can show the baby's sex if you want to know, although some hospitals do not tell parents.",
+  "keywords": [
+   "ring test",
+   "pendulum test",
+   "needle and thread",
+   "boy or girl",
+   "baby gender",
+   "predict sex",
+   "gender prediction",
+   "wedding ring bump"
+  ],
+  "sources": [
+   {
+    "label": "NHS — 20-week screening scan",
+    "url": "https://www.nhs.uk/pregnancy/your-pregnancy-care/20-week-scan/"
+   },
+   {
+    "label": "NHS — Ultrasound scans in pregnancy",
+    "url": "https://www.nhs.uk/pregnancy/your-pregnancy-care/ultrasound-scans/"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -2127,6 +3001,34 @@
    {
     "label": "NHS — Mental health",
     "url": "https://www.nhs.uk/mental-health/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "depression-just-chemical-imbalance",
+  "category": "Mental health",
+  "myth": "Depression is simply caused by a chemical imbalance, like low serotonin.",
+  "rating": "misleading",
+  "fact": "Depression does not have one single cause. It is thought to result from a combination of genetic, biological, psychological and life factors, such as stressful events, loneliness, illness and substance use.",
+  "explanation": "The 'low serotonin' explanation is an oversimplification that research has not confirmed. This does not mean antidepressants don't help: they are an effective treatment for many people, even though the way they work is more complex than once thought. Talking therapies, social support and physical activity also play important roles.",
+  "keywords": [
+   "chemical imbalance",
+   "serotonin depression",
+   "low serotonin",
+   "depression cause",
+   "brain chemistry",
+   "what causes depression",
+   "serotonin myth"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Depression in adults: causes",
+    "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/causes/"
+   },
+   {
+    "label": "NIMH — Depression",
+    "url": "https://www.nimh.nih.gov/health/topics/depression"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -2265,6 +3167,29 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "beer-boosts-breast-milk",
+  "category": "Pregnancy & fertility",
+  "myth": "Drinking beer or stout helps you make more breast milk.",
+  "rating": "false",
+  "fact": "Alcohol does not increase milk supply. It passes into breast milk and can reduce the amount of milk the baby gets and affect the baby's feeding and sleep.",
+  "explanation": "This is an old tradition in several countries, but the evidence points the other way. Milk supply is mainly driven by how often and how well the baby feeds. An occasional drink is unlikely to harm a breastfed baby, but avoid feeding for 2 to 3 hours after a drink, and never share a bed or sofa with your baby after drinking.",
+  "keywords": [
+   "beer breast milk",
+   "guinness breastfeeding",
+   "stout milk supply",
+   "alcohol breastfeeding",
+   "increase milk supply",
+   "breastfeeding drink"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Breastfeeding and drinking alcohol",
+    "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-and-lifestyle/alcohol/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "cold-water-after-meals-solidifies-fat",
   "category": "Digestion",
   "myth": "Drinking cold water after a meal turns the oil in your food solid, which builds up in your gut and causes heart attacks or cancer.",
@@ -2390,6 +3315,33 @@
    {
     "label": "NIDDK — Peptic ulcers (stomach ulcers)",
     "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/peptic-ulcers-stomach-ulcers"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "strong-coffee-stops-asthma-attack",
+  "category": "Allergies & asthma",
+  "myth": "Drinking strong coffee can stop an asthma attack if you don't have your inhaler.",
+  "rating": "false",
+  "fact": "Caffeine has a weak, slow effect on the airways and is no substitute for a reliever inhaler. An asthma attack without access to an inhaler is an emergency, and you should call emergency services.",
+  "explanation": "Relying on coffee or other home remedies can cost valuable time. People with asthma should always carry their reliever inhaler and have a written asthma action plan. Needing your reliever more often than usual is a sign to get your asthma reviewed.",
+  "keywords": [
+   "coffee asthma",
+   "caffeine asthma",
+   "no inhaler",
+   "asthma without inhaler",
+   "asthma home remedy",
+   "asthma attack remedy"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Asthma",
+    "url": "https://www.nhs.uk/conditions/asthma/"
+   },
+   {
+    "label": "NHLBI — Asthma",
+    "url": "https://www.nhlbi.nih.gov/health/asthma"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -2521,6 +3473,33 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "eating-disorders-are-a-choice",
+  "category": "Mental health",
+  "myth": "Eating disorders are a lifestyle choice or about vanity.",
+  "rating": "false",
+  "fact": "Eating disorders are serious mental illnesses with biological, psychological and social causes. They are not a choice and have one of the highest risks of serious complications of any mental illness.",
+  "explanation": "People cannot simply decide to 'just eat normally', and blame can make it harder to ask for help. Recovery is possible with specialist treatment, which usually includes talking therapy and support from family and friends. If you are struggling, please reach out to a GP or an eating disorder helpline.",
+  "keywords": [
+   "eating disorder choice",
+   "anorexia vanity",
+   "eating disorders serious",
+   "just eat",
+   "eating disorder causes",
+   "bulimia choice"
+  ],
+  "sources": [
+   {
+    "label": "NIMH — Eating disorders",
+    "url": "https://www.nimh.nih.gov/health/topics/eating-disorders"
+   },
+   {
+    "label": "NHS — Eating disorders",
+    "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/eating-disorders/overview/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "fruit-after-meal-rots-in-stomach",
   "category": "Digestion",
   "myth": "Eating fruit after a meal makes it rot or ferment in your stomach.",
@@ -2623,6 +3602,57 @@
    {
     "label": "MedlinePlus — Dietary fiber",
     "url": "https://medlineplus.gov/dietaryfiber.html"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "no-peanuts-in-pregnancy",
+  "category": "Pregnancy & fertility",
+  "myth": "Eating peanuts while pregnant will give your baby a nut allergy.",
+  "rating": "false",
+  "fact": "There is no clear evidence that eating peanuts in pregnancy causes peanut allergy in the baby. You can eat peanuts and foods containing them as part of a healthy diet, unless you are allergic to them yourself or a health professional advises otherwise.",
+  "explanation": "Advice to avoid peanuts in pregnancy was withdrawn once studies did not support it. Separately, research shows that introducing peanut foods to babies early, in a safe form, can lower the chance of peanut allergy. Whole nuts should never be given to young children because of choking.",
+  "keywords": [
+   "peanuts pregnancy",
+   "nuts pregnancy",
+   "nut allergy",
+   "peanut allergy baby",
+   "peanut butter pregnant",
+   "allergy in pregnancy"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Foods to avoid in pregnancy",
+    "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "pineapple-curry-start-labour",
+  "category": "Pregnancy & fertility",
+  "myth": "Eating pineapple or a hot curry will bring on labour.",
+  "rating": "false",
+  "fact": "There is no good evidence that pineapple, spicy food or other home remedies start labour. When labour needs to be started for medical reasons, it is done in hospital with methods such as a membrane sweep, medicines or breaking the waters.",
+  "explanation": "Most babies arrive within two weeks either side of the due date, so whatever someone tried last often gets the credit. Spicy food can cause heartburn or an upset stomach, and some remedies such as castor oil can cause diarrhoea and dehydration. If you are overdue, your midwife will talk to you about your options.",
+  "keywords": [
+   "pineapple labour",
+   "curry labour",
+   "induce labour naturally",
+   "bring on labour",
+   "spicy food labour",
+   "castor oil",
+   "overdue"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Inducing labour",
+    "url": "https://www.nhs.uk/pregnancy/labour-and-birth/inducing-labour/"
+   },
+   {
+    "label": "ACOG — When pregnancy goes past your due date",
+    "url": "https://www.acog.org/womens-health/faqs/when-pregnancy-goes-past-your-due-date"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -2868,6 +3898,30 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "baby-videos-help-talking",
+  "category": "Children's health",
+  "myth": "Educational videos and apps help babies learn to talk faster.",
+  "rating": "false",
+  "fact": "Babies and toddlers learn language mainly through live, back-and-forth interaction with people, such as talking, reading and playing together. The WHO recommends no sedentary screen time for children under 2.",
+  "explanation": "Studies have found that very young children learn far less from screens than from real conversation. Occasional video calls with family are different, because they involve real interaction. Reading aloud, singing and talking about what you are doing all help language develop.",
+  "keywords": [
+   "baby videos",
+   "educational apps babies",
+   "screen time babies",
+   "toddler screen time",
+   "learn to talk",
+   "speech development",
+   "baby einstein"
+  ],
+  "sources": [
+   {
+    "label": "WHO — To grow up healthy, children need to sit less and play more",
+    "url": "https://www.who.int/news/item/24-04-2019-to-grow-up-healthy-children-need-to-sit-less-and-play-more"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "eggs-raise-cholesterol-dangerous",
   "category": "Heart & blood pressure",
   "myth": "Eggs are bad for your heart because of their cholesterol.",
@@ -2892,6 +3946,33 @@
    {
     "label": "American Heart Association — Cholesterol",
     "url": "https://www.heart.org/en/health-topics/cholesterol"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "ect-is-barbaric",
+  "category": "Mental health",
+  "myth": "Electroconvulsive therapy (ECT) is a barbaric treatment that fries your brain.",
+  "rating": "misleading",
+  "fact": "Modern ECT is given under general anaesthetic with a muscle relaxant and is used mainly for severe depression and some other serious conditions when other treatments have not worked or rapid help is needed. It is one of the most effective treatments for severe depression.",
+  "explanation": "Its image comes partly from older practices and films. ECT does have side effects, most notably short-term confusion and memory problems, and some people report longer-lasting memory gaps, so its risks and benefits need careful discussion. It is only given with consent, except in specific legal circumstances.",
+  "keywords": [
+   "ect",
+   "electroconvulsive therapy",
+   "electric shock therapy",
+   "shock treatment",
+   "ect brain damage",
+   "ect depression"
+  ],
+  "sources": [
+   {
+    "label": "NIMH — Brain stimulation therapies",
+    "url": "https://www.nimh.nih.gov/health/topics/brain-stimulation-therapies/brain-stimulation-therapies"
+   },
+   {
+    "label": "Cleveland Clinic — Electroconvulsive therapy (ECT)",
+    "url": "https://my.clevelandclinic.org/health/treatments/9302-ect-electroconvulsive-therapy"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -2977,6 +4058,34 @@
    {
     "label": "NHS — Threadworms",
     "url": "https://www.nhs.uk/conditions/threadworms/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "everyone-is-a-little-autistic",
+  "category": "Mental health",
+  "myth": "Everyone is a little bit autistic.",
+  "rating": "misleading",
+  "fact": "Many people share some traits seen in autism, such as liking routine or finding loud places tiring. Autism is diagnosed when differences in social communication and repetitive behaviours or sensory sensitivities are present from early childhood and have a significant effect on daily life.",
+  "explanation": "The phrase is often meant kindly, but it can downplay the real challenges autistic people face. Autism is a lifelong difference in how people experience the world, not a scale everyone sits on. Anyone who thinks they may be autistic can ask a GP about an assessment.",
+  "keywords": [
+   "everyone is autistic",
+   "a little autistic",
+   "autism spectrum",
+   "autistic traits",
+   "on the spectrum",
+   "self diagnose autism",
+   "am i autistic"
+  ],
+  "sources": [
+   {
+    "label": "NHS — What is autism?",
+    "url": "https://www.nhs.uk/conditions/autism/what-is-autism/"
+   },
+   {
+    "label": "NIMH — Autism spectrum disorder",
+    "url": "https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -3374,6 +4483,34 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "flying-unsafe-in-pregnancy",
+  "category": "Pregnancy & fertility",
+  "myth": "Flying is dangerous for your unborn baby.",
+  "rating": "false",
+  "fact": "For most people with a straightforward pregnancy, flying is not harmful to the baby. Airlines may have rules about travelling late in pregnancy, often from around 37 weeks (earlier for twins), and may ask for a letter from your midwife or doctor after about 28 weeks.",
+  "explanation": "Long flights raise the risk of blood clots (DVT), so drink water, move around and consider compression stockings. Check your travel insurance covers pregnancy and that you can get care at your destination. If you have complications, ask your midwife or doctor before booking.",
+  "keywords": [
+   "flying pregnant",
+   "plane pregnancy",
+   "air travel pregnancy",
+   "fly while pregnant",
+   "airport scanner",
+   "travel pregnancy",
+   "dvt pregnancy"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Travelling in pregnancy",
+    "url": "https://www.nhs.uk/pregnancy/keeping-well/travelling/"
+   },
+   {
+    "label": "ACOG — Travel during pregnancy",
+    "url": "https://www.acog.org/womens-health/faqs/travel-during-pregnancy"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "five-second-rule",
   "category": "Infections & colds",
   "myth": "Food dropped on the floor is safe to eat if you pick it up within five seconds.",
@@ -3473,6 +4610,34 @@
    {
     "label": "NHS — Eat well",
     "url": "https://www.nhs.uk/live-well/eat-well/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "fruit-juice-healthy-for-toddlers",
+  "category": "Children's health",
+  "myth": "Fruit juice is a healthy everyday drink for babies and toddlers.",
+  "rating": "misleading",
+  "fact": "Fruit juice contains free sugars that can cause tooth decay, and it is not needed in a young child's diet. Babies under 12 months do not need juice at all; for older children, water and milk are the best everyday drinks.",
+  "explanation": "If juice is given to older children, health services suggest keeping it small, well diluted and with meals, which reduces harm to teeth. Whole fruit is better than juice because it contains fibre and is more filling. Avoid giving juice in bottles or at bedtime.",
+  "keywords": [
+   "fruit juice toddler",
+   "juice for babies",
+   "apple juice baby",
+   "sugary drinks children",
+   "juice tooth decay",
+   "orange juice kids",
+   "healthy drinks children"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Drinks and cups for babies and young children",
+    "url": "https://www.nhs.uk/baby/weaning-and-feeding/drinks-and-cups-for-babies-and-young-children/"
+   },
+   {
+    "label": "WHO — Sugars and dental caries",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/sugars-and-dental-caries"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -3640,6 +4805,34 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "adhd-medicine-makes-children-addicts",
+  "category": "Mental health",
+  "myth": "Giving children ADHD medicine turns them into drug addicts later in life.",
+  "rating": "false",
+  "fact": "When ADHD stimulant medicines are prescribed and monitored by doctors, research has not shown that they make children more likely to misuse drugs later. Untreated ADHD itself is linked to a higher risk of substance problems.",
+  "explanation": "ADHD medicines can have side effects, such as reduced appetite and sleep problems, so they are reviewed regularly. They are one part of treatment, alongside support at home and school. Families with concerns should discuss them with the prescribing doctor rather than stopping medicine suddenly.",
+  "keywords": [
+   "adhd medication",
+   "ritalin",
+   "methylphenidate",
+   "adhd medicine addiction",
+   "stimulants children",
+   "adhd drugs",
+   "adderall kids"
+  ],
+  "sources": [
+   {
+    "label": "NIMH — Attention-deficit/hyperactivity disorder (ADHD)",
+    "url": "https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd"
+   },
+   {
+    "label": "NHS — ADHD in children and young people",
+    "url": "https://www.nhs.uk/conditions/adhd-children-teenagers/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "wet-hair-gives-you-a-cold",
   "category": "Infections & colds",
   "myth": "Going outside with wet hair will give you a cold.",
@@ -3726,6 +4919,58 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "grief-five-stages-in-order",
+  "category": "Mental health",
+  "myth": "Grief always follows five stages in a fixed order.",
+  "rating": "misleading",
+  "fact": "People grieve in many different ways. Feelings such as shock, anger, sadness, guilt and acceptance can come and go, in any order, and there is no right or wrong way or timeline.",
+  "explanation": "The 'five stages' idea can make people worry they are grieving wrongly. Grief often eases over time, but if it feels overwhelming, stops you functioning for a long time, or you have thoughts of harming yourself, speak to a GP or bereavement service.",
+  "keywords": [
+   "stages of grief",
+   "five stages of grief",
+   "grief",
+   "bereavement",
+   "grieving",
+   "kubler ross",
+   "how long grief lasts"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Grief after bereavement or loss",
+    "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "alternative-allergy-tests",
+  "category": "Allergies & asthma",
+  "myth": "Hair analysis, kinesiology or 'bioresonance' machines can diagnose your allergies.",
+  "rating": "false",
+  "fact": "These alternative tests have not been shown to diagnose allergies reliably and are not recommended by health services. Allergies are diagnosed by a doctor using your history together with skin-prick tests, specific blood tests or supervised food challenges.",
+  "explanation": "Results from unproven tests can wrongly label people as allergic, leading to needless diets, or miss a real and dangerous allergy. If you think you or your child has an allergy, ask a GP, who can refer you to an allergy service if needed.",
+  "keywords": [
+   "hair analysis allergy",
+   "kinesiology",
+   "bioresonance",
+   "vega test",
+   "allergy testing",
+   "muscle testing allergy",
+   "alternative allergy test"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Allergies",
+    "url": "https://www.nhs.uk/conditions/allergies/"
+   },
+   {
+    "label": "NHS — Food allergy",
+    "url": "https://www.nhs.uk/conditions/food-allergy/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "hand-sanitiser-as-good-as-soap",
   "category": "Infections & colds",
   "myth": "Hand sanitiser works just as well as soap and water against all germs.",
@@ -3774,6 +5019,103 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "allergies-mean-weak-immune-system",
+  "category": "Allergies & asthma",
+  "myth": "Having allergies means your immune system is weak.",
+  "rating": "false",
+  "fact": "An allergy happens when the immune system overreacts to something that is usually harmless, such as pollen, dust mites or a food. It is a misdirected response, not a sign of a weak immune system.",
+  "explanation": "Allergies are very common and often run in families, along with eczema and asthma. Products that claim to 'boost' the immune system do not cure allergies. Treatments such as antihistamines, nasal sprays and immunotherapy target the allergic response itself.",
+  "keywords": [
+   "allergies weak immune system",
+   "immune system allergy",
+   "boost immunity allergy",
+   "why allergies",
+   "allergic reaction cause",
+   "overactive immune"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Allergies",
+    "url": "https://www.nhs.uk/conditions/allergies/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "epidural-causes-back-pain",
+  "category": "Pregnancy & fertility",
+  "myth": "Having an epidural in labour gives you long-term back pain.",
+  "rating": "false",
+  "fact": "Studies have not found that epidurals cause long-term back pain. Back pain is common after pregnancy whether or not a person had an epidural, because of the strain pregnancy puts on the back.",
+  "explanation": "The injection site may feel tender for a few days. Epidurals do have possible side effects, such as low blood pressure, itching or, rarely, a severe headache, which the team will explain. Pain relief in labour is a personal choice, and it helps to discuss options with your midwife in advance.",
+  "keywords": [
+   "epidural",
+   "epidural back pain",
+   "labour pain relief",
+   "back pain after birth",
+   "spinal block",
+   "epidural side effects"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Epidural",
+    "url": "https://www.nhs.uk/tests-and-treatments/epidural/"
+   },
+   {
+    "label": "NHS — Pain relief in labour",
+    "url": "https://www.nhs.uk/pregnancy/labour-and-birth/pain-relief-in-labour/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "hay-fever-causes-fever",
+  "category": "Allergies & asthma",
+  "myth": "Hay fever gives you a fever.",
+  "rating": "false",
+  "fact": "Despite its name, hay fever does not cause a raised temperature. Its symptoms include sneezing, a runny or blocked nose, itchy red or watery eyes and an itchy throat.",
+  "explanation": "If you have a high temperature, aching body or feel generally unwell, an infection such as a cold, flu or COVID-19 is more likely. Hay fever symptoms also tend to come with pollen exposure and last for weeks, rather than a few days.",
+  "keywords": [
+   "hay fever fever",
+   "hay fever temperature",
+   "allergies fever",
+   "hay fever or cold",
+   "high temperature allergy",
+   "allergy symptoms"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Hay fever",
+    "url": "https://www.nhs.uk/conditions/hay-fever/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "hay-fever-only-in-spring",
+  "category": "Allergies & asthma",
+  "myth": "Hay fever only happens in spring.",
+  "rating": "false",
+  "fact": "Different pollens are released at different times: tree pollen mainly in spring, grass pollen in late spring and summer, and weed pollen into early autumn. Some people also have year-round allergic rhinitis from dust mites, pets or mould.",
+  "explanation": "Knowing which months your symptoms come on can help you work out your triggers. Starting treatments such as antihistamines or steroid nasal sprays before your usual season can help. A pharmacist is a good first point of advice.",
+  "keywords": [
+   "hay fever",
+   "pollen season",
+   "hay fever summer",
+   "allergic rhinitis",
+   "autumn hay fever",
+   "grass pollen",
+   "year round allergies"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Hay fever",
+    "url": "https://www.nhs.uk/conditions/hay-fever/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "hcg-diet-works",
   "category": "Weight",
   "myth": "HCG drops or injections with a very low-calorie diet melt fat without hunger.",
@@ -3793,6 +5135,34 @@
    {
     "label": "US FDA — Avoid dangerous hCG diet products",
     "url": "https://www.fda.gov/consumers/consumer-updates/avoid-dangerous-hcg-diet-products"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "head-lice-dirty-hair",
+  "category": "Children's health",
+  "myth": "Head lice only affect children with dirty hair or poor hygiene.",
+  "rating": "false",
+  "fact": "Head lice have nothing to do with cleanliness. They spread by direct head-to-head contact, and anyone with hair can get them, whether it is clean or dirty.",
+  "explanation": "Head lice are common in school-age children because they play closely together. Lice cannot jump or fly, and they do not spread disease. Combing wet hair with a fine-toothed detection comb, or using a lotion or spray from a pharmacy, can treat them; children do not need to be kept off school.",
+  "keywords": [
+   "head lice",
+   "nits",
+   "dirty hair lice",
+   "lice hygiene",
+   "lice school",
+   "nit comb",
+   "lice treatment"
+  ],
+  "sources": [
+   {
+    "label": "MedlinePlus — Head lice",
+    "url": "https://medlineplus.gov/headlice.html"
+   },
+   {
+    "label": "NHS — Head lice and nits",
+    "url": "https://www.nhs.uk/conditions/head-lice-and-nits/"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -3876,6 +5246,30 @@
    {
     "label": "NCCIH — Using dietary supplements wisely",
     "url": "https://www.nccih.nih.gov/health/using-dietary-supplements-wisely"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "hives-always-allergy",
+  "category": "Allergies & asthma",
+  "myth": "Hives are always caused by an allergy.",
+  "rating": "false",
+  "fact": "Hives (urticaria) can be triggered by an allergic reaction, but they can also follow infections, medicines, heat, pressure on the skin, stress or exercise, and often no cause is found. Long-lasting hives are rarely due to allergy.",
+  "explanation": "Most hives settle within a few days and can be eased with antihistamines from a pharmacy. Hives together with swelling of the lips, tongue or throat, or difficulty breathing, could be anaphylaxis and need emergency help. Hives lasting more than 6 weeks should be seen by a GP.",
+  "keywords": [
+   "hives",
+   "urticaria",
+   "nettle rash",
+   "hives cause",
+   "itchy welts",
+   "hives allergy",
+   "chronic hives"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Hives",
+    "url": "https://www.nhs.uk/conditions/hives/"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -4080,6 +5474,54 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "negative-test-means-not-pregnant",
+  "category": "Pregnancy & fertility",
+  "myth": "If a home pregnancy test is negative, you're definitely not pregnant.",
+  "rating": "misleading",
+  "fact": "Home pregnancy tests are accurate when used correctly, but a negative result can be wrong if you test too early, before there is enough pregnancy hormone (hCG) in your urine. Most tests work from the first day of a missed period.",
+  "explanation": "If you test early and get a negative result but still think you may be pregnant, test again a few days later, ideally with your first urine of the morning. Check the instructions, as tests vary in sensitivity. See a GP if you keep getting negative results but your period has not come.",
+  "keywords": [
+   "pregnancy test",
+   "negative pregnancy test",
+   "false negative",
+   "home pregnancy test",
+   "test too early",
+   "missed period",
+   "hcg"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Doing a pregnancy test",
+    "url": "https://www.nhs.uk/pregnancy/trying-for-a-baby/doing-a-pregnancy-test/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "antidepressants-work-in-days",
+  "category": "Mental health",
+  "myth": "If an antidepressant hasn't helped after a few days, it isn't working.",
+  "rating": "false",
+  "fact": "Antidepressants usually take 1 to 2 weeks to start having an effect, and it can take 4 to 6 weeks to feel the full benefit. Some side effects may appear before the benefits do.",
+  "explanation": "It's important not to stop early without talking to your doctor. If a medicine still isn't helping after several weeks, or side effects are hard to manage, the dose or medicine can be changed. If you feel worse or have thoughts of harming yourself, contact a doctor or emergency services straight away.",
+  "keywords": [
+   "antidepressants how long",
+   "antidepressant not working",
+   "ssri weeks",
+   "sertraline how long",
+   "fluoxetine",
+   "antidepressants take time",
+   "citalopram"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Antidepressants",
+    "url": "https://www.nhs.uk/medicines/antidepressants/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "natural-safe",
   "category": "Supplements",
   "myth": "If it’s natural, it’s automatically safe.",
@@ -4161,6 +5603,86 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "hearing-voices-always-schizophrenia",
+  "category": "Mental health",
+  "myth": "If someone hears voices, it always means they have schizophrenia.",
+  "rating": "false",
+  "fact": "Hearing voices can be part of psychosis in several conditions, including bipolar disorder, severe depression and drug use, as well as schizophrenia. It can also happen with very little sleep, high fever, grief or brain conditions, and some people hear voices without being unwell.",
+  "explanation": "Hearing voices that are distressing, or that tell you to do things, should be checked with a GP or mental health service, especially when it is new. Early support for psychosis leads to better outcomes.",
+  "keywords": [
+   "hearing voices",
+   "auditory hallucinations",
+   "psychosis",
+   "voices in head",
+   "schizophrenia",
+   "hallucinations"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Psychosis",
+    "url": "https://www.nhs.uk/mental-health/conditions/psychosis/overview/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "choking-give-water-or-finger-sweep",
+  "category": "First aid",
+  "myth": "If someone is choking, give them water or reach into their mouth to pull the object out.",
+  "rating": "false",
+  "fact": "If someone can cough, encourage them to keep coughing. If they cannot cough, speak or breathe, give up to 5 sharp back blows between the shoulder blades and then up to 5 abdominal thrusts (chest thrusts for babies), and call emergency services if the blockage does not clear.",
+  "explanation": "Drinking water can make choking worse, and blind finger sweeps can push the object further down. Only remove an object if you can clearly see it and easily reach it. Anyone who has had abdominal thrusts should be checked by a doctor afterwards. A first aid course is the best way to learn these skills.",
+  "keywords": [
+   "choking",
+   "choking first aid",
+   "back blows",
+   "heimlich",
+   "abdominal thrusts",
+   "water for choking",
+   "finger sweep",
+   "something stuck in throat"
+  ],
+  "sources": [
+   {
+    "label": "American Red Cross — Adult & child choking",
+    "url": "https://www.redcross.org/take-a-class/resources/learn-first-aid/adult-child-choking"
+   },
+   {
+    "label": "NHS — How to stop a child from choking",
+    "url": "https://www.nhs.uk/baby/first-aid-and-safety/first-aid/how-to-stop-a-child-from-choking/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "no-wheeze-no-asthma-attack",
+  "category": "Allergies & asthma",
+  "myth": "If someone isn't wheezing, they can't be having a serious asthma attack.",
+  "rating": "false",
+  "fact": "Signs of an asthma attack include worsening cough, breathlessness, a tight chest, being unable to finish sentences, and a reliever inhaler that is not helping. In a very severe attack, so little air moves that wheezing can become quiet or disappear.",
+  "explanation": "Blue or grey lips, confusion, drowsiness or exhaustion are emergency signs. Do not wait for wheezing before following an asthma action plan or calling for help.",
+  "keywords": [
+   "asthma attack signs",
+   "no wheeze",
+   "silent chest",
+   "asthma symptoms",
+   "severe asthma attack",
+   "wheezing",
+   "asthma emergency signs"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Asthma",
+    "url": "https://www.nhs.uk/conditions/asthma/"
+   },
+   {
+    "label": "NHLBI — Asthma",
+    "url": "https://www.nhlbi.nih.gov/health/asthma"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "make-them-vomit-after-poisoning",
   "category": "First aid",
   "myth": "If someone swallows poison, make them vomit.",
@@ -4189,6 +5711,83 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "milk-neutralises-swallowed-poison",
+  "category": "First aid",
+  "myth": "If someone swallows something poisonous, give them milk to neutralise it.",
+  "rating": "false",
+  "fact": "Milk does not neutralise poisons. Unless a medical professional advises otherwise, don't give the person anything to eat or drink; instead, get medical help straight away and take the packaging or substance with you.",
+  "explanation": "Call emergency services if the person is unconscious, having trouble breathing or having a seizure. For other cases, contact a medical helpline or poison centre. Don't try to make them vomit.",
+  "keywords": [
+   "poisoning",
+   "milk poison",
+   "swallowed poison",
+   "swallowed bleach",
+   "neutralise poison",
+   "child swallowed chemical",
+   "poison first aid"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Poisoning",
+    "url": "https://www.nhs.uk/conditions/poisoning/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "stopped-sweating-in-heat-means-cooling",
+  "category": "First aid",
+  "myth": "If someone who is overheating stops sweating, it means they are cooling down.",
+  "rating": "false",
+  "fact": "Not sweating even though someone feels too hot can be a sign of heatstroke, a medical emergency. Other signs include confusion, a fast heartbeat, fast breathing, a seizure or loss of consciousness.",
+  "explanation": "Call emergency services, move the person somewhere cool, and cool them with water, wet cloths and fanning while waiting. If they are alert and can swallow, give them water to sip. Heat exhaustion can turn into heatstroke if the person is not cooled down quickly.",
+  "keywords": [
+   "heatstroke",
+   "heat stroke",
+   "stopped sweating",
+   "heat exhaustion",
+   "overheating",
+   "not sweating hot",
+   "hot weather collapse"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Heat exhaustion and heatstroke",
+    "url": "https://www.nhs.uk/conditions/heat-exhaustion-heatstroke/"
+   },
+   {
+    "label": "American Red Cross — Heat stroke",
+    "url": "https://www.redcross.org/take-a-class/resources/learn-first-aid/heat-stroke"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "give-insulin-to-collapsed-diabetic",
+  "category": "First aid",
+  "myth": "If someone with diabetes suddenly becomes shaky, confused or collapses, you should give them insulin.",
+  "rating": "false",
+  "fact": "Sudden shakiness, sweating and confusion in someone with diabetes are often signs of low blood sugar (a 'hypo'), which insulin would make worse. If they are awake and able to swallow, give a sugary drink, sweets or glucose tablets.",
+  "explanation": "If the person is unconscious, do not give them anything by mouth; put them in the recovery position and call emergency services. Some people carry a glucagon kit that trained family members can use. After a hypo, they should eat a longer-acting carbohydrate snack once they feel better.",
+  "keywords": [
+   "diabetic hypo",
+   "low blood sugar",
+   "hypoglycaemia",
+   "hypoglycemia",
+   "give insulin",
+   "diabetic collapse",
+   "diabetic emergency",
+   "sugar for diabetic"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Low blood sugar (hypoglycaemia)",
+    "url": "https://www.nhs.uk/conditions/low-blood-sugar-hypoglycaemia/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "pull-out-embedded-object",
   "category": "First aid",
   "myth": "If something is stuck in a wound, like a knife or glass, you should pull it out.",
@@ -4212,6 +5811,58 @@
    {
     "label": "MedlinePlus — Bleeding",
     "url": "https://medlineplus.gov/bleeding.html"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "stroke-symptoms-gone-no-help-needed",
+  "category": "First aid",
+  "myth": "If stroke-like symptoms go away after a few minutes, there's no need to get help.",
+  "rating": "false",
+  "fact": "Symptoms of a stroke that pass quickly may be a transient ischaemic attack (TIA, or 'mini-stroke'). A TIA is a warning sign that a full stroke may follow, so emergency help should still be called, even if the symptoms have gone.",
+  "explanation": "Use FAST to spot a stroke: Face drooping, Arm weakness, Speech problems, Time to call emergency services. Prompt assessment and treatment after a TIA greatly lowers the risk of a stroke.",
+  "keywords": [
+   "mini stroke",
+   "tia",
+   "transient ischaemic attack",
+   "stroke symptoms went away",
+   "fast test",
+   "stroke warning",
+   "face drooping"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Transient ischaemic attack (TIA)",
+    "url": "https://www.nhs.uk/conditions/transient-ischaemic-attack-tia/"
+   },
+   {
+    "label": "NHS — Stroke symptoms",
+    "url": "https://www.nhs.uk/conditions/stroke/symptoms/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "anaphylaxis-always-has-rash",
+  "category": "Allergies & asthma",
+  "myth": "If there's no rash or hives, it can't be anaphylaxis.",
+  "rating": "false",
+  "fact": "Anaphylaxis can happen without any skin rash. Key signs are swelling of the throat or tongue, difficulty breathing or noisy breathing, wheezing, feeling faint or dizzy, and collapse.",
+  "explanation": "Waiting for a rash before acting can waste vital minutes. If someone has signs of anaphylaxis, use their adrenaline auto-injector if they have one and call emergency services straight away. Anaphylaxis can follow foods, insect stings, medicines or latex.",
+  "keywords": [
+   "anaphylaxis",
+   "anaphylaxis no rash",
+   "allergic reaction signs",
+   "severe allergic reaction",
+   "anaphylactic shock",
+   "hives",
+   "throat swelling"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Anaphylaxis",
+    "url": "https://www.nhs.uk/conditions/anaphylaxis/"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -4295,6 +5946,58 @@
    {
     "label": "NHS — Squint",
     "url": "https://www.nhs.uk/conditions/squint/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "no-knockout-no-concussion",
+  "category": "First aid",
+  "myth": "If you didn't get knocked out, you can't have concussion.",
+  "rating": "false",
+  "fact": "Most concussions happen without any loss of consciousness. Symptoms can include headache, dizziness, feeling sick, confusion, memory problems and feeling dazed, and they may appear hours after the injury.",
+  "explanation": "Anyone with a suspected concussion should stop sport or activity and not return the same day. Go to A&E or call emergency services for warning signs such as repeated vomiting, a worsening headache, drowsiness, seizures, weakness or clear fluid from the nose or ears.",
+  "keywords": [
+   "concussion",
+   "knocked out",
+   "head injury",
+   "didn't pass out",
+   "concussion symptoms",
+   "bang on head",
+   "sports head injury"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Head injury and concussion",
+    "url": "https://www.nhs.uk/conditions/head-injury-and-concussion/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "ptsd-starts-straight-after-trauma",
+  "category": "Mental health",
+  "myth": "If you don't develop PTSD straight after a traumatic event, you won't get it.",
+  "rating": "false",
+  "fact": "Post-traumatic stress disorder can start soon after a traumatic event, but symptoms can also appear weeks, months or even years later.",
+  "explanation": "Symptoms include flashbacks, nightmares, avoiding reminders, feeling on edge and difficulty sleeping. Many people have distress after trauma that eases over a few weeks; if it doesn't, effective treatments such as trauma-focused therapy are available. Talk to a GP if symptoms are affecting your life.",
+  "keywords": [
+   "ptsd",
+   "delayed ptsd",
+   "post traumatic stress",
+   "trauma symptoms",
+   "flashbacks",
+   "ptsd later",
+   "complex ptsd"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Post-traumatic stress disorder (PTSD)",
+    "url": "https://www.nhs.uk/mental-health/conditions/ptsd-post-traumatic-stress-disorder/"
+   },
+   {
+    "label": "NIMH — Post-traumatic stress disorder",
+    "url": "https://www.nimh.nih.gov/health/topics/post-traumatic-stress-disorder-ptsd"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -4410,6 +6113,34 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "just-relax-and-you-will-conceive",
+  "category": "Pregnancy & fertility",
+  "myth": "If you just relax and stop trying so hard, you'll get pregnant.",
+  "rating": "misleading",
+  "fact": "Stress can affect sex drive and how often couples have sex, but infertility usually has medical causes, such as problems with ovulation, sperm or the fallopian tubes. Relaxing alone will not fix these.",
+  "explanation": "Most couples conceive within a year of regular unprotected sex. See a GP if you have not conceived after a year of trying, or sooner if you are 36 or over or know of a possible fertility problem. Being told to 'just relax' can feel dismissive; looking after your wellbeing is worthwhile, but it should not delay getting checked.",
+  "keywords": [
+   "just relax",
+   "stress infertility",
+   "stop trying",
+   "trying to conceive",
+   "can't get pregnant",
+   "fertility stress",
+   "ttc"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Infertility",
+    "url": "https://www.nhs.uk/conditions/infertility/"
+   },
+   {
+    "label": "WHO — Infertility",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/infertility"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "double-dose-after-missed-dose",
   "category": "Medicines & antibiotics",
   "myth": "If you miss a dose of medicine, take a double dose next time to catch up.",
@@ -4459,6 +6190,35 @@
    {
     "label": "Mayo Clinic",
     "url": "https://www.mayoclinic.org/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "relate-to-adhd-videos-means-adhd",
+  "category": "Mental health",
+  "myth": "If you relate to ADHD videos on TikTok, you probably have ADHD.",
+  "rating": "misleading",
+  "fact": "Many ADHD traits, such as getting distracted, losing things or procrastinating, are common in everyone from time to time. ADHD is diagnosed when these difficulties are persistent, started in childhood and cause real problems across different parts of life, which needs a proper assessment.",
+  "explanation": "Social media has helped many people recognise ADHD and seek help, which can be valuable. But short videos often describe general human experiences, and symptoms like poor concentration can also come from anxiety, depression, poor sleep, thyroid problems or stress. If these difficulties are affecting your life, talking to a GP about an assessment is a better next step than self-diagnosing.",
+  "keywords": [
+   "adhd tiktok",
+   "self diagnose adhd",
+   "do i have adhd",
+   "adhd test online",
+   "adhd symptoms",
+   "relatable adhd",
+   "adult adhd signs",
+   "adhd social media"
+  ],
+  "sources": [
+   {
+    "label": "NIMH — Attention-deficit/hyperactivity disorder (ADHD)",
+    "url": "https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd"
+   },
+   {
+    "label": "NHS — ADHD in adults",
+    "url": "https://www.nhs.uk/conditions/adhd-adults/"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -4683,6 +6443,62 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "mild-allergic-reaction-next-also-mild",
+  "category": "Allergies & asthma",
+  "myth": "If your last allergic reaction to a food was mild, the next one will be mild too.",
+  "rating": "false",
+  "fact": "The severity of past reactions does not reliably predict future ones. Someone who has had only mild reactions can still go on to have anaphylaxis, especially with allergies such as peanuts, tree nuts and shellfish.",
+  "explanation": "Things like the amount eaten, exercise, alcohol, illness and asthma can make a reaction worse. Anyone with a diagnosed food allergy should follow their allergy action plan and carry any prescribed adrenaline auto-injectors.",
+  "keywords": [
+   "allergic reaction severity",
+   "mild allergy",
+   "next reaction worse",
+   "food allergy",
+   "peanut allergy",
+   "allergy getting worse",
+   "anaphylaxis risk"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Food allergy",
+    "url": "https://www.nhs.uk/conditions/food-allergy/"
+   },
+   {
+    "label": "NHS — Anaphylaxis",
+    "url": "https://www.nhs.uk/conditions/anaphylaxis/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "bad-morning-sickness-means-girl",
+  "category": "Pregnancy & fertility",
+  "myth": "If your morning sickness is really bad, you must be having a girl.",
+  "rating": "misleading",
+  "fact": "Some studies have found that very severe sickness in pregnancy (hyperemesis gravidarum) is slightly more common when the baby is a girl, but the difference is small. Many people with severe sickness have boys, so it cannot be used to predict the baby's sex.",
+  "explanation": "Pregnancy sickness is linked to pregnancy hormones and is also more common in twin pregnancies and in people who had it before. What matters more than the sex is getting help: if you cannot keep food or fluids down, see a GP or midwife, as severe vomiting can be treated.",
+  "keywords": [
+   "morning sickness girl",
+   "severe morning sickness",
+   "hyperemesis",
+   "hyperemesis gravidarum",
+   "sick in pregnancy",
+   "boy or girl",
+   "baby gender"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Vomiting and morning sickness",
+    "url": "https://www.nhs.uk/pregnancy/common-symptoms/vomiting-and-morning-sickness/"
+   },
+   {
+    "label": "NHS — Severe vomiting in pregnancy",
+    "url": "https://www.nhs.uk/pregnancy/complications/severe-vomiting/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "no-pain-no-dentist",
   "category": "Teeth & mouth",
   "myth": "If your teeth don't hurt, you don't need to see a dentist.",
@@ -4706,6 +6522,30 @@
    {
     "label": "CDC — Oral health",
     "url": "https://www.cdc.gov/oral-health/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "go-to-sleep-on-side-late-pregnancy",
+  "category": "Pregnancy & fertility",
+  "myth": "In the last three months of pregnancy, going to sleep on your side is safer for the baby than going to sleep on your back.",
+  "rating": "true",
+  "fact": "Research has found that going to sleep on your back after 28 weeks of pregnancy is linked with a higher risk of stillbirth. Health services advise settling down to sleep on your side, either left or right, from 28 weeks, for daytime naps as well as at night.",
+  "explanation": "Lying on your back late in pregnancy can press on major blood vessels and may reduce blood flow to the baby. If you wake up on your back, there is no need to worry; just turn onto your side. Pillows behind your back can help you stay on your side.",
+  "keywords": [
+   "sleep on side",
+   "sleeping position pregnancy",
+   "sleep on back pregnancy",
+   "stillbirth",
+   "third trimester sleep",
+   "left side sleeping",
+   "28 weeks"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Stillbirth",
+    "url": "https://www.nhs.uk/conditions/stillbirth/"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -4843,6 +6683,59 @@
    {
     "label": "WHO — Antimicrobial resistance",
     "url": "https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "babies-move-less-late-pregnancy",
+  "category": "Pregnancy & fertility",
+  "myth": "It's normal for babies to move less towards the end of pregnancy because they run out of room.",
+  "rating": "false",
+  "fact": "Babies should keep moving right up to and during labour. The type of movement may change as the baby grows, but a reduction or change in your baby's usual pattern of movements can be a sign the baby is unwell.",
+  "explanation": "If you think your baby is moving less, or the pattern has changed, contact your midwife or maternity unit straight away, day or night, rather than waiting until the next day. Do not use home heartbeat monitors to reassure yourself. Most people who get checked are told all is well, but some babies need extra care.",
+  "keywords": [
+   "reduced fetal movements",
+   "baby moving less",
+   "baby kicks",
+   "less movement",
+   "run out of room",
+   "baby movements",
+   "kick counts",
+   "third trimester"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Your baby's movements",
+    "url": "https://www.nhs.uk/pregnancy/keeping-well/your-babys-movements/"
+   },
+   {
+    "label": "NHS — Stillbirth",
+    "url": "https://www.nhs.uk/conditions/stillbirth/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "dozing-with-baby-on-sofa-safe",
+  "category": "Children's health",
+  "myth": "It's safe to doze off with your baby on the sofa or in an armchair as long as you're holding them.",
+  "rating": "false",
+  "fact": "Falling asleep with a baby on a sofa or armchair greatly increases the risk of sudden infant death syndrome (SIDS) and suffocation. If you think you might fall asleep, put the baby down on their back in a cot or Moses basket.",
+  "explanation": "Babies can slip into gaps between cushions or under an adult's body. The risk is higher if the adult has been drinking, smokes or has taken medicines that cause drowsiness. Night feeds can be exhausting; planning a safe place to put the baby down helps.",
+  "keywords": [
+   "sofa sleeping baby",
+   "armchair baby",
+   "falling asleep with baby",
+   "co-sleeping sofa",
+   "sids",
+   "cot death",
+   "holding sleeping baby"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Sudden infant death syndrome (SIDS)",
+    "url": "https://www.nhs.uk/baby/caring-for-a-newborn/sudden-infant-death-syndrome-sids/"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -5011,6 +6904,30 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "strength-training-stunts-childrens-growth",
+  "category": "Children's health",
+  "myth": "Lifting weights or doing strength training will stunt a child's growth.",
+  "rating": "false",
+  "fact": "There is no good evidence that properly supervised strength training stunts growth. The WHO recommends that children and teenagers include muscle- and bone-strengthening activities at least 3 days a week.",
+  "explanation": "Physical activity in childhood supports healthy bones and muscles. Injuries in young people lifting weights are mostly linked to poor technique, too-heavy loads or lack of supervision. Bodyweight exercises, climbing and play count as strengthening activity for younger children.",
+  "keywords": [
+   "weights stunt growth",
+   "kids lifting weights",
+   "strength training children",
+   "teen gym",
+   "growth plates",
+   "stunted growth",
+   "resistance training kids"
+  ],
+  "sources": [
+   {
+    "label": "WHO — Physical activity",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "weights-make-women-bulky",
   "category": "Exercise & fitness",
   "myth": "Lifting weights will make women bulky.",
@@ -5142,6 +7059,29 @@
    {
     "label": "MedlinePlus — Dietary fats",
     "url": "https://medlineplus.gov/dietaryfats.html"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "legs-up-after-sex-helps-conception",
+  "category": "Pregnancy & fertility",
+  "myth": "Lying with your legs up in the air after sex helps you get pregnant.",
+  "rating": "false",
+  "fact": "There is no good evidence that lying with your legs raised, or any particular sex position, makes pregnancy more likely. Sperm reach the cervix within minutes of ejaculation, whatever position you are in.",
+  "explanation": "What makes the biggest difference is having regular sex, every two to three days, throughout the cycle. Some semen leaking out afterwards is normal and does not reduce your chances. If you enjoy lying down for a while, it does no harm.",
+  "keywords": [
+   "legs up after sex",
+   "best position to conceive",
+   "sex position pregnancy",
+   "trying to conceive",
+   "get pregnant faster",
+   "semen leaking"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Trying to get pregnant",
+    "url": "https://www.nhs.uk/pregnancy/trying-for-a-baby/trying-to-get-pregnant/"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -5476,6 +7416,34 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "miscarriage-is-rare",
+  "category": "Pregnancy & fertility",
+  "myth": "Miscarriage is rare and usually happens because the mother did something wrong.",
+  "rating": "false",
+  "fact": "Miscarriage is common: about 1 in 8 known pregnancies ends in miscarriage, and many more happen before a person knows they are pregnant. Most early miscarriages are caused by chromosome problems in the baby and are not caused by anything the mother did.",
+  "explanation": "Normal activities such as work, exercise, sex or a fall or shock are not usually the cause. Having one miscarriage does not mean you will not have a successful pregnancy next time. If you have had three or more in a row, doctors may offer tests to look for a cause.",
+  "keywords": [
+   "miscarriage",
+   "pregnancy loss",
+   "how common is miscarriage",
+   "miscarriage cause",
+   "my fault",
+   "early pregnancy loss",
+   "1 in 8"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Miscarriage",
+    "url": "https://www.nhs.uk/conditions/miscarriage/"
+   },
+   {
+    "label": "ACOG — Early pregnancy loss",
+    "url": "https://www.acog.org/womens-health/faqs/early-pregnancy-loss"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "mobile-phones-cause-cancer",
   "category": "Cancer",
   "myth": "Mobile phones and 5G cause brain cancer.",
@@ -5615,6 +7583,30 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "reliever-inhaler-several-times-week-normal",
+  "category": "Allergies & asthma",
+  "myth": "Needing your blue reliever inhaler several times a week is normal if you have asthma.",
+  "rating": "false",
+  "fact": "When asthma is well controlled, most people rarely need their reliever inhaler. Needing it 3 or more times a week is a sign that asthma is not well controlled and should be reviewed by a doctor or asthma nurse.",
+  "explanation": "Often the answer is a regular preventer inhaler, a different treatment or a better inhaler technique. Relying on a reliever alone leaves the underlying inflammation untreated and raises the risk of a serious attack.",
+  "keywords": [
+   "blue inhaler",
+   "reliever inhaler",
+   "salbutamol",
+   "ventolin",
+   "using inhaler a lot",
+   "asthma control",
+   "how often inhaler"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Asthma",
+    "url": "https://www.nhs.uk/conditions/asthma/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "no-pain-no-gain",
   "category": "Exercise & fitness",
   "myth": "No pain, no gain: exercise only works if it hurts.",
@@ -5662,6 +7654,35 @@
    {
     "label": "NHLBI — Sleep deprivation and deficiency: health effects",
     "url": "https://www.nhlbi.nih.gov/health/sleep-deprivation/health-effects"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "numbing-gels-best-for-teething",
+  "category": "Children's health",
+  "myth": "Numbing gels from the pharmacy are the safest go-to for a teething baby.",
+  "rating": "misleading",
+  "fact": "Gels containing benzocaine or lidocaine offer little benefit for teething and have been linked to serious side effects in young children, including a rare blood disorder (methaemoglobinaemia) with benzocaine. The US FDA advises against using them for teething.",
+  "explanation": "Products sold for teething vary by country, so always check the ingredients and age guidance and ask a pharmacist. Homeopathic teething tablets are also not recommended. A chilled teething ring, gum massage and, if needed, infant paracetamol or ibuprofen at the right dose are the usual advice.",
+  "keywords": [
+   "teething gel",
+   "benzocaine",
+   "lidocaine",
+   "numbing gel",
+   "orajel baby",
+   "bonjela",
+   "teething tablets",
+   "teething medicine"
+  ],
+  "sources": [
+   {
+    "label": "FDA — Safely soothing teething pain in infants and children",
+    "url": "https://www.fda.gov/consumers/consumer-updates/safely-soothing-teething-pain-infants-and-children"
+   },
+   {
+    "label": "MedlinePlus — Teething",
+    "url": "https://medlineplus.gov/ency/article/002045.htm"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -5806,6 +7827,34 @@
    {
     "label": "NIMH — Psychotherapies",
     "url": "https://www.nimh.nih.gov/health/topics/psychotherapies"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "once-caesarean-always-caesarean",
+  "category": "Pregnancy & fertility",
+  "myth": "Once you've had a caesarean, all your future babies have to be born by caesarean.",
+  "rating": "false",
+  "fact": "Many people who have had a caesarean can safely have a vaginal birth next time, known as VBAC (vaginal birth after caesarean). Most of those who plan a VBAC give birth vaginally.",
+  "explanation": "Whether VBAC is a good option depends on the reason for the previous caesarean, the type of cut in the womb, how many caesareans you have had and your current pregnancy. There is a small risk of the scar opening during labour, so labour is monitored in hospital. Your midwife or obstetrician can help you weigh up the choices.",
+  "keywords": [
+   "vbac",
+   "vaginal birth after caesarean",
+   "c-section",
+   "caesarean",
+   "cesarean",
+   "repeat caesarean",
+   "natural birth after c-section"
+  ],
+  "sources": [
+   {
+    "label": "ACOG — Vaginal birth after cesarean delivery",
+    "url": "https://www.acog.org/womens-health/faqs/vaginal-birth-after-cesarean-delivery"
+   },
+   {
+    "label": "NHS — Caesarean section",
+    "url": "https://www.nhs.uk/tests-and-treatments/caesarean-section/"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -6000,6 +8049,34 @@
    {
     "label": "NHS — Mental health",
     "url": "https://www.nhs.uk/mental-health/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "only-trained-people-use-defibrillator",
+  "category": "First aid",
+  "myth": "Only trained medical staff should use a defibrillator, because you could shock someone who doesn't need it.",
+  "rating": "false",
+  "fact": "Public-access defibrillators (AEDs) are designed for anyone to use. They give spoken instructions and analyse the heart rhythm, delivering a shock only if it is needed.",
+  "explanation": "If someone collapses and is not breathing normally, call emergency services, start CPR and ask someone to fetch the nearest AED. Using an AED quickly, alongside CPR, greatly improves the chance of survival from cardiac arrest.",
+  "keywords": [
+   "defibrillator",
+   "aed",
+   "use defibrillator",
+   "cardiac arrest",
+   "shock heart",
+   "public defibrillator",
+   "untrained aed"
+  ],
+  "sources": [
+   {
+    "label": "American Red Cross — Using an AED",
+    "url": "https://www.redcross.org/take-a-class/aed/using-an-aed"
+   },
+   {
+    "label": "American Red Cross — CPR steps",
+    "url": "https://www.redcross.org/take-a-class/cpr/performing-cpr/cpr-steps"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -6228,6 +8305,34 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "peeing-washing-after-sex-prevents-pregnancy",
+  "category": "Pregnancy & fertility",
+  "myth": "Peeing, washing or douching straight after sex stops you getting pregnant.",
+  "rating": "false",
+  "fact": "None of these prevent pregnancy. Sperm can reach the cervix within minutes, urine comes out of a different opening (the urethra), and douching does not remove sperm that have already entered the womb.",
+  "explanation": "If you have had sex without contraception, or contraception failed, emergency contraception can prevent pregnancy if used soon enough. The copper IUD is the most effective option and works up to 5 days after sex. Peeing after sex may help reduce urine infections, but it is not contraception.",
+  "keywords": [
+   "pee after sex",
+   "washing after sex",
+   "douching after sex",
+   "prevent pregnancy",
+   "contraception myth",
+   "urinate after sex",
+   "jumping after sex"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Emergency contraception",
+    "url": "https://www.nhs.uk/contraception/emergency-contraception/"
+   },
+   {
+    "label": "WHO — Family planning/contraception methods",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/family-planning-contraception"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "left-brain-right-brain-people",
   "category": "Ageing & brain",
   "myth": "People are either left-brained (logical) or right-brained (creative).",
@@ -6302,6 +8407,34 @@
    {
     "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
     "label": "WHO — Vaccines and immunization: what is vaccination?"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "self-harm-attention-seeking",
+  "category": "Mental health",
+  "myth": "People who self-harm are just seeking attention.",
+  "rating": "false",
+  "fact": "Self-harm is usually a way of coping with overwhelming emotions, distress or trauma, and many people who self-harm hide it. It is a sign that someone needs support, not something to dismiss.",
+  "explanation": "Responding calmly and without judgement makes it easier for someone to open up. If you are self-harming, or worried about someone who is, please talk to a GP, a trusted person or a mental health helpline. If someone is seriously injured or at immediate risk, call emergency services.",
+  "keywords": [
+   "self harm",
+   "self-harm",
+   "cutting",
+   "attention seeking",
+   "self injury",
+   "why people self harm",
+   "hurting yourself"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Self-harm",
+    "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/self-harm/"
+   },
+   {
+    "label": "NIMH — Suicide prevention",
+    "url": "https://www.nimh.nih.gov/health/topics/suicide-prevention"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -6587,6 +8720,82 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "postnatal-depression-just-baby-blues",
+  "category": "Mental health",
+  "myth": "Postnatal depression is just the 'baby blues' and goes away on its own.",
+  "rating": "false",
+  "fact": "The baby blues, with tearfulness and low mood, are common in the first two weeks after birth and usually pass. Postnatal depression lasts longer, can start any time in the first year, and is a real illness that usually needs support and treatment.",
+  "explanation": "Signs include persistent sadness, loss of interest, difficulty bonding with the baby, and frightening thoughts. Partners can be affected too. Having postnatal depression does not mean someone is a bad parent. Speak to a midwife, health visitor or GP; if anyone has thoughts of harming themselves or the baby, get urgent help.",
+  "keywords": [
+   "postnatal depression",
+   "postpartum depression",
+   "baby blues",
+   "pnd",
+   "depression after birth",
+   "new mum depression",
+   "perinatal depression"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Postnatal depression",
+    "url": "https://www.nhs.uk/mental-health/conditions/postnatal-depression/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "vaccines-unsafe-in-pregnancy",
+  "category": "Pregnancy & fertility",
+  "myth": "Pregnant women should avoid all vaccines because they could harm the baby.",
+  "rating": "false",
+  "fact": "Some vaccines are specifically recommended in pregnancy, including whooping cough (pertussis), flu and, in many countries, RSV and COVID-19 vaccines. They protect the mother and pass antibodies to the baby, protecting it in the first weeks of life before it can be vaccinated.",
+  "explanation": "These vaccines have been given to very large numbers of pregnant people and are closely monitored for safety. Live vaccines, such as MMR, are usually avoided in pregnancy as a precaution, which is why it helps to check your vaccinations before trying to conceive. Your midwife or GP can tell you which vaccines are due and when.",
+  "keywords": [
+   "vaccines in pregnancy",
+   "whooping cough vaccine",
+   "flu jab pregnant",
+   "rsv vaccine pregnancy",
+   "pertussis",
+   "vaccinated while pregnant",
+   "pregnancy jabs"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Vaccinations in pregnancy",
+    "url": "https://www.nhs.uk/pregnancy/keeping-well/vaccinations/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "prick-fingers-to-treat-stroke",
+  "category": "First aid",
+  "myth": "Pricking a stroke victim's fingertips or earlobes with a needle to let out blood can save them.",
+  "rating": "false",
+  "fact": "There is no evidence that bloodletting from the fingers or ears helps someone having a stroke. The only effective first aid is to call emergency services immediately so the person can get hospital treatment quickly.",
+  "explanation": "This advice has circulated for years in chain messages. Strokes caused by a clot can sometimes be treated with clot-busting medicines or a procedure to remove the clot, but only within hours, so every minute matters. Don't give the person anything to eat or drink while waiting for help.",
+  "keywords": [
+   "prick fingers stroke",
+   "needle stroke",
+   "bloodletting stroke",
+   "stroke first aid",
+   "earlobe stroke",
+   "whatsapp stroke",
+   "stroke home remedy"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Stroke symptoms",
+    "url": "https://www.nhs.uk/conditions/stroke/symptoms/"
+   },
+   {
+    "label": "American Red Cross — Stroke",
+    "url": "https://www.redcross.org/take-a-class/resources/learn-first-aid/stroke"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "probiotic-supplements-help-everyone",
   "category": "Supplements",
   "myth": "Probiotic supplements improve everyone's health.",
@@ -6610,6 +8819,54 @@
    {
     "label": "NIH ODS — Probiotics",
     "url": "https://ods.od.nih.gov/factsheets/Probiotics-Consumer/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "heat-on-fresh-sprain",
+  "category": "First aid",
+  "myth": "Put a hot water bottle or heat pad on a fresh sprain to help it heal.",
+  "rating": "false",
+  "fact": "For the first few days after a sprain or strain, health services advise rest, ice (wrapped in a towel), compression and raising the injured area. Heat, along with alcohol, running and massage, should be avoided early on because it can increase swelling.",
+  "explanation": "After the first few days, gentle movement helps recovery. See a doctor if you can't put weight on the injury, if it looks deformed, or if the pain and swelling do not start to improve.",
+  "keywords": [
+   "sprain",
+   "sprained ankle",
+   "heat or ice",
+   "rice",
+   "strain",
+   "twisted ankle",
+   "hot water bottle sprain"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Sprains and strains",
+    "url": "https://www.nhs.uk/conditions/sprains-and-strains/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "raw-steak-on-black-eye",
+  "category": "First aid",
+  "myth": "Put a raw steak on a black eye.",
+  "rating": "false",
+  "fact": "A black eye is best treated with a cold compress, such as an ice pack or a bag of frozen peas wrapped in a towel, held gently on the area for a few minutes at a time. Raw meat is not recommended, as it can carry bacteria that may cause infection.",
+  "explanation": "The cold reduces swelling, and any cold object would do the same job as the steak once did. Get urgent help if there are vision changes, blood in the eye, severe pain, or a head injury with vomiting or drowsiness.",
+  "keywords": [
+   "black eye",
+   "raw steak",
+   "steak on eye",
+   "bruised eye",
+   "shiner",
+   "swollen eye",
+   "black eye treatment"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Black eye",
+    "url": "https://www.nhs.uk/conditions/black-eye/"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -6671,6 +8928,58 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "sunlight-treats-newborn-jaundice",
+  "category": "Children's health",
+  "myth": "Putting a jaundiced newborn in direct sunlight by a window will cure the jaundice.",
+  "rating": "false",
+  "fact": "Newborn jaundice that needs treatment is treated with phototherapy: special blue lights used in a controlled setting with the baby's temperature and eyes protected. Direct sunlight is not a safe or reliable treatment and can cause sunburn or overheating.",
+  "explanation": "Mild jaundice is common in the first week and often clears on its own with good feeding. Jaundice in the first 24 hours of life, a very yellow or drowsy baby, pale poo or jaundice lasting more than 2 weeks needs to be checked by a midwife or doctor. A simple blood test shows whether treatment is needed.",
+  "keywords": [
+   "newborn jaundice",
+   "jaundice sunlight",
+   "yellow baby",
+   "phototherapy",
+   "bilirubin",
+   "baby in window",
+   "neonatal jaundice"
+  ],
+  "sources": [
+   {
+    "label": "MedlinePlus — Newborn jaundice",
+    "url": "https://medlineplus.gov/ency/article/001559.htm"
+   },
+   {
+    "label": "NHS — Jaundice in babies",
+    "url": "https://www.nhs.uk/conditions/jaundice-in-babies/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "baby-own-room-from-birth",
+  "category": "Children's health",
+  "myth": "Putting a newborn to sleep in their own room from the start is safest and teaches independence.",
+  "rating": "false",
+  "fact": "Health services advise that babies sleep in a cot or Moses basket in the same room as a parent or carer for at least the first 6 months, for day and night sleeps. This lowers the risk of sudden infant death syndrome (SIDS).",
+  "explanation": "Room-sharing is different from bed-sharing: the baby sleeps on their own separate surface next to you. Sleeping in a separate room in the early months has no proven benefit for independence. Talk to your health visitor if you have questions about safe sleep arrangements.",
+  "keywords": [
+   "own room",
+   "baby separate room",
+   "room sharing",
+   "nursery from birth",
+   "sids",
+   "cot death",
+   "where should baby sleep"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Sudden infant death syndrome (SIDS)",
+    "url": "https://www.nhs.uk/baby/caring-for-a-newborn/sudden-infant-death-syndrome-sids/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "aspirin-on-tooth-for-toothache",
   "category": "Teeth & mouth",
   "myth": "Putting an aspirin directly on a sore tooth helps toothache.",
@@ -6694,6 +9003,82 @@
    {
     "label": "NHS — Healthy teeth and gums",
     "url": "https://www.nhs.uk/live-well/healthy-teeth-and-gums/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "recovery-position-protects-airway",
+  "category": "First aid",
+  "myth": "Putting an unconscious person who is breathing on their side (the recovery position) helps keep their airway clear.",
+  "rating": "true",
+  "fact": "Placing an unresponsive person who is breathing normally on their side helps keep the airway open and lets vomit or fluid drain out of the mouth rather than being breathed in.",
+  "explanation": "Call emergency services and keep checking their breathing. If they stop breathing normally, roll them onto their back and start CPR. If you suspect a spinal injury, try to keep the head and neck in line when moving them.",
+  "keywords": [
+   "recovery position",
+   "unconscious breathing",
+   "put on side",
+   "airway",
+   "fainted person",
+   "unresponsive",
+   "first aid position"
+  ],
+  "sources": [
+   {
+    "label": "American Red Cross — Unresponsive and breathing person",
+    "url": "https://www.redcross.org/take-a-class/resources/learn-first-aid/unresponsive-and-breathing-person"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "coffee-powder-on-cuts",
+  "category": "First aid",
+  "myth": "Putting coffee powder, turmeric or ash on a cut stops the bleeding and prevents infection.",
+  "rating": "false",
+  "fact": "The recommended way to stop bleeding is to press firmly on the wound with a clean cloth or dressing and, if possible, raise it. Powders and household substances are not sterile and can make infection more likely and wound cleaning harder.",
+  "explanation": "Once bleeding stops, rinse the cut under clean running water and cover it with a plaster or dressing. Seek medical help if bleeding is heavy or won't stop, the cut is deep or gaping, or there is something stuck in it.",
+  "keywords": [
+   "coffee on cut",
+   "turmeric on wound",
+   "stop bleeding",
+   "home remedy cut",
+   "ash on wound",
+   "powder on wound",
+   "cut first aid"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Cuts and grazes",
+    "url": "https://www.nhs.uk/conditions/cuts-and-grazes/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "ice-on-burns",
+  "category": "First aid",
+  "myth": "Putting ice on a burn is the best way to cool it down.",
+  "rating": "false",
+  "fact": "Ice, iced water and very cold packs can damage the skin further. Burns should be cooled with cool or lukewarm running water for 20 minutes as soon as possible.",
+  "explanation": "After cooling, keep the person warm so they don't get too cold, remove jewellery or clothing near the burn unless it is stuck, and cover the burn loosely with cling film or a clean plastic bag. Large, deep or facial burns, chemical or electrical burns, and burns in babies and young children need medical help.",
+  "keywords": [
+   "ice on burn",
+   "burn first aid",
+   "ice pack burn",
+   "cold water burn",
+   "iced water burn",
+   "how to treat a burn",
+   "frozen peas burn"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Burns and scalds",
+    "url": "https://www.nhs.uk/conditions/burns-and-scalds/"
+   },
+   {
+    "label": "American Red Cross — Burns",
+    "url": "https://www.redcross.org/take-a-class/resources/learn-first-aid/burns"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -6868,6 +9253,61 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "rub-frostbite-with-snow",
+  "category": "First aid",
+  "myth": "Rub frostbitten fingers or toes with snow to warm them up.",
+  "rating": "false",
+  "fact": "Rubbing frostbitten skin, with snow or anything else, can cause more damage. Frostbitten areas should be warmed gently, for example in warm (not hot) water, and only when there is no risk of them refreezing.",
+  "explanation": "Don't use direct heat such as a fire or heater, as numb skin burns easily. Frostbite needs medical assessment, and the person may also have hypothermia. Remove wet clothing and keep them warm while getting help.",
+  "keywords": [
+   "frostbite",
+   "rub with snow",
+   "frozen fingers",
+   "frostnip",
+   "warm frostbite",
+   "cold injury"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Frostbite",
+    "url": "https://www.nhs.uk/conditions/frostbite/"
+   },
+   {
+    "label": "American Red Cross — Frostbite",
+    "url": "https://www.redcross.org/take-a-class/resources/learn-first-aid/frostbite"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "whisky-on-gums-teething",
+  "category": "Children's health",
+  "myth": "Rubbing a little whisky or brandy on a baby's gums is a good teething remedy.",
+  "rating": "false",
+  "fact": "Alcohol should never be put on a baby's gums or given to a baby. Babies are very sensitive to alcohol, and even small amounts can be harmful; health guidance specifically says not to rub alcohol on a child's gums.",
+  "explanation": "This remedy was common in past generations in many countries. Safer options include a clean, chilled teething ring, gently rubbing the gums with a clean finger, and age-appropriate infant painkillers if your baby seems in pain. Avoid aspirin and teething powders.",
+  "keywords": [
+   "whisky gums",
+   "brandy teething",
+   "alcohol on gums",
+   "teething remedy",
+   "old teething remedy",
+   "rum on gums",
+   "teething pain"
+  ],
+  "sources": [
+   {
+    "label": "MedlinePlus — Teething",
+    "url": "https://medlineplus.gov/ency/article/002045.htm"
+   },
+   {
+    "label": "NHS — Tips for helping your teething baby",
+    "url": "https://www.nhs.uk/baby/babys-development/teething/tips-for-helping-your-teething-baby/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "creams-prevent-stretch-marks",
   "category": "Pregnancy & fertility",
   "myth": "Rubbing in cocoa butter or special creams prevents stretch marks in pregnancy.",
@@ -6916,6 +9356,34 @@
    {
     "label": "Harvard Health Publishing",
     "url": "https://www.health.harvard.edu/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "schizophrenia-split-personality",
+  "category": "Mental health",
+  "myth": "Schizophrenia means having a split or multiple personality.",
+  "rating": "false",
+  "fact": "Schizophrenia is a serious mental illness that can cause psychosis, such as hearing voices or holding false beliefs, along with reduced motivation and difficulties with thinking. It does not involve multiple personalities, which is a different and rare condition.",
+  "explanation": "The confusion comes from the name, which roughly means 'split mind'. With treatment, including medicine, talking therapy and social support, many people with schizophrenia manage their symptoms and lead fulfilling lives. Early help gives the best outcome.",
+  "keywords": [
+   "schizophrenia",
+   "split personality",
+   "multiple personality",
+   "schizophrenic",
+   "dissociative identity",
+   "psychosis",
+   "hearing voices schizophrenia"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Schizophrenia",
+    "url": "https://www.nhs.uk/mental-health/conditions/schizophrenia/overview/"
+   },
+   {
+    "label": "NIMH — Schizophrenia",
+    "url": "https://www.nimh.nih.gov/health/topics/schizophrenia"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -7113,6 +9581,29 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "slow-breathing-eases-anxiety",
+  "category": "Mental health",
+  "myth": "Slow breathing exercises can help calm feelings of stress and anxiety.",
+  "rating": "mostly-true",
+  "fact": "Health services recommend simple breathing exercises, such as breathing in slowly through the nose and out through the mouth, as a way to ease stress, anxiety and panic in the moment.",
+  "explanation": "Breathing techniques are a helpful tool, but they are not a cure for an anxiety disorder. If anxiety is frequent or affects daily life, talking therapies and other treatments can help, and a GP is a good first step.",
+  "keywords": [
+   "breathing exercises",
+   "breathing for anxiety",
+   "calm down breathing",
+   "box breathing",
+   "deep breathing stress",
+   "panic breathing"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Breathing exercises for stress",
+    "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "smoking-causes-many-cancers",
   "category": "Cancer",
   "myth": "Smoking causes many types of cancer, not just lung cancer.",
@@ -7199,6 +9690,29 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "stand-up-during-anaphylaxis",
+  "category": "Allergies & asthma",
+  "myth": "Someone having a severe allergic reaction should stand up or walk around to keep their blood flowing.",
+  "rating": "false",
+  "fact": "During anaphylaxis, blood pressure can drop suddenly, and standing or walking can make this worse. Health services advise lying the person down with their legs raised, or sitting them up if they are struggling to breathe, and not letting them stand up suddenly.",
+  "explanation": "If the person becomes unconscious, place them on their side in the recovery position, and if they stop breathing start CPR. Always use their adrenaline auto-injector if they have one and call emergency services.",
+  "keywords": [
+   "anaphylaxis position",
+   "allergic reaction lie down",
+   "stand up anaphylaxis",
+   "walk around allergy",
+   "legs raised",
+   "anaphylaxis first aid"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Anaphylaxis",
+    "url": "https://www.nhs.uk/conditions/anaphylaxis/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "outdoor-time-protects-against-myopia",
   "category": "Eyes & vision",
   "myth": "Spending time outdoors helps protect children from becoming short-sighted.",
@@ -7253,6 +9767,29 @@
    {
     "label": "NIDDK — Peptic ulcers (stomach ulcers)",
     "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/peptic-ulcers-stomach-ulcers"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "st-johns-wort-safe-natural-antidepressant",
+  "category": "Mental health",
+  "myth": "St John's wort is a safe, natural antidepressant you can take with anything.",
+  "rating": "misleading",
+  "fact": "Some studies suggest St John's wort may help mild to moderate depression, but it interacts with many medicines, including the contraceptive pill, blood thinners, some heart and HIV medicines and other antidepressants, and can make them less effective or cause harmful effects.",
+  "explanation": "Products also vary in strength. Taking it with prescribed antidepressants can cause a dangerous reaction called serotonin syndrome. Talk to a doctor or pharmacist before trying it, and see a GP if low mood lasts more than a couple of weeks.",
+  "keywords": [
+   "st johns wort",
+   "st john's wort",
+   "natural antidepressant",
+   "herbal depression",
+   "hypericum",
+   "herbal remedy depression"
+  ],
+  "sources": [
+   {
+    "label": "NCCIH — St. John's wort",
+    "url": "https://www.nccih.nih.gov/health/st-johns-wort"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -7481,6 +10018,30 @@
    {
     "label": "Harvard Health Publishing",
     "url": "https://www.health.harvard.edu/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "suicide-happens-without-warning",
+  "category": "Mental health",
+  "myth": "Suicide happens without any warning, so there's nothing anyone can do.",
+  "rating": "false",
+  "fact": "Many people who die by suicide show warning signs beforehand, such as talking about wanting to die or being a burden, withdrawing from others, giving away possessions, or sudden changes in mood or behaviour. Suicide is often preventable, and reaching out can make a difference.",
+  "explanation": "Not every warning sign is obvious, and people who lose someone to suicide are not to blame. If you are worried about someone, ask them directly and listen without judgement. If you are having thoughts of suicide yourself, please contact a crisis line, a GP or emergency services; you do not have to cope alone.",
+  "keywords": [
+   "suicide warning signs",
+   "suicide prevention",
+   "suicidal",
+   "signs of suicide",
+   "can suicide be prevented",
+   "worried about someone",
+   "crisis help"
+  ],
+  "sources": [
+   {
+    "label": "NIMH — Suicide prevention",
+    "url": "https://www.nimh.nih.gov/health/topics/suicide-prevention"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -7722,6 +10283,34 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "paracetamol-pregnancy-causes-autism",
+  "category": "Pregnancy & fertility",
+  "myth": "Taking paracetamol (Tylenol, acetaminophen) during pregnancy causes autism.",
+  "rating": "false",
+  "fact": "Research has not shown that paracetamol in pregnancy causes autism. The WHO has said there is no conclusive evidence of a link and that no consistent association has been established, and paracetamol remains the usual first-choice painkiller in pregnancy.",
+  "explanation": "Some studies have reported associations, but these can be explained by other factors, such as the illness the medicine was taken for; large studies comparing siblings did not find a link. As with any medicine in pregnancy, use the lowest effective dose for the shortest time. High fever in pregnancy carries its own risks, so do not avoid treatment out of fear; ask a midwife, pharmacist or doctor.",
+  "keywords": [
+   "paracetamol pregnancy",
+   "tylenol autism",
+   "acetaminophen autism",
+   "painkillers pregnancy",
+   "autism cause",
+   "tylenol pregnancy",
+   "fever in pregnancy"
+  ],
+  "sources": [
+   {
+    "label": "WHO — Statement on autism-related issues (September 2025)",
+    "url": "https://www.who.int/news/item/24-09-2025-who-statement-on-autism-related-issues"
+   },
+   {
+    "label": "NHS — Paracetamol for adults",
+    "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "pill-causes-infertility",
   "category": "Pregnancy & fertility",
   "myth": "Taking the contraceptive pill for years makes you infertile.",
@@ -7773,6 +10362,34 @@
    {
     "label": "NHS — Common cold",
     "url": "https://www.nhs.uk/conditions/common-cold/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "talking-therapies-work",
+  "category": "Mental health",
+  "myth": "Talking therapies such as CBT can be an effective treatment for depression and anxiety.",
+  "rating": "true",
+  "fact": "Talking therapies, including cognitive behavioural therapy (CBT), are recommended treatments for common mental health problems such as depression and anxiety disorders. For mild to moderate depression they are often offered before, or alongside, medicine.",
+  "explanation": "Therapy is not 'just chatting': it is a structured treatment that teaches practical ways to manage thoughts, feelings and behaviours. In some areas, such as England, you can refer yourself to NHS talking therapy services without seeing a GP first.",
+  "keywords": [
+   "cbt",
+   "talking therapy",
+   "cognitive behavioural therapy",
+   "counselling",
+   "therapy works",
+   "psychotherapy",
+   "therapy for anxiety"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Talking therapies",
+    "url": "https://www.nhs.uk/tests-and-treatments/talking-therapies/"
+   },
+   {
+    "label": "NIMH — Depression",
+    "url": "https://www.nimh.nih.gov/health/topics/depression"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -7862,6 +10479,34 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "teething-causes-diarrhoea",
+  "category": "Children's health",
+  "myth": "Teething causes diarrhoea and nappy rash.",
+  "rating": "misleading",
+  "fact": "Teething can cause sore gums, dribbling, chewing and some fussiness, but there is little evidence that it causes diarrhoea. Diarrhoea in a teething baby is more likely to have another cause, such as a tummy bug.",
+  "explanation": "Teething happens over many months at the same age that babies start putting everything in their mouths and catching common infections, so the two often overlap. Blaming teething can mean missing signs of illness. Babies with diarrhoea can become dehydrated quickly; seek advice if they have fewer wet nappies, are drowsy or are not feeding.",
+  "keywords": [
+   "teething diarrhoea",
+   "teething diarrhea",
+   "teething poo",
+   "teething nappy rash",
+   "teething symptoms",
+   "baby diarrhoea",
+   "teething runny poo"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Baby teething symptoms",
+    "url": "https://www.nhs.uk/baby/babys-development/teething/baby-teething-symptoms/"
+   },
+   {
+    "label": "MedlinePlus — Teething",
+    "url": "https://medlineplus.gov/ency/article/002045.htm"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "testicular-cancer-older-men",
   "category": "Men's health",
   "myth": "Testicular cancer only affects older men.",
@@ -7885,6 +10530,54 @@
    {
     "label": "National Cancer Institute — Testicular cancer",
     "url": "https://www.cancer.gov/types/testicular"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "burn-or-smother-ticks",
+  "category": "First aid",
+  "myth": "The best way to remove a tick is to burn it with a match or smother it with Vaseline or nail polish.",
+  "rating": "false",
+  "fact": "Ticks should be removed as soon as possible with fine-tipped tweezers or a tick-removal tool, grasping the tick close to the skin and pulling upwards slowly and steadily. Afterwards, clean the bite and wash your hands.",
+  "explanation": "Burning or smothering a tick takes time and may cause it to release more fluid into the bite, which could raise the risk of infections such as Lyme disease. Watch the area for a spreading circular red rash or flu-like symptoms over the following weeks and see a doctor if they appear.",
+  "keywords": [
+   "tick removal",
+   "remove tick",
+   "burn tick",
+   "vaseline tick",
+   "tick bite",
+   "lyme disease",
+   "nail polish tick"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Lyme disease",
+    "url": "https://www.nhs.uk/conditions/lyme-disease/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "chinese-calendar-predicts-baby-sex",
+  "category": "Pregnancy & fertility",
+  "myth": "The Chinese gender calendar can predict or help you choose your baby's sex.",
+  "rating": "false",
+  "fact": "There is no evidence that a chart based on the mother's age and the month of conception can predict or influence a baby's sex. Whether a baby is a boy or a girl depends on whether the sperm that fertilises the egg carries an X or a Y chromosome.",
+  "explanation": "Because there are only two likely outcomes, the calendar will be 'right' about half the time, which makes it feel accurate. Studies that checked such charts against real births found they did no better than chance. A scan in mid-pregnancy is the usual way to find out.",
+  "keywords": [
+   "chinese gender calendar",
+   "chinese calendar",
+   "gender chart",
+   "choose baby sex",
+   "boy or girl",
+   "baby gender prediction",
+   "conception chart"
+  ],
+  "sources": [
+   {
+    "label": "NHS — 20-week screening scan",
+    "url": "https://www.nhs.uk/pregnancy/your-pregnancy-care/20-week-scan/"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -8170,6 +10863,54 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "only-sex-on-ovulation-day",
+  "category": "Pregnancy & fertility",
+  "myth": "To get pregnant you only need to have sex on the day you ovulate, and ovulation always happens on day 14.",
+  "rating": "false",
+  "fact": "The fertile window covers several days before ovulation as well as the day itself, because sperm can survive for up to about 5 days. Ovulation does not always happen on day 14; it varies between people and from cycle to cycle.",
+  "explanation": "Trying to time sex to one exact day can add stress and miss the best days. Health services suggest having sex every two to three days throughout the cycle. Ovulation kits and apps can help some people, but they are not essential.",
+  "keywords": [
+   "ovulation day",
+   "day 14",
+   "fertile window",
+   "when to have sex",
+   "timing sex",
+   "ovulation calculator",
+   "trying to conceive"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Trying to get pregnant",
+    "url": "https://www.nhs.uk/pregnancy/trying-for-a-baby/trying-to-get-pregnant/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "touching-baby-soft-spot-dangerous",
+  "category": "Children's health",
+  "myth": "Touching or washing a baby's soft spot can damage their brain.",
+  "rating": "false",
+  "fact": "A baby's soft spots (fontanelles) are covered by a tough membrane that protects the brain. Gently touching them, washing the head or brushing the hair will not cause harm.",
+  "explanation": "The soft spots let the skull grow with the brain and close over the first couple of years. A soft spot that looks sunken can be a sign of dehydration, and one that is bulging while the baby is calm can be a sign of a serious problem, so seek medical advice urgently if you notice either.",
+  "keywords": [
+   "soft spot",
+   "fontanelle",
+   "fontanel",
+   "baby head",
+   "washing baby head",
+   "touch soft spot",
+   "bulging fontanelle"
+  ],
+  "sources": [
+   {
+    "label": "MedlinePlus — Fontanelles: bulging",
+    "url": "https://medlineplus.gov/ency/article/003310.htm"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "turmeric-cures-disease",
   "category": "Supplements",
   "myth": "Turmeric or curcumin cures inflammation, arthritis and cancer.",
@@ -8304,6 +11045,30 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "pregnancy-ultrasound-harms-baby",
+  "category": "Pregnancy & fertility",
+  "myth": "Ultrasound scans in pregnancy can harm the baby.",
+  "rating": "false",
+  "fact": "Ultrasound uses sound waves, not radiation, and there are no known risks to the baby or mother from routine pregnancy scans. They are used to check the baby's development and to look for some health conditions.",
+  "explanation": "Health services recommend scans done for medical reasons by trained staff. Some professional bodies discourage 'keepsake' scans that are long or repeated without a medical purpose, as a precaution. Ask your midwife if you have questions about what a scan can show.",
+  "keywords": [
+   "ultrasound safe",
+   "scan harm baby",
+   "pregnancy scan",
+   "ultrasound radiation",
+   "dating scan",
+   "anomaly scan",
+   "sonogram"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Ultrasound scans in pregnancy",
+    "url": "https://www.nhs.uk/pregnancy/your-pregnancy-care/ultrasound-scans/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "hearing-loss-dementia-link",
   "category": "Ageing & brain",
   "myth": "Untreated hearing loss is linked to a higher risk of dementia.",
@@ -8327,6 +11092,31 @@
    {
     "label": "National Institute on Aging — Health information",
     "url": "https://www.nia.nih.gov/health"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "decongestant-spray-rebound",
+  "category": "Allergies & asthma",
+  "myth": "Using a decongestant nasal spray for weeks can make your blocked nose worse.",
+  "rating": "true",
+  "fact": "Decongestant nasal sprays should only be used for a short time, usually no more than 5 to 7 days. Using them for longer can cause rebound congestion, where the nose becomes more blocked when the spray wears off.",
+  "explanation": "This is different from steroid nasal sprays, which are designed for longer-term use in conditions such as hay fever. If you find you can't stop using a decongestant spray, a pharmacist or GP can advise on how to come off it and on treating the underlying cause.",
+  "keywords": [
+   "nasal spray",
+   "decongestant spray",
+   "rebound congestion",
+   "otrivine",
+   "oxymetazoline",
+   "xylometazoline",
+   "blocked nose spray",
+   "nasal spray addiction"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Decongestants",
+    "url": "https://www.nhs.uk/medicines/decongestants/"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -9082,6 +11872,33 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "small-breasts-cannot-breastfeed",
+  "category": "Pregnancy & fertility",
+  "myth": "Women with small breasts can't make enough milk to breastfeed.",
+  "rating": "false",
+  "fact": "Breast size mostly reflects the amount of fatty tissue, not the milk-producing tissue, so it does not determine how much milk you can make. Milk supply depends mainly on how often and how effectively the baby feeds.",
+  "explanation": "Feeding responsively, with a good latch, tells the body to make more milk. A small number of people do have medical reasons for low supply, so if your baby is not gaining weight or has few wet nappies, ask a midwife, health visitor or breastfeeding specialist for help.",
+  "keywords": [
+   "small breasts",
+   "breast size breastfeeding",
+   "not enough milk",
+   "milk supply",
+   "low milk supply",
+   "can't breastfeed"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Breastfeeding: the first few days",
+    "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding/the-first-few-days/"
+   },
+   {
+    "label": "NHS — Breastfeeding problems",
+    "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-problems/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "back-pain-needs-scan",
   "category": "Bones & joints",
   "myth": "You always need an X-ray or MRI scan for back pain.",
@@ -9160,6 +11977,34 @@
    {
     "label": "WHO — Diabetes",
     "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "panic-attack-can-kill-you",
+  "category": "Mental health",
+  "myth": "You can die from a panic attack.",
+  "rating": "false",
+  "fact": "Panic attacks can feel terrifying, with a racing heart, chest tightness, breathlessness and a feeling of doom, but they are not dangerous in themselves and pass, usually within 5 to 20 minutes.",
+  "explanation": "Because symptoms can resemble a heart attack, anyone with chest pain they have not had checked before, or who is unsure, should get urgent medical help. Repeated panic attacks are treatable with talking therapies such as cognitive behavioural therapy and sometimes medicine.",
+  "keywords": [
+   "panic attack",
+   "die from panic attack",
+   "panic attack heart attack",
+   "panic disorder",
+   "anxiety attack",
+   "racing heart anxiety",
+   "panic attack dangerous"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Panic disorder",
+    "url": "https://www.nhs.uk/mental-health/conditions/panic-disorder/"
+   },
+   {
+    "label": "NIMH — Anxiety disorders",
+    "url": "https://www.nimh.nih.gov/health/topics/anxiety-disorders"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -9244,6 +12089,30 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "only-rusty-nails-cause-tetanus",
+  "category": "First aid",
+  "myth": "You can only get tetanus from a rusty nail.",
+  "rating": "false",
+  "fact": "Tetanus is caused by bacteria that live in soil and manure, not by rust. They can get into any wound, including cuts, puncture wounds, burns and animal bites, especially if the wound is dirty.",
+  "explanation": "Rusty nails got the reputation because they are often dirty and cause deep puncture wounds. The tetanus vaccine is the best protection. If you have a dirty or deep wound and are not sure you're fully vaccinated, get medical advice promptly.",
+  "keywords": [
+   "tetanus",
+   "rusty nail",
+   "lockjaw",
+   "tetanus shot",
+   "puncture wound",
+   "dirty wound",
+   "tetanus jab"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Tetanus",
+    "url": "https://www.nhs.uk/conditions/tetanus/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "stop-antibiotics-when-feeling-better",
   "category": "Medicines & antibiotics",
   "myth": "You can stop taking antibiotics as soon as you feel better.",
@@ -9266,6 +12135,58 @@
    {
     "label": "CDC — Antibiotic use",
     "url": "https://www.cdc.gov/antibiotic-use/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "stop-antidepressants-when-better",
+  "category": "Mental health",
+  "myth": "You can stop taking antidepressants suddenly as soon as you feel better.",
+  "rating": "false",
+  "fact": "Stopping antidepressants suddenly can cause withdrawal (discontinuation) symptoms such as dizziness, anxiety, irritability and flu-like feelings, and raises the chance of depression returning. Doctors usually advise continuing for at least several months after feeling better and then reducing the dose gradually.",
+  "explanation": "Withdrawal symptoms are not the same as addiction, but they can be unpleasant and sometimes long-lasting. Planning when and how to stop with your doctor makes it safer. If symptoms return or you feel unwell while reducing, tell your doctor.",
+  "keywords": [
+   "stop antidepressants",
+   "coming off antidepressants",
+   "antidepressant withdrawal",
+   "discontinuation symptoms",
+   "taper",
+   "brain zaps",
+   "quit ssri"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Antidepressants",
+    "url": "https://www.nhs.uk/medicines/antidepressants/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "eating-disorder-must-look-thin",
+  "category": "Mental health",
+  "myth": "You can tell someone has an eating disorder because they look very thin.",
+  "rating": "false",
+  "fact": "Most people with eating disorders are not underweight. Conditions such as bulimia, binge eating disorder and other eating disorders often occur at an average or higher weight, and people with anorexia may hide weight loss.",
+  "explanation": "Eating disorders are serious mental illnesses that can affect anyone, and they are best treated early. Signs can include strict dieting, secretive eating, making yourself sick, using laxatives, or excessive exercise. If you are worried about yourself or someone else, please talk to a GP or an eating disorder support service.",
+  "keywords": [
+   "eating disorder signs",
+   "anorexia",
+   "bulimia",
+   "binge eating",
+   "eating disorder weight",
+   "eating disorder look thin",
+   "atypical anorexia"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Eating disorders",
+    "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/eating-disorders/overview/"
+   },
+   {
+    "label": "NIMH — Eating disorders",
+    "url": "https://www.nimh.nih.gov/health/topics/eating-disorders"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -9345,6 +12266,30 @@
    {
     "label": "NIAID — Food allergy",
     "url": "https://www.niaid.nih.gov/diseases-conditions/food-allergy"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "no-cheese-in-pregnancy",
+  "category": "Pregnancy & fertility",
+  "myth": "You can't eat any cheese when you're pregnant.",
+  "rating": "false",
+  "fact": "Most cheese is safe in pregnancy, including all hard cheeses such as cheddar and pasteurised soft cheeses such as cottage cheese and mozzarella. The ones to avoid uncooked are mould-ripened soft cheeses (like brie and camembert), soft blue cheeses and unpasteurised soft cheeses, because they can carry listeria.",
+  "explanation": "Listeria infection is rare but can cause miscarriage or serious illness in a newborn. Cooking kills listeria, so dishes with these cheeses cooked until steaming hot are fine. Cheese is a useful source of calcium and protein in pregnancy.",
+  "keywords": [
+   "cheese pregnancy",
+   "brie pregnancy",
+   "soft cheese",
+   "blue cheese",
+   "listeria",
+   "feta pregnancy",
+   "unpasteurised cheese"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Foods to avoid in pregnancy",
+    "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -9481,6 +12426,34 @@
    {
     "label": "WHO — Ultraviolet radiation (fact sheet)",
     "url": "https://www.who.int/news-room/fact-sheets/detail/ultraviolet-radiation"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "get-rid-of-cat-when-pregnant",
+  "category": "Pregnancy & fertility",
+  "myth": "You have to get rid of your cat when you're pregnant.",
+  "rating": "misleading",
+  "fact": "Cat faeces can carry toxoplasmosis, an infection that can harm an unborn baby, but you do not need to give up your pet. Avoid emptying litter trays if possible (or wear gloves and wash your hands well), and wear gloves when gardening.",
+  "explanation": "Toxoplasmosis is also caught from eating raw or undercooked meat and unwashed fruit and vegetables, so food hygiene matters just as much. Most people who have had cats for a long time may already have been exposed. If you are worried you may have been infected, speak to a midwife or GP.",
+  "keywords": [
+   "cat pregnancy",
+   "cat litter",
+   "toxoplasmosis",
+   "pets pregnancy",
+   "litter tray",
+   "get rid of cat",
+   "cat poo"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Toxoplasmosis",
+    "url": "https://www.nhs.uk/conditions/toxoplasmosis/"
+   },
+   {
+    "label": "NHS — Foods to avoid in pregnancy",
+    "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/"
    }
   ],
   "lastReviewed": "Reviewed November 2026"
@@ -9866,6 +12839,113 @@
   "lastReviewed": "Reviewed November 2026"
  },
  {
+  "id": "hold-down-person-during-seizure",
+  "category": "First aid",
+  "myth": "You should hold someone down during a seizure to stop them hurting themselves.",
+  "rating": "false",
+  "fact": "Do not restrain someone having a seizure. Instead, move dangerous objects away, cushion their head, loosen anything tight around the neck, time the seizure, and once it stops place them on their side.",
+  "explanation": "Holding someone down can cause injuries to them or to you, and it will not stop the seizure. Call emergency services if the seizure lasts more than 5 minutes, if one seizure follows another, if the person is injured, or if it is their first seizure.",
+  "keywords": [
+   "seizure first aid",
+   "hold down seizure",
+   "restrain fit",
+   "epilepsy",
+   "fit",
+   "convulsion",
+   "what to do seizure"
+  ],
+  "sources": [
+   {
+    "label": "American Red Cross — Seizures",
+    "url": "https://www.redcross.org/take-a-class/resources/learn-first-aid/seizures"
+   },
+   {
+    "label": "NHS — Epilepsy",
+    "url": "https://www.nhs.uk/conditions/epilepsy/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "pop-burn-blisters",
+  "category": "First aid",
+  "myth": "You should pop the blisters from a burn so it heals faster.",
+  "rating": "false",
+  "fact": "Burn blisters should be left alone. The blister protects the damaged skin underneath, and bursting it increases the risk of infection.",
+  "explanation": "Keep the area clean and covered with a non-stick dressing. If a blister bursts on its own, gently clean it and cover it. Signs of infection, such as increasing pain, redness, swelling, pus or a high temperature, need medical attention.",
+  "keywords": [
+   "burn blister",
+   "pop blister",
+   "burst blister",
+   "blister from burn",
+   "burn healing",
+   "scald blister"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Burns and scalds",
+    "url": "https://www.nhs.uk/conditions/burns-and-scalds/"
+   },
+   {
+    "label": "American Academy of Dermatology — How to treat a first-degree, minor burn",
+    "url": "https://www.aad.org/public/everyday-care/injured-skin/burns/treat-minor-burns"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "cold-sponge-for-child-fever",
+  "category": "Children's health",
+  "myth": "You should sponge a feverish child with cold water or put them in a cold bath to bring the temperature down.",
+  "rating": "false",
+  "fact": "Health services advise not to sponge a child with cold water or give a cold bath to reduce a fever. It can make them shiver and feel worse, and it does not treat the cause.",
+  "explanation": "A fever is the body's normal response to infection. Keep the child comfortable in light clothing, offer plenty of fluids and, if they are distressed, give a suitable dose of children's paracetamol or ibuprofen. Never use alcohol rubs. Seek urgent help for a baby under 3 months with a temperature of 38°C or more, or for signs such as a rash that does not fade, floppiness or difficulty breathing.",
+  "keywords": [
+   "cold bath fever",
+   "sponge fever",
+   "tepid sponging",
+   "cool child fever",
+   "bring down temperature",
+   "fever in children",
+   "cold water fever"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Fever in children",
+    "url": "https://www.nhs.uk/symptoms/fever-in-children/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "no-fish-in-pregnancy",
+  "category": "Pregnancy & fertility",
+  "myth": "You should stop eating fish when you're pregnant because of mercury.",
+  "rating": "false",
+  "fact": "Fish is a good source of protein and nutrients that help the baby develop, and eating fish in pregnancy is recommended. Only certain fish are limited: avoid shark, swordfish and marlin, and limit oily fish and tuna to the amounts your health service advises.",
+  "explanation": "The concern about mercury applies to large predatory fish, not to fish in general. UK advice, for example, is up to two portions of oily fish a week and to avoid raw shellfish. Cooked fish such as salmon, cod and sardines are good choices.",
+  "keywords": [
+   "fish pregnancy",
+   "mercury",
+   "tuna pregnancy",
+   "oily fish",
+   "salmon pregnancy",
+   "seafood pregnancy",
+   "shark swordfish"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Foods to avoid in pregnancy",
+    "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/"
+   },
+   {
+    "label": "NHS — Have a healthy diet in pregnancy",
+    "url": "https://www.nhs.uk/pregnancy/keeping-well/have-a-healthy-diet/"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
   "id": "no-exercise-in-pregnancy",
   "category": "Pregnancy & fertility",
   "myth": "You should stop exercising when you're pregnant.",
@@ -9894,6 +12974,31 @@
    {
     "label": "WHO — Physical activity (fact sheet)",
     "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
+   }
+  ],
+  "lastReviewed": "Reviewed November 2026"
+ },
+ {
+  "id": "wait-before-using-adrenaline-pen",
+  "category": "Allergies & asthma",
+  "myth": "You should wait to see if a severe allergic reaction gets worse before using an adrenaline pen.",
+  "rating": "false",
+  "fact": "If anaphylaxis is suspected, the adrenaline auto-injector should be used straight away and emergency services called. If there is no improvement after about 5 minutes, a second auto-injector can be given if available.",
+  "explanation": "Anaphylaxis can get worse very quickly, and adrenaline works best when given early. Using it when it turns out not to be needed is much less risky than delaying it. Everyone prescribed an auto-injector, and those close to them, should learn how to use it and carry two at all times.",
+  "keywords": [
+   "epipen",
+   "adrenaline pen",
+   "auto injector",
+   "when to use epipen",
+   "jext",
+   "emerade",
+   "epinephrine",
+   "anaphylaxis treatment"
+  ],
+  "sources": [
+   {
+    "label": "NHS — Anaphylaxis",
+    "url": "https://www.nhs.uk/conditions/anaphylaxis/"
    }
   ],
   "lastReviewed": "Reviewed November 2026"

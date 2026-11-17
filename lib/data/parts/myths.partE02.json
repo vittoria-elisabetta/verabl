@@ -1,0 +1,596 @@
+[
+  {
+    "id": "amber-teething-necklace",
+    "category": "Children's health",
+    "myth": "Amber teething necklaces ease teething pain by releasing a natural painkiller.",
+    "rating": "false",
+    "fact": "There is no reliable evidence that amber necklaces or bracelets relieve teething pain. Regulators such as the US FDA warn against teething jewellery because babies can choke on the beads or be strangled by the cord.",
+    "explanation": "The claim is that skin warmth releases succinic acid from the amber, but this has not been shown to happen in a way that affects pain. Safer ways to soothe teething include a clean, chilled (not frozen) teething ring, rubbing the gums with a clean finger and, if needed, an age-appropriate dose of infant paracetamol or ibuprofen.",
+    "keywords": [
+      "amber necklace",
+      "amber teething necklace",
+      "teething jewellery",
+      "teething bracelet",
+      "baltic amber",
+      "succinic acid",
+      "teething pain",
+      "teething beads"
+    ],
+    "sources": [
+      {
+        "label": "FDA — Safely soothing teething pain in infants and children",
+        "url": "https://www.fda.gov/consumers/consumer-updates/safely-soothing-teething-pain-infants-and-children"
+      },
+      {
+        "label": "NHS — Tips for helping your teething baby",
+        "url": "https://www.nhs.uk/baby/babys-development/teething/tips-for-helping-your-teething-baby/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "teething-causes-diarrhoea",
+    "category": "Children's health",
+    "myth": "Teething causes diarrhoea and nappy rash.",
+    "rating": "false",
+    "fact": "Teething can cause sore gums, dribbling, chewing and some fussiness, but there is no evidence that it causes diarrhoea. Diarrhoea in a teething baby is more likely to have another cause, such as a tummy bug.",
+    "explanation": "Teething happens over many months at the same age that babies start putting everything in their mouths and catching common infections, so the two often overlap. Blaming teething can mean missing signs of illness. Babies with diarrhoea can become dehydrated quickly; seek advice if they have fewer wet nappies, are drowsy or are not feeding.",
+    "keywords": [
+      "teething diarrhoea",
+      "teething diarrhea",
+      "teething poo",
+      "teething nappy rash",
+      "teething symptoms",
+      "baby diarrhoea",
+      "teething runny poo"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Baby teething symptoms",
+        "url": "https://www.nhs.uk/baby/babys-development/teething/baby-teething-symptoms/"
+      },
+      {
+        "label": "MedlinePlus — Teething",
+        "url": "https://medlineplus.gov/ency/article/002045.htm"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "whisky-on-gums-teething",
+    "category": "Children's health",
+    "myth": "Rubbing a little whisky or brandy on a baby's gums is a good teething remedy.",
+    "rating": "false",
+    "fact": "Alcohol should never be put on a baby's gums or given to a baby. Babies are very sensitive to alcohol, and even small amounts can be harmful; health guidance specifically says not to rub alcohol on a child's gums.",
+    "explanation": "This remedy was common in past generations in many countries. Safer options include a clean, chilled teething ring, gently rubbing the gums with a clean finger, and age-appropriate infant painkillers if your baby seems in pain. Avoid aspirin and teething powders.",
+    "keywords": [
+      "whisky gums",
+      "brandy teething",
+      "alcohol on gums",
+      "teething remedy",
+      "old teething remedy",
+      "rum on gums",
+      "teething pain"
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus — Teething",
+        "url": "https://medlineplus.gov/ency/article/002045.htm"
+      },
+      {
+        "label": "NHS — Tips for helping your teething baby",
+        "url": "https://www.nhs.uk/baby/babys-development/teething/tips-for-helping-your-teething-baby/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "numbing-gels-best-for-teething",
+    "category": "Children's health",
+    "myth": "Numbing gels from the pharmacy are the safest go-to for a teething baby.",
+    "rating": "misleading",
+    "fact": "Gels containing benzocaine or lidocaine offer little benefit for teething and have been linked to serious side effects in young children, including a rare blood disorder (methaemoglobinaemia) with benzocaine. The US FDA advises against using them for teething.",
+    "explanation": "Products sold for teething vary by country, so always check the ingredients and age guidance and ask a pharmacist. Homeopathic teething tablets are also not recommended. A chilled teething ring, gum massage and, if needed, infant paracetamol or ibuprofen at the right dose are the usual advice.",
+    "keywords": [
+      "teething gel",
+      "benzocaine",
+      "lidocaine",
+      "numbing gel",
+      "orajel baby",
+      "bonjela",
+      "teething tablets",
+      "teething medicine"
+    ],
+    "sources": [
+      {
+        "label": "FDA — Safely soothing teething pain in infants and children",
+        "url": "https://www.fda.gov/consumers/consumer-updates/safely-soothing-teething-pain-infants-and-children"
+      },
+      {
+        "label": "MedlinePlus — Teething",
+        "url": "https://medlineplus.gov/ency/article/002045.htm"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "young-babies-need-water-in-heat",
+    "category": "Children's health",
+    "myth": "Babies under 6 months need extra water when the weather is hot.",
+    "rating": "misleading",
+    "fact": "Fully breastfed babies do not need any water until they start solid foods, even in hot weather; they may just want to feed more often. Formula-fed babies may be offered a little cooled boiled water in hot weather, as advised by health services.",
+    "explanation": "Giving young babies a lot of water can fill them up so they take less milk, and in rare cases can upset the balance of salts in the blood. Signs a baby may be dehydrated include fewer wet nappies, a dry mouth and a sunken soft spot; seek advice if you notice these.",
+    "keywords": [
+      "water for babies",
+      "baby water hot weather",
+      "newborn water",
+      "dehydration baby",
+      "breastfed baby water",
+      "formula baby water",
+      "heatwave baby"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Drinks and cups for babies and young children",
+        "url": "https://www.nhs.uk/baby/weaning-and-feeding/drinks-and-cups-for-babies-and-young-children/"
+      },
+      {
+        "label": "WHO — Infant and young child feeding",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "cot-bumpers-keep-baby-safe",
+    "category": "Children's health",
+    "myth": "Cot bumpers, pillows and soft toys make a baby's cot safer and cosier.",
+    "rating": "false",
+    "fact": "Safe sleep advice is to keep the cot clear: a firm, flat mattress with no bumpers, pillows, duvets or soft toys. Soft items raise the risk of suffocation and sudden infant death syndrome (SIDS).",
+    "explanation": "Babies can get their faces pressed against soft padding or become trapped. Place your baby on their back with their feet at the foot of the cot, and use a baby sleeping bag or firmly tucked-in blankets no higher than the shoulders. Babies do not need a pillow until well after their first birthday.",
+    "keywords": [
+      "cot bumpers",
+      "crib bumpers",
+      "pillow in cot",
+      "soft toys cot",
+      "safe sleep",
+      "sids",
+      "cot death",
+      "baby duvet"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Sudden infant death syndrome (SIDS)",
+        "url": "https://www.nhs.uk/baby/caring-for-a-newborn/sudden-infant-death-syndrome-sids/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "baby-own-room-from-birth",
+    "category": "Children's health",
+    "myth": "Putting a newborn to sleep in their own room from the start is safest and teaches independence.",
+    "rating": "false",
+    "fact": "Health services advise that babies sleep in a cot or Moses basket in the same room as a parent or carer for at least the first 6 months, for day and night sleeps. This lowers the risk of sudden infant death syndrome (SIDS).",
+    "explanation": "Room-sharing is different from bed-sharing: the baby sleeps on their own separate surface next to you. Sleeping in a separate room in the early months has no proven benefit for independence. Talk to your health visitor if you have questions about safe sleep arrangements.",
+    "keywords": [
+      "own room",
+      "baby separate room",
+      "room sharing",
+      "nursery from birth",
+      "sids",
+      "cot death",
+      "where should baby sleep"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Sudden infant death syndrome (SIDS)",
+        "url": "https://www.nhs.uk/baby/caring-for-a-newborn/sudden-infant-death-syndrome-sids/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "dozing-with-baby-on-sofa-safe",
+    "category": "Children's health",
+    "myth": "It's safe to doze off with your baby on the sofa or in an armchair as long as you're holding them.",
+    "rating": "false",
+    "fact": "Falling asleep with a baby on a sofa or armchair greatly increases the risk of sudden infant death syndrome (SIDS) and suffocation. If you think you might fall asleep, put the baby down on their back in a cot or Moses basket.",
+    "explanation": "Babies can slip into gaps between cushions or under an adult's body. The risk is higher if the adult has been drinking, smokes or has taken medicines that cause drowsiness. Night feeds can be exhausting; planning a safe place to put the baby down helps.",
+    "keywords": [
+      "sofa sleeping baby",
+      "armchair baby",
+      "falling asleep with baby",
+      "co-sleeping sofa",
+      "sids",
+      "cot death",
+      "holding sleeping baby"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Sudden infant death syndrome (SIDS)",
+        "url": "https://www.nhs.uk/baby/caring-for-a-newborn/sudden-infant-death-syndrome-sids/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "febrile-seizures-cause-brain-damage",
+    "category": "Children's health",
+    "myth": "A fever fit (febrile seizure) causes brain damage or means the child has epilepsy.",
+    "rating": "false",
+    "fact": "Febrile seizures are frightening to watch but are usually harmless. They do not cause brain damage, and most children who have them do not go on to develop epilepsy.",
+    "explanation": "They are fairly common in children aged about 6 months to 5 years and are triggered by a rising temperature. During a seizure, place the child on their side on a soft surface and do not put anything in their mouth. Call an ambulance for a first seizure, one lasting more than 5 minutes, or if the child has trouble breathing or does not recover.",
+    "keywords": [
+      "febrile seizure",
+      "fever fit",
+      "febrile convulsion",
+      "brain damage",
+      "epilepsy",
+      "child seizure fever",
+      "fit with temperature"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Febrile seizures",
+        "url": "https://www.nhs.uk/conditions/febrile-seizures/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "cold-sponge-for-child-fever",
+    "category": "Children's health",
+    "myth": "You should sponge a feverish child with cold water or put them in a cold bath to bring the temperature down.",
+    "rating": "false",
+    "fact": "Health services advise not to sponge a child with cold water or give a cold bath to reduce a fever. It can make them shiver and feel worse, and it does not treat the cause.",
+    "explanation": "A fever is the body's normal response to infection. Keep the child comfortable in light clothing, offer plenty of fluids and, if they are distressed, give a suitable dose of children's paracetamol or ibuprofen. Never use alcohol rubs. Seek urgent help for a baby under 3 months with a temperature of 38°C or more, or for signs such as a rash that does not fade, floppiness or difficulty breathing.",
+    "keywords": [
+      "cold bath fever",
+      "sponge fever",
+      "tepid sponging",
+      "cool child fever",
+      "bring down temperature",
+      "fever in children",
+      "cold water fever"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Fever in children",
+        "url": "https://www.nhs.uk/symptoms/fever-in-children/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "child-ear-infection-needs-antibiotics",
+    "category": "Children's health",
+    "myth": "A child with an ear infection always needs antibiotics.",
+    "rating": "false",
+    "fact": "Most ear infections get better on their own within about 3 days, and antibiotics are often not needed. Many are caused by viruses, which antibiotics do not treat.",
+    "explanation": "Pain relief such as children's paracetamol or ibuprofen helps while the infection clears. Doctors may prescribe antibiotics if symptoms last longer, the child is very young or unwell, or there is fluid coming from the ear. Seek advice if symptoms do not improve after 3 days or the child seems very unwell.",
+    "keywords": [
+      "ear infection",
+      "earache child",
+      "otitis media",
+      "ear infection antibiotics",
+      "child ear pain",
+      "ear infection baby"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Ear infections",
+        "url": "https://www.nhs.uk/conditions/ear-infections/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "flat-feet-children-special-shoes",
+    "category": "Children's health",
+    "myth": "Children with flat feet need special shoes or insoles to build their arches.",
+    "rating": "false",
+    "fact": "Flat feet are normal in babies and young children, and arches usually develop gradually through childhood. Special shoes or insoles are not needed if the child has no pain or problems walking.",
+    "explanation": "Some people keep flat feet as adults without any trouble. See a GP if your child has foot pain, stiff feet, walks unusually, or if only one foot is flat. Well-fitting ordinary shoes and plenty of active play are what children's feet need.",
+    "keywords": [
+      "flat feet",
+      "fallen arches",
+      "child flat feet",
+      "insoles children",
+      "orthopaedic shoes",
+      "arch support",
+      "kids feet"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Flat feet",
+        "url": "https://www.nhs.uk/conditions/flat-feet/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "solids-from-three-months",
+    "category": "Children's health",
+    "myth": "Babies need solid food from about 3 or 4 months because milk is no longer enough.",
+    "rating": "false",
+    "fact": "The WHO and NHS recommend starting solid foods at around 6 months. Until then, breast milk or infant formula provides all the nutrition a baby needs.",
+    "explanation": "By about 6 months most babies can sit up, hold their head steady and swallow food rather than pushing it out. Waking more at night or chewing fists are often taken as signs of hunger but are normal at this age. If you are thinking of starting earlier, for example for a premature baby, ask a health visitor or doctor.",
+    "keywords": [
+      "weaning",
+      "starting solids",
+      "4 months solids",
+      "3 months food",
+      "baby food",
+      "complementary feeding",
+      "baby led weaning"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Your baby's first solid foods",
+        "url": "https://www.nhs.uk/baby/weaning-and-feeding/babys-first-solid-foods/"
+      },
+      {
+        "label": "WHO — Infant and young child feeding",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "cows-milk-main-drink-before-one",
+    "category": "Children's health",
+    "myth": "Cow's milk can replace breast milk or formula as a baby's main drink before their first birthday.",
+    "rating": "false",
+    "fact": "Cow's milk should not be given as a main drink until a baby is 12 months old, because it does not contain enough iron and other nutrients for babies. Small amounts can be used in cooking or with food from around 6 months.",
+    "explanation": "Before 12 months, breast milk or first infant formula should be the main drink. After 12 months, whole (full-fat) cow's milk can be given as a drink. Other plant 'milks' are not suitable replacements for babies, and rice drinks should not be given to young children.",
+    "keywords": [
+      "cows milk baby",
+      "cow's milk before 1",
+      "whole milk baby",
+      "when to give milk",
+      "milk instead of formula",
+      "baby drinks",
+      "toddler milk"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Drinks and cups for babies and young children",
+        "url": "https://www.nhs.uk/baby/weaning-and-feeding/drinks-and-cups-for-babies-and-young-children/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "fruit-juice-healthy-for-toddlers",
+    "category": "Children's health",
+    "myth": "Fruit juice is a healthy everyday drink for babies and toddlers.",
+    "rating": "misleading",
+    "fact": "Fruit juice contains free sugars that can cause tooth decay, and it is not needed in a young child's diet. Babies under 12 months do not need juice at all; for older children, water and milk are the best everyday drinks.",
+    "explanation": "If juice is given to older children, health services suggest keeping it small, well diluted and with meals, which reduces harm to teeth. Whole fruit is better than juice because it contains fibre and is more filling. Avoid giving juice in bottles or at bedtime.",
+    "keywords": [
+      "fruit juice toddler",
+      "juice for babies",
+      "apple juice baby",
+      "sugary drinks children",
+      "juice tooth decay",
+      "orange juice kids",
+      "healthy drinks children"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Drinks and cups for babies and young children",
+        "url": "https://www.nhs.uk/baby/weaning-and-feeding/drinks-and-cups-for-babies-and-young-children/"
+      },
+      {
+        "label": "WHO — Sugars and dental caries",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/sugars-and-dental-caries"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "head-lice-dirty-hair",
+    "category": "Children's health",
+    "myth": "Head lice only affect children with dirty hair or poor hygiene.",
+    "rating": "false",
+    "fact": "Head lice have nothing to do with cleanliness. They spread by direct head-to-head contact, and anyone with hair can get them, whether it is clean or dirty.",
+    "explanation": "Head lice are common in school-age children because they play closely together. Lice cannot jump or fly, and they do not spread disease. Combing wet hair with a fine-toothed detection comb, or using a lotion or spray from a pharmacy, can treat them; children do not need to be kept off school.",
+    "keywords": [
+      "head lice",
+      "nits",
+      "dirty hair lice",
+      "lice hygiene",
+      "lice school",
+      "nit comb",
+      "lice treatment"
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus — Head lice",
+        "url": "https://medlineplus.gov/headlice.html"
+      },
+      {
+        "label": "NHS — Head lice and nits",
+        "url": "https://www.nhs.uk/conditions/head-lice-and-nits/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "worms-from-eating-sweets",
+    "category": "Children's health",
+    "myth": "Children get worms from eating too many sweets or sugar.",
+    "rating": "false",
+    "fact": "Sugar does not cause worms. Threadworms (pinworms), the most common worms in children in many countries, are caught by swallowing tiny eggs picked up on fingers, food or surfaces.",
+    "explanation": "The eggs are laid around the bottom at night, causing itching, and can be passed on when children scratch and then touch their mouths or other things. Treatment is a medicine from the pharmacy for the whole household, plus hand washing, short nails and washing bedding. Other kinds of worm infection are spread through contaminated soil, food or water, not sugar.",
+    "keywords": [
+      "worms",
+      "threadworms",
+      "pinworms",
+      "sweets cause worms",
+      "sugar worms",
+      "itchy bottom child",
+      "worm infection"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Threadworms",
+        "url": "https://www.nhs.uk/conditions/threadworms/"
+      },
+      {
+        "label": "MedlinePlus — Pinworms",
+        "url": "https://medlineplus.gov/pinworms.html"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "sunlight-treats-newborn-jaundice",
+    "category": "Children's health",
+    "myth": "Putting a jaundiced newborn in direct sunlight by a window will cure the jaundice.",
+    "rating": "false",
+    "fact": "Newborn jaundice that needs treatment is treated with phototherapy: special blue lights used in a controlled setting with the baby's temperature and eyes protected. Direct sunlight is not a safe or reliable treatment and can cause sunburn or overheating.",
+    "explanation": "Mild jaundice is common in the first week and often clears on its own with good feeding. Jaundice in the first 24 hours of life, a very yellow or drowsy baby, pale poo or jaundice lasting more than 2 weeks needs to be checked by a midwife or doctor. A simple blood test shows whether treatment is needed.",
+    "keywords": [
+      "newborn jaundice",
+      "jaundice sunlight",
+      "yellow baby",
+      "phototherapy",
+      "bilirubin",
+      "baby in window",
+      "neonatal jaundice"
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus — Newborn jaundice",
+        "url": "https://medlineplus.gov/ency/article/001559.htm"
+      },
+      {
+        "label": "NHS — Jaundice in babies",
+        "url": "https://www.nhs.uk/conditions/jaundice-in-babies/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "touching-baby-soft-spot-dangerous",
+    "category": "Children's health",
+    "myth": "Touching or washing a baby's soft spot can damage their brain.",
+    "rating": "false",
+    "fact": "A baby's soft spots (fontanelles) are covered by a tough membrane that protects the brain. Gently touching them, washing the head or brushing the hair will not cause harm.",
+    "explanation": "The soft spots let the skull grow with the brain and close over the first couple of years. A soft spot that looks sunken can be a sign of dehydration, and one that is bulging while the baby is calm can be a sign of a serious problem, so seek medical advice urgently if you notice either.",
+    "keywords": [
+      "soft spot",
+      "fontanelle",
+      "fontanel",
+      "baby head",
+      "washing baby head",
+      "touch soft spot",
+      "bulging fontanelle"
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus — Fontanelles: bulging",
+        "url": "https://medlineplus.gov/ency/article/003310.htm"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "strength-training-stunts-childrens-growth",
+    "category": "Children's health",
+    "myth": "Lifting weights or doing strength training will stunt a child's growth.",
+    "rating": "false",
+    "fact": "There is no good evidence that properly supervised strength training stunts growth. The WHO recommends that children and teenagers include muscle- and bone-strengthening activities at least 3 days a week.",
+    "explanation": "Physical activity in childhood supports healthy bones and muscles. Injuries in young people lifting weights are mostly linked to poor technique, too-heavy loads or lack of supervision. Bodyweight exercises, climbing and play count as strengthening activity for younger children.",
+    "keywords": [
+      "weights stunt growth",
+      "kids lifting weights",
+      "strength training children",
+      "teen gym",
+      "growth plates",
+      "stunted growth",
+      "resistance training kids"
+    ],
+    "sources": [
+      {
+        "label": "WHO — Physical activity",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "baby-videos-help-talking",
+    "category": "Children's health",
+    "myth": "Educational videos and apps help babies learn to talk faster.",
+    "rating": "false",
+    "fact": "Babies and toddlers learn language mainly through live, back-and-forth interaction with people, such as talking, reading and playing together. The WHO recommends no sedentary screen time for children under 2.",
+    "explanation": "Studies have found that very young children learn far less from screens than from real conversation. Occasional video calls with family are different, because they involve real interaction. Reading aloud, singing and talking about what you are doing all help language develop.",
+    "keywords": [
+      "baby videos",
+      "educational apps babies",
+      "screen time babies",
+      "toddler screen time",
+      "learn to talk",
+      "speech development",
+      "baby einstein"
+    ],
+    "sources": [
+      {
+        "label": "WHO — To grow up healthy, children need to sit less and play more",
+        "url": "https://www.who.int/news/item/24-04-2019-to-grow-up-healthy-children-need-to-sit-less-and-play-more"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "bedwetting-is-laziness",
+    "category": "Children's health",
+    "myth": "Children who wet the bed are being lazy or doing it on purpose.",
+    "rating": "false",
+    "fact": "Bedwetting is common in children and is not their fault. It usually happens because the body makes a lot of urine at night, the bladder is small or overactive, or the child does not wake when the bladder is full, and it often runs in families.",
+    "explanation": "Punishing or shaming a child does not help and can make things worse. Most children grow out of it, but help is available, including bedwetting alarms and medicines. See a GP if a child over 5 is wetting the bed often, or if bedwetting starts again after being dry for months.",
+    "keywords": [
+      "bedwetting",
+      "wetting the bed",
+      "nocturnal enuresis",
+      "lazy child",
+      "bedwetting alarm",
+      "night wetting",
+      "child wets bed"
+    ],
+    "sources": [
+      {
+        "label": "NHS — Bedwetting in children",
+        "url": "https://www.nhs.uk/symptoms/bedwetting/"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  },
+  {
+    "id": "shaking-baby-to-stop-crying-harmless",
+    "category": "Children's health",
+    "myth": "Briefly shaking a baby to stop them crying doesn't do any harm.",
+    "rating": "false",
+    "fact": "Shaking a baby, even for a few seconds, can cause bleeding and swelling in the brain, blindness, lasting disability or death. Babies' heads are heavy and their neck muscles weak, so the brain moves back and forth inside the skull.",
+    "explanation": "This is different from normal play: gentle bouncing or swinging does not cause these injuries. Constant crying can be overwhelming for any parent. If you feel frustrated, put the baby safely on their back in the cot, leave the room for a few minutes to calm down and ask someone for help.",
+    "keywords": [
+      "shaken baby",
+      "shaking baby",
+      "baby crying",
+      "abusive head trauma",
+      "frustrated parent",
+      "crying baby",
+      "shaken baby syndrome"
+    ],
+    "sources": [
+      {
+        "label": "MedlinePlus — Shaken baby syndrome",
+        "url": "https://medlineplus.gov/ency/article/007578.htm"
+      }
+    ],
+    "lastReviewed": "Reviewed November 2026"
+  }
+]
